@@ -1,0 +1,9 @@
+{
+  "updatedAt": "2026-09-30T00:00:00.000Z",
+  "relationships": [],
+  "evidenceLevels": {
+    "verified": "Primary filing, regulator record or company disclosure linked",
+    "reported": "Credible publisher report linked; not confirmed against a primary record",
+    "unverified": "User-entered or discovered lead without adequate linked evidence"
+  }
+}

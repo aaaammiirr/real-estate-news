@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-09-30T00:00:00.000Z",
+  "projects": [],
+  "reraAuthorities": [
+    {"city":"Bengaluru","authority":"Karnataka RERA","url":"https://rera.karnataka.gov.in/viewAllProjects","lookup":"Project search","coverage":"Bengaluru and Karnataka"},
+    {"city":"Hyderabad","authority":"Telangana RERA","url":"https://rerait.telangana.gov.in/SearchList/Search","lookup":"Project / promoter search; CAPTCHA may apply","coverage":"Hyderabad and Telangana"},
+    {"city":"Chennai","authority":"Tamil Nadu RERA","url":"https://rera.tn.gov.in/","lookup":"Project and promoter registers","coverage":"Chennai and Tamil Nadu"},
+    {"city":"Pune · Mumbai","authority":"MahaRERA","url":"https://maharera.maharashtra.gov.in/project-updates","lookup":"Project registration and progress updates","coverage":"Pune, Mumbai and Maharashtra"}
+  ]
+}
