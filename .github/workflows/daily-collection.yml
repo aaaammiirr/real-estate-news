@@ -1,0 +1,38 @@
+name: Daily public news collection
+
+on:
+  schedule:
+    - cron: '30 2 * * *' # 08:00 Asia/Kolkata
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Collect public news feeds
+        run: npm run collect
+      - name: Save today's edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "No data changes to save."
+          else
+            git commit -m "chore: update daily news edition"
+            git push
+          fi

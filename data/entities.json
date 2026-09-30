@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-09-30T00:00:00.000Z",
+  "entities": [
+    {"name":"Prestige Estates Projects","type":"Developer","city":"Bengaluru","aliases":["Prestige Estates","Prestige Group"]},
+    {"name":"Brigade Enterprises","type":"Developer","city":"All markets","aliases":["Brigade Group"]},
+    {"name":"Sobha Limited","type":"Developer","city":"Bengaluru","aliases":["Sobha"]},
+    {"name":"Godrej Properties","type":"Developer","city":"Mumbai","aliases":["Godrej Properties Ltd"]},
+    {"name":"Lodha Developers","type":"Developer","city":"Mumbai","aliases":["Macrotech Developers","Lodha"]},
+    {"name":"DLF Limited","type":"Developer","city":"All markets","aliases":["DLF"]},
+    {"name":"Oberoi Realty","type":"Developer","city":"Mumbai","aliases":[]},
+    {"name":"Phoenix Mills","type":"Developer","city":"Mumbai","aliases":["The Phoenix Mills"]},
+    {"name":"RMZ Corp","type":"Developer","city":"Bengaluru","aliases":["RMZ"]},
+    {"name":"Embassy Developments","type":"Developer","city":"Bengaluru","aliases":["Embassy Group","Embassy Office Parks"]},
+    {"name":"Sattva Group","type":"Developer","city":"Bengaluru","aliases":["Sattva"]},
+    {"name":"Puravankara Limited","type":"Developer","city":"Bengaluru","aliases":["Puravankara"]},
+    {"name":"Keystone Realtors","type":"Developer","city":"Mumbai","aliases":["Rustomjee"]},
+    {"name":"K Raheja Corp","type":"Developer","city":"Mumbai","aliases":["Raheja"]},
+    {"name":"My Home Group","type":"Developer","city":"Hyderabad","aliases":["My Home Constructions"]},
+    {"name":"Aparna Constructions","type":"Developer","city":"Hyderabad","aliases":["Aparna Group"]},
+    {"name":"Casagrand","type":"Developer","city":"Chennai","aliases":["Casagrand Builder"]},
+    {"name":"Kolte-Patil Developers","type":"Developer","city":"Pune","aliases":["Kolte Patil"]},
+    {"name":"Panchshil Realty","type":"Developer","city":"Pune","aliases":["Panchshil"]},
+    {"name":"HDFC Capital Advisors","type":"Real estate fund","city":"India","aliases":["HDFC Capital"]},
+    {"name":"Blackstone Real Estate","type":"Real estate fund","city":"India","aliases":["Blackstone"]},
+    {"name":"Nexus Select Trust","type":"REIT / listed trust","city":"India","aliases":["Nexus Select"]},
+    {"name":"Brookfield India Real Estate Trust","type":"REIT / listed trust","city":"India","aliases":["Brookfield India REIT"]},
+    {"name":"L&T Finance","type":"Lender","city":"India","aliases":["L&T Finance Holdings"]},
+    {"name":"Tata Capital","type":"Lender","city":"India","aliases":[]},
+    {"name":"Bajaj Housing Finance","type":"Lender","city":"India","aliases":[]},
+    {"name":"Samman Capital","type":"Lender","city":"India","aliases":["IndiaBulls Housing Finance"]}
+  ]
+}

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#101511" />
+  <meta name="description" content="Daily real estate developer, fund and lender intelligence across India's leading property markets." />
+  <title>Groundline — Real Estate Intelligence</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <a class="brand" href="#overview" aria-label="Groundline home"><span class="brand-mark">G</span><span>groundline<span class="brand-dot">.</span></span></a>
+      <div class="workspace-label">INTELLIGENCE DESK</div>
+      <nav class="nav" aria-label="Main navigation">
+        <button class="nav-item active" data-view="overview"><span class="nav-icon">◫</span> Daily brief <span class="nav-count" id="today-count">—</span></button>
+        <button class="nav-item" data-view="feed"><span class="nav-icon">◉</span> News & signals</button>
+        <button class="nav-item" data-view="companies"><span class="nav-icon">⌂</span> Entity explorer</button>
+        <button class="nav-item" data-view="coverage"><span class="nav-icon">▦</span> Source coverage</button>
+      </nav>
+      <div class="sidebar-rule"></div>
+      <div class="sidebar-heading">MARKETS</div>
+      <div class="market-list" id="market-list"></div>
+      <div class="sidebar-bottom"><span class="live-pulse"></span><span>Daily collection enabled</span><span class="sidebar-time">IST</span></div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar"><div class="breadcrumb">MARKET INTELLIGENCE <span>/</span> <b id="page-label">DAILY BRIEF</b></div><div class="top-actions"><span class="updated" id="updated-at">Checking latest edition…</span><button class="icon-button" id="refresh-btn" title="Refresh the dashboard">↻</button><button class="avatar" aria-label="Profile">A</button></div></header>
+
+      <section class="view active" id="view-overview">
+        <div class="hero-row"><div><div class="eyebrow"><span class="live-pulse"></span> INDIA · DAILY INTELLIGENCE</div><h1>Real estate,<br><em>in full view.</em></h1><p class="hero-copy">The companies moving the market. The capital behind them.<br>And the signals worth your attention.</p></div><div class="date-card"><div class="date-label">TODAY'S EDITION</div><div class="date-value" id="edition-date">—</div><div class="date-foot">Bengaluru · Hyderabad · Chennai<br>Pune · Mumbai</div></div></div>
+
+        <div class="filter-bar"><div class="filter-label">FOCUS</div><div class="city-pills" id="city-filters"></div><div class="filter-spacer"></div><select id="category-filter" aria-label="Filter by category"><option value="all">All categories</option></select></div>
+
+        <div class="metrics-grid">
+          <article class="metric-card metric-highlight"><div class="metric-label">NEW SIGNALS <span class="metric-dot"></span></div><div class="metric-value" id="metric-total">—</div><div class="metric-note">Coverage from the last 48 hours · refreshed daily</div></article>
+          <article class="metric-card"><div class="metric-label">PRIORITY WATCH</div><div class="metric-value" id="metric-priority">—</div><div class="metric-note">Funding, legal & project risk signals</div></article>
+          <article class="metric-card"><div class="metric-label">ENTITIES MENTIONED</div><div class="metric-value" id="metric-entities">—</div><div class="metric-note">Developers, funds, lenders & leaders</div></article>
+          <article class="metric-card"><div class="metric-label">CITIES IN SCOPE</div><div class="metric-value">05</div><div class="metric-note">Bengaluru · Hyderabad · Chennai · Pune · Mumbai</div></article>
+        </div>
+
+        <div class="section-head"><div><div class="eyebrow">THE MORNING READ</div><h2>What moved today</h2></div><button class="text-button" data-go="feed">Explore all signals <span>↗</span></button></div>
+        <div class="content-grid"><div class="story-list" id="lead-stories"></div><aside class="right-rail"><div class="rail-card"><div class="rail-top"><span class="eyebrow">ATTENTION REQUIRED</span><span class="rail-icon">!</span></div><h3>Risk & watchlist</h3><p>Funding stress, legal action, project pauses and other material developments.</p><div id="risk-list" class="risk-list"></div><button class="text-button" data-go="feed">Review all risk signals <span>↗</span></button></div><div class="rail-card mini-card"><div class="eyebrow">COVERAGE STATUS</div><div class="coverage-status"><span class="status-ring">✓</span><div><strong id="coverage-sources">—</strong><small>search streams checked</small></div></div><div class="coverage-progress"><span id="coverage-progress"></span></div><div class="coverage-caption" id="coverage-caption">Waiting for the first collection.</div></div></aside></div>
+      </section>
+
+      <section class="view" id="view-feed"><div class="view-title"><div class="eyebrow">THE SIGNAL STREAM</div><h1>News & <em>signals.</em></h1><p>Developments across the real estate ecosystem, with links back to original reporting.</p></div><div class="feed-tools"><label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="Search companies, people, projects, or topics…" /></label><select id="feed-tone"><option value="all">All coverage</option><option value="positive">Positive signals</option><option value="neutral">Neutral / updates</option><option value="negative">Risk & negative coverage</option></select><select id="feed-sort"><option value="newest">Newest first</option><option value="priority">Priority first</option></select></div><div class="feed-layout"><div class="story-list full-feed" id="all-stories"></div><aside class="feed-aside"><div class="rail-card"><div class="eyebrow">SIGNAL CATEGORIES</div><div id="category-breakdown" class="category-breakdown"></div></div><div class="source-note"><div class="eyebrow">HOW TO READ THIS</div><p>Each item links to its publisher. A risk label describes the language detected in coverage; it is not a finding of fact. Open the source before drawing conclusions.</p></div></aside></div></section>
+
+      <section class="view" id="view-companies"><div class="view-title"><div class="eyebrow">COMPANY & PEOPLE DOSSIER</div><h1>Know who’s <em>who.</em></h1><p>Choose a tracked developer to review company updates, projects, people and open-source coverage.</p></div><div class="entity-layout"><aside class="entity-picker"><div class="picker-head"><span class="eyebrow">TRACKED ENTITIES</span><span id="entity-count">0</span></div><label class="search-box compact"><span>⌕</span><input id="entity-search" type="search" placeholder="Find an entity…" /></label><div class="entity-list" id="entity-list"></div><button class="outline-button" id="add-entity">＋ Add entity to watchlist</button></aside><div class="entity-detail" id="entity-detail"><div class="empty-dossier"><div class="empty-icon">⌂</div><h2>Select a developer</h2><p>Entity dossiers combine company records, project announcements, news, leadership and promoter coverage as the directory grows.</p><a href="#coverage" class="text-button" data-go="coverage">See how sources are collected <span>↗</span></a></div></div></div></section>
+
+      <section class="view" id="view-coverage"><div class="view-title"><div class="eyebrow">TRANSPARENCY & LINEAGE</div><h1>Coverage, <em>accounted for.</em></h1><p>Daily collection is only as useful as its sources. See the search streams, scope and known limits.</p></div><div class="coverage-banner"><div class="coverage-banner-mark">◎</div><div><div class="eyebrow">PUBLIC WEB MONITORING</div><h2>Broad discovery. Traceable evidence.</h2><p>Daily searches surface accessible coverage; each result keeps a direct publisher link. The web is not a complete registry, and search indexing varies by publisher.</p></div></div><div class="section-head coverage-head"><div><div class="eyebrow">COLLECTION MAP</div><h2>What we look for</h2></div><span class="small-muted">Updated daily · Asia/Kolkata</span></div><div class="coverage-grid" id="coverage-grid"></div><div class="method-note"><strong>Important:</strong> This edition is based on public news search feeds. It does not yet query paid databases, private lender data, official court or RERA APIs, or company filings directly. Allegations and adverse reporting remain attributed to their publishers and should be checked against primary documents.</div></section>
+      <footer class="footer"><span>GROUNDLINE INTELLIGENCE</span><span>Built for a sharper view of the market.</span></footer>
+    </main>
+  </div>
+  <dialog id="entity-dialog"><form method="dialog" class="dialog-card"><button class="dialog-close" value="cancel" aria-label="Close">×</button><div class="eyebrow">ADD TO YOUR WATCHLIST</div><h2>Track an entity</h2><p>Add a company, fund, lender or person. Search terms are used to find public coverage and can be edited later.</p><label>Entity name<input id="new-name" required placeholder="e.g. Company or person's name" /></label><label>Entity type<select id="new-type"><option>Developer</option><option>Real estate fund</option><option>Lender</option><option>Promoter</option><option>Senior leader</option><option>Advisor / broker</option><option>Construction / materials</option><option>Other ecosystem entity</option></select></label><label>City or market<select id="new-city"><option value="All markets">All markets</option><option>Bengaluru</option><option>Hyderabad</option><option>Chennai</option><option>Pune</option><option>Mumbai</option></select></label><div class="dialog-actions"><button class="outline-button" value="cancel">Cancel</button><button class="primary-button" id="save-entity" value="default">Add to watchlist</button></div></form></dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
