@@ -53,7 +53,7 @@ function storyCard(item,compact=false){
   </article>`;
 }
 function filteredNews({forFeed=false,dailyOnly=false}={}){
-  let arr=(dailyOnly?state.dailyNews:state.news).filter(n=>(state.city==="All markets"||n.city===state.city||n.city==="India")&&(state.category==="all"||n.category===state.category));
+  let arr=(dailyOnly?state.dailyNews:state.news).filter(n=>(state.city==="All markets"||n.city===state.city)&&(state.category==="all"||n.category===state.category));
   if(forFeed){const q=$("#search-input")?.value.trim().toLowerCase()||"";if(q)arr=arr.filter(n=>[n.title,n.description,n.source,...(n.entities||[])].join(" ").toLowerCase().includes(q));if(state.tone!=="all")arr=arr.filter(n=>state.tone==="negative"?isRisk(n):n.tone===state.tone);if(state.sort==="priority")arr.sort((a,b)=>(isRisk(b)?1:0)-(isRisk(a)?1:0)||new Date(b.publishedAt)-new Date(a.publishedAt));else arr.sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));}
   return arr;
 }

@@ -1,6 +1,16 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 
 const cities = ['Bengaluru', 'Hyderabad', 'Chennai', 'Pune', 'Mumbai'];
+const cityTerms = {
+  Bengaluru: ['bengaluru', 'bangalore', 'whitefield', 'sarjapur', 'devanahalli', 'yelahanka', 'electronic city', 'hebbal', 'indiranagar', 'marathahalli'],
+  Hyderabad: ['hyderabad', 'gachibowli', 'kokapet', 'hitec city', 'hitec', 'miyapur', 'tellapur', 'shamshabad', 'narsingi'],
+  Chennai: ['chennai', 'madras', 'sholinganallur', 'tambaram', 'siruseri', 'guindy', 'porur'],
+  Pune: ['pune', 'pimpri', 'chinchwad', 'pcmc', 'hinjawadi', 'baner', 'wakad', 'kharadi', 'hadapsar', 'viman nagar'],
+  Mumbai: ['mumbai', 'bombay', 'navi mumbai', 'thane', 'mmrda', 'mira road', 'palghar', 'bkc', 'worli', 'bandra', 'lower parel', 'powai', 'borivali', 'andheri', 'goregaon', 'airoli', 'panvel', 'vasai', 'mulund', 'chembur', 'kharghar', 'nerul']
+};
+const outOfScopeCities = /\b(delhi|new delhi|ncr|gurgaon|gurugram|noida|greater noida|kolkata|calcutta|ahmedabad|surat|vadodara|jaipur|indore|nagpur|kochi|cochin|coimbatore|lucknow|chandigarh|goa|mangalore|mangaluru|bhubaneswar|patna|ranchi|bhopal|kanpur|agra|dehradun|visakhapatnam|vizag|vijayawada|thiruvananthapuram|trivandrum|mysore|mysuru)\b/i;
+const indiaTerms = /\b(india|indian|inr|rupees?|rbi|sebi|nclt|nclat|maharera|k-rera|tgrera|rera|bse|nse)\b|₹|\bcr(?:ore|s)?\b/i;
+const realEstateTerms = /\b(real estate|realty|property|properties|housing|developer|builder|residential|commercial property|commercial real estate|construction|apartment|project|land|mortgage|reit|rera|office space|office building|home buyer|homebuyer|villa|township|industrial park|warehousing|warehouse)\b/i;
 const cityTopics = [
   {key:'projects', label:'Projects & launches', query:'real estate developer project launch construction residential commercial RERA'},
   {key:'land', label:'Land & acquisitions', query:'real estate land acquisition purchase property developer'},
@@ -52,12 +62,30 @@ function inferEntities(text, entities) {
   const lower=text.toLowerCase();
   return entities.filter(e=>[e.name,...(e.aliases||[])].some(name=>name && lower.includes(name.toLowerCase()))).map(e=>e.name);
 }
+function cityMention(text, city) {
+  return (cityTerms[city]||[]).some(term=>new RegExp(`\\b${term.replace(/[.*+?^${}()|[\\]\\\\]/g,'\\$&')}\\b`,'i').test(text));
+}
+function scopedItem(item, entities) {
+  const text=`${item.title||''} ${item.description||''}`;
+  if(!realEstateTerms.test(text)||outOfScopeCities.test(text)) return false;
+  const matched=inferEntities(text,entities);
+  if(item.city==='India') {
+    return indiaTerms.test(text)||matched.length>0;
+  }
+  return cities.includes(item.city)&&(cityMention(text,item.city)||matched.some(name=>entities.find(e=>e.name===name)?.city===item.city));
+}
+function locateIndiaStory(item) {
+  if(item.city!=='India') return item;
+  const text=`${item.title||''} ${item.description||''}`;
+  const matches=cities.filter(city=>cityMention(text,city));
+  return matches.length===1?{...item,city:matches[0]}:item;
+}
 function stableId(url) {
   let h=2166136261; for (const ch of url) { h ^= ch.charCodeAt(0); h=Math.imul(h,16777619); }
   return (h>>>0).toString(16);
 }
 async function fetchStream(stream, entities) {
-  const q = encodeURIComponent(`${stream.query} ${stream.city==='India'?'India':stream.city} when:7d`);
+  const q = encodeURIComponent(`${stream.query} ${stream.city==='India'?'India':`\"${stream.city}\" India`} when:7d`);
   const url = `https://news.google.com/rss/search?q=${q}&hl=en-IN&gl=IN&ceid=IN:en`;
   try {
     const response = await fetch(url, {headers:{'user-agent':'Groundline public news monitor/1.0'}, signal:AbortSignal.timeout(18000)});
@@ -73,8 +101,8 @@ async function fetchStream(stream, entities) {
       const source=src?cleanHtml(decode(src[1])):'';
       const pub=tag(row,'pubDate'); const published=pub && !Number.isNaN(Date.parse(pub)) ? new Date(pub).toISOString() : null;
       const body=`${title} ${description}`; const tone=classifyTone(body);
-      return {id:stableId(link),title,url:link,description:description.slice(0,500),source:source||new URL(link).hostname.replace(/^www\./,''),publishedAt:published,city:stream.city,category:categories[stream.key],tone,priority:priority(body,tone),entities:inferEntities(body,entities),stream:stream.key};
-    }).filter(Boolean);
+      return locateIndiaStory({id:stableId(link),title,url:link,description:description.slice(0,500),source:source||new URL(link).hostname.replace(/^www\./,''),publishedAt:published,city:stream.city,category:categories[stream.key],tone,priority:priority(body,tone),entities:inferEntities(body,entities),stream:stream.key});
+    }).filter(item=>item&&scopedItem(item,entities));
     return {status:'ok', items};
   } catch(error) { return {status:'failed', items:[], error:String(error.message||error).slice(0,150)}; }
 }
@@ -94,7 +122,9 @@ const recentItems=items.filter(item=>item.publishedAt&&new Date(item.publishedAt
 let previous=[];
 try { const prior=JSON.parse(await readFile(new URL('../data/news.json',import.meta.url),'utf8')); previous=Array.isArray(prior.items)?prior.items:[]; } catch {}
 const retained=new Map();
-for(const item of [...previous,...items]) {
+for(const rawItem of [...previous,...items]) {
+  const item=locateIndiaStory(rawItem);
+  if(!scopedItem(item,entityDoc.entities||[])) continue;
   if(!item.publishedAt||new Date(item.publishedAt).getTime()<now-30*24*60*60*1000) continue;
   const old=retained.get(item.id); if(!old||((item.description||'').length>(old.description||'').length)) retained.set(item.id,item);
 }
