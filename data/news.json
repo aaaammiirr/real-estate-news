@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T15:55:29.687Z",
+  "generatedAt": "2026-10-01T09:15:16.669Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 49,
-  "todayCount": 10,
+  "itemCount": 53,
+  "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -156,12 +156,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,52 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 23
+      "items": 24
     }
   ],
   "todayItems": [
+    {
+      "id": "f8f93df",
+      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
+      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-09-30T23:25:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "ba1858c7",
+      "title": "Temasek-backed Mapletree mulls India REIT listing - klsescreener.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQck5kTVZCV2JSdEhDS0RqUjEtT19GSUtpLS1qR1lWdm5EMEJDa0JuSzU1aERPNGFBUVFLWDM5YmZLUUc1RFRFWDVLLWM1WTQ5WXktaTdmcmpfMlBLbXJhTEY1ODRwVGd5OURnMXRXLWdXTXVSLUdSRTZxT3RaR2lWY19ydU52NjV5aHVaX3dwemhyYlN6VEFGUnkySlJpY042?oc=5",
+      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; klsescreener.com",
+      "source": "klsescreener.com",
+      "publishedAt": "2026-09-30T23:10:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1ad7e309",
+      "title": "Temasek-backed Mapletree mulls India REIT listing - The Star",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFyMnVhU2ZGWmxwZTBsa01BUHFsRFZDREptT3FZZGpYTklab2k3Nkx4U2hCcHFxNVI2VjlFbmRBTUNfczdoWEpjMFpIVWl3c0JTaXYtZnRJSmdvQUh3YU9RWlUwVENPM1JMOVdpMmVkTC1EWVN0T0lXbzdWTk5WZUdKTDBUZFFaSFVxSTNwOWdMRUVQVDFqSjhyd2dIeUlOc0E2RmxMNkhROGltbXlN?oc=5",
+      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; The Star",
+      "source": "The Star",
+      "publishedAt": "2026-09-30T23:04:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "f7fe206b",
       "title": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines - Mingtiandi",
@@ -243,20 +285,6 @@
       "stream": "reit"
     },
     {
-      "id": "ad3486ac",
-      "title": "Temasek-backed Mapletree evaluates India office REIT listing — Bloomberg - The Edge Singapore",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3JKUFpRUkg0U1h3UVFHUDIxQlZ1cERaUVhpR2RVQ05zRnhuX3A3Sjl1SzM2VlRNMzZBZXFvdjE4NW9jWUx3ZGVmSWVLWlZIZWx6dC1MMkxYU3RWcTZZZFJzYTFjQnMzRjdxLS1Zb09Fa3ZkZXJrZ2Myd1J6bmNCXzhSRUV5UnBtOFFyLXJ0LS15Szl5c1pERHptT1RRYkhQN19fYi1Wbl9fZnpzMWVOUE15ZnQyUdIBuwFBVV95cUxNc1dRWVVuZU9xb2dfZHdTRzhtNW5vWkk4NmJOOUxPQTlzazJicThuU2RQbzB5VkNFSW9jeUhtR08wWnNWdFo3MEZpSkNIWVRQRTloaTRNM1V5eHRFcHZPTHBfdC1XNVZxSFA4LUYzN0daYVRMZEJlRjBZN2Z1QWZ5R2ZhZmU3T0dJTmdFSFV6RjZsRmVBR3hmRUROMzV2ek1fMjB2TEM3cmdIZDNFbFJzX1U2ekFDLVJITFpr?oc=5",
-      "description": "Temasek-backed Mapletree evaluates India office REIT listing — Bloomberg &nbsp;&nbsp; The Edge Singapore",
-      "source": "The Edge Singapore",
-      "publishedAt": "2026-09-30T02:41:33.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
       "id": "d2d296f3",
       "title": "Temasek-Backed Mapletree Evaluates India Office REIT Listing - bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlFzWk1OSndwRzk4dUs2RUhrakRFMS1qOVBUR0FLa29RMTd4ZlZmcUV0R2dyenZJWnJMdVAwTFJ4Qy1ieGJYS0xMcWtmS1duN0NFckdkWi1janJZdTNmd0laWElXNHM4elRIQ25KcUdaeVVuM0t5TWRUOUZ6UXhSNzE0dUFBVkJtN1NSWVBUb3drRFAxOEpaYS1BSmtjTzhEcTFQTUJlMS15V205SXhmRA?oc=5",
@@ -285,51 +313,51 @@
         "Embassy Developments"
       ],
       "stream": "reit"
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "1a6d140c",
-      "title": "Embassy REIT raises INR 1,000 crore through NCDs to refinance debt - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORVg3VUJMNm52ZmdWVU5PNXI1MXZxREtubjRtR1hHU2hwT21sVFlzQ011ZWVzaW00TXZTNmI5eWRxR1NqdzFkb1JGdGZYa2kyVUlHbWtIb0dza0xKVC1Ob2VZUTMyc0YyODhMb1lkcFNDN2ZRb0lnd1ZqWHF0UUlBNmFCLU5wS0hQTUYwTU50WnV1djh1M1ZRTEV4czd1RmM4UHFCNFpIclFFaGVUZDRwUnVjdlVhRmNkUVE?oc=5",
-      "description": "Embassy REIT raises INR 1,000 crore through NCDs to refinance debt &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-29T06:02:40.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "747d621f",
-      "title": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level - Construction Week India",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBtYURMdUx1Z2hoX1ZSMjRfajQySlRrQXQ0cl9hQ0wzX0NyYW8xQ2xsY2xZd21BV3Rma1haRVVGU1hHSHgtcG1lSmpIOVd6TGJJRlZjQU9UZjlVVGt6Wk5zaTEtOTdYY1FIQWZfLVdRNV9kUjN4NmwxMENBT21zVUtxVTZSQWpDTjByVmdyVk04OWQzdFp1WHdDVHFac3FIU00wbE85V0tjeVIxLUJpMkhxaUEtcWptNE1GUURn?oc=5",
-      "description": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level &nbsp;&nbsp; Construction Week India",
-      "source": "Construction Week India",
-      "publishedAt": "2026-09-29T03:07:59.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b220cb4",
-      "title": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 - therealtytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2pyMlhzMnlLWkhvTmpMUDRGblFiMV9WdEdzYkktNlg1LUx6UG9HaDlPMXNudzZTbmoxaXBDU0QtLWJaVmVQbDItSnhlek5HUjdvS3I0TGNNZkpGXzBLLUxYRVlheWhMVzVabkhBUXdaTmFuV1dRTXVyMjRKaWtlTU9hN3ZpYkRvbTVqNUp1TjJVUThiVy1YSTM4QlhjZ1kxQnJaWTd4aTdKX3BwWEt2WmVn?oc=5",
-      "description": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 &nbsp;&nbsp; therealtytoday.com",
-      "source": "therealtytoday.com",
-      "publishedAt": "2026-09-28T18:30:00.000Z",
+      "id": "f8f93df",
+      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
+      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-09-30T23:25:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "ba1858c7",
+      "title": "Temasek-backed Mapletree mulls India REIT listing - klsescreener.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQck5kTVZCV2JSdEhDS0RqUjEtT19GSUtpLS1qR1lWdm5EMEJDa0JuSzU1aERPNGFBUVFLWDM5YmZLUUc1RFRFWDVLLWM1WTQ5WXktaTdmcmpfMlBLbXJhTEY1ODRwVGd5OURnMXRXLWdXTXVSLUdSRTZxT3RaR2lWY19ydU52NjV5aHVaX3dwemhyYlN6VEFGUnkySlJpY042?oc=5",
+      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; klsescreener.com",
+      "source": "klsescreener.com",
+      "publishedAt": "2026-09-30T23:10:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1ad7e309",
+      "title": "Temasek-backed Mapletree mulls India REIT listing - The Star",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFyMnVhU2ZGWmxwZTBsa01BUHFsRFZDREptT3FZZGpYTklab2k3Nkx4U2hCcHFxNVI2VjlFbmRBTUNfczdoWEpjMFpIVWl3c0JTaXYtZnRJSmdvQUh3YU9RWlUwVENPM1JMOVdpMmVkTC1EWVN0T0lXbzdWTk5WZUdKTDBUZFFaSFVxSTNwOWdMRUVQVDFqSjhyd2dIeUlOc0E2RmxMNkhROGltbXlN?oc=5",
+      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; The Star",
+      "source": "The Star",
+      "publishedAt": "2026-09-30T23:04:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "f7fe206b",
       "title": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines - Mingtiandi",
@@ -511,11 +539,25 @@
       "stream": "funds"
     },
     {
+      "id": "93fd29e",
+      "title": "India realty capital inflows hit record USD 9.5 bn in Q3, more than double YoY: CBRE report - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckpJMDFyZmpud01ISXdDYU1acWs1R3VUNkxUclZzaU1IbUlpZ3REckRuYVR4VVMwWG1zZFlkUlAxaDRhc3BSSWpPTnZieV9pM1p3N0l4MUJPRTBUQmo0M2pSaTRCS2MySWxWOWV1ZGFBSnNmWTkxTDBFcEd4VkU0TFIwcmptMnpmdDVFcFkwbjNITXpnNkJRd0RVYkRXdUgyN3dRd0p1OTB1N3hsTFdHd0ZYeDZXcWRYbTlNNzVCczNKbHMzM3pHY0ZwZG9ZOFVrdGNzbkpR?oc=5",
+      "description": "India realty capital inflows hit record USD 9.5 bn in Q3, more than double YoY: CBRE report &nbsp;&nbsp; ANI News",
+      "source": "ANI News",
+      "publishedAt": "2026-09-28T11:49:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
       "id": "e4ce2181",
-      "title": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 - Trade Brains",
+      "title": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 - tradebrains.in",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZXp2clp0dVhVbVhWbFk5WlJyUE9TMDhETnRLMEJ5S00yTm5RdHlna1J6NFljeFlaenZWSXlvcDIxaEhyUi1jaU9WV1pvNE5XbHk3bEhwUm5GTE1PRFRXdjUtUE50dW8tSTZqMndieF9iV0N1MlNCT3BjN2RrZ216dURaeXVfcWlHUy1fNmxmUmY5dTMzcEdpWG5kWGxwVGdYYm9UQlZPSDZwQTBnWWJsbkxNWWhwZG8yZXZTYmp0ano3R2sxemc0dElGVVFzZ05zZUlIcnNVUmNNSmt3ZUMwUFhyeUo?oc=5",
-      "description": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 &nbsp;&nbsp; Trade Brains",
-      "source": "Trade Brains",
+      "description": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 &nbsp;&nbsp; tradebrains.in",
+      "source": "tradebrains.in",
       "publishedAt": "2026-09-28T09:42:27.000Z",
       "city": "Bengaluru",
       "category": "Land & acquisitions",
