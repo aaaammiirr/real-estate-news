@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2026-10-01T09:15:16.669Z",
+  "generatedAt": "2026-10-02T08:48:48.921Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 53,
-  "todayCount": 9,
+  "itemCount": 62,
+  "todayCount": 11,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
     {
       "label": "undefined · undefined",
       "status": "ok",
@@ -41,22 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -71,123 +176,78 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 24
+      "items": 21
     }
   ],
   "todayItems": [
     {
-      "id": "f8f93df",
-      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
-      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-09-30T23:25:00.000Z",
+      "id": "e709a2f",
+      "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUklZOHh6ZVdYVHZadVhvWFluaDBHclkyak5mSHhlTy1XSjhyUlZPbGY3eXBDdmhYVVU1SWFQXzNmQkF1akRQNkpkelZ1cWFlTHJkcVh3ZzBtVlRpQzRiYS1oM3NoM2UtNjdsbk9jUzNtUjVRMGJlSGxpbzYzWHR0VWZIajhtSDkwNjduMFZ3OW9NZGFtNTNXbVY5T2ktOE1GcE41Z3dpWW1ZNzZMdzNOWUxGc1p4TzNDUzZ5ZjN6TzdYLTRmNkJaXw?oc=5",
+      "description": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity &nbsp;&nbsp; Prittle Prattle News",
+      "source": "Prittle Prattle News",
+      "publishedAt": "2026-10-02T00:53:34.000Z",
+      "city": "Mumbai",
+      "category": "Company & leadership",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "companies"
+    },
+    {
+      "id": "a4b16400",
+      "title": "Mahindra Lifespaces launches residential project Rivenza in Pune - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTl6Z3M5N3R0ODF4MDg1bkx6YjJWWm10RTgxZmd6YmxncXU3ZVhPOHM5UFRTdW5jX3hZT2J0dWdyd0dpblJRejUwY3ZnRzIwTzl4OWRMQ253X19SdjdPVDVneFJPWTZfbC1GQVJyRHF2RWR5elE5Z3p3M3I3UmR1ZGNmcDk3bWNlM0FEdTZWa1BaVVl6dVQ2TXdQUXdRb3l0N3F1OU4tUGhESzVrWDliOVdZQ3k3Zi05TTMyWg?oc=5",
+      "description": "Mahindra Lifespaces launches residential project Rivenza in Pune &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-01T15:26:14.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "7f6bed3f",
+      "title": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUFqd0prcnV5TDVJVEFBTXFFQ09BYzRaVXo0d3Y3RnZHN3kxLUdHc2IxYkYtd2tZMi1EWDRvVzhWRkV5WHBmWmdERUs1ODZzMzl2eUxod2VJeEtjcTNwZnB6M1FLYTZnNU1kOUpOei1Mb0dhUW1TUUxta2J2Qi01UEtVd1d4dUlxVXZMMHJESnBhSW9pRDRNem5LOFFCMW9DbkZxVFphLTZzeDNVem92dldwWWw5NGo3b20tLW9aT0tpQXdkYXlKWms0d1Y2a0E?oc=5",
+      "description": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-01T15:21:00.000Z",
       "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "7bba4055",
+      "title": "Brookfield India REIT holds investor meetings on Q1FY27 updates - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZDY3U0Tkw4cUFrUmZHX3JWd2tsOENsLXVOWnVwTjZWV1NLeTM1NFF2dGJHX0xld2VlNFM3ZFhyRWVZRWRrZXNLSkliTzFwRW5wMGxFVzdhRy1meld3akY1RldWSF96VTVOYWNicFlITEFjVkhBU3ZOY0puUzNacTE1VzVMeG5qS2JpX1RMRlR6Y3o3TjRDWTdRTTJRaWdibkU3TE04QXFBdENYN0dIVDQwNjNlQXpN?oc=5",
+      "description": "Brookfield India REIT holds investor meetings on Q1FY27 updates &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-01T13:00:46.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "b869ffb4",
+      "title": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzhfcC1selgxLVh4RmptcF9DU1ctNlZsQWhuSEFOd1AzeW9JOTFBamZrOXBRZDRRd3ZyM0d0ZEM4SjgxWmp6RWY0WDc4R0YtTFRSa21zRHhCVmJ1b1g2bHU3aTV0U05rT1l2SlRfcEplZW8zeEZIOVZycWJrN2ZKblVkejJwODhMMjZBS2F6VDc2dVRVcTNrLUVFc3hqdGplNk9ndFBSQ0pSYlIyTE9ZaFlVNTVhc010M3NvMVNwSXBFQQ?oc=5",
+      "description": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-01T12:12:05.000Z",
+      "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
@@ -195,12 +255,40 @@
       "stream": "reit"
     },
     {
-      "id": "ba1858c7",
-      "title": "Temasek-backed Mapletree mulls India REIT listing - klsescreener.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQck5kTVZCV2JSdEhDS0RqUjEtT19GSUtpLS1qR1lWdm5EMEJDa0JuSzU1aERPNGFBUVFLWDM5YmZLUUc1RFRFWDVLLWM1WTQ5WXktaTdmcmpfMlBLbXJhTEY1ODRwVGd5OURnMXRXLWdXTXVSLUdSRTZxT3RaR2lWY19ydU52NjV5aHVaX3dwemhyYlN6VEFGUnkySlJpY042?oc=5",
-      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; klsescreener.com",
-      "source": "klsescreener.com",
-      "publishedAt": "2026-09-30T23:10:24.000Z",
+      "id": "ce94bd4a",
+      "title": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFV5WmtadjFFdmg0Yk1xb0Nuc0NmLWZzNVlHNGVjWDJybXZDNGRsUHc0NVJQb1NFUHA2M0JwdlVQbHNlVVd1dnk0czlEVjlsU2RyakMxMllGRzB2UWVFaXVuQ1ptOVdsWkdjTU4tcVQ2NHhXall2SjdqMElYV2tJY3hYOXlwV0xRamFzMGxjd095M3YwOHg5bHVoSjB2VnNVWFZ6b2hUU2taUzNvX0hXdHc1SUl5ZWRCcF9xa3hiOHpZa3NkeGc?oc=5",
+      "description": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-01T11:03:37.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "e823032b",
+      "title": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTZfQmplbjlHT2FuOWU1Uk1xdGhONEVqNnREVXRBYWtSQm0xM2dnSWdsSURYWDFnUHZhWnpCT2cxOHlGYy1UTHpsQTdHeDNzY1hqLXZhRWZPakRnazNyWU9YbUhSNnNMNThhdjJSY09JT1ppeTN4UFpNQVh6WXJoZzRtMTZBQmpud252d0F3MTRDdHJHZnhZY2tZRUF6OTRpQ2k3bVFadGM0bldCNVJBZDRDZG9MdkRXaDl1cjRwUjhqNzhNQ3ZYcmV2cmFZYXpnTjYtSQ?oc=5",
+      "description": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-01T07:29:45.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "f8f93df",
+      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
+      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-09-30T23:25:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -253,17 +341,63 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
+    }
+  ],
+  "items": [
+    {
+      "id": "e709a2f",
+      "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUklZOHh6ZVdYVHZadVhvWFluaDBHclkyak5mSHhlTy1XSjhyUlZPbGY3eXBDdmhYVVU1SWFQXzNmQkF1akRQNkpkelZ1cWFlTHJkcVh3ZzBtVlRpQzRiYS1oM3NoM2UtNjdsbk9jUzNtUjVRMGJlSGxpbzYzWHR0VWZIajhtSDkwNjduMFZ3OW9NZGFtNTNXbVY5T2ktOE1GcE41Z3dpWW1ZNzZMdzNOWUxGc1p4TzNDUzZ5ZjN6TzdYLTRmNkJaXw?oc=5",
+      "description": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity &nbsp;&nbsp; Prittle Prattle News",
+      "source": "Prittle Prattle News",
+      "publishedAt": "2026-10-02T00:53:34.000Z",
+      "city": "Mumbai",
+      "category": "Company & leadership",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "companies"
     },
     {
-      "id": "bf887907",
-      "title": "Brookfield India REIT completes acquisition of Godrej BKC asset via JV - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQWtDaWdqOS1sRkxuM0dURVUyWEE1R0wxVWdSV0VaN2laeVMzOXJGQnpoTy1Vb0NMdlZmaHF6LXNjQV9LODJ5a1Y2SjhlZFdGY1I1OWc2QmxEVWExRjhrMWh1MlF3ejNtSHd2Ym1hcGNybWg5SGxtTzNjbDJEbllVMkNxeGNMWTAyZ3lTd1NYTFdJOFdYSC1wNGJib1JXdEZLbnpLQmlIeTNqZXUxWnJVZF9XNmJVWEFFczNkaUYwbHFwcUZK?oc=5",
-      "description": "Brookfield India REIT completes acquisition of Godrej BKC asset via JV &nbsp;&nbsp; scanx.trade",
+      "id": "a4b16400",
+      "title": "Mahindra Lifespaces launches residential project Rivenza in Pune - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTl6Z3M5N3R0ODF4MDg1bkx6YjJWWm10RTgxZmd6YmxncXU3ZVhPOHM5UFRTdW5jX3hZT2J0dWdyd0dpblJRejUwY3ZnRzIwTzl4OWRMQ253X19SdjdPVDVneFJPWTZfbC1GQVJyRHF2RWR5elE5Z3p3M3I3UmR1ZGNmcDk3bWNlM0FEdTZWa1BaVVl6dVQ2TXdQUXdRb3l0N3F1OU4tUGhESzVrWDliOVdZQ3k3Zi05TTMyWg?oc=5",
+      "description": "Mahindra Lifespaces launches residential project Rivenza in Pune &nbsp;&nbsp; scanx.trade",
       "source": "scanx.trade",
-      "publishedAt": "2026-09-30T04:22:48.000Z",
-      "city": "Mumbai",
+      "publishedAt": "2026-10-01T15:26:14.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "7f6bed3f",
+      "title": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUFqd0prcnV5TDVJVEFBTXFFQ09BYzRaVXo0d3Y3RnZHN3kxLUdHc2IxYkYtd2tZMi1EWDRvVzhWRkV5WHBmWmdERUs1ODZzMzl2eUxod2VJeEtjcTNwZnB6M1FLYTZnNU1kOUpOei1Mb0dhUW1TUUxta2J2Qi01UEtVd1d4dUlxVXZMMHJESnBhSW9pRDRNem5LOFFCMW9DbkZxVFphLTZzeDNVem92dldwWWw5NGo3b20tLW9aT0tpQXdkYXlKWms0d1Y2a0E?oc=5",
+      "description": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-01T15:21:00.000Z",
+      "city": "India",
       "category": "Market & policy",
       "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "7bba4055",
+      "title": "Brookfield India REIT holds investor meetings on Q1FY27 updates - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZDY3U0Tkw4cUFrUmZHX3JWd2tsOENsLXVOWnVwTjZWV1NLeTM1NFF2dGJHX0xld2VlNFM3ZFhyRWVZRWRrZXNLSkliTzFwRW5wMGxFVzdhRy1meld3akY1RldWSF96VTVOYWNicFlITEFjVkhBU3ZOY0puUzNacTE1VzVMeG5qS2JpX1RMRlR6Y3o3TjRDWTdRTTJRaWdibkU3TE04QXFBdENYN0dIVDQwNjNlQXpN?oc=5",
+      "description": "Brookfield India REIT holds investor meetings on Q1FY27 updates &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-01T13:00:46.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [
         "Brookfield India Real Estate Trust"
@@ -271,51 +405,47 @@
       "stream": "reit"
     },
     {
-      "id": "744a9510",
-      "title": "Temasek-backed Mapletree evaluating India office Reit listing: sources - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQR0hicUtLQ0pxdFV6WndPYzl1d1lQZ1NmU1FTTFktaEVPaFRKdjd1MTYwaUZfaG5jdy1xbWRvaGVRbjZ3MEZpTVhudVJ0b0J0UUpkaHdXay1vODVLTnNzZjI1Q0ZtQmliV1RKcE42RjVFWlJybmJtUXFKWld5cTFwNmV2RVM3M2hleXdBX21ZbEtEa3oxRkF1VjBfY0NyNHVGaGo5YzRGdHlINHpydWdNcmlLYmdDZl85aXQyQzBaMkpWbWlmYnRGTkVuaXc0ZXdD?oc=5",
-      "description": "Temasek-backed Mapletree evaluating India office Reit listing: sources &nbsp;&nbsp; The Business Times",
-      "source": "The Business Times",
-      "publishedAt": "2026-09-30T03:46:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "d2d296f3",
-      "title": "Temasek-Backed Mapletree Evaluates India Office REIT Listing - bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUlFzWk1OSndwRzk4dUs2RUhrakRFMS1qOVBUR0FLa29RMTd4ZlZmcUV0R2dyenZJWnJMdVAwTFJ4Qy1ieGJYS0xMcWtmS1duN0NFckdkWi1janJZdTNmd0laWElXNHM4elRIQ25KcUdaeVVuM0t5TWRUOUZ6UXhSNzE0dUFBVkJtN1NSWVBUb3drRFAxOEpaYS1BSmtjTzhEcTFQTUJlMS15V205SXhmRA?oc=5",
-      "description": "Temasek-Backed Mapletree Evaluates India Office REIT Listing &nbsp;&nbsp; bloomberg.com",
-      "source": "bloomberg.com",
-      "publishedAt": "2026-09-30T01:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b5eb7622",
-      "title": "Embassy Office Parks REIT closes trading window ahead of Q2FY27 results - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcjk4YzNVRjBNNjRxY3FwSjBQVzZmRTA0Rm5iMFF6NzVKY2dUOVl6ZHUxTEhTMXNnTS1pUW11S21CRVRFeTIwLVJyR043R3BHTDNtNVZuc2NyVTZDaXJlQ1Q1YzNxcE1DX19sRXliNHdwQUhlekdNVVo0US1QUXJSUzNLSGtlSFp4UDZsRWF1RnFJZWhBUUdtSFNJZ2ZwaWY4UnpONUtURlZhQnZwMFlHSmNtOWh0YzU0cG9rNHFKZkpfSk0?oc=5",
-      "description": "Embassy Office Parks REIT closes trading window ahead of Q2FY27 results &nbsp;&nbsp; scanx.trade",
+      "id": "b869ffb4",
+      "title": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzhfcC1selgxLVh4RmptcF9DU1ctNlZsQWhuSEFOd1AzeW9JOTFBamZrOXBRZDRRd3ZyM0d0ZEM4SjgxWmp6RWY0WDc4R0YtTFRSa21zRHhCVmJ1b1g2bHU3aTV0U05rT1l2SlRfcEplZW8zeEZIOVZycWJrN2ZKblVkejJwODhMMjZBS2F6VDc2dVRVcTNrLUVFc3hqdGplNk9ndFBSQ0pSYlIyTE9ZaFlVNTVhc010M3NvMVNwSXBFQQ?oc=5",
+      "description": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East &nbsp;&nbsp; scanx.trade",
       "source": "scanx.trade",
-      "publishedAt": "2026-09-29T13:35:41.000Z",
-      "city": "India",
+      "publishedAt": "2026-10-01T12:12:05.000Z",
+      "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
+      "entities": [],
       "stream": "reit"
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "ce94bd4a",
+      "title": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFV5WmtadjFFdmg0Yk1xb0Nuc0NmLWZzNVlHNGVjWDJybXZDNGRsUHc0NVJQb1NFUHA2M0JwdlVQbHNlVVd1dnk0czlEVjlsU2RyakMxMllGRzB2UWVFaXVuQ1ptOVdsWkdjTU4tcVQ2NHhXall2SjdqMElYV2tJY3hYOXlwV0xRamFzMGxjd095M3YwOHg5bHVoSjB2VnNVWFZ6b2hUU2taUzNvX0hXdHc1SUl5ZWRCcF9xa3hiOHpZa3NkeGc?oc=5",
+      "description": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-01T11:03:37.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "e823032b",
+      "title": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTZfQmplbjlHT2FuOWU1Uk1xdGhONEVqNnREVXRBYWtSQm0xM2dnSWdsSURYWDFnUHZhWnpCT2cxOHlGYy1UTHpsQTdHeDNzY1hqLXZhRWZPakRnazNyWU9YbUhSNnNMNThhdjJSY09JT1ppeTN4UFpNQVh6WXJoZzRtMTZBQmpud252d0F3MTRDdHJHZnhZY2tZRUF6OTRpQ2k3bVFadGM0bldCNVJBZDRDZG9MdkRXaDl1cjRwUjhqNzhNQ3ZYcmV2cmFZYXpnTjYtSQ?oc=5",
+      "description": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-01T07:29:45.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "f8f93df",
       "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
@@ -495,6 +625,22 @@
       "stream": "reit"
     },
     {
+      "id": "a87f25a7",
+      "title": "Godrej Properties Bets ₹6,000 Crore On Mumbai Expansion As Premium Property Prices Cross ₹80,000/Sq Ft - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk0taW9ubldUcjR4d1FQQW9WZVp1SUZZa2RSTlZtUzNMaGxvdUNWVXVGQmZ6OU1aV1Q3UWt2MGxPUy1aNUZYVHM2MzRzcUI2TVp3dnVPbDZ2MGVEdjlvNXlEY2NXWUExXzlEdldWWVB5Y2NENjNDX2FhQlN5SV96VFQxZFFPblhFVVpHMzdNTEVXa0w3MGRLVnRfV0hpN0RkRG8za0JlY0hPbDdRUHlpbTd2eWxVNjBhNmFVQlcza1JpVjgx?oc=5",
+      "description": "Godrej Properties Bets ₹6,000 Crore On Mumbai Expansion As Premium Property Prices Cross ₹80,000/Sq Ft &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-09-29T04:13:05.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Godrej Properties"
+      ],
+      "stream": "land"
+    },
+    {
       "id": "747d621f",
       "title": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level - Construction Week India",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBtYURMdUx1Z2hoX1ZSMjRfajQySlRrQXQ0cl9hQ0wzX0NyYW8xQ2xsY2xZd21BV3Rma1haRVVGU1hHSHgtcG1lSmpIOVd6TGJJRlZjQU9UZjlVVGt6Wk5zaTEtOTdYY1FIQWZfLVdRNV9kUjN4NmwxMENBT21zVUtxVTZSQWpDTjByVmdyVk04OWQzdFp1WHdDVHFac3FIU00wbE85V0tjeVIxLUJpMkhxaUEtcWptNE1GUURn?oc=5",
@@ -551,6 +697,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "funds"
+    },
+    {
+      "id": "3d665fc4",
+      "title": "HDFC Mutual Fund announces reopening of HDFC BSE REITS and Commercial Real Estate Index Fund for ongoing s - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYnlaeGJwaGtCYUZDaUtYREhSZUZxSXdxbThpdEpLN3RxaWxwRjI0V2cxN292T18yTTBldTFqQnZRdURhbTJSdkxVUEQ2QXc1Z1NfbWlrbVVpblAtR2hDX1JvZ2Q5cFNQdDZ6RTZtUFhvRnJxc053WlV2OVRfQkVsRU5SWmpCVzlzVVQ2OVo5UEp2dF9LOFJDTFdOV0NXWHp0WERxVlZ5SThLYlJTODVUSzEwdnpFREtzU1ZOck5Nb3pNN0dyY2FGTUZJamY1aks4VlF0OWctUVlKbmlRU0xrNk5qQUdZWFQyZ2FaX2w3MlhEbXhtcEM2U2E0R2VUc21DYjk0VGszQnZvTE40aUk00gGUAkFVX3lxTE9GNzhYc0ZlVk1RdlltaHpuWnhiaXFfcUZfWF8zR1FnaEpBNXB0VlRpckVXbmJRUGhfN29OX3AtTTZxb0VfMTJ4NEdqUjJwdGM4amZJVEthRnlhT3c4S1J0YTRMUU52X1JaM1RFQnRmckt6NUszX0Vrb0Y1cFZlWDdWR2Rlb1MtM0s2bWxvS3h5NTd6QTVtTzFMeXFfOHRKbjVoZnJVR0ZKUGNTcTRNVGpBM3lBUFNKWkp1cUptWWxNRXRRX0F3dDBub0gzemhvb2lSdXd5X1ZDMHJyRWM4ZWJEVkM3Q19ndzhlVk5DUURRRTNfRjl1bDgzWkwtWUJjSzJQNmZYUWlTa3Utb3doTnRyOUNNQw?oc=5",
+      "description": "HDFC Mutual Fund announces reopening of HDFC BSE REITS and Commercial Real Estate Index Fund for ongoing s &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-09-28T11:20:06.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "e4ce2181",
