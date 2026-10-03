@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T08:48:48.921Z",
+  "generatedAt": "2026-10-03T08:25:53.566Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 62,
-  "todayCount": 11,
+  "itemCount": 66,
+  "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,6 +11,126 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 2
     },
     {
@@ -37,101 +157,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -146,40 +171,73 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 1
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 21
+      "items": 17
     }
   ],
   "todayItems": [
+    {
+      "id": "e899357d",
+      "title": "Alternative capital gains ground in India’s commercial real estate financing - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmo4OXY1VjRYckJIVFVXc3BVbUhuLUV6UzEwSzFJVERsZEhqbkk2dGd4cEU5ZDA3S3g3QzhmRzFDV0VhRXRWdTVXa0NOTmtPcnR1dEp3ZnZvTWRhLTNrMHd0WkItYVRURC1Md1BWTTBuRXFyR0t1WmdkUlF0b0lKUGFRLXdtTXA2WmV2Vko0WmtBOEcwRklrbzlFVG9mdWNpazJ0WTdOT1lkT21fdlFycmtLZ19NbUxOTkVLeEZha19qVW1GYk0w?oc=5",
+      "description": "Alternative capital gains ground in India’s commercial real estate financing &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-03T06:30:01.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "fe0eb370",
+      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
+      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-02T17:35:20.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "1846f760",
+      "title": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGlnWnlXU0RXX2ZUcEFvdDh1c1Voeko2b2xoV1Ryd1BjRkI3aU5XNnl3WHZWM1pyNGFpWXFqUDNfaElqSnZEQzExbHppVUdGeXVUeVRvcHgzZndKLU8wN0xXVV9GUUdDUjJfLW9BdXBUZUFQRE4yUFZZdHVxN3hOTDA1UEozNWhhQmpGa1d5YXo3Y0xSX2tBSXEzdks4aXptWVgycF9XTkZENnVrRFdJdXQxcTRCcFJ0M0l6NzVBS0JVY0tUVnlCU2pSUTZCcHFnYjFaVVFrOHVrSExmbFo3QVNSYzNKWF94QVZtQmR0R2xSMmdWMkRFZDVZSnhYY3IxT2fSAY8CQVVfeXFMTV9Lc3hHck5ZN1RFMWpoQjE0UmE5UDFZRG5DX0xkZGhGek9lSFFFZjd2LWN0aldralViSlNKTG1IaS1uQjNIY0hQTXlkS0d0c0dEN2F5THVhbkpOQjFxVUhPN1QzOXZrTzNrMUhlZDlUcjBBRjQ5dDRxeXV0X0NzYWF3U1FNbjBtYi03Z2VuZDZrWWh5THg0VU1kWG5URXYtMmFnSlYtZXprZkphRUNaQ3V0cmNKV0oxTnU1N19BUGw1b2hBQlRHOTdHWnZza0lzYWI0Y1FiUHgwenRqWFVsbmR6THdvSlUwS3B2TGxhcUt2WnYzNU1NaU9IV3JUQ0RQUVdQUFcyYkV2UldSaWRaRQ?oc=5",
+      "description": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President &nbsp;&nbsp; Fortune India",
+      "source": "Fortune India",
+      "publishedAt": "2026-10-02T13:45:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "5357e0ea",
+      "title": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzFxVEpxSkpiWEU0X1FCUW83VEZUbHB4eVdkY2piekR1cDk4b3ZaaFF0RTVNZGdjc2Y4c01QMzN3Z0xLTEZhbExHOEt4cjUzY3lTb0ktT3c2Wm1zd0lBbzdrZXJ0Zm81TmlLLTFUT3ZoRnppUXFzWTlsdTVHTVMzX3N1SG1meDBrYS01X0dhdjJMdzVQUmNYYjc5VDBqelR6YlJhVkdFbzl6Q19wOC0zT0Vra0xjb3ZXdlJsRjZhRkt1N1FMVU50MDViX3ZDcXRuN215dG5FOHNCdw?oc=5",
+      "description": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-02T11:08:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "e709a2f",
       "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
@@ -253,15 +311,31 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    }
+  ],
+  "items": [
+    {
+      "id": "e899357d",
+      "title": "Alternative capital gains ground in India’s commercial real estate financing - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmo4OXY1VjRYckJIVFVXc3BVbUhuLUV6UzEwSzFJVERsZEhqbkk2dGd4cEU5ZDA3S3g3QzhmRzFDV0VhRXRWdTVXa0NOTmtPcnR1dEp3ZnZvTWRhLTNrMHd0WkItYVRURC1Md1BWTTBuRXFyR0t1WmdkUlF0b0lKUGFRLXdtTXA2WmV2Vko0WmtBOEcwRklrbzlFVG9mdWNpazJ0WTdOT1lkT21fdlFycmtLZ19NbUxOTkVLeEZha19qVW1GYk0w?oc=5",
+      "description": "Alternative capital gains ground in India’s commercial real estate financing &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-03T06:30:01.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
     },
     {
-      "id": "ce94bd4a",
-      "title": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFV5WmtadjFFdmg0Yk1xb0Nuc0NmLWZzNVlHNGVjWDJybXZDNGRsUHc0NVJQb1NFUHA2M0JwdlVQbHNlVVd1dnk0czlEVjlsU2RyakMxMllGRzB2UWVFaXVuQ1ptOVdsWkdjTU4tcVQ2NHhXall2SjdqMElYV2tJY3hYOXlwV0xRamFzMGxjd095M3YwOHg5bHVoSjB2VnNVWFZ6b2hUU2taUzNvX0hXdHc1SUl5ZWRCcF9xa3hiOHpZa3NkeGc?oc=5",
-      "description": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-01T11:03:37.000Z",
-      "city": "Hyderabad",
+      "id": "fe0eb370",
+      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
+      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-02T17:35:20.000Z",
+      "city": "Mumbai",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -269,26 +343,12 @@
       "stream": "projects"
     },
     {
-      "id": "e823032b",
-      "title": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTZfQmplbjlHT2FuOWU1Uk1xdGhONEVqNnREVXRBYWtSQm0xM2dnSWdsSURYWDFnUHZhWnpCT2cxOHlGYy1UTHpsQTdHeDNzY1hqLXZhRWZPakRnazNyWU9YbUhSNnNMNThhdjJSY09JT1ppeTN4UFpNQVh6WXJoZzRtMTZBQmpud252d0F3MTRDdHJHZnhZY2tZRUF6OTRpQ2k3bVFadGM0bldCNVJBZDRDZG9MdkRXaDl1cjRwUjhqNzhNQ3ZYcmV2cmFZYXpnTjYtSQ?oc=5",
-      "description": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-01T07:29:45.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "f8f93df",
-      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
-      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-09-30T23:25:00.000Z",
+      "id": "1846f760",
+      "title": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGlnWnlXU0RXX2ZUcEFvdDh1c1Voeko2b2xoV1Ryd1BjRkI3aU5XNnl3WHZWM1pyNGFpWXFqUDNfaElqSnZEQzExbHppVUdGeXVUeVRvcHgzZndKLU8wN0xXVV9GUUdDUjJfLW9BdXBUZUFQRE4yUFZZdHVxN3hOTDA1UEozNWhhQmpGa1d5YXo3Y0xSX2tBSXEzdks4aXptWVgycF9XTkZENnVrRFdJdXQxcTRCcFJ0M0l6NzVBS0JVY0tUVnlCU2pSUTZCcHFnYjFaVVFrOHVrSExmbFo3QVNSYzNKWF94QVZtQmR0R2xSMmdWMkRFZDVZSnhYY3IxT2fSAY8CQVVfeXFMTV9Lc3hHck5ZN1RFMWpoQjE0UmE5UDFZRG5DX0xkZGhGek9lSFFFZjd2LWN0aldralViSlNKTG1IaS1uQjNIY0hQTXlkS0d0c0dEN2F5THVhbkpOQjFxVUhPN1QzOXZrTzNrMUhlZDlUcjBBRjQ5dDRxeXV0X0NzYWF3U1FNbjBtYi03Z2VuZDZrWWh5THg0VU1kWG5URXYtMmFnSlYtZXprZkphRUNaQ3V0cmNKV0oxTnU1N19BUGw1b2hBQlRHOTdHWnZza0lzYWI0Y1FiUHgwenRqWFVsbmR6THdvSlUwS3B2TGxhcUt2WnYzNU1NaU9IV3JUQ0RQUVdQUFcyYkV2UldSaWRaRQ?oc=5",
+      "description": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President &nbsp;&nbsp; Fortune India",
+      "source": "Fortune India",
+      "publishedAt": "2026-10-02T13:45:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -297,53 +357,21 @@
       "stream": "reit"
     },
     {
-      "id": "1ad7e309",
-      "title": "Temasek-backed Mapletree mulls India REIT listing - The Star",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFyMnVhU2ZGWmxwZTBsa01BUHFsRFZDREptT3FZZGpYTklab2k3Nkx4U2hCcHFxNVI2VjlFbmRBTUNfczdoWEpjMFpIVWl3c0JTaXYtZnRJSmdvQUh3YU9RWlUwVENPM1JMOVdpMmVkTC1EWVN0T0lXbzdWTk5WZUdKTDBUZFFaSFVxSTNwOWdMRUVQVDFqSjhyd2dIeUlOc0E2RmxMNkhROGltbXlN?oc=5",
-      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; The Star",
-      "source": "The Star",
-      "publishedAt": "2026-09-30T23:04:13.000Z",
+      "id": "5357e0ea",
+      "title": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzFxVEpxSkpiWEU0X1FCUW83VEZUbHB4eVdkY2piekR1cDk4b3ZaaFF0RTVNZGdjc2Y4c01QMzN3Z0xLTEZhbExHOEt4cjUzY3lTb0ktT3c2Wm1zd0lBbzdrZXJ0Zm81TmlLLTFUT3ZoRnppUXFzWTlsdTVHTVMzX3N1SG1meDBrYS01X0dhdjJMdzVQUmNYYjc5VDBqelR6YlJhVkdFbzl6Q19wOC0zT0Vra0xjb3ZXdlJsRjZhRkt1N1FMVU50MDViX3ZDcXRuN215dG5FOHNCdw?oc=5",
+      "description": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-02T11:08:00.000Z",
       "city": "India",
       "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "f7fe206b",
-      "title": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG9vZkFnN2ZtMHFvNEhLRFdvTGpLUHlhcER3X3J3YzlOd2h2WFhIb19mMERmOFpUX3ZKUHdKMWlLSS1fRnVvT3dHM1AyeDQzQTVsM0tXY2Z4anZnQkJXZm41NU5ENGJZZkVmUWhCVzBqdFBxM1gwSjFGQXF4dzFLZ0ZVc1J5QnNyU1ZBeFBtYTJXWk1VNGdJSVlMcnBzaE05Y3JiNm5sRXE?oc=5",
-      "description": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-09-30T14:32:41.000Z",
-      "city": "Mumbai",
-      "category": "Capital & lending",
       "tone": "neutral",
       "priority": "normal",
       "entities": [
         "Brookfield India Real Estate Trust"
       ],
-      "stream": "funds"
+      "stream": "reit"
     },
-    {
-      "id": "7a588327",
-      "title": "Prestige Estates to develop two Bengaluru housing projects worth INR 2,850 crore - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMERicHJjY1dXakhqdjNBOUZpdlQxclZCbFdZS0NKU0xWSDJtOV9ReExGZG1CenQ1WWQyN0pyRWpjdV9Cb1phSzd1Z0NIYTlHQnZfaFVmMVJqakRNV3M5NlVMelozYWZieWtZd3FDRDdpdzQyMEtwWlZfOWE2Q0lWb1NULUFXQjVyeGw2cXRVUDlXSm85SUg5NU96TnM0VjJ1VmJ6Qzc5SnR2VjlFemY1WkhQQXRsNk5jcGlkTE5kNnJvblpuVnhiRjdnaGo?oc=5",
-      "description": "Prestige Estates to develop two Bengaluru housing projects worth INR 2,850 crore &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-30T11:00:41.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    }
-  ],
-  "items": [
     {
       "id": "e709a2f",
       "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
@@ -476,10 +504,10 @@
     },
     {
       "id": "1ad7e309",
-      "title": "Temasek-backed Mapletree mulls India REIT listing - The Star",
+      "title": "Temasek-backed Mapletree mulls India REIT listing - thestar.com.my",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFyMnVhU2ZGWmxwZTBsa01BUHFsRFZDREptT3FZZGpYTklab2k3Nkx4U2hCcHFxNVI2VjlFbmRBTUNfczdoWEpjMFpIVWl3c0JTaXYtZnRJSmdvQUh3YU9RWlUwVENPM1JMOVdpMmVkTC1EWVN0T0lXbzdWTk5WZUdKTDBUZFFaSFVxSTNwOWdMRUVQVDFqSjhyd2dIeUlOc0E2RmxMNkhROGltbXlN?oc=5",
-      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; The Star",
-      "source": "The Star",
+      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; thestar.com.my",
+      "source": "thestar.com.my",
       "publishedAt": "2026-09-30T23:04:13.000Z",
       "city": "India",
       "category": "Market & policy",
