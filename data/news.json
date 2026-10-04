@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T08:25:53.566Z",
+  "generatedAt": "2026-10-04T08:38:53.883Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 66,
-  "todayCount": 9,
+  "itemCount": 67,
+  "todayCount": 4,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,7 +11,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -71,12 +71,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -136,7 +136,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,7 +176,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 17
+      "items": 15
     }
   ],
   "todayItems": [
@@ -196,10 +196,10 @@
     },
     {
       "id": "fe0eb370",
-      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - ET Realty",
+      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - realty.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
-      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
+      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; realty.economictimes.indiatimes.com",
+      "source": "realty.economictimes.indiatimes.com",
       "publishedAt": "2026-10-02T17:35:20.000Z",
       "city": "Mumbai",
       "category": "Projects & launches",
@@ -236,80 +236,6 @@
       "entities": [
         "Brookfield India Real Estate Trust"
       ],
-      "stream": "reit"
-    },
-    {
-      "id": "e709a2f",
-      "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUklZOHh6ZVdYVHZadVhvWFluaDBHclkyak5mSHhlTy1XSjhyUlZPbGY3eXBDdmhYVVU1SWFQXzNmQkF1akRQNkpkelZ1cWFlTHJkcVh3ZzBtVlRpQzRiYS1oM3NoM2UtNjdsbk9jUzNtUjVRMGJlSGxpbzYzWHR0VWZIajhtSDkwNjduMFZ3OW9NZGFtNTNXbVY5T2ktOE1GcE41Z3dpWW1ZNzZMdzNOWUxGc1p4TzNDUzZ5ZjN6TzdYLTRmNkJaXw?oc=5",
-      "description": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity &nbsp;&nbsp; Prittle Prattle News",
-      "source": "Prittle Prattle News",
-      "publishedAt": "2026-10-02T00:53:34.000Z",
-      "city": "Mumbai",
-      "category": "Company & leadership",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "companies"
-    },
-    {
-      "id": "a4b16400",
-      "title": "Mahindra Lifespaces launches residential project Rivenza in Pune - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTl6Z3M5N3R0ODF4MDg1bkx6YjJWWm10RTgxZmd6YmxncXU3ZVhPOHM5UFRTdW5jX3hZT2J0dWdyd0dpblJRejUwY3ZnRzIwTzl4OWRMQ253X19SdjdPVDVneFJPWTZfbC1GQVJyRHF2RWR5elE5Z3p3M3I3UmR1ZGNmcDk3bWNlM0FEdTZWa1BaVVl6dVQ2TXdQUXdRb3l0N3F1OU4tUGhESzVrWDliOVdZQ3k3Zi05TTMyWg?oc=5",
-      "description": "Mahindra Lifespaces launches residential project Rivenza in Pune &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T15:26:14.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "7f6bed3f",
-      "title": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUFqd0prcnV5TDVJVEFBTXFFQ09BYzRaVXo0d3Y3RnZHN3kxLUdHc2IxYkYtd2tZMi1EWDRvVzhWRkV5WHBmWmdERUs1ODZzMzl2eUxod2VJeEtjcTNwZnB6M1FLYTZnNU1kOUpOei1Mb0dhUW1TUUxta2J2Qi01UEtVd1d4dUlxVXZMMHJESnBhSW9pRDRNem5LOFFCMW9DbkZxVFphLTZzeDNVem92dldwWWw5NGo3b20tLW9aT0tpQXdkYXlKWms0d1Y2a0E?oc=5",
-      "description": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-01T15:21:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "7bba4055",
-      "title": "Brookfield India REIT holds investor meetings on Q1FY27 updates - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZDY3U0Tkw4cUFrUmZHX3JWd2tsOENsLXVOWnVwTjZWV1NLeTM1NFF2dGJHX0xld2VlNFM3ZFhyRWVZRWRrZXNLSkliTzFwRW5wMGxFVzdhRy1meld3akY1RldWSF96VTVOYWNicFlITEFjVkhBU3ZOY0puUzNacTE1VzVMeG5qS2JpX1RMRlR6Y3o3TjRDWTdRTTJRaWdibkU3TE04QXFBdENYN0dIVDQwNjNlQXpN?oc=5",
-      "description": "Brookfield India REIT holds investor meetings on Q1FY27 updates &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T13:00:46.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "b869ffb4",
-      "title": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzhfcC1selgxLVh4RmptcF9DU1ctNlZsQWhuSEFOd1AzeW9JOTFBamZrOXBRZDRRd3ZyM0d0ZEM4SjgxWmp6RWY0WDc4R0YtTFRSa21zRHhCVmJ1b1g2bHU3aTV0U05rT1l2SlRfcEplZW8zeEZIOVZycWJrN2ZKblVkejJwODhMMjZBS2F6VDc2dVRVcTNrLUVFc3hqdGplNk9ndFBSQ0pSYlIyTE9ZaFlVNTVhc010M3NvMVNwSXBFQQ?oc=5",
-      "description": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T12:12:05.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
       "stream": "reit"
     }
   ],
@@ -330,10 +256,10 @@
     },
     {
       "id": "fe0eb370",
-      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - ET Realty",
+      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - realty.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
-      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
+      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; realty.economictimes.indiatimes.com",
+      "source": "realty.economictimes.indiatimes.com",
       "publishedAt": "2026-10-02T17:35:20.000Z",
       "city": "Mumbai",
       "category": "Projects & launches",
@@ -385,6 +311,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "companies"
+    },
+    {
+      "id": "e5ac404c",
+      "title": "Brookfield India REIT, NCW acquire three floors in Godrej BKC, Mumbai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT25lR01UQmVIMjY3REJOcUd3R2V0QXA3OVRCV3poQUJtS3VyUG5EcXJrZkpsZHhuUEI4TXh2QzdkbHJwbldxODRUOWFDUTJxVjdwYWpoSnJDdl9kUm5pNlBvX2VZT01CS0lPVXdSckZpcU1OeVR5emxIa0N3QlA3UzJFb1lZdWx3di1HRjJuVUVKRlp0aUtZdzktRFdZSW9WZmtDNUE1Z0VHLWRTSkFwRV81QlNwNXp6TXFB?oc=5",
+      "description": "Brookfield India REIT, NCW acquire three floors in Godrej BKC, Mumbai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-01T19:31:35.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "land"
     },
     {
       "id": "a4b16400",
@@ -670,10 +612,10 @@
     },
     {
       "id": "747d621f",
-      "title": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level - Construction Week India",
+      "title": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level - constructionweekonline.in",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBtYURMdUx1Z2hoX1ZSMjRfajQySlRrQXQ0cl9hQ0wzX0NyYW8xQ2xsY2xZd21BV3Rma1haRVVGU1hHSHgtcG1lSmpIOVd6TGJJRlZjQU9UZjlVVGt6Wk5zaTEtOTdYY1FIQWZfLVdRNV9kUjN4NmwxMENBT21zVUtxVTZSQWpDTjByVmdyVk04OWQzdFp1WHdDVHFac3FIU00wbE85V0tjeVIxLUJpMkhxaUEtcWptNE1GUURn?oc=5",
-      "description": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level &nbsp;&nbsp; Construction Week India",
-      "source": "Construction Week India",
+      "description": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level &nbsp;&nbsp; constructionweekonline.in",
+      "source": "constructionweekonline.in",
       "publishedAt": "2026-09-29T03:07:59.000Z",
       "city": "India",
       "category": "Market & policy",
