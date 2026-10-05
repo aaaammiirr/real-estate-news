@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T08:38:53.883Z",
+  "generatedAt": "2026-10-05T09:26:42.541Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 67,
-  "todayCount": 4,
+  "itemCount": 74,
+  "todayCount": 6,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,6 +11,126 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -41,57 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "items": 4
     },
     {
       "label": "undefined · undefined",
@@ -106,102 +176,32 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 15
+      "items": 16
     }
   ],
   "todayItems": [
     {
-      "id": "e899357d",
-      "title": "Alternative capital gains ground in India’s commercial real estate financing - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmo4OXY1VjRYckJIVFVXc3BVbUhuLUV6UzEwSzFJVERsZEhqbkk2dGd4cEU5ZDA3S3g3QzhmRzFDV0VhRXRWdTVXa0NOTmtPcnR1dEp3ZnZvTWRhLTNrMHd0WkItYVRURC1Md1BWTTBuRXFyR0t1WmdkUlF0b0lKUGFRLXdtTXA2WmV2Vko0WmtBOEcwRklrbzlFVG9mdWNpazJ0WTdOT1lkT21fdlFycmtLZ19NbUxOTkVLeEZha19qVW1GYk0w?oc=5",
-      "description": "Alternative capital gains ground in India’s commercial real estate financing &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-03T06:30:01.000Z",
-      "city": "India",
-      "category": "Capital & lending",
+      "id": "a6b2e31e",
+      "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTV2b1JVckRiTkxTSW81RnVqT0xVV09LVkJLNmRPTjhLRXM5N2d0ZHFCWFo2VkduWUEwVUczdU85Yk9IckZwRFRNQmpKT3MwUnM2VzRCNmtCZG5wR1RNV2NvQlhnWDJHNW0xTEljRnZMdVNQZFZISF9HT19QbW50ekI2bUFjWlRyVC1ZNDJPUnNLNkJnUzFJOGNlQ1Fib0lzU19zNTVfem95ZjloLXZ5LWZ2bG45Y1VDaFHSAcoBQVVfeXFMT3loTTAyZFo4RUNMTlZsOHZqWUxQWDNHU3dhaUwtT3ZUbUNHelotTkZBUm4wNkxGbkRMeENkV0psNlZZenNYUV9vZUdsQ2FzQUQtbHdWVDEyakJwa2d0emQwUDlTRkxCdWR6dmttekFCd25ZU3k1aWYyY2Z5bTBWb2FELWdZenlTci1iTS1zUjhGY1dsVDE0VGhiZUE2a2h1WUVDb2Z6TUs2bUdsOTlVd2xEdmMwRUVrVDdyUGVoZnh0VXJkOE95Z1l4Zw?oc=5",
+      "description": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 &nbsp;&nbsp; Gulf News",
+      "source": "Gulf News",
+      "publishedAt": "2026-10-05T09:06:26.000Z",
+      "city": "Hyderabad",
+      "category": "Approvals & regulation",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "funds"
+      "stream": "policy"
     },
     {
-      "id": "fe0eb370",
-      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - realty.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
-      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; realty.economictimes.indiatimes.com",
-      "source": "realty.economictimes.indiatimes.com",
-      "publishedAt": "2026-10-02T17:35:20.000Z",
-      "city": "Mumbai",
+      "id": "6bfc02e8",
+      "title": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhKZ2J0TER2bEVMSC13SVN0ZFRMYVN2VEZwT3ZPV1lVTFloR2ZHN0ZqY2s1eUtUU2NJVFdQRnlfTFkyZC1HbXFOU2ZnUVRVcjFldjYxQXpRUUhiZVRJU05HUWNubWhrVFZrcmFXZjRvN3BZWTRwVW5fRlpDUW1JQm1iZGtsVVpOMjJIdUozbEdBUkdLVjZVSVVpdUo1aXpjandzY3VQRllHbUJvMkZVMkZWeXVhN2vSAbcBQVVfeXFMTUM4SmdidExEdmxFTEgtd0lTdGRUTGFTdlRGcE92T1dZVUxZaEdmRzdGamNrNXlLVFNjSVRXUEZ5X0xZMmQtR21xTlNmZ1FUVXIxZXY2MUF6UVFIYmVUSVNOR1Fjbm1oa1RWa3JhV2Y0bzdwWVk0cFVuX0ZaQ1FtSUJtYmRrbFVaTjIySHVKM2xHQVJHS1Y2VUlVaXVKNWl6Y2p3c2N1UEZZR21CbzJGVTJGVnl1YTdr?oc=5",
+      "description": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-05T05:20:21.000Z",
+      "city": "Bengaluru",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -209,12 +209,12 @@
       "stream": "projects"
     },
     {
-      "id": "1846f760",
-      "title": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGlnWnlXU0RXX2ZUcEFvdDh1c1Voeko2b2xoV1Ryd1BjRkI3aU5XNnl3WHZWM1pyNGFpWXFqUDNfaElqSnZEQzExbHppVUdGeXVUeVRvcHgzZndKLU8wN0xXVV9GUUdDUjJfLW9BdXBUZUFQRE4yUFZZdHVxN3hOTDA1UEozNWhhQmpGa1d5YXo3Y0xSX2tBSXEzdks4aXptWVgycF9XTkZENnVrRFdJdXQxcTRCcFJ0M0l6NzVBS0JVY0tUVnlCU2pSUTZCcHFnYjFaVVFrOHVrSExmbFo3QVNSYzNKWF94QVZtQmR0R2xSMmdWMkRFZDVZSnhYY3IxT2fSAY8CQVVfeXFMTV9Lc3hHck5ZN1RFMWpoQjE0UmE5UDFZRG5DX0xkZGhGek9lSFFFZjd2LWN0aldralViSlNKTG1IaS1uQjNIY0hQTXlkS0d0c0dEN2F5THVhbkpOQjFxVUhPN1QzOXZrTzNrMUhlZDlUcjBBRjQ5dDRxeXV0X0NzYWF3U1FNbjBtYi03Z2VuZDZrWWh5THg0VU1kWG5URXYtMmFnSlYtZXprZkphRUNaQ3V0cmNKV0oxTnU1N19BUGw1b2hBQlRHOTdHWnZza0lzYWI0Y1FiUHgwenRqWFVsbmR6THdvSlUwS3B2TGxhcUt2WnYzNU1NaU9IV3JUQ0RQUVdQUFcyYkV2UldSaWRaRQ?oc=5",
-      "description": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President &nbsp;&nbsp; Fortune India",
-      "source": "Fortune India",
-      "publishedAt": "2026-10-02T13:45:00.000Z",
+      "id": "9192ddc6",
+      "title": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVWpWV3pRSzNVTGEtZlV1emgxbE9vUFBrbE9iMkQ1Y2QyNWdqRFAwMEVYd2VMZndUZXlaWlJMYW5KdktHYW9fZGQwU01kSEhabHpvQ2lGNzl3U1IwenA0N2RJRWhhYzdldC1KcW9ocFB6Si1BcERuR3laRnRXRnhDOHoxN1djcVpNczZfVDQ0R1NmSjlnc1lmRmpKUnFKd21MUk15NXZfRFVRbkhLUmlPakFEbm5ockhUdkF0MWVuY21GZ0I3NHg4eXBfZ2FjWGNaMnJHUU1hYWFqT3poLWtyUG9Hd19pTG5WTU9xV1Zn0gHzAUFVX3lxTE9ITlBMcUgxaDZsQjlZTWphNEtBanZiSG1rejNUM3JoLTRWU1ZTN0lkSXpCeWlWUjlMRmtqcWdoWnMwWldxUVk1U2lwZXo0TUhEUDRrbGhidUF5S3JTaUJ1LVpJa3NBZ01jZjAxa0xtRUpzczVWb05vZHB0UHZWcXBwZHVHa1FPdmZMblJvQVc0Z2E3VGYwUlhmRHQzOV9mY3BBay13dGJkWURFXy1oVzhid2hBVm5pRnZDSXZ3TmdLYy1lUzFmb3E1enlVMENicDhJOF9FN3djb3JaY0FTcy1TRktLTldGdlJOVGFGSlNlbVZlNA?oc=5",
+      "description": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? &nbsp;&nbsp; Business Today",
+      "source": "Business Today",
+      "publishedAt": "2026-10-04T22:55:02.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -223,23 +223,137 @@
       "stream": "reit"
     },
     {
-      "id": "5357e0ea",
-      "title": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzFxVEpxSkpiWEU0X1FCUW83VEZUbHB4eVdkY2piekR1cDk4b3ZaaFF0RTVNZGdjc2Y4c01QMzN3Z0xLTEZhbExHOEt4cjUzY3lTb0ktT3c2Wm1zd0lBbzdrZXJ0Zm81TmlLLTFUT3ZoRnppUXFzWTlsdTVHTVMzX3N1SG1meDBrYS01X0dhdjJMdzVQUmNYYjc5VDBqelR6YlJhVkdFbzl6Q19wOC0zT0Vra0xjb3ZXdlJsRjZhRkt1N1FMVU50MDViX3ZDcXRuN215dG5FOHNCdw?oc=5",
-      "description": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-02T11:08:00.000Z",
+      "id": "92846498",
+      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSFJZQlhWd0E2a25IU2ppblVfUzZWaDJFU3hFR1dHWXdmRHBNcnJCaXh6S2dBLUktd1o1TmxFQ1ZRaVpqMkVPVjJLWTViZnBWWjg2MmNBRHJUaWE4bEpiaHBvbFRzb2dsdzFKRjl0TUo1c0pDUzA0NGUxTWF1NjdqN3lhb21UQzBRTWZKWHZOaG9PaTZQYlZySjdyUFB3S01XT0ZvdlRBMWJPV0F1Uy05WnFHTWZKLVdkQklBS0J2RGRodTJWeEc3bmU3MjJ0Q2NVYjdKOFZkRTZXUHh6WUk5dVZRWDYwVjQ1cW1hVTFJN3pTWktrRGY00gH3AUFVX3lxTE5IUllCWFZ3QTZrbkhTamluVV9TNlZoMkVTeEVHV0dZd2ZEcE1yckJpeHpLZ0EtSS13WjVObEVDVlFpWmoyRU9WMktZNWJmcFZaODYyY0FEclRpYThsSmJocG9sVHNvZ2x3MUpGOXRNSjVzSkNTMDQ0ZTFNYXU2N2o3eWFvbVRDMFFNZkpYdk5ob09pNlBiVnJKN3JQUHdLTVdPRm92VEExYk9XQXVTLTlacUdNZkotV2RCSUFLQnZEZGh1MlZ4RzduZTcyMnRDY1ViN0o4VmRFNldQeHpZSTl1VlFYNjBWNDVxbWFVMUk3elNaS2tEZjQ?oc=5",
+      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-04T06:32:24.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
+      "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "9aad19c9",
+      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
+      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-04T04:46:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "a337029f",
+      "title": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSHVJV1BmekgtM0Q5NG5veUFQN0FsSDhGcWJfOUFxZDFpdEZBb3VCMEQyZkFIdC1mZ01iTzFOSGE4UjZzcUM3Tm1aM1JiVGFVMF8tRTBGSEk0Z2taUEhpT2hNR0NPQ0pEQ3dra1NrV1Zham9NcFhUWXlOZmtuay0yWjQzWFBTUjRqTEFMRmVuYnhQeS1IZXZaTXpoamF2T2J6akZTYjNXbWVMcHNRLTN2aHF1ejJoWmVlUWliQXJINTcwY2hjaXdla3Zkek1abEotaDhRWkpR?oc=5",
+      "description": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-04T03:29:23.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Puravankara Limited"
+      ],
+      "stream": "projects"
     }
   ],
   "items": [
+    {
+      "id": "a6b2e31e",
+      "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTV2b1JVckRiTkxTSW81RnVqT0xVV09LVkJLNmRPTjhLRXM5N2d0ZHFCWFo2VkduWUEwVUczdU85Yk9IckZwRFRNQmpKT3MwUnM2VzRCNmtCZG5wR1RNV2NvQlhnWDJHNW0xTEljRnZMdVNQZFZISF9HT19QbW50ekI2bUFjWlRyVC1ZNDJPUnNLNkJnUzFJOGNlQ1Fib0lzU19zNTVfem95ZjloLXZ5LWZ2bG45Y1VDaFHSAcoBQVVfeXFMT3loTTAyZFo4RUNMTlZsOHZqWUxQWDNHU3dhaUwtT3ZUbUNHelotTkZBUm4wNkxGbkRMeENkV0psNlZZenNYUV9vZUdsQ2FzQUQtbHdWVDEyakJwa2d0emQwUDlTRkxCdWR6dmttekFCd25ZU3k1aWYyY2Z5bTBWb2FELWdZenlTci1iTS1zUjhGY1dsVDE0VGhiZUE2a2h1WUVDb2Z6TUs2bUdsOTlVd2xEdmMwRUVrVDdyUGVoZnh0VXJkOE95Z1l4Zw?oc=5",
+      "description": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 &nbsp;&nbsp; Gulf News",
+      "source": "Gulf News",
+      "publishedAt": "2026-10-05T09:06:26.000Z",
+      "city": "Hyderabad",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
+    {
+      "id": "6bfc02e8",
+      "title": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhKZ2J0TER2bEVMSC13SVN0ZFRMYVN2VEZwT3ZPV1lVTFloR2ZHN0ZqY2s1eUtUU2NJVFdQRnlfTFkyZC1HbXFOU2ZnUVRVcjFldjYxQXpRUUhiZVRJU05HUWNubWhrVFZrcmFXZjRvN3BZWTRwVW5fRlpDUW1JQm1iZGtsVVpOMjJIdUozbEdBUkdLVjZVSVVpdUo1aXpjandzY3VQRllHbUJvMkZVMkZWeXVhN2vSAbcBQVVfeXFMTUM4SmdidExEdmxFTEgtd0lTdGRUTGFTdlRGcE92T1dZVUxZaEdmRzdGamNrNXlLVFNjSVRXUEZ5X0xZMmQtR21xTlNmZ1FUVXIxZXY2MUF6UVFIYmVUSVNOR1Fjbm1oa1RWa3JhV2Y0bzdwWVk0cFVuX0ZaQ1FtSUJtYmRrbFVaTjIySHVKM2xHQVJHS1Y2VUlVaXVKNWl6Y2p3c2N1UEZZR21CbzJGVTJGVnl1YTdr?oc=5",
+      "description": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-05T05:20:21.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "9192ddc6",
+      "title": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVWpWV3pRSzNVTGEtZlV1emgxbE9vUFBrbE9iMkQ1Y2QyNWdqRFAwMEVYd2VMZndUZXlaWlJMYW5KdktHYW9fZGQwU01kSEhabHpvQ2lGNzl3U1IwenA0N2RJRWhhYzdldC1KcW9ocFB6Si1BcERuR3laRnRXRnhDOHoxN1djcVpNczZfVDQ0R1NmSjlnc1lmRmpKUnFKd21MUk15NXZfRFVRbkhLUmlPakFEbm5ockhUdkF0MWVuY21GZ0I3NHg4eXBfZ2FjWGNaMnJHUU1hYWFqT3poLWtyUG9Hd19pTG5WTU9xV1Zn0gHzAUFVX3lxTE9ITlBMcUgxaDZsQjlZTWphNEtBanZiSG1rejNUM3JoLTRWU1ZTN0lkSXpCeWlWUjlMRmtqcWdoWnMwWldxUVk1U2lwZXo0TUhEUDRrbGhidUF5S3JTaUJ1LVpJa3NBZ01jZjAxa0xtRUpzczVWb05vZHB0UHZWcXBwZHVHa1FPdmZMblJvQVc0Z2E3VGYwUlhmRHQzOV9mY3BBay13dGJkWURFXy1oVzhid2hBVm5pRnZDSXZ3TmdLYy1lUzFmb3E1enlVMENicDhJOF9FN3djb3JaY0FTcy1TRktLTldGdlJOVGFGSlNlbVZlNA?oc=5",
+      "description": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? &nbsp;&nbsp; Business Today",
+      "source": "Business Today",
+      "publishedAt": "2026-10-04T22:55:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "92846498",
+      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSFJZQlhWd0E2a25IU2ppblVfUzZWaDJFU3hFR1dHWXdmRHBNcnJCaXh6S2dBLUktd1o1TmxFQ1ZRaVpqMkVPVjJLWTViZnBWWjg2MmNBRHJUaWE4bEpiaHBvbFRzb2dsdzFKRjl0TUo1c0pDUzA0NGUxTWF1NjdqN3lhb21UQzBRTWZKWHZOaG9PaTZQYlZySjdyUFB3S01XT0ZvdlRBMWJPV0F1Uy05WnFHTWZKLVdkQklBS0J2RGRodTJWeEc3bmU3MjJ0Q2NVYjdKOFZkRTZXUHh6WUk5dVZRWDYwVjQ1cW1hVTFJN3pTWktrRGY00gH3AUFVX3lxTE5IUllCWFZ3QTZrbkhTamluVV9TNlZoMkVTeEVHV0dZd2ZEcE1yckJpeHpLZ0EtSS13WjVObEVDVlFpWmoyRU9WMktZNWJmcFZaODYyY0FEclRpYThsSmJocG9sVHNvZ2x3MUpGOXRNSjVzSkNTMDQ0ZTFNYXU2N2o3eWFvbVRDMFFNZkpYdk5ob09pNlBiVnJKN3JQUHdLTVdPRm92VEExYk9XQXVTLTlacUdNZkotV2RCSUFLQnZEZGh1MlZ4RzduZTcyMnRDY1ViN0o4VmRFNldQeHpZSTl1VlFYNjBWNDVxbWFVMUk3elNaS2tEZjQ?oc=5",
+      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-04T06:32:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "9aad19c9",
+      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
+      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-04T04:46:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "a337029f",
+      "title": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSHVJV1BmekgtM0Q5NG5veUFQN0FsSDhGcWJfOUFxZDFpdEZBb3VCMEQyZkFIdC1mZ01iTzFOSGE4UjZzcUM3Tm1aM1JiVGFVMF8tRTBGSEk0Z2taUEhpT2hNR0NPQ0pEQ3dra1NrV1Zham9NcFhUWXlOZmtuay0yWjQzWFBTUjRqTEFMRmVuYnhQeS1IZXZaTXpoamF2T2J6akZTYjNXbWVMcHNRLTN2aHF1ejJoWmVlUWliQXJINTcwY2hjaXdla3Zkek1abEotaDhRWkpR?oc=5",
+      "description": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-04T03:29:23.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Puravankara Limited"
+      ],
+      "stream": "projects"
+    },
     {
       "id": "e899357d",
       "title": "Alternative capital gains ground in India’s commercial real estate financing - Prop News Time",
@@ -630,6 +744,20 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2pyMlhzMnlLWkhvTmpMUDRGblFiMV9WdEdzYkktNlg1LUx6UG9HaDlPMXNudzZTbmoxaXBDU0QtLWJaVmVQbDItSnhlek5HUjdvS3I0TGNNZkpGXzBLLUxYRVlheWhMVzVabkhBUXdaTmFuV1dRTXVyMjRKaWtlTU9hN3ZpYkRvbTVqNUp1TjJVUThiVy1YSTM4QlhjZ1kxQnJaWTd4aTdKX3BwWEt2WmVn?oc=5",
       "description": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 &nbsp;&nbsp; therealtytoday.com",
       "source": "therealtytoday.com",
+      "publishedAt": "2026-09-28T18:30:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "6f448529",
+      "title": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzltOFlSOEN1Nk1JNG1kcXB0d3VqT2dyaG5Sd3hCV2FBRlhoem0wQmhnSmVlZTJ2eFFLeHk2YWZVdGdKRXFmLUN3NmNjU01uOXpVUG55VlhOS2drX3ptcFliTWtjeHNVaUMtc0FGQXpmZHlqZWR0bXdYTndFc0dRa3dsdndUSU1uMGJUVjRWcE1rUmVkQkpURDZIU3BXU0NweE1YWmtXYzNLQ2s0VGVteGJlS2pBeV9ubnlWWA?oc=5",
+      "description": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
       "publishedAt": "2026-09-28T18:30:00.000Z",
       "city": "India",
       "category": "Market & policy",
