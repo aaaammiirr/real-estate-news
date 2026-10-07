@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T09:12:45.046Z",
+  "generatedAt": "2026-10-07T09:02:56.278Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 79,
+  "itemCount": 83,
   "todayCount": 6,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -101,7 +101,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -161,7 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,132 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 11
+      "items": 9
     }
   ],
   "todayItems": [
+    {
+      "id": "1c2ef1eb",
+      "title": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElNUFNRZGt5YVFzMFZkcWZVSFdsUUlBeWxEVE05anFmV3VvS2VORjJ1RUQ4SU45dF9iaEI1M3ZobXBoeFRzbnBJeUQ5dXJoMUY5UE5HZEdsZDZGVG1LcnJJMzdKdERSMzZKOTdrQlRIUHhpN3VSZmFtejlzeWJPQ1JUdUh2aXhiOG9ZTHRtUXZGbTlndWsyd2M1eFJjTHlOa2c?oc=5",
+      "description": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-07T07:55:50.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Bajaj Housing Finance"
+      ],
+      "stream": "funds"
+    },
+    {
+      "id": "881a38e",
+      "title": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0Q3eGFhMFlZbC0yb3hEdDdTcGVZbEJ6dzBranBlWWZxU2VQMk5JNHZ1UHhkeGZCajR4S0VtSk1HVmpaMXBZWW83SnJUZXVXTklYWmVReWdJU05LUHBrUUpiTXczN1liMUE1WDBwNGRzaEhRUmx0Y1pFOUlUdmpSRkVKWEJrZlFPSURSZ2dB?oc=5",
+      "description": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-06T20:34:24.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "5e29078b",
+      "title": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVZ3UFFEQW90TDRKc25obnNYa1VvNkZrRnBYY3VwaDVfdWRfVTNOaXRSaDJhWFVldXVwblB4YmV0bTFoS0ZleXV5cUVuWWdhdVFkUElLekxhekhkSU40c29tbVVWcGRBSVhZQlItUWJ1Yy1MQl83RW92Q1QxR2ZlMEdZVnpVc3o5Qy1CZmd5NTlma21tNUkzTF9wZWtIcC1hSHNablpiLW1MWllQNnA1TkFKRFhKVlZDWVpwNXZlaHktOVloMVhwa2NsODlEYTVt0gHWAUFVX3lxTE5tQjdKdFB2RmlGaTVzWThHVGtlaWVaYnktUy1WTkMxYVZWRFl4VDIzZU1WX1J1N0MyWVMwQ1l3NFFfc3JQaEU5XzMtQ2J1ZlVUbVpuSGhWU3lJa201eTJuQzB6dTN3Ti05NVIyRFVjVlFmTXZfLU13eXcyZEJZVEZ2LUNTTEFLeWNoSlRYeFlwejlpbUxEQWo3OFJoZFN5ZG9mUEFSQV93NHJJd1dHQmRpSjh6cktQZkUyWDhhZWdxcjFOUGUxVGVLSXVLakIycE41d0tfc3c?oc=5",
+      "description": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-06T06:49:25.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "93465d7c",
+      "title": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXFUdWJCYnQ3MUJnNV9FVF8tOG1YNmdCVnd2ZHFDN2ZIUXZnbmNac1B2VDluX2lodlFkNVRicU9STW9vN295cE5rVHFXdlpMMXJfLUpXMkdwVFZFS2p5Ykk0ZFFmemw1QmN3UXVFb0VPdG1PakN5SVdfcF9UV0VOX3RNVTNaaTh0bmM2c1Y1WU5SQUFnYnFydGlGSQ?oc=5",
+      "description": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-05T20:38:35.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "7d90c548",
+      "title": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai - Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlpBTkwzWXp0TWF5RE1CdHV4QWpxOS1wNXRXTHdKWXpxdS1UTW1iN0ttZ0FYcFpnWXg3LWFHOGF0Q3oyZzExRVI0RnRPWEk4RjlVRy1LVGFyRmNLUU44NGNHOHBLMHB3VHBTM0YtekNSNC1OZkFKSWR4WWJOdFN6Yk5RbVpNYnZjeGloTWJvQU8waDlVVG92ZWFPMlA2Smtvd1hlVQ?oc=5",
+      "description": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai &nbsp;&nbsp; Business Upturn",
+      "source": "Business Upturn",
+      "publishedAt": "2026-10-05T13:55:09.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "b28702b1",
+      "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWhNMDJkWjhFQ0xOVmw4dmpZTFBYM0dTd2FpTC1PdlRtQ0d6Wi1ORkFSbjA2TEZuREx4Q2RXSmw2Vll6c1hRX29lR2xDYXNBRC1sd1ZUMTJqQnBrZ3R6ZDBQOVNGTEJ1ZHp2a216QUJ3bllTeTVpZjJjZnltMFZvYUQtZ1l6eVNyLWJNLXNSOEZjV2xUMTRUaGJlQTZraHVZRUNvZnpNSzZtR2w5OVV3bER2YzBFRWtUN3JQZWhmeHRVcmQ4T3lnWXhn0gHKAUFVX3lxTE95aE0wMmRaOEVDTE5WbDh2allMUFgzR1N3YWlMLU92VG1DR3paLU5GQVJuMDZMRm5ETHhDZFdKbDZWWXpzWFFfb2VHbENhc0FELWx3VlQxMmpCcGtndHpkMFA5U0ZMQnVkenZrbXpBQnduWVN5NWlmMmNmeW0wVm9hRC1nWXp5U3ItYk0tc1I4RmNXbFQxNFRoYmVBNmtodVlFQ29mek1LNm1HbDk5VXdsRHZjMEVFa1Q3clBlaGZ4dFVyZDhPeWdZeGc?oc=5",
+      "description": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 &nbsp;&nbsp; Gulf News",
+      "source": "Gulf News",
+      "publishedAt": "2026-10-05T09:06:26.000Z",
+      "city": "Hyderabad",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    }
+  ],
+  "items": [
+    {
+      "id": "1c2ef1eb",
+      "title": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElNUFNRZGt5YVFzMFZkcWZVSFdsUUlBeWxEVE05anFmV3VvS2VORjJ1RUQ4SU45dF9iaEI1M3ZobXBoeFRzbnBJeUQ5dXJoMUY5UE5HZEdsZDZGVG1LcnJJMzdKdERSMzZKOTdrQlRIUHhpN3VSZmFtejlzeWJPQ1JUdUh2aXhiOG9ZTHRtUXZGbTlndWsyd2M1eFJjTHlOa2c?oc=5",
+      "description": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-07T07:55:50.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Bajaj Housing Finance"
+      ],
+      "stream": "funds"
+    },
+    {
+      "id": "881a38e",
+      "title": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0Q3eGFhMFlZbC0yb3hEdDdTcGVZbEJ6dzBranBlWWZxU2VQMk5JNHZ1UHhkeGZCajR4S0VtSk1HVmpaMXBZWW83SnJUZXVXTklYWmVReWdJU05LUHBrUUpiTXczN1liMUE1WDBwNGRzaEhRUmx0Y1pFOUlUdmpSRkVKWEJrZlFPSURSZ2dB?oc=5",
+      "description": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-06T20:34:24.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "5e29078b",
       "title": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 - Business Standard",
@@ -215,6 +337,20 @@
       "description": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai &nbsp;&nbsp; Business Upturn",
       "source": "Business Upturn",
       "publishedAt": "2026-10-05T13:55:10.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "7d90c548",
+      "title": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai - Business Upturn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlpBTkwzWXp0TWF5RE1CdHV4QWpxOS1wNXRXTHdKWXpxdS1UTW1iN0ttZ0FYcFpnWXg3LWFHOGF0Q3oyZzExRVI0RnRPWEk4RjlVRy1LVGFyRmNLUU44NGNHOHBLMHB3VHBTM0YtekNSNC1OZkFKSWR4WWJOdFN6Yk5RbVpNYnZjeGloTWJvQU8waDlVVG92ZWFPMlA2Smtvd1hlVQ?oc=5",
+      "description": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai &nbsp;&nbsp; Business Upturn",
+      "source": "Business Upturn",
+      "publishedAt": "2026-10-05T13:55:09.000Z",
       "city": "Mumbai",
       "category": "Land & acquisitions",
       "tone": "positive",
@@ -237,81 +373,9 @@
       "stream": "policy"
     },
     {
-      "id": "6bfc02e8",
-      "title": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhKZ2J0TER2bEVMSC13SVN0ZFRMYVN2VEZwT3ZPV1lVTFloR2ZHN0ZqY2s1eUtUU2NJVFdQRnlfTFkyZC1HbXFOU2ZnUVRVcjFldjYxQXpRUUhiZVRJU05HUWNubWhrVFZrcmFXZjRvN3BZWTRwVW5fRlpDUW1JQm1iZGtsVVpOMjJIdUozbEdBUkdLVjZVSVVpdUo1aXpjandzY3VQRllHbUJvMkZVMkZWeXVhN2vSAbcBQVVfeXFMTUM4SmdidExEdmxFTEgtd0lTdGRUTGFTdlRGcE92T1dZVUxZaEdmRzdGamNrNXlLVFNjSVRXUEZ5X0xZMmQtR21xTlNmZ1FUVXIxZXY2MUF6UVFIYmVUSVNOR1Fjbm1oa1RWa3JhV2Y0bzdwWVk0cFVuX0ZaQ1FtSUJtYmRrbFVaTjIySHVKM2xHQVJHS1Y2VUlVaXVKNWl6Y2p3c2N1UEZZR21CbzJGVTJGVnl1YTdr?oc=5",
-      "description": "Embassy Sells 477 Homes for Rs 1,800 Cr in Bengaluru Project &nbsp;&nbsp; Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-05T05:20:21.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "9192ddc6",
-      "title": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVWpWV3pRSzNVTGEtZlV1emgxbE9vUFBrbE9iMkQ1Y2QyNWdqRFAwMEVYd2VMZndUZXlaWlJMYW5KdktHYW9fZGQwU01kSEhabHpvQ2lGNzl3U1IwenA0N2RJRWhhYzdldC1KcW9ocFB6Si1BcERuR3laRnRXRnhDOHoxN1djcVpNczZfVDQ0R1NmSjlnc1lmRmpKUnFKd21MUk15NXZfRFVRbkhLUmlPakFEbm5ockhUdkF0MWVuY21GZ0I3NHg4eXBfZ2FjWGNaMnJHUU1hYWFqT3poLWtyUG9Hd19pTG5WTU9xV1Zn0gHzAUFVX3lxTE9ITlBMcUgxaDZsQjlZTWphNEtBanZiSG1rejNUM3JoLTRWU1ZTN0lkSXpCeWlWUjlMRmtqcWdoWnMwWldxUVk1U2lwZXo0TUhEUDRrbGhidUF5S3JTaUJ1LVpJa3NBZ01jZjAxa0xtRUpzczVWb05vZHB0UHZWcXBwZHVHa1FPdmZMblJvQVc0Z2E3VGYwUlhmRHQzOV9mY3BBay13dGJkWURFXy1oVzhid2hBVm5pRnZDSXZ3TmdLYy1lUzFmb3E1enlVMENicDhJOF9FN3djb3JaY0FTcy1TRktLTldGdlJOVGFGSlNlbVZlNA?oc=5",
-      "description": "REIT payouts double to ₹3,136 crore: Is Indian commercial real estate becoming an income play? &nbsp;&nbsp; Business Today",
-      "source": "Business Today",
-      "publishedAt": "2026-10-04T22:55:02.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    }
-  ],
-  "items": [
-    {
-      "id": "5e29078b",
-      "title": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVZ3UFFEQW90TDRKc25obnNYa1VvNkZrRnBYY3VwaDVfdWRfVTNOaXRSaDJhWFVldXVwblB4YmV0bTFoS0ZleXV5cUVuWWdhdVFkUElLekxhekhkSU40c29tbVVWcGRBSVhZQlItUWJ1Yy1MQl83RW92Q1QxR2ZlMEdZVnpVc3o5Qy1CZmd5NTlma21tNUkzTF9wZWtIcC1hSHNablpiLW1MWllQNnA1TkFKRFhKVlZDWVpwNXZlaHktOVloMVhwa2NsODlEYTVt0gHWAUFVX3lxTE5tQjdKdFB2RmlGaTVzWThHVGtlaWVaYnktUy1WTkMxYVZWRFl4VDIzZU1WX1J1N0MyWVMwQ1l3NFFfc3JQaEU5XzMtQ2J1ZlVUbVpuSGhWU3lJa201eTJuQzB6dTN3Ti05NVIyRFVjVlFmTXZfLU13eXcyZEJZVEZ2LUNTTEFLeWNoSlRYeFlwejlpbUxEQWo3OFJoZFN5ZG9mUEFSQV93NHJJd1dHQmRpSjh6cktQZkUyWDhhZWdxcjFOUGUxVGVLSXVLakIycE41d0tfc3c?oc=5",
-      "description": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 &nbsp;&nbsp; Business Standard",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-06T06:49:25.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "93465d7c",
-      "title": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXFUdWJCYnQ3MUJnNV9FVF8tOG1YNmdCVnd2ZHFDN2ZIUXZnbmNac1B2VDluX2lodlFkNVRicU9STW9vN295cE5rVHFXdlpMMXJfLUpXMkdwVFZFS2p5Ykk0ZFFmemw1QmN3UXVFb0VPdG1PakN5SVdfcF9UV0VOX3RNVTNaaTh0bmM2c1Y1WU5SQUFnYnFydGlGSQ?oc=5",
-      "description": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-05T20:38:35.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "ed6b3947",
-      "title": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai - Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjBUMTV4SVBRM0hVNGxXZGZHRkJFa2dyUTZEeEEtdjNmdU1vX3VvYU94VkJaRHBDeW5FMGRqNTdsdGJOLWlpckxkcXRiYnRiNzQzLUZla0pPQnNuN3d4R1dOYkRxUk9pa2NSaVR0am9fejVEckhzZUVBRXVoUHExX1FVWDdNM1JzLVlwbU9SWDk3NUlZTHRmUmF5VnNLb0E?oc=5",
-      "description": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai &nbsp;&nbsp; Business Upturn",
-      "source": "Business Upturn",
-      "publishedAt": "2026-10-05T13:55:10.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "a6b2e31e",
+      "id": "b28702b1",
       "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMTV2b1JVckRiTkxTSW81RnVqT0xVV09LVkJLNmRPTjhLRXM5N2d0ZHFCWFo2VkduWUEwVUczdU85Yk9IckZwRFRNQmpKT3MwUnM2VzRCNmtCZG5wR1RNV2NvQlhnWDJHNW0xTEljRnZMdVNQZFZISF9HT19QbW50ekI2bUFjWlRyVC1ZNDJPUnNLNkJnUzFJOGNlQ1Fib0lzU19zNTVfem95ZjloLXZ5LWZ2bG45Y1VDaFHSAcoBQVVfeXFMT3loTTAyZFo4RUNMTlZsOHZqWUxQWDNHU3dhaUwtT3ZUbUNHelotTkZBUm4wNkxGbkRMeENkV0psNlZZenNYUV9vZUdsQ2FzQUQtbHdWVDEyakJwa2d0emQwUDlTRkxCdWR6dmttekFCd25ZU3k1aWYyY2Z5bTBWb2FELWdZenlTci1iTS1zUjhGY1dsVDE0VGhiZUE2a2h1WUVDb2Z6TUs2bUdsOTlVd2xEdmMwRUVrVDdyUGVoZnh0VXJkOE95Z1l4Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWhNMDJkWjhFQ0xOVmw4dmpZTFBYM0dTd2FpTC1PdlRtQ0d6Wi1ORkFSbjA2TEZuREx4Q2RXSmw2Vll6c1hRX29lR2xDYXNBRC1sd1ZUMTJqQnBrZ3R6ZDBQOVNGTEJ1ZHp2a216QUJ3bllTeTVpZjJjZnltMFZvYUQtZ1l6eVNyLWJNLXNSOEZjV2xUMTRUaGJlQTZraHVZRUNvZnpNSzZtR2w5OVV3bER2YzBFRWtUN3JQZWhmeHRVcmQ4T3lnWXhn0gHKAUFVX3lxTE95aE0wMmRaOEVDTE5WbDh2allMUFgzR1N3YWlMLU92VG1DR3paLU5GQVJuMDZMRm5ETHhDZFdKbDZWWXpzWFFfb2VHbENhc0FELWx3VlQxMmpCcGtndHpkMFA5U0ZMQnVkenZrbXpBQnduWVN5NWlmMmNmeW0wVm9hRC1nWXp5U3ItYk0tc1I4RmNXbFQxNFRoYmVBNmtodVlFQ29mek1LNm1HbDk5VXdsRHZjMEVFa1Q3clBlaGZ4dFVyZDhPeWdZeGc?oc=5",
       "description": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 &nbsp;&nbsp; Gulf News",
       "source": "Gulf News",
       "publishedAt": "2026-10-05T09:06:26.000Z",
