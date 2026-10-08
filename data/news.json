@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T09:02:56.278Z",
+  "generatedAt": "2026-10-08T09:18:31.182Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 83,
-  "todayCount": 6,
+  "itemCount": 90,
+  "todayCount": 11,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,7 +11,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -41,7 +41,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -176,11 +176,81 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 9
+      "items": 14
     }
   ],
   "todayItems": [
     {
+      "id": "d0209f45",
+      "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
+      "description": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-08T04:34:12.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "b48811ff",
+      "title": "Embassy REIT expands retail footprint in Mumbai-located flagship asset - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxUVUVkdmRSbEhMYjFCbm1BNnFxSGQyZElOM0xwejhCZDVMVlMxNXdRMmR0aGl5c0xoX1NvTzFKclpKUEhrdHh0Z2h1R0VtaUpuVVhDUHhQNTFrMFRjWGJwM3lrRHJqdmxkdHlPWGZPQVFKQUN0SzJTaXc3U1FWVU1CSW9WRkJZVUlPb05SRnpteG85dlVSdEpB?oc=5",
+      "description": "Embassy REIT expands retail footprint in Mumbai-located flagship asset &nbsp;&nbsp; VCCircle",
+      "source": "VCCircle",
+      "publishedAt": "2026-10-07T12:09:37.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "69a59e1a",
+      "title": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmsxZmtDYmlYdS1xS2wwdjJqbmNObDlvMHFVd2lqLUdscEk3UXlfc1hQMk41eTNIR2o4VGdVOHd6Nm5md2xvb2ZLSEpfQy1kWGg3N3Z2cmktWGNQSjJNdmx4ZzBNZEZ5OEcxMEtIeDlodFRuRmdSSVl6V0d5dWJwMHk4bjRQX3ptelQzd3ZGOExZOXdqV3R3eFZ5cUowRjdDdFhKeW1MUzlrOGtVaE5YMWg1T3JHZ3VoY19ReDF6QnZDbzhOaklPc19LRlZVNVpnYzctSXpWX2xZOU9RLWlLVDBuUVByOUV2VFBtQm5ZWHZpUdIB9wFBVV95cUxQN3FOZjJBOFNLUFhTcDRncFJ2NXMtbUotaV8zbWRTMmV4WVIxeU9PMnJvVFptam45Y0hNTnNjR3JHZEtlTlA1X1dXMGFjemVYSTVnRk9SdGdhS2pqQlhiQkROQlRhejc4UExtUXh4THdSdHhBRVVjOG1UYURVQzQyZW52bHNYV18wcEZtcllYamJ6U2tzcFpzUVEwZmFCUzd3OXBCRDI4MXFQc2FUczZTTXQzZVh5c1hpTTN0c3Vfb0dkWWdsREQyV2YyeF9GM2lxTGl3SWlEcGdudDBYZVJpNU1TNkdpc0RSLW81QjVXQnZ5X2tiazVn?oc=5",
+      "description": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T12:08:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "negative",
+      "priority": "high",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "3c7d6af3",
+      "title": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3JwdG9RWTRrWnpVcEVqbnBuX192VmJfS1FhMWxIdElvcDU5dTFlTWZSUXdZOUpnQUgwRFZZWXpMckJtZDJWZXJSRldNQ0hEMDN0TzF4SXZRc0JzQWZ4c3BvZWhFcllVZU9NalNQSjZvalRjR1FlWFVkWmFMYUQ1WGtHU2VFZFFoekd2TzN6SDJLS3p5UTl0VDl4ZWxfd3pEYWVWeTVmUVhDeFBxQmFyUUxsMC0yZTZkZXJfNk85eC1zenE4NWc?oc=5",
+      "description": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-07T11:30:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "a8d0e5c",
+      "title": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMURBZUtrc0F0M1ZZV19VUDZ6Zkx3VVdkSGI3MEVNRlZ6cVZISk1rQnU3UHhNN2IyNkZFNEhDV1J1OEM0eUhNUFQzMGRINVNxSFVadGthVGU0dEppOEFYMVZLYnlKZXA3eXZMTExZZE02SExXU211OGw0RXh5ejRpSTVVa2FnZVlUNG5GR2pnMkQtdXgtVjdYdVk1Z09lXzRxSndnb292QXY5emJ3a2xraE1KWmpLTlRZOG83VXJzblY3MWMzT2xBOEp2X2I1WTk4UHlyNG40eENCcEQ1NEs00gHkAUFVX3lxTE1KY2ZMX1JsUi16RnMyMEIta1cyaUN2aHRNNVRBT1ZmTzB2X1lRbGwyWXFqekl2UGpkWXppeGtJSEJzS28tSXJmM19ZS3dRUG5rMGJKQkRBZTdWT3hHZGdMS0pram9pTG5TQTlwc0d1aFY5TVNHU2VRb0hUU19hMHNjM0Y1TV9velpLYzBiS3g1QUYycWNlT0RuQ0l5QzBwSGxDWVRScXdQUFM1dmJlMTJ5aFdMdVJQY3VsMHlTTmQ4R0pvMWY2NENoVkxad1VBU3MxTXNmby1STWhGeV94aHZBUi1sbA?oc=5",
+      "description": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-07T11:08:40.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "1c2ef1eb",
       "title": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement - Sahi",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElNUFNRZGt5YVFzMFZkcWZVSFdsUUlBeWxEVE05anFmV3VvS2VORjJ1RUQ4SU45dF9iaEI1M3ZobXBoeFRzbnBJeUQ5dXJoMUY5UE5HZEdsZDZGVG1LcnJJMzdKdERSMzZKOTdrQlRIUHhpN3VSZmFtejlzeWJPQ1JUdUh2aXhiOG9ZTHRtUXZGbTlndWsyd2M1eFJjTHlOa2c?oc=5",
@@ -194,6 +264,48 @@
       "entities": [
         "Bajaj Housing Finance"
       ],
+      "stream": "funds"
+    },
+    {
+      "id": "456a8270",
+      "title": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZi16cW5BZTNORE9xNDlQNTBFTVVPVFVYaVFrbTUtUXNvZWdtLThiZFlkUWpVUElxUGZRZzN3UGdDWHYxRnpwRk9nU1RMZExEWmlVRkI5UlByQ016X3RFaFZ2bGVRNXBYZjJvRGtIbkhaNDhseEVFbWl3R2o0dHZzV1NrRGtqYTZWY3NLOWpuQ3FBUQ?oc=5",
+      "description": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru &nbsp;&nbsp; openPR.com",
+      "source": "openPR.com",
+      "publishedAt": "2026-10-07T07:40:18.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "10a34db6",
+      "title": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQamhPMGRkMjNMRFFhQWpQVVVTWDQteFRya1dMQThiV1dxN2RwN0QtV21DcE1DY3pmcVRVQzBqZEVwWkxnZkVrU2V3LWlzZkViUkM1U1YyLTNlS3gxQ0xLOVJPX09sTVBueEdZOHVxbER1NXNqTWxfcHpiRklDM0twU3RtcmN1TmY4bi11S0FQenZkcmVhUmQ5RDc1TTJzcTlIQXRQRWZWYXNSNnFSUHhYVVR3alpubGpPM2F3Wmd5cE9obElnUEotU2ktd3JPUWFPQTBlYnF0bjl4QWlhRGdCQXR30gHnAUFVX3lxTE95WFFYdU1wYV95WEhxUTYxM2ZhSldBVDlHRUhiQ1FRSWU1bHRrVjlHYnNnMldWMVlVZnhVSTAwZC16ZTVSbVEwRkVtV2xoMVBwRDZlakVCR3VoYlhQbjhIZ2xDRVJ3b1pRVjBud3B5b2JUZzBObU8yNkhjTUhZc1pZSTYxOC1TaEF6bkpVRzdNWHBKbW1UTTRPcXFJZ0pQTXczVC0yLWw5NkwyWWtlMjhLOVkydDZoZGE2d0VpdGE4XzhpYm41eU5VcXRYUTVRejBjNTV4VHRoQ1ZBYUNwNEpNbFFjUGppSQ?oc=5",
+      "description": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-07T03:48:22.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "9aad19c9",
+      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
+      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T02:46:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
       "stream": "funds"
     },
     {
@@ -213,64 +325,92 @@
       "stream": "reit"
     },
     {
-      "id": "5e29078b",
-      "title": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVZ3UFFEQW90TDRKc25obnNYa1VvNkZrRnBYY3VwaDVfdWRfVTNOaXRSaDJhWFVldXVwblB4YmV0bTFoS0ZleXV5cUVuWWdhdVFkUElLekxhekhkSU40c29tbVVWcGRBSVhZQlItUWJ1Yy1MQl83RW92Q1QxR2ZlMEdZVnpVc3o5Qy1CZmd5NTlma21tNUkzTF9wZWtIcC1hSHNablpiLW1MWllQNnA1TkFKRFhKVlZDWVpwNXZlaHktOVloMVhwa2NsODlEYTVt0gHWAUFVX3lxTE5tQjdKdFB2RmlGaTVzWThHVGtlaWVaYnktUy1WTkMxYVZWRFl4VDIzZU1WX1J1N0MyWVMwQ1l3NFFfc3JQaEU5XzMtQ2J1ZlVUbVpuSGhWU3lJa201eTJuQzB6dTN3Ti05NVIyRFVjVlFmTXZfLU13eXcyZEJZVEZ2LUNTTEFLeWNoSlRYeFlwejlpbUxEQWo3OFJoZFN5ZG9mUEFSQV93NHJJd1dHQmRpSjh6cktQZkUyWDhhZWdxcjFOUGUxVGVLSXVLakIycE41d0tfc3c?oc=5",
-      "description": "PE investments into Indian real estate rise 23% to $2.7 bn in H1 FY27 &nbsp;&nbsp; Business Standard",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-06T06:49:25.000Z",
-      "city": "India",
+      "id": "fd9e881f",
+      "title": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ01uMnJ1SnNIVWFSRktYZmhzeHl0N3U0anVPQ0JWVnROQlRnb1FGeFc0Q2hxRlFDV0d6T2ZUVGVCNGRjdUd6VzQ5ZXhvTnVpbmlxcEVuQVY5TnJ3SnZ0elJ5U1dXTi1ST0lCNlcxUVUyd3ZNaEY2dWhDd3NKVkJPVW5LcG1NYzhWNFdhNkNVUjFTQy12SXByLUpRUVRaWlNLWGZZYWVqV3RUYVdXU2VSVFlLbkluQTZSVDFLb0FQLVJnVWtKY3pxWlpEcjg2Q21hOE1YTTZsQnR3WUpqRkVoRnBB?oc=5",
+      "description": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-06T19:23:07.000Z",
+      "city": "Mumbai",
       "category": "Market & policy",
-      "tone": "positive",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
-    {
-      "id": "93465d7c",
-      "title": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXFUdWJCYnQ3MUJnNV9FVF8tOG1YNmdCVnd2ZHFDN2ZIUXZnbmNac1B2VDluX2lodlFkNVRicU9STW9vN295cE5rVHFXdlpMMXJfLUpXMkdwVFZFS2p5Ykk0ZFFmemw1QmN3UXVFb0VPdG1PakN5SVdfcF9UV0VOX3RNVTNaaTh0bmM2c1Y1WU5SQUFnYnFydGlGSQ?oc=5",
-      "description": "Sunteck Realty Subsidiary Buys 4.5 Acres Land In Borivali West, Mumbai &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-05T20:38:35.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "7d90c548",
-      "title": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai - Business Upturn",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlpBTkwzWXp0TWF5RE1CdHV4QWpxOS1wNXRXTHdKWXpxdS1UTW1iN0ttZ0FYcFpnWXg3LWFHOGF0Q3oyZzExRVI0RnRPWEk4RjlVRy1LVGFyRmNLUU44NGNHOHBLMHB3VHBTM0YtekNSNC1OZkFKSWR4WWJOdFN6Yk5RbVpNYnZjeGloTWJvQU8waDlVVG92ZWFPMlA2Smtvd1hlVQ?oc=5",
-      "description": "Sunteck Realty acquires 4.5-acre land in Borivali West, Mumbai &nbsp;&nbsp; Business Upturn",
-      "source": "Business Upturn",
-      "publishedAt": "2026-10-05T13:55:09.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "b28702b1",
-      "title": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 - Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWhNMDJkWjhFQ0xOVmw4dmpZTFBYM0dTd2FpTC1PdlRtQ0d6Wi1ORkFSbjA2TEZuREx4Q2RXSmw2Vll6c1hRX29lR2xDYXNBRC1sd1ZUMTJqQnBrZ3R6ZDBQOVNGTEJ1ZHp2a216QUJ3bllTeTVpZjJjZnltMFZvYUQtZ1l6eVNyLWJNLXNSOEZjV2xUMTRUaGJlQTZraHVZRUNvZnpNSzZtR2w5OVV3bER2YzBFRWtUN3JQZWhmeHRVcmQ4T3lnWXhn0gHKAUFVX3lxTE95aE0wMmRaOEVDTE5WbDh2allMUFgzR1N3YWlMLU92VG1DR3paLU5GQVJuMDZMRm5ETHhDZFdKbDZWWXpzWFFfb2VHbENhc0FELWx3VlQxMmpCcGtndHpkMFA5U0ZMQnVkenZrbXpBQnduWVN5NWlmMmNmeW0wVm9hRC1nWXp5U3ItYk0tc1I4RmNXbFQxNFRoYmVBNmtodVlFQ29mek1LNm1HbDk5VXdsRHZjMEVFa1Q3clBlaGZ4dFVyZDhPeWdZeGc?oc=5",
-      "description": "Gateway to Global Real Estate: Hyderabad to host UAE Property Grand Expo 2026 &nbsp;&nbsp; Gulf News",
-      "source": "Gulf News",
-      "publishedAt": "2026-10-05T09:06:26.000Z",
-      "city": "Hyderabad",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
     }
   ],
   "items": [
     {
+      "id": "d0209f45",
+      "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
+      "description": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-08T04:34:12.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "b48811ff",
+      "title": "Embassy REIT expands retail footprint in Mumbai-located flagship asset - VCCircle",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxUVUVkdmRSbEhMYjFCbm1BNnFxSGQyZElOM0xwejhCZDVMVlMxNXdRMmR0aGl5c0xoX1NvTzFKclpKUEhrdHh0Z2h1R0VtaUpuVVhDUHhQNTFrMFRjWGJwM3lrRHJqdmxkdHlPWGZPQVFKQUN0SzJTaXc3U1FWVU1CSW9WRkJZVUlPb05SRnpteG85dlVSdEpB?oc=5",
+      "description": "Embassy REIT expands retail footprint in Mumbai-located flagship asset &nbsp;&nbsp; VCCircle",
+      "source": "VCCircle",
+      "publishedAt": "2026-10-07T12:09:37.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "69a59e1a",
+      "title": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmsxZmtDYmlYdS1xS2wwdjJqbmNObDlvMHFVd2lqLUdscEk3UXlfc1hQMk41eTNIR2o4VGdVOHd6Nm5md2xvb2ZLSEpfQy1kWGg3N3Z2cmktWGNQSjJNdmx4ZzBNZEZ5OEcxMEtIeDlodFRuRmdSSVl6V0d5dWJwMHk4bjRQX3ptelQzd3ZGOExZOXdqV3R3eFZ5cUowRjdDdFhKeW1MUzlrOGtVaE5YMWg1T3JHZ3VoY19ReDF6QnZDbzhOaklPc19LRlZVNVpnYzctSXpWX2xZOU9RLWlLVDBuUVByOUV2VFBtQm5ZWHZpUdIB9wFBVV95cUxQN3FOZjJBOFNLUFhTcDRncFJ2NXMtbUotaV8zbWRTMmV4WVIxeU9PMnJvVFptam45Y0hNTnNjR3JHZEtlTlA1X1dXMGFjemVYSTVnRk9SdGdhS2pqQlhiQkROQlRhejc4UExtUXh4THdSdHhBRVVjOG1UYURVQzQyZW52bHNYV18wcEZtcllYamJ6U2tzcFpzUVEwZmFCUzd3OXBCRDI4MXFQc2FUczZTTXQzZVh5c1hpTTN0c3Vfb0dkWWdsREQyV2YyeF9GM2lxTGl3SWlEcGdudDBYZVJpNU1TNkdpc0RSLW81QjVXQnZ5X2tiazVn?oc=5",
+      "description": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-07T12:08:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "negative",
+      "priority": "high",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "3c7d6af3",
+      "title": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3JwdG9RWTRrWnpVcEVqbnBuX192VmJfS1FhMWxIdElvcDU5dTFlTWZSUXdZOUpnQUgwRFZZWXpMckJtZDJWZXJSRldNQ0hEMDN0TzF4SXZRc0JzQWZ4c3BvZWhFcllVZU9NalNQSjZvalRjR1FlWFVkWmFMYUQ1WGtHU2VFZFFoekd2TzN6SDJLS3p5UTl0VDl4ZWxfd3pEYWVWeTVmUVhDeFBxQmFyUUxsMC0yZTZkZXJfNk85eC1zenE4NWc?oc=5",
+      "description": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-07T11:30:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "a8d0e5c",
+      "title": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMURBZUtrc0F0M1ZZV19VUDZ6Zkx3VVdkSGI3MEVNRlZ6cVZISk1rQnU3UHhNN2IyNkZFNEhDV1J1OEM0eUhNUFQzMGRINVNxSFVadGthVGU0dEppOEFYMVZLYnlKZXA3eXZMTExZZE02SExXU211OGw0RXh5ejRpSTVVa2FnZVlUNG5GR2pnMkQtdXgtVjdYdVk1Z09lXzRxSndnb292QXY5emJ3a2xraE1KWmpLTlRZOG83VXJzblY3MWMzT2xBOEp2X2I1WTk4UHlyNG40eENCcEQ1NEs00gHkAUFVX3lxTE1KY2ZMX1JsUi16RnMyMEIta1cyaUN2aHRNNVRBT1ZmTzB2X1lRbGwyWXFqekl2UGpkWXppeGtJSEJzS28tSXJmM19ZS3dRUG5rMGJKQkRBZTdWT3hHZGdMS0pram9pTG5TQTlwc0d1aFY5TVNHU2VRb0hUU19hMHNjM0Y1TV9velpLYzBiS3g1QUYycWNlT0RuQ0l5QzBwSGxDWVRScXdQUFM1dmJlMTJ5aFdMdVJQY3VsMHlTTmQ4R0pvMWY2NENoVkxad1VBU3MxTXNmby1STWhGeV94aHZBUi1sbA?oc=5",
+      "description": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-07T11:08:40.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "1c2ef1eb",
       "title": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement - Sahi",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElNUFNRZGt5YVFzMFZkcWZVSFdsUUlBeWxEVE05anFmV3VvS2VORjJ1RUQ4SU45dF9iaEI1M3ZobXBoeFRzbnBJeUQ5dXJoMUY5UE5HZEdsZDZGVG1LcnJJMzdKdERSMzZKOTdrQlRIUHhpN3VSZmFtejlzeWJPQ1JUdUh2aXhiOG9ZTHRtUXZGbTlndWsyd2M1eFJjTHlOa2c?oc=5",
@@ -287,6 +427,34 @@
       "stream": "funds"
     },
     {
+      "id": "456a8270",
+      "title": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZi16cW5BZTNORE9xNDlQNTBFTVVPVFVYaVFrbTUtUXNvZWdtLThiZFlkUWpVUElxUGZRZzN3UGdDWHYxRnpwRk9nU1RMZExEWmlVRkI5UlByQ016X3RFaFZ2bGVRNXBYZjJvRGtIbkhaNDhseEVFbWl3R2o0dHZzV1NrRGtqYTZWY3NLOWpuQ3FBUQ?oc=5",
+      "description": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru &nbsp;&nbsp; openPR.com",
+      "source": "openPR.com",
+      "publishedAt": "2026-10-07T07:40:18.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "10a34db6",
+      "title": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQamhPMGRkMjNMRFFhQWpQVVVTWDQteFRya1dMQThiV1dxN2RwN0QtV21DcE1DY3pmcVRVQzBqZEVwWkxnZkVrU2V3LWlzZkViUkM1U1YyLTNlS3gxQ0xLOVJPX09sTVBueEdZOHVxbER1NXNqTWxfcHpiRklDM0twU3RtcmN1TmY4bi11S0FQenZkcmVhUmQ5RDc1TTJzcTlIQXRQRWZWYXNSNnFSUHhYVVR3alpubGpPM2F3Wmd5cE9obElnUEotU2ktd3JPUWFPQTBlYnF0bjl4QWlhRGdCQXR30gHnAUFVX3lxTE95WFFYdU1wYV95WEhxUTYxM2ZhSldBVDlHRUhiQ1FRSWU1bHRrVjlHYnNnMldWMVlVZnhVSTAwZC16ZTVSbVEwRkVtV2xoMVBwRDZlakVCR3VoYlhQbjhIZ2xDRVJ3b1pRVjBud3B5b2JUZzBObU8yNkhjTUhZc1pZSTYxOC1TaEF6bkpVRzdNWHBKbW1UTTRPcXFJZ0pQTXczVC0yLWw5NkwyWWtlMjhLOVkydDZoZGE2d0VpdGE4XzhpYm41eU5VcXRYUTVRejBjNTV4VHRoQ1ZBYUNwNEpNbFFjUGppSQ?oc=5",
+      "description": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-07T03:48:22.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "881a38e",
       "title": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase - Sahi",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0Q3eGFhMFlZbC0yb3hEdDdTcGVZbEJ6dzBranBlWWZxU2VQMk5JNHZ1UHhkeGZCajR4S0VtSk1HVmpaMXBZWW83SnJUZXVXTklYWmVReWdJU05LUHBrUUpiTXczN1liMUE1WDBwNGRzaEhRUmx0Y1pFOUlUdmpSRkVKWEJrZlFPSURSZ2dB?oc=5",
@@ -300,6 +468,20 @@
       "entities": [
         "Embassy Developments"
       ],
+      "stream": "reit"
+    },
+    {
+      "id": "fd9e881f",
+      "title": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ01uMnJ1SnNIVWFSRktYZmhzeHl0N3U0anVPQ0JWVnROQlRnb1FGeFc0Q2hxRlFDV0d6T2ZUVGVCNGRjdUd6VzQ5ZXhvTnVpbmlxcEVuQVY5TnJ3SnZ0elJ5U1dXTi1ST0lCNlcxUVUyd3ZNaEY2dWhDd3NKVkJPVW5LcG1NYzhWNFdhNkNVUjFTQy12SXByLUpRUVRaWlNLWGZZYWVqV3RUYVdXU2VSVFlLbkluQTZSVDFLb0FQLVJnVWtKY3pxWlpEcjg2Q21hOE1YTTZsQnR3WUpqRkVoRnBB?oc=5",
+      "description": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-06T19:23:07.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
       "stream": "reit"
     },
     {
@@ -418,6 +600,20 @@
       "id": "92846498",
       "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSFJZQlhWd0E2a25IU2ppblVfUzZWaDJFU3hFR1dHWXdmRHBNcnJCaXh6S2dBLUktd1o1TmxFQ1ZRaVpqMkVPVjJLWTViZnBWWjg2MmNBRHJUaWE4bEpiaHBvbFRzb2dsdzFKRjl0TUo1c0pDUzA0NGUxTWF1NjdqN3lhb21UQzBRTWZKWHZOaG9PaTZQYlZySjdyUFB3S01XT0ZvdlRBMWJPV0F1Uy05WnFHTWZKLVdkQklBS0J2RGRodTJWeEc3bmU3MjJ0Q2NVYjdKOFZkRTZXUHh6WUk5dVZRWDYwVjQ1cW1hVTFJN3pTWktrRGY00gH3AUFVX3lxTE5IUllCWFZ3QTZrbkhTamluVV9TNlZoMkVTeEVHV0dZd2ZEcE1yckJpeHpLZ0EtSS13WjVObEVDVlFpWmoyRU9WMktZNWJmcFZaODYyY0FEclRpYThsSmJocG9sVHNvZ2x3MUpGOXRNSjVzSkNTMDQ0ZTFNYXU2N2o3eWFvbVRDMFFNZkpYdk5ob09pNlBiVnJKN3JQUHdLTVdPRm92VEExYk9XQXVTLTlacUdNZkotV2RCSUFLQnZEZGh1MlZ4RzduZTcyMnRDY1ViN0o4VmRFNldQeHpZSTl1VlFYNjBWNDVxbWFVMUk3elNaS2tEZjQ?oc=5",
+      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-04T06:32:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "dc32456a",
+      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbkRaN2lLV29RelhqZHRLeTZmZ1VLUGdOSmpwbzNFVThwTi11VkJBWGRLR1lFeG8tdENjQk1mSmJEdDJISm81cDRjLVl1MEh3ODZzcUxsclRZZFZ0LVEtLWdUaXRWZk9OLVl0ajVieVRvSll4NlNBNS1EcHhHMHRlZmhzVGxfamtlU1RoY3BEdGJEV3NKc2ZZSnc3VmZwVkJRRXBWQy1FTFlVclVkajhJU3FIQzVYZzM1R09fUHR0T3F0azNrb09CNkoyVVFTZUpVSjlPM29Qb0ZlRmFmM1dHTzQ3WlV4Wmh2S3hpRXhZTGZvTTjSAfcBQVVfeXFMTkhSWUJYVndBNmtuSFNqaW5VX1M2VmgyRVN4RUdXR1l3ZkRwTXJyQml4ektnQS1JLXdaNU5sRUNWUWlaajJFT1YyS1k1YmZwVlo4NjJjQURyVGlhOGxKYmhwb2xUc29nbHcxSkY5dE1KNXNKQ1MwNDRlMU1hdTY3ajd5YW9tVEMwUU1mSlh2TmhvT2k2UGJWcko3clBQd0tNV09Gb3ZUQTFiT1dBdVMtOVpxR01mSi1XZEJJQUtCdkRkaHUyVnhHN25lNzIydENjVWI3SjhWZEU2V1B4ellJOXVWUVg2MFY0NXFtYVUxSTd6U1pLa0RmNA?oc=5",
       "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
       "source": "The Tribune",
       "publishedAt": "2026-10-04T06:32:24.000Z",
@@ -1439,34 +1635,6 @@
       "description": "India’s Office REIT Portfolio Jumps 74% to 167 Million Sq. Ft in H1 2026 &nbsp;&nbsp; rprealtyplus.com",
       "source": "rprealtyplus.com",
       "publishedAt": "2026-09-09T07:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "d66df8ba",
-      "title": "Abhee Ventures gets RERA nod for 45-acre residential project in Bengaluru - Construction Week India",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYjgwUmd0M1p0SThPMnNMSFpRMUlqWlRoLTJQdXNjbGs0amZMTjhFRjd2cE9DSnVYOFJUWHFWekVPbTQ0S192ZE82MWk5MExoVWtnU0RjUDlvQy1BLXd3a2tqTGJsSjlOd0o3VjdRWWlsbEtnc1ZZWmVRdmVxOXpWcXVleUV6UTJKM0dZTTVQaElleTUtYW40dVhaVmVQcFZtZFpVM2ZVOWVBSW5RRWp3LUo3eE5tZDhFUzBqV0NObnJfdEFuT0ZF?oc=5",
-      "description": "Abhee Ventures gets RERA nod for 45-acre residential project in Bengaluru &nbsp;&nbsp; Construction Week India",
-      "source": "Construction Week India",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "4b682467",
-      "title": "India's office REIT operational area surges 74% YoY in H1 2026: Report - business-standard.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcFh3Tzk0SU5la1AzSFY2ZFZ4dWNGX3dpV25hbWotQThCLTQySEtWOHZScXQ0RkQxMy1KNDliVkEwTlB0aU04cGY0WllkR3BncXJvTDlmbnRkaGlNVWNpYVRKdUJVTDV3VUxGR1l3VmpxLUQzVW5FUnV3aUhGcGUwRXJycGk4WVBNeVRxOWFNLWpFTHE5R3NDRXplMUlzeXY1cXFNdmVqSkN5OGZOYXNTdWhCekNnS3FLUDczVFE1SE43dm9CSDdudzNLWkcxcGVzbGfSAdcBQVVfeXFMTThXazJmNlM2dDJBaURKaTFpUldtRnJpT0NxOFI3bnM2ckhBQV80UkNHX3lMSnNrOFlsSklWUUhVc0pDTHNVQmw5QlVfc1hJNjItRmQ1WFI0NTl2VlBMeHg1ZnZxeTNhZEl1OXIwbTVHam1PbHdFX2o5eTdMZDR2T2pMbVhUcU9IckdDZVlWXzlKSTRtY0FxM2xWNHJLT1BVLTRSdG9DT21RMHhzSmtTQkRqbV9rMWh5a3JVWkhwcERjVDRRQVUtaUsxVUNmUF9ubVBHRDQ5N0U?oc=5",
-      "description": "India's office REIT operational area surges 74% YoY in H1 2026: Report &nbsp;&nbsp; business-standard.com",
-      "source": "business-standard.com",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
