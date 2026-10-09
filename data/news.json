@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T09:18:31.182Z",
+  "generatedAt": "2026-10-09T09:25:47.254Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 90,
-  "todayCount": 11,
+  "itemCount": 93,
+  "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -131,12 +131,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 4
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -171,7 +171,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -181,6 +181,52 @@
   ],
   "todayItems": [
     {
+      "id": "9aad19c9",
+      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
+      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T17:31:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "1a2dc1cb",
+      "title": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand - Trade Brains",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcU9VeGJ2RWtSUWFKRmVKTG1PNzBBWHhicldvb1B2S1hpVmJheFU2dHRZS0lQTVd4YkJNRC1acE9WczhBT09oMUIzRmQ1OGhtNDE0cl9HNGtWbzd1UUtlZGx0VFNQd2dOb3FxV2VMWkt5UG84YVZNNHNrZ2pkV0VuVWE4YjVTeDdEQVdMWUFMZlpxV0ZTMWtkSUlTNnlqSFhGVm9ESlhmQVNBaC1lQ1Rfa2F0MXpteDFHeVpfd3Q2T3lCcFhzVng3SlJGU25ScFhLdk81ZVdwZ3RMeXZFSjRtMHZR?oc=5",
+      "description": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand &nbsp;&nbsp; Trade Brains",
+      "source": "Trade Brains",
+      "publishedAt": "2026-10-08T11:42:19.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Keystone Realtors"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "ae897596",
+      "title": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUtWdnNBVjZHZHBRRi1rRzZGRWJNcGIwT3h0Y2ZUQWpHZkg2bnEzaUFyMDd5RDVUaTlpR2laSlBzRlFKeUV1bll1bS1oYjVucDgtcG1mZWlZSVpZb0l5LVhqLVJrZ1VlUlRkNDV1SVhlVTlfbmc4QXB4RjdfSEIzOF9OeVpFWFR0Nk5iQ0JFSjlyWnpiekxnbERzWE1zT0ViNmdmUTA3U0Vmai0tTmfSAbMBQVVfeXFMTUZILXdMT2lyQjJfV1F5NUZDYjh1NFBiVUp6ZVlsVWF2RmVBaUE3VDJBcXhSQkFaZndoYVZVekJOOTVkWjloeDlsZlhjcmNwYllzemtfei1SM2ZSdkpKMDlRWWt5MzctV21HV29RUzZ2TUFrT3Rqd2FieXFkUDFFZDF1NjdhTW5wT0ZSWU5uV3VzbV9hdkhKYUp3QWJmUkM5SjdzbnNJOEkyQWdzR1NONV83NlU?oc=5",
+      "description": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-08T08:01:53.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "d0209f45",
       "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
@@ -195,12 +241,26 @@
       "stream": "projects"
     },
     {
+      "id": "6ef516c6",
+      "title": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSElnLUQ0RDYzYXNHaHI5R1AwRDVrRi1FblFlaGVwa19xaUhzZl9RSkZhV3hPX1o1OUkyZnhMd0ZTSWNDR25jdzVnWkRYVkkzOERMTU9fdzVRSlhOdkJ2blVuRTdGV0dIcmJkaHRYYkJrWGtaMHBnMEdfX2tvNUpRRFZybm1VMTdoRDZPQW5GaG9KZjB5bnpRem1UeFV1RVZ2cHc?oc=5",
+      "description": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-10-07T18:30:00.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "b48811ff",
-      "title": "Embassy REIT expands retail footprint in Mumbai-located flagship asset - VCCircle",
+      "title": "Embassy REIT expands retail footprint in flagship Mumbai asset - VCCircle",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxUVUVkdmRSbEhMYjFCbm1BNnFxSGQyZElOM0xwejhCZDVMVlMxNXdRMmR0aGl5c0xoX1NvTzFKclpKUEhrdHh0Z2h1R0VtaUpuVVhDUHhQNTFrMFRjWGJwM3lrRHJqdmxkdHlPWGZPQVFKQUN0SzJTaXc3U1FWVU1CSW9WRkJZVUlPb05SRnpteG85dlVSdEpB?oc=5",
-      "description": "Embassy REIT expands retail footprint in Mumbai-located flagship asset &nbsp;&nbsp; VCCircle",
+      "description": "Embassy REIT expands retail footprint in flagship Mumbai asset &nbsp;&nbsp; VCCircle",
       "source": "VCCircle",
-      "publishedAt": "2026-10-07T12:09:37.000Z",
+      "publishedAt": "2026-10-07T13:23:13.000Z",
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
@@ -246,94 +306,6 @@
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "1c2ef1eb",
-      "title": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElNUFNRZGt5YVFzMFZkcWZVSFdsUUlBeWxEVE05anFmV3VvS2VORjJ1RUQ4SU45dF9iaEI1M3ZobXBoeFRzbnBJeUQ5dXJoMUY5UE5HZEdsZDZGVG1LcnJJMzdKdERSMzZKOTdrQlRIUHhpN3VSZmFtejlzeWJPQ1JUdUh2aXhiOG9ZTHRtUXZGbTlndWsyd2M1eFJjTHlOa2c?oc=5",
-      "description": "Bajaj Housing Finance Issues ₹2,439.29 Crore NCDs Through Private Placement &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-07T07:55:50.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Bajaj Housing Finance"
-      ],
-      "stream": "funds"
-    },
-    {
-      "id": "456a8270",
-      "title": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZi16cW5BZTNORE9xNDlQNTBFTVVPVFVYaVFrbTUtUXNvZWdtLThiZFlkUWpVUElxUGZRZzN3UGdDWHYxRnpwRk9nU1RMZExEWmlVRkI5UlByQ016X3RFaFZ2bGVRNXBYZjJvRGtIbkhaNDhseEVFbWl3R2o0dHZzV1NrRGtqYTZWY3NLOWpuQ3FBUQ?oc=5",
-      "description": "Acre&Key Launches Buyer-Focused Real Estate Advisory in Bengaluru &nbsp;&nbsp; openPR.com",
-      "source": "openPR.com",
-      "publishedAt": "2026-10-07T07:40:18.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "10a34db6",
-      "title": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQamhPMGRkMjNMRFFhQWpQVVVTWDQteFRya1dMQThiV1dxN2RwN0QtV21DcE1DY3pmcVRVQzBqZEVwWkxnZkVrU2V3LWlzZkViUkM1U1YyLTNlS3gxQ0xLOVJPX09sTVBueEdZOHVxbER1NXNqTWxfcHpiRklDM0twU3RtcmN1TmY4bi11S0FQenZkcmVhUmQ5RDc1TTJzcTlIQXRQRWZWYXNSNnFSUHhYVVR3alpubGpPM2F3Wmd5cE9obElnUEotU2ktd3JPUWFPQTBlYnF0bjl4QWlhRGdCQXR30gHnAUFVX3lxTE95WFFYdU1wYV95WEhxUTYxM2ZhSldBVDlHRUhiQ1FRSWU1bHRrVjlHYnNnMldWMVlVZnhVSTAwZC16ZTVSbVEwRkVtV2xoMVBwRDZlakVCR3VoYlhQbjhIZ2xDRVJ3b1pRVjBud3B5b2JUZzBObU8yNkhjTUhZc1pZSTYxOC1TaEF6bkpVRzdNWHBKbW1UTTRPcXFJZ0pQTXczVC0yLWw5NkwyWWtlMjhLOVkydDZoZGE2d0VpdGE4XzhpYm41eU5VcXRYUTVRejBjNTV4VHRoQ1ZBYUNwNEpNbFFjUGppSQ?oc=5",
-      "description": "Embassy REIT to acquire 8,048 sq ft office space in Mumbai’s BKC for ₹48.29 crore &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-07T03:48:22.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "9aad19c9",
-      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
-      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T02:46:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "881a38e",
-      "title": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0Q3eGFhMFlZbC0yb3hEdDdTcGVZbEJ6dzBranBlWWZxU2VQMk5JNHZ1UHhkeGZCajR4S0VtSk1HVmpaMXBZWW83SnJUZXVXTklYWmVReWdJU05LUHBrUUpiTXczN1liMUE1WDBwNGRzaEhRUmx0Y1pFOUlUdmpSRkVKWEJrZlFPSURSZ2dB?oc=5",
-      "description": "Embassy Office Parks REIT Board Greenlights Mumbai Purchase &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-06T20:34:24.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "fd9e881f",
-      "title": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ01uMnJ1SnNIVWFSRktYZmhzeHl0N3U0anVPQ0JWVnROQlRnb1FGeFc0Q2hxRlFDV0d6T2ZUVGVCNGRjdUd6VzQ5ZXhvTnVpbmlxcEVuQVY5TnJ3SnZ0elJ5U1dXTi1ST0lCNlcxUVUyd3ZNaEY2dWhDd3NKVkJPVW5LcG1NYzhWNFdhNkNVUjFTQy12SXByLUpRUVRaWlNLWGZZYWVqV3RUYVdXU2VSVFlLbkluQTZSVDFLb0FQLVJnVWtKY3pxWlpEcjg2Q21hOE1YTTZsQnR3WUpqRkVoRnBB?oc=5",
-      "description": "Mindspace Airoli Becomes First Indian REIT to Receive IGBC Green Landscape Gold Rating &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-06T19:23:07.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
@@ -341,6 +313,38 @@
   ],
   "items": [
     {
+      "id": "1a2dc1cb",
+      "title": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand - Trade Brains",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcU9VeGJ2RWtSUWFKRmVKTG1PNzBBWHhicldvb1B2S1hpVmJheFU2dHRZS0lQTVd4YkJNRC1acE9WczhBT09oMUIzRmQ1OGhtNDE0cl9HNGtWbzd1UUtlZGx0VFNQd2dOb3FxV2VMWkt5UG84YVZNNHNrZ2pkV0VuVWE4YjVTeDdEQVdMWUFMZlpxV0ZTMWtkSUlTNnlqSFhGVm9ESlhmQVNBaC1lQ1Rfa2F0MXpteDFHeVpfd3Q2T3lCcFhzVng3SlJGU25ScFhLdk81ZVdwZ3RMeXZFSjRtMHZR?oc=5",
+      "description": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand &nbsp;&nbsp; Trade Brains",
+      "source": "Trade Brains",
+      "publishedAt": "2026-10-08T11:42:19.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Keystone Realtors"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "ae897596",
+      "title": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUtWdnNBVjZHZHBRRi1rRzZGRWJNcGIwT3h0Y2ZUQWpHZkg2bnEzaUFyMDd5RDVUaTlpR2laSlBzRlFKeUV1bll1bS1oYjVucDgtcG1mZWlZSVpZb0l5LVhqLVJrZ1VlUlRkNDV1SVhlVTlfbmc4QXB4RjdfSEIzOF9OeVpFWFR0Nk5iQ0JFSjlyWnpiekxnbERzWE1zT0ViNmdmUTA3U0Vmai0tTmfSAbMBQVVfeXFMTUZILXdMT2lyQjJfV1F5NUZDYjh1NFBiVUp6ZVlsVWF2RmVBaUE3VDJBcXhSQkFaZndoYVZVekJOOTVkWjloeDlsZlhjcmNwYllzemtfei1SM2ZSdkpKMDlRWWt5MzctV21HV29RUzZ2TUFrT3Rqd2FieXFkUDFFZDF1NjdhTW5wT0ZSWU5uV3VzbV9hdkhKYUp3QWJmUkM5SjdzbnNJOEkyQWdzR1NONV83NlU?oc=5",
+      "description": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-08T08:01:53.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "d0209f45",
       "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
@@ -353,6 +357,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "6ef516c6",
+      "title": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSElnLUQ0RDYzYXNHaHI5R1AwRDVrRi1FblFlaGVwa19xaUhzZl9RSkZhV3hPX1o1OUkyZnhMd0ZTSWNDR25jdzVnWkRYVkkzOERMTU9fdzVRSlhOdkJ2blVuRTdGV0dIcmJkaHRYYkJrWGtaMHBnMEdfX2tvNUpRRFZybm1VMTdoRDZPQW5GaG9KZjB5bnpRem1UeFV1RVZ2cHc?oc=5",
+      "description": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-10-07T18:30:00.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "b48811ff",
@@ -480,6 +498,20 @@
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "95f1261d",
+      "title": "Embassy REIT acquires 8,048 sq ft retail area at FIFC Mumbai - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVh0TGJZRXE3Q2t5NU1vT19jd1lUY3lTc2Y5M3hqS2lsX19tZ0V6dTBsOHd4cjZELTk4V19HMGpXQ0hXd2toR0lxV0tzYUdhSGJoTmJkT09pS01ZRENBU3JfeC02RVlVclN3aFdxV3lRbWlhSm1NeUVST3RNSTJtNmtpQlhoWmtheDRhd2dBN0dzb09QTDV5Sm1DNGc0c2x5V3I4VXF3WWpUY0d4TWc4MkowelM5TEttY1E?oc=5",
+      "description": "Embassy REIT acquires 8,048 sq ft retail area at FIFC Mumbai &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-06T15:13:13.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
@@ -1621,20 +1653,6 @@
       "description": "India enters top 30 transparent real estate mkts, ranks 26th globally: JLL &nbsp;&nbsp; business-standard.com",
       "source": "business-standard.com",
       "publishedAt": "2026-09-18T07:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "d988be3a",
-      "title": "India’s Office REIT Portfolio Jumps 74% to 167 Million Sq. Ft in H1 2026 - rprealtyplus.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSENtbWhVS2tqRUhhME1kV2EwODlzU00tMmpNSUtGVS1SUVo4UF80a1MzcVNpWVFzME5BMEFsYklERGk4cUExTTJDaHo0bWpoSFhQTnF5N2VrSmlXckl5OE16emhvWExrTFVMMHpZNkNHTXF4UC1oLVhwVzZBNHRCY2dHR3NoNVM1bWhTb1FaYmpZb0swcXFxTUxTTW9aTjRaWWdBM1NYLXR1alNHRlJUWnZ2YmwxYkQwX1B2eGhn?oc=5",
-      "description": "India’s Office REIT Portfolio Jumps 74% to 167 Million Sq. Ft in H1 2026 &nbsp;&nbsp; rprealtyplus.com",
-      "source": "rprealtyplus.com",
-      "publishedAt": "2026-09-09T07:00:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
