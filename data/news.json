@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T09:25:47.254Z",
+  "generatedAt": "2026-10-10T08:47:21.757Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 93,
-  "todayCount": 9,
+  "itemCount": 97,
+  "todayCount": 4,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -71,7 +71,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -102,6 +102,36 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -136,11 +166,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -151,45 +176,48 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 14
+      "items": 11
     }
   ],
   "todayItems": [
     {
-      "id": "9aad19c9",
-      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
-      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-08T17:31:00.000Z",
+      "id": "9c0cc46f",
+      "title": "TransIndia enters Chennai with luxury housing project in Anna Nagar - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEJDNF9SVnhncUxIeDBYSGdsNGgtN2JqZVNIeHhPSGNGcVdkVS02ckdycWdDUGViOGVjU0F4TnI5NWlsbHRtNW83Z3FscmRHUkw3V2RUQnZCN2RpTXhOVkQxVEdNU2RKOWx1b3ZDdk94RHFrLUFNUC1OaG1NUWZPYjh0ZFZ5MVZ3cC13Ung1SjZRY0prU0l3eGZlZ18tZUV6eUd4R0lkbXA5Z0NSeExEZ29ZdUFDNGdYY0ZB?oc=5",
+      "description": "TransIndia enters Chennai with luxury housing project in Anna Nagar &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-10T03:30:18.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "cf595ed9",
+      "title": "BM Property - Bangalore Mirror",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJ0M05OT3Y0dWZ2NWtTX1NkVV9MTnZZX3VkX3FReHk1WlVpek9LRDF2NzBmSFVmUlFWSnZneFg2SDhUQmpaSzlOWDk0U0xMQXhVcDlNTDRlZ2ZNcTk2bm5yUktIUmZiZWNOLTZVWEdvMUM0aTF0Y1ZwTk9rcFBrdC1OYXFfZ1VoRFc5eTJJM2xYQ21aMkNJNtIBngFBVV95cUxNOExxM3p5OWlXd25qSGZHdVdJcDBNX3dqRUNiX1F3dnptajZGN3ozR0VaeXdFWGZWdUI0Y0VCbm1rYWNSSGFsUk9CQzFLRGJNTG1Qa3YydTFuZ2JMOUJISjZwc0ZGcFc0cXJqN2RWNWRxWFVmbk9YY2dFODlkWkxZN0R4cGFEVW41N1JsTElhY01JdmRrcHd1RkphOFY3Zw?oc=5",
+      "description": "BM Property &nbsp;&nbsp; Bangalore Mirror",
+      "source": "Bangalore Mirror",
+      "publishedAt": "2026-10-10T00:30:00.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "46e98bae",
+      "title": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUNESUhmNGctUEVVRkhrQUkzWW80aGYyUXV3VF9HamNXRHQtV2FvRWdzVGdPSHkwbXZmczJmRk5GM1F5ZmZxUDdUZUFiQzFFWUs4WXA5TGtDNDRza3dHZktzbnEwS18wSkd1Ui1zUVdLU2pTN0hod3dlT2tyaUpxaGowVDQ3aXBZVW9yRTRvVFFtRlB5SEY2NnBvVEZJMWswODlGS3FXYldiZVJYZUMtRy1fY19SU2pGQUNfUUgtdkZ6NHJDV0c3M2pB?oc=5",
+      "description": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-09T09:30:15.000Z",
       "city": "India",
       "category": "Capital & lending",
-      "tone": "positive",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "funds"
@@ -209,30 +237,30 @@
         "Keystone Realtors"
       ],
       "stream": "projects"
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "ae897596",
-      "title": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUtWdnNBVjZHZHBRRi1rRzZGRWJNcGIwT3h0Y2ZUQWpHZkg2bnEzaUFyMDd5RDVUaTlpR2laSlBzRlFKeUV1bll1bS1oYjVucDgtcG1mZWlZSVpZb0l5LVhqLVJrZ1VlUlRkNDV1SVhlVTlfbmc4QXB4RjdfSEIzOF9OeVpFWFR0Nk5iQ0JFSjlyWnpiekxnbERzWE1zT0ViNmdmUTA3U0Vmai0tTmfSAbMBQVVfeXFMTUZILXdMT2lyQjJfV1F5NUZDYjh1NFBiVUp6ZVlsVWF2RmVBaUE3VDJBcXhSQkFaZndoYVZVekJOOTVkWjloeDlsZlhjcmNwYllzemtfei1SM2ZSdkpKMDlRWWt5MzctV21HV29RUzZ2TUFrT3Rqd2FieXFkUDFFZDF1NjdhTW5wT0ZSWU5uV3VzbV9hdkhKYUp3QWJmUkM5SjdzbnNJOEkyQWdzR1NONV83NlU?oc=5",
-      "description": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion &nbsp;&nbsp; Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-08T08:01:53.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
+      "id": "9c0cc46f",
+      "title": "TransIndia enters Chennai with luxury housing project in Anna Nagar - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEJDNF9SVnhncUxIeDBYSGdsNGgtN2JqZVNIeHhPSGNGcVdkVS02ckdycWdDUGViOGVjU0F4TnI5NWlsbHRtNW83Z3FscmRHUkw3V2RUQnZCN2RpTXhOVkQxVEdNU2RKOWx1b3ZDdk94RHFrLUFNUC1OaG1NUWZPYjh0ZFZ5MVZ3cC13Ung1SjZRY0prU0l3eGZlZ18tZUV6eUd4R0lkbXA5Z0NSeExEZ29ZdUFDNGdYY0ZB?oc=5",
+      "description": "TransIndia enters Chennai with luxury housing project in Anna Nagar &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-10T03:30:18.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "neutral",
       "priority": "normal",
-      "entities": [
-        "Brigade Enterprises"
-      ],
-      "stream": "reit"
+      "entities": [],
+      "stream": "projects"
     },
     {
-      "id": "d0209f45",
-      "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
-      "description": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-08T04:34:12.000Z",
+      "id": "cf595ed9",
+      "title": "BM Property - Bangalore Mirror",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJ0M05OT3Y0dWZ2NWtTX1NkVV9MTnZZX3VkX3FReHk1WlVpek9LRDF2NzBmSFVmUlFWSnZneFg2SDhUQmpaSzlOWDk0U0xMQXhVcDlNTDRlZ2ZNcTk2bm5yUktIUmZiZWNOLTZVWEdvMUM0aTF0Y1ZwTk9rcFBrdC1OYXFfZ1VoRFc5eTJJM2xYQ21aMkNJNtIBngFBVV95cUxNOExxM3p5OWlXd25qSGZHdVdJcDBNX3dqRUNiX1F3dnptajZGN3ozR0VaeXdFWGZWdUI0Y0VCbm1rYWNSSGFsUk9CQzFLRGJNTG1Qa3YydTFuZ2JMOUJISjZwc0ZGcFc0cXJqN2RWNWRxWFVmbk9YY2dFODlkWkxZN0R4cGFEVW41N1JsTElhY01JdmRrcHd1RkphOFY3Zw?oc=5",
+      "description": "BM Property &nbsp;&nbsp; Bangalore Mirror",
+      "source": "Bangalore Mirror",
+      "publishedAt": "2026-10-10T00:30:00.000Z",
       "city": "Bengaluru",
       "category": "Projects & launches",
       "tone": "neutral",
@@ -241,77 +269,19 @@
       "stream": "projects"
     },
     {
-      "id": "6ef516c6",
-      "title": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSElnLUQ0RDYzYXNHaHI5R1AwRDVrRi1FblFlaGVwa19xaUhzZl9RSkZhV3hPX1o1OUkyZnhMd0ZTSWNDR25jdzVnWkRYVkkzOERMTU9fdzVRSlhOdkJ2blVuRTdGV0dIcmJkaHRYYkJrWGtaMHBnMEdfX2tvNUpRRFZybm1VMTdoRDZPQW5GaG9KZjB5bnpRem1UeFV1RVZ2cHc?oc=5",
-      "description": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-07T18:30:00.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b48811ff",
-      "title": "Embassy REIT expands retail footprint in flagship Mumbai asset - VCCircle",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxUVUVkdmRSbEhMYjFCbm1BNnFxSGQyZElOM0xwejhCZDVMVlMxNXdRMmR0aGl5c0xoX1NvTzFKclpKUEhrdHh0Z2h1R0VtaUpuVVhDUHhQNTFrMFRjWGJwM3lrRHJqdmxkdHlPWGZPQVFKQUN0SzJTaXc3U1FWVU1CSW9WRkJZVUlPb05SRnpteG85dlVSdEpB?oc=5",
-      "description": "Embassy REIT expands retail footprint in flagship Mumbai asset &nbsp;&nbsp; VCCircle",
-      "source": "VCCircle",
-      "publishedAt": "2026-10-07T13:23:13.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "69a59e1a",
-      "title": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmsxZmtDYmlYdS1xS2wwdjJqbmNObDlvMHFVd2lqLUdscEk3UXlfc1hQMk41eTNIR2o4VGdVOHd6Nm5md2xvb2ZLSEpfQy1kWGg3N3Z2cmktWGNQSjJNdmx4ZzBNZEZ5OEcxMEtIeDlodFRuRmdSSVl6V0d5dWJwMHk4bjRQX3ptelQzd3ZGOExZOXdqV3R3eFZ5cUowRjdDdFhKeW1MUzlrOGtVaE5YMWg1T3JHZ3VoY19ReDF6QnZDbzhOaklPc19LRlZVNVpnYzctSXpWX2xZOU9RLWlLVDBuUVByOUV2VFBtQm5ZWHZpUdIB9wFBVV95cUxQN3FOZjJBOFNLUFhTcDRncFJ2NXMtbUotaV8zbWRTMmV4WVIxeU9PMnJvVFptam45Y0hNTnNjR3JHZEtlTlA1X1dXMGFjemVYSTVnRk9SdGdhS2pqQlhiQkROQlRhejc4UExtUXh4THdSdHhBRVVjOG1UYURVQzQyZW52bHNYV18wcEZtcllYamJ6U2tzcFpzUVEwZmFCUzd3OXBCRDI4MXFQc2FUczZTTXQzZVh5c1hpTTN0c3Vfb0dkWWdsREQyV2YyeF9GM2lxTGl3SWlEcGdudDBYZVJpNU1TNkdpc0RSLW81QjVXQnZ5X2tiazVn?oc=5",
-      "description": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T12:08:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "negative",
-      "priority": "high",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "3c7d6af3",
-      "title": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3JwdG9RWTRrWnpVcEVqbnBuX192VmJfS1FhMWxIdElvcDU5dTFlTWZSUXdZOUpnQUgwRFZZWXpMckJtZDJWZXJSRldNQ0hEMDN0TzF4SXZRc0JzQWZ4c3BvZWhFcllVZU9NalNQSjZvalRjR1FlWFVkWmFMYUQ1WGtHU2VFZFFoekd2TzN6SDJLS3p5UTl0VDl4ZWxfd3pEYWVWeTVmUVhDeFBxQmFyUUxsMC0yZTZkZXJfNk85eC1zenE4NWc?oc=5",
-      "description": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-07T11:30:13.000Z",
+      "id": "46e98bae",
+      "title": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUNESUhmNGctUEVVRkhrQUkzWW80aGYyUXV3VF9HamNXRHQtV2FvRWdzVGdPSHkwbXZmczJmRk5GM1F5ZmZxUDdUZUFiQzFFWUs4WXA5TGtDNDRza3dHZktzbnEwS18wSkd1Ui1zUVdLU2pTN0hod3dlT2tyaUpxaGowVDQ3aXBZVW9yRTRvVFFtRlB5SEY2NnBvVEZJMWswODlGS3FXYldiZVJYZUMtRy1fY19SU2pGQUNfUUgtdkZ6NHJDV0c3M2pB?oc=5",
+      "description": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-09T09:30:15.000Z",
       "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
+      "category": "Capital & lending",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
+      "stream": "funds"
     },
-    {
-      "id": "a8d0e5c",
-      "title": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMURBZUtrc0F0M1ZZV19VUDZ6Zkx3VVdkSGI3MEVNRlZ6cVZISk1rQnU3UHhNN2IyNkZFNEhDV1J1OEM0eUhNUFQzMGRINVNxSFVadGthVGU0dEppOEFYMVZLYnlKZXA3eXZMTExZZE02SExXU211OGw0RXh5ejRpSTVVa2FnZVlUNG5GR2pnMkQtdXgtVjdYdVk1Z09lXzRxSndnb292QXY5emJ3a2xraE1KWmpLTlRZOG83VXJzblY3MWMzT2xBOEp2X2I1WTk4UHlyNG40eENCcEQ1NEs00gHkAUFVX3lxTE1KY2ZMX1JsUi16RnMyMEIta1cyaUN2aHRNNVRBT1ZmTzB2X1lRbGwyWXFqekl2UGpkWXppeGtJSEJzS28tSXJmM19ZS3dRUG5rMGJKQkRBZTdWT3hHZGdMS0pram9pTG5TQTlwc0d1aFY5TVNHU2VRb0hUU19hMHNjM0Y1TV9velpLYzBiS3g1QUYycWNlT0RuQ0l5QzBwSGxDWVRScXdQUFM1dmJlMTJ5aFdMdVJQY3VsMHlTTmQ4R0pvMWY2NENoVkxad1VBU3MxTXNmby1STWhGeV94aHZBUi1sbA?oc=5",
-      "description": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-07T11:08:40.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    }
-  ],
-  "items": [
     {
       "id": "1a2dc1cb",
       "title": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand - Trade Brains",
@@ -512,6 +482,20 @@
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "94b57fa",
+      "title": "Private equity inflows into Indian real estate jump 23% to $2.7 billion in H1 FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRXFKUXdvLVMwR2JWMjRFams1SHBla0Vuc2FWbGVPenBGcGZEMW5IUE1FNEl2UU1ueUV4LUNFUG4zT3paSEpPOUUtOFd0bmRkRDQ5OVo2Qnc3ZzJRdGw2b0w0VGVKTEFsZ2IyZjFjYlJ6MmFxRkpKUjdTWjY5SmtVaG11V05iYlRaLWNWandveHJ6djF6RWlTZzlxd2VsMm55TXpmQ2NRU1VoNjVyVmJiLW1iTWw0R1ZJbkF4VlJGbkNUNUFZZnZDWE1XM0YtdDdZbEVLY2ItT2k3VDJ3dWVzR1JYZFJQaGhLdlM2SFh5YVYySXVZeFdhd3RpUUt0VGNLTmJjLdIBigJBVV95cUxQZzFzLUh5TVVadml5RUZfeWNDR3htR2tHTllod0FLMGJLMmVidEdjQmJ5R2xOektGZHo2OG9ZdnJ0NURHd21wTGp1cVkwdVRqRVRMX2V2QW5ieDZZZmhCYlZTOHZWdm5fWk02Qk1FMG5iWWpvMnowY0VmcTUwX1VBZ09OOGFoeHppSnRrYk9KVTVqU09jU2FMSEgwcTRYWEZqSUsxdUI2RHlIT1VoWWxoZENFelA1VlJTSVJFbFRoVnlCSTAtU1ZoX2ZGU0RweGI5cXVkWmQtUDcxcEREUkdiSldZRjctcFk2MTA2UDZQaDVUZE9SRHJkTjV1azhEejgtT1BHOGhGSDFvdw?oc=5",
+      "description": "Private equity inflows into Indian real estate jump 23% to $2.7 billion in H1 FY27 &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-06T08:03:57.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
