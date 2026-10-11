@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T08:47:21.757Z",
+  "generatedAt": "2026-10-11T09:09:11.739Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
   "itemCount": 97,
-  "todayCount": 4,
+  "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -131,7 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -176,7 +176,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 11
+      "items": 9
     }
   ],
   "todayItems": [
@@ -186,7 +186,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEJDNF9SVnhncUxIeDBYSGdsNGgtN2JqZVNIeHhPSGNGcVdkVS02ckdycWdDUGViOGVjU0F4TnI5NWlsbHRtNW83Z3FscmRHUkw3V2RUQnZCN2RpTXhOVkQxVEdNU2RKOWx1b3ZDdk94RHFrLUFNUC1OaG1NUWZPYjh0ZFZ5MVZ3cC13Ung1SjZRY0prU0l3eGZlZ18tZUV6eUd4R0lkbXA5Z0NSeExEZ29ZdUFDNGdYY0ZB?oc=5",
       "description": "TransIndia enters Chennai with luxury housing project in Anna Nagar &nbsp;&nbsp; Prop News Time",
       "source": "Prop News Time",
-      "publishedAt": "2026-10-10T03:30:18.000Z",
+      "publishedAt": "2026-10-10T03:35:21.000Z",
       "city": "Chennai",
       "category": "Projects & launches",
       "tone": "neutral",
@@ -206,36 +206,6 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "46e98bae",
-      "title": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUNESUhmNGctUEVVRkhrQUkzWW80aGYyUXV3VF9HamNXRHQtV2FvRWdzVGdPSHkwbXZmczJmRk5GM1F5ZmZxUDdUZUFiQzFFWUs4WXA5TGtDNDRza3dHZktzbnEwS18wSkd1Ui1zUVdLU2pTN0hod3dlT2tyaUpxaGowVDQ3aXBZVW9yRTRvVFFtRlB5SEY2NnBvVEZJMWswODlGS3FXYldiZVJYZUMtRy1fY19SU2pGQUNfUUgtdkZ6NHJDV0c3M2pB?oc=5",
-      "description": "Motilal Oswal Alternates exits INR 1,155 crore real estate fund with 20.4% IRR &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-09T09:30:15.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "1a2dc1cb",
-      "title": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand - Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcU9VeGJ2RWtSUWFKRmVKTG1PNzBBWHhicldvb1B2S1hpVmJheFU2dHRZS0lQTVd4YkJNRC1acE9WczhBT09oMUIzRmQ1OGhtNDE0cl9HNGtWbzd1UUtlZGx0VFNQd2dOb3FxV2VMWkt5UG84YVZNNHNrZ2pkV0VuVWE4YjVTeDdEQVdMWUFMZlpxV0ZTMWtkSUlTNnlqSFhGVm9ESlhmQVNBaC1lQ1Rfa2F0MXpteDFHeVpfd3Q2T3lCcFhzVng3SlJGU25ScFhLdk81ZVdwZ3RMeXZFSjRtMHZR?oc=5",
-      "description": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand &nbsp;&nbsp; Trade Brains",
-      "source": "Trade Brains",
-      "publishedAt": "2026-10-08T11:42:19.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Keystone Realtors"
-      ],
       "stream": "projects"
     }
   ],
