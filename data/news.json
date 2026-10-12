@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-11T09:09:11.739Z",
+  "generatedAt": "2026-10-12T09:34:12.285Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 97,
+  "itemCount": 101,
   "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -66,11 +66,71 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -101,7 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -116,100 +176,72 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 9
+      "items": 10
     }
   ],
   "todayItems": [
     {
-      "id": "9c0cc46f",
-      "title": "TransIndia enters Chennai with luxury housing project in Anna Nagar - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeEJDNF9SVnhncUxIeDBYSGdsNGgtN2JqZVNIeHhPSGNGcVdkVS02ckdycWdDUGViOGVjU0F4TnI5NWlsbHRtNW83Z3FscmRHUkw3V2RUQnZCN2RpTXhOVkQxVEdNU2RKOWx1b3ZDdk94RHFrLUFNUC1OaG1NUWZPYjh0ZFZ5MVZ3cC13Ung1SjZRY0prU0l3eGZlZ18tZUV6eUd4R0lkbXA5Z0NSeExEZ29ZdUFDNGdYY0ZB?oc=5",
-      "description": "TransIndia enters Chennai with luxury housing project in Anna Nagar &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-10T03:35:21.000Z",
+      "id": "a789c813",
+      "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkNQUkxLLUpqOGNnSEs2QjExVWJQcWM3Zk1mRTNNeWl3dFEzYXY2X3J6dExzUU0tWmU0NDcyYjNHSWxGVHNoMVlLRTdQbUNtYlVsSzBCMG1KMkFjS0IyX0tQaDlMMHZZNmd5dC05Z3RHa3FIZTdpMjM2SGVhX0lUbEtXMHRXY3k0SGxzZldjbjNuZE9ES3hqMlZCS1JaQ2UzMGpmVTdYVEFFYWVXdFlvZkFhZnJZV1FEOWl1TktMZG5NNlgxMGRIalRBbHNyc3M4c2pidk9yejFCTGpyMEZ5ZThyY2HSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
+      "description": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-12T08:10:12.000Z",
       "city": "Chennai",
-      "category": "Projects & launches",
-      "tone": "neutral",
+      "category": "Market & policy",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
+      "stream": "reit"
     },
     {
-      "id": "cf595ed9",
-      "title": "BM Property - Bangalore Mirror",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJ0M05OT3Y0dWZ2NWtTX1NkVV9MTnZZX3VkX3FReHk1WlVpek9LRDF2NzBmSFVmUlFWSnZneFg2SDhUQmpaSzlOWDk0U0xMQXhVcDlNTDRlZ2ZNcTk2bm5yUktIUmZiZWNOLTZVWEdvMUM0aTF0Y1ZwTk9rcFBrdC1OYXFfZ1VoRFc5eTJJM2xYQ21aMkNJNtIBngFBVV95cUxNOExxM3p5OWlXd25qSGZHdVdJcDBNX3dqRUNiX1F3dnptajZGN3ozR0VaeXdFWGZWdUI0Y0VCbm1rYWNSSGFsUk9CQzFLRGJNTG1Qa3YydTFuZ2JMOUJISjZwc0ZGcFc0cXJqN2RWNWRxWFVmbk9YY2dFODlkWkxZN0R4cGFEVW41N1JsTElhY01JdmRrcHd1RkphOFY3Zw?oc=5",
-      "description": "BM Property &nbsp;&nbsp; Bangalore Mirror",
-      "source": "Bangalore Mirror",
-      "publishedAt": "2026-10-10T00:30:00.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
+      "id": "c05d10d8",
+      "title": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjMxTzVBRy1Qa0cyYk8yQkVOV01XbXZvV2F0WXdlZ1g1N0d2YldwLWNPRVNraTV2a0dSMDUwSEo5bFNuQUoyc2F3LWktcFZLa2QyYzhFZDduRkc5VEJnaXBaY0ZZNGwzRTFRZDhYSHZQUFZqWXRrV2V3WFVycTkyUUFxYVpmbEl2NTcwNmhEY1B6U1N1NzFfXzZjQUhCcUx3Z3d0SlRuVTUtdEEzc2hEajNfOUVfQ0xkTFQ2YkZkUXNsbEJDbS1FRlJPR3pfVXBfSEFEWERfVUNJaVdha05hYVh30gHqAUFVX3lxTFBRMm1OVDZOUkVLMmwtcy0xNkhmMElMWndfQWpkQVRkNHJVMXJ0a2tUaGRTQmtEdnNQY2hLNzZsOFlVMU9QYTBqbXpyb25sdWtXVVZQZHBFUXcyMFhnZ3hYYkJnS0Zib1RvU0FBNWM4cmhuZnJqdEpwcXFVS2FzVHk1b1ZrMnV2RndQM0VkS1BlT2NSVUFHYTBjOGlJVVRrZ2JDVEo5dk1JM01JZEl5NWFZcllZOHluQ0Z0NXhNbUJ6ak5oT2lLUndmRi12U0dGaHZaWjV5Vl92UjRLamtDaFEzSmpBazk1TTVxdw?oc=5",
+      "description": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD &nbsp;&nbsp; NDTV Profit",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-10-11T14:23:38.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
       "priority": "normal",
-      "entities": [],
-      "stream": "projects"
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "a789c813",
+      "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkNQUkxLLUpqOGNnSEs2QjExVWJQcWM3Zk1mRTNNeWl3dFEzYXY2X3J6dExzUU0tWmU0NDcyYjNHSWxGVHNoMVlLRTdQbUNtYlVsSzBCMG1KMkFjS0IyX0tQaDlMMHZZNmd5dC05Z3RHa3FIZTdpMjM2SGVhX0lUbEtXMHRXY3k0SGxzZldjbjNuZE9ES3hqMlZCS1JaQ2UzMGpmVTdYVEFFYWVXdFlvZkFhZnJZV1FEOWl1TktMZG5NNlgxMGRIalRBbHNyc3M4c2pidk9yejFCTGpyMEZ5ZThyY2HSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
+      "description": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-12T08:10:12.000Z",
+      "city": "Chennai",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "c05d10d8",
+      "title": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjMxTzVBRy1Qa0cyYk8yQkVOV01XbXZvV2F0WXdlZ1g1N0d2YldwLWNPRVNraTV2a0dSMDUwSEo5bFNuQUoyc2F3LWktcFZLa2QyYzhFZDduRkc5VEJnaXBaY0ZZNGwzRTFRZDhYSHZQUFZqWXRrV2V3WFVycTkyUUFxYVpmbEl2NTcwNmhEY1B6U1N1NzFfXzZjQUhCcUx3Z3d0SlRuVTUtdEEzc2hEajNfOUVfQ0xkTFQ2YkZkUXNsbEJDbS1FRlJPR3pfVXBfSEFEWERfVUNJaVdha05hYVh30gHqAUFVX3lxTFBRMm1OVDZOUkVLMmwtcy0xNkhmMElMWndfQWpkQVRkNHJVMXJ0a2tUaGRTQmtEdnNQY2hLNzZsOFlVMU9QYTBqbXpyb25sdWtXVVZQZHBFUXcyMFhnZ3hYYkJnS0Zib1RvU0FBNWM4cmhuZnJqdEpwcXFVS2FzVHk1b1ZrMnV2RndQM0VkS1BlT2NSVUFHYTBjOGlJVVRrZ2JDVEo5dk1JM01JZEl5NWFZcllZOHluQ0Z0NXhNbUJ6ak5oT2lLUndmRi12U0dGaHZaWjV5Vl92UjRLamtDaFEzSmpBazk1TTVxdw?oc=5",
+      "description": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD &nbsp;&nbsp; NDTV Profit",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-10-11T14:23:38.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "9c0cc46f",
       "title": "TransIndia enters Chennai with luxury housing project in Anna Nagar - Prop News Time",
@@ -251,6 +283,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "funds"
+    },
+    {
+      "id": "52608c73",
+      "title": "Indiabulls Real Estate Share Price - Live NSE: EMBDL Stock Price & Chart - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWFhuRlduZUROTVhtNXI4QVA2cEFBZVB0MWNWdzNPRXZiYnpXR3loUTlDRlU1RmJUbGQ5RXN1QUpJWDBpNDNCeDZ4SlhuRFBVQkhTeWpPZHltMFpISGFFaUlUZ3RmMERRaWJyOVR3VFg?oc=5",
+      "description": "Indiabulls Real Estate Share Price - Live NSE: EMBDL Stock Price & Chart &nbsp;&nbsp; Upstox",
+      "source": "Upstox",
+      "publishedAt": "2026-10-09T07:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "1a2dc1cb",
@@ -468,6 +514,22 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "610641c7",
+      "title": "Brookfield India Real Estate Trust (NSEI:BIRET) Stock Forecast & Analyst Predictions - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHNsQUV0dVZXRy10bnRHTVFBMUM0bkZEUGVBaXEzWHdPZ25sbUtFSXk4aEZyTFV6anhkby1QalUzaFl3dlh0UW16TkFaclNrQWJZS2duVGJtX0p3TE5Lek43eVNmTVM1RGtBQjFfRDlVZGVYU3ZRaEhwUG4zV2hiSmtkaUdGNV9pUEZLLWM1N25xcDB4bllPUkVrNW8tMVZRSVFKZg?oc=5",
+      "description": "Brookfield India Real Estate Trust (NSEI:BIRET) Stock Forecast & Analyst Predictions &nbsp;&nbsp; Simply Wall Street",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-06T07:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
       "stream": "reit"
     },
     {
