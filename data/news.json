@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T09:34:12.285Z",
+  "generatedAt": "2026-10-13T09:38:44.550Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 101,
-  "todayCount": 2,
+  "itemCount": 107,
+  "todayCount": 8,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,157 +11,157 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -181,6 +181,64 @@
   ],
   "todayItems": [
     {
+      "id": "67939df5",
+      "title": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFFVWUdfYlZJWkV6V1lBSHUweEh1cEZsbUkwWGdXNExJM1JJV3Q0dFlTT1lybHEyT2VTSjE2Zk91cTRzUWJoM3ZvTU1Fc2lfQ3BvVXZoZXgxbWJQWFZoUVJmYjJ3Z3NZdVN4dmFvUVVmVE5SSzZnRHU5NmM4a0VCSXdEOXJQQ3puVWI3Q2luOXVNVlNxRWh5cHpBNGJOcFB0dFRZa21qMXZmTE9ucU52RDVuNGIzaXZjYzhxS1gxN3NMekZnXy1fTEpzR0ZyS3pDSUJlRzA0UUlUN2hS0gHiAUFVX3lxTE4yNDExb25nNXVKeFZCam1ZaDFKME94REx1Z2h1cERYNGc1NE5FTkFka3NzWktLQmZKaldXdTF1N0pYTjJHSFktc1VwM2xjZ2JVcW5JRHRoMVJvbTN2aUNEVDFXcmtfWHFFV2RuUkd4MkhwdDN6eGQxWkxZZW5XOGZwcEVIRUpTdWxVZG4zZWdmVENJa1NkRXVaS1BsdUZ2a3h1UndHbTRTS2FnU1ZoUGVSeTVORElTTmdKYjZCZEV1ZXE1MmNuZ1gwYkhIT1ZHZnJWQ0hCMDlkbnpJTkRnZXNDbVE?oc=5",
+      "description": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-13T07:34:00.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "9c4fda4c",
+      "title": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVhoaGFUVDQ4VXlUOE5WU0ZkdVQ3cWZyUnNPZHVvRkRyc1JOQ3pER3ROVFQ3TEtPYktTNHJLbGJPVlQzOXU2SHFWY0k4MlNnTC0wRXNBTXYxOTY4eWp1QTB2Q3pzelR4S1lSTVJZSU9xUmZvQjg4dkh4TzRIc3hndmhMU1h2U2RFSW1pNkFEb3htSmdSWXdwb1d3dHpNUEFUQzRQb2pyNDVHd1U5bWduM2N1ZXBWRnJidG1qeHNJTmI?oc=5",
+      "description": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-13T03:14:21.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "dc52b0de",
+      "title": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnRRb3VuTzl6OTdhLTk2c0dIOEcyVUtjN1lvR0d1N3JOejBfOE5oV1N1QUExNm90U1BrTndvT0I1OXpHZV9kWU90SXc5bzNJZ1lXNzVkVVRkeFNNZHBIdnh5ZWFVWlZBdDJDb1Ztb0lfX1lwaFprN2NHTHpGSmFLSDlORzFyX2sxVXNpYVYydlF1S0w4N2EyOENfbzB6Y2JIU2tVU0lIbDVNREp3cXZEWHBLN2kzOGRRSVJ4R2JFS3RXemxrSWtER3o2dVJLNzjSAdQBQVVfeXFMUFFuRnlBZkQzYjV4RTUyMFcxTGZiUG8xVTIybkE5a1F3OENqY1huQjZzUTUxMFhUU1Y2MHYxQm8yTHdoVFp0OW8ydF9CUWg4SmJFeEdlYzFkbkFzWE9RazBVTHRpWWhLS1ZrTW9IMU5TMzdkTXRvT3BCXzhnZXF6QVBmSE43bXZKWnllZ25iem90NkFmTE5JVTJhZ2xwak9aS1hxWU45VmdZOGo3MlQySmppTDN2TlhTNjBZc1BJTWdFdi1XVzVtdElLN2dCQnExZXZZU2k?oc=5",
+      "description": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund &nbsp;&nbsp; CNBC TV18",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-10-12T11:56:27.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "c8ceb4a3",
+      "title": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5",
+      "description": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-12T10:22:25.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Nexus Select Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "a789c813",
       "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkNQUkxLLUpqOGNnSEs2QjExVWJQcWM3Zk1mRTNNeWl3dFEzYXY2X3J6dExzUU0tWmU0NDcyYjNHSWxGVHNoMVlLRTdQbUNtYlVsSzBCMG1KMkFjS0IyX0tQaDlMMHZZNmd5dC05Z3RHa3FIZTdpMjM2SGVhX0lUbEtXMHRXY3k0SGxzZldjbjNuZE9ES3hqMlZCS1JaQ2UzMGpmVTdYVEFFYWVXdFlvZkFhZnJZV1FEOWl1TktMZG5NNlgxMGRIalRBbHNyc3M4c2pidk9yejFCTGpyMEZ5ZThyY2HSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
@@ -193,6 +251,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "f613c5b2",
+      "title": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaENIM2NzNU1vd2xvUjlnUUMtdjJfQWN6VDlOcENyWnZMUTNpSlp2Y242Mlk2S3VYNEhlSksta2xOVUVYeG50ZDh1TFBYOEU2TXA2WGhZbm8wUVVmTkpxc21mRk5MNnhUN1hVWWFPUFlpYlJuYUxUcW5xNjFOLTNtNmpGYW45M24xY0dINXhkSHp5cFBOU3FNWFFsWC1PSU1XRGR4bGVra1NPRHQxUWttQ1pLUFdMZTRHVUNKOFBPYlNDOHBVVmZlTERmeUdtdw?oc=5",
+      "description": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-11T22:09:29.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
     },
     {
       "id": "c05d10d8",
@@ -209,10 +281,84 @@
         "Brigade Enterprises"
       ],
       "stream": "reit"
+    },
+    {
+      "id": "8a3853a8",
+      "title": "Casagrand launches 98-unit premium residential project in Adyar, Chennai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnF6bUFjdUpTbGhvbjF5MlFrTTJXOXg2TkJLM0NOSnk5eTZCd1NPLV9vM1RweFQ0cW9kMTlvSnJQcjg3RzJMbW5aOGc5R2VwbGZ1aFl1WnNQQ3d2WGstMVFDdUlZdXJEcEhUUDVLVURtWDBLZTdWQWxiTWFwSmNYcU5TNmx5dkthQVNQM1llWXZpcmU3NXRtc2I3OWJSSzVpRjBFa2ZBanlMb3BjTnltYlFMNzA0anQ5T2h5WDM5Z2g?oc=5",
+      "description": "Casagrand launches 98-unit premium residential project in Adyar, Chennai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-11T13:34:05.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Casagrand"
+      ],
+      "stream": "projects"
     }
   ],
   "items": [
     {
+      "id": "67939df5",
+      "title": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFFVWUdfYlZJWkV6V1lBSHUweEh1cEZsbUkwWGdXNExJM1JJV3Q0dFlTT1lybHEyT2VTSjE2Zk91cTRzUWJoM3ZvTU1Fc2lfQ3BvVXZoZXgxbWJQWFZoUVJmYjJ3Z3NZdVN4dmFvUVVmVE5SSzZnRHU5NmM4a0VCSXdEOXJQQ3puVWI3Q2luOXVNVlNxRWh5cHpBNGJOcFB0dFRZa21qMXZmTE9ucU52RDVuNGIzaXZjYzhxS1gxN3NMekZnXy1fTEpzR0ZyS3pDSUJlRzA0UUlUN2hS0gHiAUFVX3lxTE4yNDExb25nNXVKeFZCam1ZaDFKME94REx1Z2h1cERYNGc1NE5FTkFka3NzWktLQmZKaldXdTF1N0pYTjJHSFktc1VwM2xjZ2JVcW5JRHRoMVJvbTN2aUNEVDFXcmtfWHFFV2RuUkd4MkhwdDN6eGQxWkxZZW5XOGZwcEVIRUpTdWxVZG4zZWdmVENJa1NkRXVaS1BsdUZ2a3h1UndHbTRTS2FnU1ZoUGVSeTVORElTTmdKYjZCZEV1ZXE1MmNuZ1gwYkhIT1ZHZnJWQ0hCMDlkbnpJTkRnZXNDbVE?oc=5",
+      "description": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-13T07:34:00.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "9c4fda4c",
+      "title": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVhoaGFUVDQ4VXlUOE5WU0ZkdVQ3cWZyUnNPZHVvRkRyc1JOQ3pER3ROVFQ3TEtPYktTNHJLbGJPVlQzOXU2SHFWY0k4MlNnTC0wRXNBTXYxOTY4eWp1QTB2Q3pzelR4S1lSTVJZSU9xUmZvQjg4dkh4TzRIc3hndmhMU1h2U2RFSW1pNkFEb3htSmdSWXdwb1d3dHpNUEFUQzRQb2pyNDVHd1U5bWduM2N1ZXBWRnJidG1qeHNJTmI?oc=5",
+      "description": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-13T03:14:21.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "dc52b0de",
+      "title": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnRRb3VuTzl6OTdhLTk2c0dIOEcyVUtjN1lvR0d1N3JOejBfOE5oV1N1QUExNm90U1BrTndvT0I1OXpHZV9kWU90SXc5bzNJZ1lXNzVkVVRkeFNNZHBIdnh5ZWFVWlZBdDJDb1Ztb0lfX1lwaFprN2NHTHpGSmFLSDlORzFyX2sxVXNpYVYydlF1S0w4N2EyOENfbzB6Y2JIU2tVU0lIbDVNREp3cXZEWHBLN2kzOGRRSVJ4R2JFS3RXemxrSWtER3o2dVJLNzjSAdQBQVVfeXFMUFFuRnlBZkQzYjV4RTUyMFcxTGZiUG8xVTIybkE5a1F3OENqY1huQjZzUTUxMFhUU1Y2MHYxQm8yTHdoVFp0OW8ydF9CUWg4SmJFeEdlYzFkbkFzWE9RazBVTHRpWWhLS1ZrTW9IMU5TMzdkTXRvT3BCXzhnZXF6QVBmSE43bXZKWnllZ25iem90NkFmTE5JVTJhZ2xwak9aS1hxWU45VmdZOGo3MlQySmppTDN2TlhTNjBZc1BJTWdFdi1XVzVtdElLN2dCQnExZXZZU2k?oc=5",
+      "description": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund &nbsp;&nbsp; CNBC TV18",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-10-12T11:56:27.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "c8ceb4a3",
+      "title": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5",
+      "description": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-12T10:22:25.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Nexus Select Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "a789c813",
       "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkNQUkxLLUpqOGNnSEs2QjExVWJQcWM3Zk1mRTNNeWl3dFEzYXY2X3J6dExzUU0tWmU0NDcyYjNHSWxGVHNoMVlLRTdQbUNtYlVsSzBCMG1KMkFjS0IyX0tQaDlMMHZZNmd5dC05Z3RHa3FIZTdpMjM2SGVhX0lUbEtXMHRXY3k0SGxzZldjbjNuZE9ES3hqMlZCS1JaQ2UzMGpmVTdYVEFFYWVXdFlvZkFhZnJZV1FEOWl1TktMZG5NNlgxMGRIalRBbHNyc3M4c2pidk9yejFCTGpyMEZ5ZThyY2HSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
@@ -225,6 +371,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "f613c5b2",
+      "title": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaENIM2NzNU1vd2xvUjlnUUMtdjJfQWN6VDlOcENyWnZMUTNpSlp2Y242Mlk2S3VYNEhlSksta2xOVUVYeG50ZDh1TFBYOEU2TXA2WGhZbm8wUVVmTkpxc21mRk5MNnhUN1hVWWFPUFlpYlJuYUxUcW5xNjFOLTNtNmpGYW45M24xY0dINXhkSHp5cFBOU3FNWFFsWC1PSU1XRGR4bGVra1NPRHQxUWttQ1pLUFdMZTRHVUNKOFBPYlNDOHBVVmZlTERmeUdtdw?oc=5",
+      "description": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-11T22:09:29.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
     },
     {
       "id": "c05d10d8",
@@ -241,6 +401,22 @@
         "Brigade Enterprises"
       ],
       "stream": "reit"
+    },
+    {
+      "id": "8a3853a8",
+      "title": "Casagrand launches 98-unit premium residential project in Adyar, Chennai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnF6bUFjdUpTbGhvbjF5MlFrTTJXOXg2TkJLM0NOSnk5eTZCd1NPLV9vM1RweFQ0cW9kMTlvSnJQcjg3RzJMbW5aOGc5R2VwbGZ1aFl1WnNQQ3d2WGstMVFDdUlZdXJEcEhUUDVLVURtWDBLZTdWQWxiTWFwSmNYcU5TNmx5dkthQVNQM1llWXZpcmU3NXRtc2I3OWJSSzVpRjBFa2ZBanlMb3BjTnltYlFMNzA0anQ5T2h5WDM5Z2g?oc=5",
+      "description": "Casagrand launches 98-unit premium residential project in Adyar, Chennai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-11T13:34:05.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Casagrand"
+      ],
+      "stream": "projects"
     },
     {
       "id": "9c0cc46f",
