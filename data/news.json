@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-14T07:53:44.887Z",
+  "generatedAt": "2026-10-15T07:38:49.821Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 112,
+  "itemCount": 118,
   "todayCount": 7,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -11,37 +11,37 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "items": 2
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
       "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -76,7 +76,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -131,7 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,68 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 8
+      "items": 10
     }
   ],
   "todayItems": [
+    {
+      "id": "53592c7c",
+      "title": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejBudnNQUjlMNktLa0JyTGl4T1U3OFZkNXFmNVUtalRQRWZCRkwzVWpHelV3NWZndnBHNlRNUTdIazM3dldObUczNk4zT2JiVTl1MzRlR1JnQms3Ykg2VHMzemFFVlBWN3JDZ1JoTDJvN2Vudm9tSWlqd0o4N0VfX2h3MlMtRENkOUxkeUJjTGpNMWRsZFdXRlJ2OUN2SERyTC0xTExYYU9GTlk5Y1QtQ08zZ08zeGVNdGJJMFRldGlPbGZ2eG14Z9IBzgFBVV95cUxNMHNKNmZMMFNwOGJyenJvRmRMUnFHSU0zU09YNWRQalh4em5YMFc1djdPdEl0STItTEtfRlg5VEl3R0tWMVBCRWZSMTdHLU5RNVEyN2RPTnNVMVRpMkd3VGprVDM1YV9JLU80UmlGMndaMDlqeVdCLVRtbmc5aUM1dVplN0VZd3YySTFZZ0VYVk1ydnNhOTgtUTVDU0w2R3o3Yl9BekZHYWtKUXZHbU9YcWhEQlRGZElyWGZWY3hUNDZUcjBmWklaRkZNRE5lZw?oc=5",
+      "description": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-14T15:02:11.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "9af3fd3",
+      "title": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamE2SHlPOGJjeUlzMFp6OXVWdV9JODZDYXRUSTFNcUt5RFhsSXFTd2NEUmZQUW5QbEY0ZGc4N3lJVDRhSkRnMnJKT0RHTEN5TnFwc2tNelNreFlyRnljeEZSdDlwN1MtcFUwckJSN2RMNTJLcDVQdG43NkUydG5lMUVZd1ZfLWtjbU11WXhiUzdwR28zbVV2dkg5UDljdGdTYWVWNk1ZNWRQdWRIelprWW5oay1fVUdNcmFXeC1zdVd1N21mV2FfRTA0azk?oc=5",
+      "description": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-14T14:03:12.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "9f37e6fd",
+      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDRVMTQ5bHBfS0RTYVR1R0tCNkNBSDhLZ2VnTGxLbXVEN1U1cUp2eHI3NTdTcXljQjBvV3ZkY1E1dkZwbnE5RXQ5dE9uVWpEZ1Fkb0dldFZNWklxc0J1OXBTeUtGd1V2enRuVGxJUzJzcno5QWxrZ0djQURmc2V4YzUxYXp4aTVWZWlTRVZlV0lLeDF6ZjU1NzlxcXVqbmdqWGNrSWtvNlpWMnFNMkJrOWVqXzAtVUlkZ2ZGU3ZTLTlCSlZPcm9mcHg3SklXaVRjdkFkWnlPeFNQdVJyREU0M1JpTmpMN1U?oc=5",
+      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; ANI News",
+      "source": "ANI News",
+      "publishedAt": "2026-10-14T10:46:00.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "bf2c2920",
+      "title": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report - Zee Business",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLZm1HMVZrY19PZFVHQk1Rc1M0ZW5ISWIzZVBYM1l2QWItY3BteHRXS0phQVBsYUdBSUlCRng2TFB1WEQwVkdzRFBHTUxlcTlFWk9jQUoxcXJGaGlSekZyeWd2MEx1Q2Q1dVBjQTYtRzVaWWRGdTAxaExQd0NuVEdLOFZiX0dheHF0Z2duSmFocjdBeWZWME5Mc19iTVZZc1ZOSlNSLUIzOXRDdGtaeDZ1eTNmeExpOWQwOXJJUVNnRU1QcUxNdS1EbnFRUQ?oc=5",
+      "description": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report &nbsp;&nbsp; Zee Business",
+      "source": "Zee Business",
+      "publishedAt": "2026-10-14T09:46:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "b64e03f0",
       "title": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 - ET Realty",
@@ -197,94 +255,98 @@
       "stream": "projects"
     },
     {
-      "id": "67939df5",
-      "title": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFFVWUdfYlZJWkV6V1lBSHUweEh1cEZsbUkwWGdXNExJM1JJV3Q0dFlTT1lybHEyT2VTSjE2Zk91cTRzUWJoM3ZvTU1Fc2lfQ3BvVXZoZXgxbWJQWFZoUVJmYjJ3Z3NZdVN4dmFvUVVmVE5SSzZnRHU5NmM4a0VCSXdEOXJQQ3puVWI3Q2luOXVNVlNxRWh5cHpBNGJOcFB0dFRZa21qMXZmTE9ucU52RDVuNGIzaXZjYzhxS1gxN3NMekZnXy1fTEpzR0ZyS3pDSUJlRzA0UUlUN2hS0gHiAUFVX3lxTE4yNDExb25nNXVKeFZCam1ZaDFKME94REx1Z2h1cERYNGc1NE5FTkFka3NzWktLQmZKaldXdTF1N0pYTjJHSFktc1VwM2xjZ2JVcW5JRHRoMVJvbTN2aUNEVDFXcmtfWHFFV2RuUkd4MkhwdDN6eGQxWkxZZW5XOGZwcEVIRUpTdWxVZG4zZWdmVENJa1NkRXVaS1BsdUZ2a3h1UndHbTRTS2FnU1ZoUGVSeTVORElTTmdKYjZCZEV1ZXE1MmNuZ1gwYkhIT1ZHZnJWQ0hCMDlkbnpJTkRnZXNDbVE?oc=5",
-      "description": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai &nbsp;&nbsp; ET Realty",
+      "id": "60efcc79",
+      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWI2ZGZ6cmFYZVBYcXMzZVJSWUtNQkwtU1Fqd1ZtNlpqbkstYVg5TUJCSHVQTUhsSTd0T0lJdGVPNTdzRnVXMnJzenRaQTYwQThkeDd3Y1NMVVNlLURGRWgtdDg3Z2xkSG0zSGZpX3Zpa3ZuSXdMNHBEdzhBQnJiZ0EzYl90cVFLbUJSVUc2NTY1WURpejhlMzVOZ3NGZEVEN2NyeFNfdWsxRldpTEZkMm9fUWNMMThsUkFFalNWV3dzZDkzbFctYUZHWDVhQ09SM25CalA0Z0RRQ25yWlB2ZlF4WUZXdkl0eW0wb2RFb1DSAfABQVVfeXFMTmFiNmRmenJhWGVQWHFzM2VSUllLTUJMLVNRandWbTZaam5LLWFYOU1CQkh1UE1IbEk3dE9JSXRlTzU3c0Z1VzJyc3p0WkE2MEE4ZHg3d2NTTFVTZS1ERkVoLXQ4N2dsZEhtM0hmaV92aWt2bkl3TDRwRHc4QUJyYmdBM2JfdHFRS21CUlVHNjU2NVlEaXo4ZTM1TmdzRmRFRDdjcnhTX3VrMUZXaUxGZDJvX1FjTDE4bFJBRWpTVld3c2Q5M2xXLWFGR1g1YUNPUjNuQmpQNGdEUUNuclpQdmZReFlGV3ZJdHltMG9kRW9Q?oc=5",
+      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
       "source": "ET Realty",
-      "publishedAt": "2026-10-13T07:34:00.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "9c4fda4c",
-      "title": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVhoaGFUVDQ4VXlUOE5WU0ZkdVQ3cWZyUnNPZHVvRkRyc1JOQ3pER3ROVFQ3TEtPYktTNHJLbGJPVlQzOXU2SHFWY0k4MlNnTC0wRXNBTXYxOTY4eWp1QTB2Q3pzelR4S1lSTVJZSU9xUmZvQjg4dkh4TzRIc3hndmhMU1h2U2RFSW1pNkFEb3htSmdSWXdwb1d3dHpNUEFUQzRQb2pyNDVHd1U5bWduM2N1ZXBWRnJidG1qeHNJTmI?oc=5",
-      "description": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-13T03:14:21.000Z",
+      "publishedAt": "2026-10-14T03:30:28.000Z",
       "city": "India",
       "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
+      "tone": "negative",
+      "priority": "watch",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
       "stream": "reit"
     },
     {
-      "id": "5de8549e",
-      "title": "Anshul Singhal launches Vantrock Real Assets with ~INR 4,200 (~USD 434 million) Crore Gross Development Value - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjZZUzBtczVjelZZc25SbkFVSzlCZ3lGR3dXR1VVOEF3NUVtY1JOcWFSRkp6bkFYMnhZNDdzcXJZVGZucXFkUHE5WHByWW9iWmluYlhmZVliQWR5SDZUMU9WVFNTdGVnMUpud0RaUXRjUkl2TmdIcERzUW93clRucDB6MTVwU2VnNFE2U0NQWlNmLVdCYU9pRk1OVWdzc3JKMnRwOFB3ODFEem45SzREWGp0RE5tdW5IcTlvdXR3a2lQeXFDR0xfcldVdWVXeVhMOWFlbG9RbTdaeFVGTWhlYTlB?oc=5",
-      "description": "Anshul Singhal launches Vantrock Real Assets with ~INR 4,200 (~USD 434 million) Crore Gross Development Value &nbsp;&nbsp; Realty Today",
+      "id": "e4ad7277",
+      "title": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWVhZjR3UFpqbFNOaHJ6S1hOWXBsNGEwMjVEdUlVYjIxVUNVb1Z2Mlk5VVJKNHpCR2J0dWhlYWQwNmMwRkY0NDRZQVJhSjRGVklNX2NsSWMyY3h0VUtRQWxVbVM4dzhiRVdyQ3ppSjdGUnhBdnVROGdQZEdjOFFKYjZCaEZaSW5aVmd5MXB5T0NMb0NCZjV0VFhpNmkyMnd3UHpabWNxb0h1cE5NOWIyQWRuUQ?oc=5",
+      "description": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate &nbsp;&nbsp; Realty Today",
       "source": "Realty Today",
-      "publishedAt": "2026-10-12T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "dc52b0de",
-      "title": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnRRb3VuTzl6OTdhLTk2c0dIOEcyVUtjN1lvR0d1N3JOejBfOE5oV1N1QUExNm90U1BrTndvT0I1OXpHZV9kWU90SXc5bzNJZ1lXNzVkVVRkeFNNZHBIdnh5ZWFVWlZBdDJDb1Ztb0lfX1lwaFprN2NHTHpGSmFLSDlORzFyX2sxVXNpYVYydlF1S0w4N2EyOENfbzB6Y2JIU2tVU0lIbDVNREp3cXZEWHBLN2kzOGRRSVJ4R2JFS3RXemxrSWtER3o2dVJLNzjSAdQBQVVfeXFMUFFuRnlBZkQzYjV4RTUyMFcxTGZiUG8xVTIybkE5a1F3OENqY1huQjZzUTUxMFhUU1Y2MHYxQm8yTHdoVFp0OW8ydF9CUWg4SmJFeEdlYzFkbkFzWE9RazBVTHRpWWhLS1ZrTW9IMU5TMzdkTXRvT3BCXzhnZXF6QVBmSE43bXZKWnllZ25iem90NkFmTE5JVTJhZ2xwak9aS1hxWU45VmdZOGo3MlQySmppTDN2TlhTNjBZc1BJTWdFdi1XVzVtdElLN2dCQnExZXZZU2k?oc=5",
-      "description": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund &nbsp;&nbsp; CNBC TV18",
-      "source": "CNBC TV18",
-      "publishedAt": "2026-10-12T11:56:27.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "c8ceb4a3",
-      "title": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5",
-      "description": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-12T10:22:25.000Z",
+      "publishedAt": "2026-10-13T18:30:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "positive",
       "priority": "normal",
       "entities": [
-        "Nexus Select Trust"
+        "Blackstone Real Estate"
       ],
-      "stream": "reit"
-    },
-    {
-      "id": "156b2c96",
-      "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEVqQTlfcFQwWnZwNnJ0Q2JYLXRlNkt1cWJqNVdIRXgtdHItMXpYaVVIeXRqRzJaVDFPMDJnMmw0b2tLbThuOW9UVlBoemRncmc4SG5RTVJhaFBXaWx5X0oyMmN6OGJubkU3QmtsSnZiVmsweWlCc3dYaG43clhUSzM5eFBRREo5WkZmbWhhcFdpdkU5ZGJjUkYwd1BEYVJNTlJ2UlU2dTg3c3dFOW5KWGM1NDRHVWFSRU5GUVY5dGVXR0Vsek5QamJMbkljd3N4T0xla0FOWU1nVk1HVHVFMThWUWRDdnItMmfSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
-      "description": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-12T08:10:12.000Z",
-      "city": "Chennai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
       "stream": "reit"
     }
   ],
   "items": [
     {
+      "id": "53592c7c",
+      "title": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejBudnNQUjlMNktLa0JyTGl4T1U3OFZkNXFmNVUtalRQRWZCRkwzVWpHelV3NWZndnBHNlRNUTdIazM3dldObUczNk4zT2JiVTl1MzRlR1JnQms3Ykg2VHMzemFFVlBWN3JDZ1JoTDJvN2Vudm9tSWlqd0o4N0VfX2h3MlMtRENkOUxkeUJjTGpNMWRsZFdXRlJ2OUN2SERyTC0xTExYYU9GTlk5Y1QtQ08zZ08zeGVNdGJJMFRldGlPbGZ2eG14Z9IBzgFBVV95cUxNMHNKNmZMMFNwOGJyenJvRmRMUnFHSU0zU09YNWRQalh4em5YMFc1djdPdEl0STItTEtfRlg5VEl3R0tWMVBCRWZSMTdHLU5RNVEyN2RPTnNVMVRpMkd3VGprVDM1YV9JLU80UmlGMndaMDlqeVdCLVRtbmc5aUM1dVplN0VZd3YySTFZZ0VYVk1ydnNhOTgtUTVDU0w2R3o3Yl9BekZHYWtKUXZHbU9YcWhEQlRGZElyWGZWY3hUNDZUcjBmWklaRkZNRE5lZw?oc=5",
+      "description": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-14T15:02:11.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "9af3fd3",
+      "title": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamE2SHlPOGJjeUlzMFp6OXVWdV9JODZDYXRUSTFNcUt5RFhsSXFTd2NEUmZQUW5QbEY0ZGc4N3lJVDRhSkRnMnJKT0RHTEN5TnFwc2tNelNreFlyRnljeEZSdDlwN1MtcFUwckJSN2RMNTJLcDVQdG43NkUydG5lMUVZd1ZfLWtjbU11WXhiUzdwR28zbVV2dkg5UDljdGdTYWVWNk1ZNWRQdWRIelprWW5oay1fVUdNcmFXeC1zdVd1N21mV2FfRTA0azk?oc=5",
+      "description": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-14T14:03:12.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "9f37e6fd",
+      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDRVMTQ5bHBfS0RTYVR1R0tCNkNBSDhLZ2VnTGxLbXVEN1U1cUp2eHI3NTdTcXljQjBvV3ZkY1E1dkZwbnE5RXQ5dE9uVWpEZ1Fkb0dldFZNWklxc0J1OXBTeUtGd1V2enRuVGxJUzJzcno5QWxrZ0djQURmc2V4YzUxYXp4aTVWZWlTRVZlV0lLeDF6ZjU1NzlxcXVqbmdqWGNrSWtvNlpWMnFNMkJrOWVqXzAtVUlkZ2ZGU3ZTLTlCSlZPcm9mcHg3SklXaVRjdkFkWnlPeFNQdVJyREU0M1JpTmpMN1U?oc=5",
+      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; ANI News",
+      "source": "ANI News",
+      "publishedAt": "2026-10-14T10:46:00.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "bf2c2920",
+      "title": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report - Zee Business",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLZm1HMVZrY19PZFVHQk1Rc1M0ZW5ISWIzZVBYM1l2QWItY3BteHRXS0phQVBsYUdBSUlCRng2TFB1WEQwVkdzRFBHTUxlcTlFWk9jQUoxcXJGaGlSekZyeWd2MEx1Q2Q1dVBjQTYtRzVaWWRGdTAxaExQd0NuVEdLOFZiX0dheHF0Z2duSmFocjdBeWZWME5Mc19iTVZZc1ZOSlNSLUIzOXRDdGtaeDZ1eTNmeExpOWQwOXJJUVNnRU1QcUxNdS1EbnFRUQ?oc=5",
+      "description": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report &nbsp;&nbsp; Zee Business",
+      "source": "Zee Business",
+      "publishedAt": "2026-10-14T09:46:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "b64e03f0",
       "title": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 - ET Realty",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4b9IBywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4bw?oc=5",
@@ -299,6 +361,38 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "60efcc79",
+      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWI2ZGZ6cmFYZVBYcXMzZVJSWUtNQkwtU1Fqd1ZtNlpqbkstYVg5TUJCSHVQTUhsSTd0T0lJdGVPNTdzRnVXMnJzenRaQTYwQThkeDd3Y1NMVVNlLURGRWgtdDg3Z2xkSG0zSGZpX3Zpa3ZuSXdMNHBEdzhBQnJiZ0EzYl90cVFLbUJSVUc2NTY1WURpejhlMzVOZ3NGZEVEN2NyeFNfdWsxRldpTEZkMm9fUWNMMThsUkFFalNWV3dzZDkzbFctYUZHWDVhQ09SM25CalA0Z0RRQ25yWlB2ZlF4WUZXdkl0eW0wb2RFb1DSAfABQVVfeXFMTmFiNmRmenJhWGVQWHFzM2VSUllLTUJMLVNRandWbTZaam5LLWFYOU1CQkh1UE1IbEk3dE9JSXRlTzU3c0Z1VzJyc3p0WkE2MEE4ZHg3d2NTTFVTZS1ERkVoLXQ4N2dsZEhtM0hmaV92aWt2bkl3TDRwRHc4QUJyYmdBM2JfdHFRS21CUlVHNjU2NVlEaXo4ZTM1TmdzRmRFRDdjcnhTX3VrMUZXaUxGZDJvX1FjTDE4bFJBRWpTVld3c2Q5M2xXLWFGR1g1YUNPUjNuQmpQNGdEUUNuclpQdmZReFlGV3ZJdHltMG9kRW9Q?oc=5",
+      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-14T03:30:28.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "negative",
+      "priority": "watch",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "e4ad7277",
+      "title": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWVhZjR3UFpqbFNOaHJ6S1hOWXBsNGEwMjVEdUlVYjIxVUNVb1Z2Mlk5VVJKNHpCR2J0dWhlYWQwNmMwRkY0NDRZQVJhSjRGVklNX2NsSWMyY3h0VUtRQWxVbVM4dzhiRVdyQ3ppSjdGUnhBdnVROGdQZEdjOFFKYjZCaEZaSW5aVmd5MXB5T0NMb0NCZjV0VFhpNmkyMnd3UHpabWNxb0h1cE5NOWIyQWRuUQ?oc=5",
+      "description": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-10-13T18:30:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
     },
     {
       "id": "67939df5",
