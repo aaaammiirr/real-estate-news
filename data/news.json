@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T07:38:49.821Z",
+  "generatedAt": "2026-10-16T07:25:26.204Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 118,
-  "todayCount": 7,
+  "itemCount": 126,
+  "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,7 +11,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -101,12 +101,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,85 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 10
+      "items": 7
     }
   ],
   "todayItems": [
+    {
+      "id": "7a662e4f",
+      "title": "Kumar Properties Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakhtNWtfSDJsM3JORE5Bd3VrRTZxRUI1Y00zUkZWRkpSUmNINlp5UzgxdkdLNG1ZV2JNd1dhcXRxZ056ZTlaNWdxZjVLZFZmYU8tQmJLREdCU2stVjhhcmNSQU16UVZqR3NjT3J1bUd2aU14UUJ6TF85YXlYeGwwWm8tb0ptZTZEYnM5LWtRZlhsLWVQdFlXd1hWQkRUdVRMVWpnRVpQR0JjWVhzb2Nwak1WWTN6NHZQQWJn?oc=5",
+      "description": "Kumar Properties Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-16T06:08:19.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "1a156b99",
+      "title": "Swan Realty launches Bodhi with 24 four-bedroom residences in Bengaluru's Jayanagar - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdvRGI4aE0yZWVEckl6ekN0TDN5b0EtNEZES1ZKazl4Y2puSnlWbEdfVU5KbHNsbGF2NG5Ka1lOMm15YUdBNkxtNXBIa0tybXZvck54UXhBU29sT2hYQ2N5VllCSWhwb3FRS0J0aExwaW0ySjFkaFZHczZUekFZc0xOdnFudHFreWhuRElXbUZWN3hlNDNjVnRQWkczTFVXLWVZelZadUpGYjBqa0ZMR01ET292R2wwdU9IV2hyUTNTWk1WUzdTWUFQNWhjWWst?oc=5",
+      "description": "Swan Realty launches Bodhi with 24 four-bedroom residences in Bengaluru's Jayanagar &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-16T05:30:27.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "49321c03",
+      "title": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOeFBrT1pyRW11YWhjWkJ4RDd4cGxBT2VJbjhRN1BtSldDdHhBcUFiT2pCQ1ZkMzRZTTZQcXhGcWl6NGRIa0g2OG43bU5nYWNibS04M29jQTFMVmNnNXVuenhUbWlyQ1RsUWNWUVF3RFE3OXRwa1d5anVLejMxOXJObVlpc1hxZUxwY1RiYUpKdHdVUGozYmtyNFB4SElYUEZnNjFEY051REIyVHlhblFaY3I4V1FQZENNMmtzZU55TVY3TjRmeDlHTk1BdWxPRHZNcmJBcHJ6eGR6cl9PVUlwNzVxWE9MZVBOVmZKeVFWVnJqNkRHeWFSUjNrb3pJVmd6TnJjR1RRTUpmTTFWZFdTamVjaVZDaENQaVhEVjNLdWZLQlRaNXpJSDZfZkQyTDN2MW43SmUycUxfYWVMbzhoc1lyUjNfMFBwdDVOMWJ6R1cyeWdnZWM2bngzc3g?oc=5",
+      "description": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-16T03:47:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "5a94cb98",
+      "title": "Q2 results, October 16: DLF, PNB, LTM, Bajaj Housing Finance, Federal Bank, Urban Company, others to post earnings - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRldLX2VDcjk5bHFrWnU4Yk9wQzZwbGtpZTBIb0Zvd2dQVjlfQXYzalEtX0VXdzgwRXFBZUJUNEd0WnFjYjdVcTVUR3Z4dWlmbG5YUTREcHZZMERtRmlEZFpyQ2dMdFhXbDRNRHB4QXJTRmg1OVczX2xfcUkwTnFhdDJTUXZ4T0xfQzBTSlFsVE1IZG1nVXd2OUJnZ216TDEwd3Nnb0pkcDNSYktac04zWTRrVW9sZ1dEZjQwcTNqekNiMDRhb3hvY2dPN0c4QmxlTXNaOUlESkUxRzI1ZjBjXzZfanEwMW55ZDVFc0pqaDVhcFJMdTE3VU5IQQ?oc=5",
+      "description": "Q2 results, October 16: DLF, PNB, LTM, Bajaj Housing Finance, Federal Bank, Urban Company, others to post earnings &nbsp;&nbsp; Upstox",
+      "source": "Upstox",
+      "publishedAt": "2026-10-16T02:09:23.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "DLF Limited",
+        "Bajaj Housing Finance"
+      ],
+      "stream": "funds"
+    },
+    {
+      "id": "1ebd5d96",
+      "title": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVVFLVpYX040cE9CYzVVUk9hSVgzQldXMzJQWldKdU9zaU5JNkp3WmEweEFxeFhGLWhjOVpWQ0xaMTNPZlBRU1BVQTVNYjgwd0FGRkd6Um5OWHdsc0cxdjlwZUZpUExsTzQ3aWRHWkFvem5BVndvSXVyaFN5Yi1GUzJVUU40VGdLaFV3U1F2bnFHRzJIUFhNd3RtTnRSajdaczN0MTI5TExoU1M2V2ZQZElzVFllLUtpNi0yU29JTHZ1UjQ?oc=5",
+      "description": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-15T09:12:38.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Kolte-Patil Developers"
+      ],
+      "stream": "land"
+    },
     {
       "id": "53592c7c",
       "title": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News - Hindustan Times",
@@ -211,12 +286,12 @@
       "stream": "projects"
     },
     {
-      "id": "9f37e6fd",
-      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDRVMTQ5bHBfS0RTYVR1R0tCNkNBSDhLZ2VnTGxLbXVEN1U1cUp2eHI3NTdTcXljQjBvV3ZkY1E1dkZwbnE5RXQ5dE9uVWpEZ1Fkb0dldFZNWklxc0J1OXBTeUtGd1V2enRuVGxJUzJzcno5QWxrZ0djQURmc2V4YzUxYXp4aTVWZWlTRVZlV0lLeDF6ZjU1NzlxcXVqbmdqWGNrSWtvNlpWMnFNMkJrOWVqXzAtVUlkZ2ZGU3ZTLTlCSlZPcm9mcHg3SklXaVRjdkFkWnlPeFNQdVJyREU0M1JpTmpMN1U?oc=5",
-      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "publishedAt": "2026-10-14T10:46:00.000Z",
+      "id": "fe0a8b7e",
+      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcTNHUE4tU0tIeHNtQ3dLX3N2RDlXb3NWWk85dDI1UHdmRjhhR1BxME55T3F4QkdXYTZTQThzN3ZEaGxfNEliOTVPZDVFdEEtQ1NrUklVUnBwQkh5aUJrUE9DVzdDUk9WYk9IUkpweVRLbXJGRkNvQ3ZXbGpNWkFKUlVTaFlmcS1YaVJEeFB4SlNHQnhrYXotTlJ3aklVa0pZdG4tV3FSSUpDVml4NGpPb0R6OHZXUVEtV205eVByNjFjdXp2aGM2aTB3Ylc4MlZvODRNWEprT2NWcmtjeWhoRmQ0Wm5BcmZKajVRbU1fM3VYUDF2cnRaRldPTUZfc2daaDRsQ0dMTWFQMkF6VUJKODAxLUHSAZQCQVVfeXFMTXEzR1BOLVNLSHhzbUN3S19zdkQ5V29zVlpPOXQyNVB3ZkY4YUdQcTBOeU9xeEJHV2E2U0E4czd2RGhsXzRJYjk1T2Q1RXRBLUNTa1JJVVJwcEJIeWlCa1BPQ1c3Q1JPVmJPSFJKcHlUS21yRkZDb0N2V2xqTVpBSlJVU2hZZnEtWGlSRHhQeEpTR0J4a2F6LU5Sd2pJVWtKWXRuLVdxUklKQ1ZpeDRqT29Eejh2V1FRLVdtOXlQcjYxY3V6dmhjNmkwd2JXODJWbzg0TVhKa09jVnJrY3loaEZkNFpuQXJmSmo1UW1NXzN1WFAxdnJ0WkZXT01GX3NnWmg0bENHTE1hUDJBelVCSjgwMS1B?oc=5",
+      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-14T12:55:08.000Z",
       "city": "Bengaluru",
       "category": "Land & acquisitions",
       "tone": "neutral",
@@ -236,59 +311,86 @@
       "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b64e03f0",
-      "title": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4b9IBywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4bw?oc=5",
-      "description": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-14T04:48:53.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "60efcc79",
-      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWI2ZGZ6cmFYZVBYcXMzZVJSWUtNQkwtU1Fqd1ZtNlpqbkstYVg5TUJCSHVQTUhsSTd0T0lJdGVPNTdzRnVXMnJzenRaQTYwQThkeDd3Y1NMVVNlLURGRWgtdDg3Z2xkSG0zSGZpX3Zpa3ZuSXdMNHBEdzhBQnJiZ0EzYl90cVFLbUJSVUc2NTY1WURpejhlMzVOZ3NGZEVEN2NyeFNfdWsxRldpTEZkMm9fUWNMMThsUkFFalNWV3dzZDkzbFctYUZHWDVhQ09SM25CalA0Z0RRQ25yWlB2ZlF4WUZXdkl0eW0wb2RFb1DSAfABQVVfeXFMTmFiNmRmenJhWGVQWHFzM2VSUllLTUJMLVNRandWbTZaam5LLWFYOU1CQkh1UE1IbEk3dE9JSXRlTzU3c0Z1VzJyc3p0WkE2MEE4ZHg3d2NTTFVTZS1ERkVoLXQ4N2dsZEhtM0hmaV92aWt2bkl3TDRwRHc4QUJyYmdBM2JfdHFRS21CUlVHNjU2NVlEaXo4ZTM1TmdzRmRFRDdjcnhTX3VrMUZXaUxGZDJvX1FjTDE4bFJBRWpTVld3c2Q5M2xXLWFGR1g1YUNPUjNuQmpQNGdEUUNuclpQdmZReFlGV3ZJdHltMG9kRW9Q?oc=5",
-      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-14T03:30:28.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "negative",
-      "priority": "watch",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "e4ad7277",
-      "title": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWVhZjR3UFpqbFNOaHJ6S1hOWXBsNGEwMjVEdUlVYjIxVUNVb1Z2Mlk5VVJKNHpCR2J0dWhlYWQwNmMwRkY0NDRZQVJhSjRGVklNX2NsSWMyY3h0VUtRQWxVbVM4dzhiRVdyQ3ppSjdGUnhBdnVROGdQZEdjOFFKYjZCaEZaSW5aVmd5MXB5T0NMb0NCZjV0VFhpNmkyMnd3UHpabWNxb0h1cE5NOWIyQWRuUQ?oc=5",
-      "description": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-13T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
       "stream": "reit"
     }
   ],
   "items": [
     {
+      "id": "7a662e4f",
+      "title": "Kumar Properties Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakhtNWtfSDJsM3JORE5Bd3VrRTZxRUI1Y00zUkZWRkpSUmNINlp5UzgxdkdLNG1ZV2JNd1dhcXRxZ056ZTlaNWdxZjVLZFZmYU8tQmJLREdCU2stVjhhcmNSQU16UVZqR3NjT3J1bUd2aU14UUJ6TF85YXlYeGwwWm8tb0ptZTZEYnM5LWtRZlhsLWVQdFlXd1hWQkRUdVRMVWpnRVpQR0JjWVhzb2Nwak1WWTN6NHZQQWJn?oc=5",
+      "description": "Kumar Properties Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-16T06:08:19.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "1a156b99",
+      "title": "Swan Realty launches Bodhi with 24 four-bedroom residences in Bengaluru's Jayanagar - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdvRGI4aE0yZWVEckl6ekN0TDN5b0EtNEZES1ZKazl4Y2puSnlWbEdfVU5KbHNsbGF2NG5Ka1lOMm15YUdBNkxtNXBIa0tybXZvck54UXhBU29sT2hYQ2N5VllCSWhwb3FRS0J0aExwaW0ySjFkaFZHczZUekFZc0xOdnFudHFreWhuRElXbUZWN3hlNDNjVnRQWkczTFVXLWVZelZadUpGYjBqa0ZMR01ET292R2wwdU9IV2hyUTNTWk1WUzdTWUFQNWhjWWst?oc=5",
+      "description": "Swan Realty launches Bodhi with 24 four-bedroom residences in Bengaluru's Jayanagar &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-16T05:30:27.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "49321c03",
+      "title": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOeFBrT1pyRW11YWhjWkJ4RDd4cGxBT2VJbjhRN1BtSldDdHhBcUFiT2pCQ1ZkMzRZTTZQcXhGcWl6NGRIa0g2OG43bU5nYWNibS04M29jQTFMVmNnNXVuenhUbWlyQ1RsUWNWUVF3RFE3OXRwa1d5anVLejMxOXJObVlpc1hxZUxwY1RiYUpKdHdVUGozYmtyNFB4SElYUEZnNjFEY051REIyVHlhblFaY3I4V1FQZENNMmtzZU55TVY3TjRmeDlHTk1BdWxPRHZNcmJBcHJ6eGR6cl9PVUlwNzVxWE9MZVBOVmZKeVFWVnJqNkRHeWFSUjNrb3pJVmd6TnJjR1RRTUpmTTFWZFdTamVjaVZDaENQaVhEVjNLdWZLQlRaNXpJSDZfZkQyTDN2MW43SmUycUxfYWVMbzhoc1lyUjNfMFBwdDVOMWJ6R1cyeWdnZWM2bngzc3g?oc=5",
+      "description": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-16T03:47:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "5a94cb98",
+      "title": "Q2 results, October 16: DLF, PNB, LTM, Bajaj Housing Finance, Federal Bank, Urban Company, others to post earnings - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRldLX2VDcjk5bHFrWnU4Yk9wQzZwbGtpZTBIb0Zvd2dQVjlfQXYzalEtX0VXdzgwRXFBZUJUNEd0WnFjYjdVcTVUR3Z4dWlmbG5YUTREcHZZMERtRmlEZFpyQ2dMdFhXbDRNRHB4QXJTRmg1OVczX2xfcUkwTnFhdDJTUXZ4T0xfQzBTSlFsVE1IZG1nVXd2OUJnZ216TDEwd3Nnb0pkcDNSYktac04zWTRrVW9sZ1dEZjQwcTNqekNiMDRhb3hvY2dPN0c4QmxlTXNaOUlESkUxRzI1ZjBjXzZfanEwMW55ZDVFc0pqaDVhcFJMdTE3VU5IQQ?oc=5",
+      "description": "Q2 results, October 16: DLF, PNB, LTM, Bajaj Housing Finance, Federal Bank, Urban Company, others to post earnings &nbsp;&nbsp; Upstox",
+      "source": "Upstox",
+      "publishedAt": "2026-10-16T02:09:23.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "DLF Limited",
+        "Bajaj Housing Finance"
+      ],
+      "stream": "funds"
+    },
+    {
+      "id": "1ebd5d96",
+      "title": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVVFLVpYX040cE9CYzVVUk9hSVgzQldXMzJQWldKdU9zaU5JNkp3WmEweEFxeFhGLWhjOVpWQ0xaMTNPZlBRU1BVQTVNYjgwd0FGRkd6Um5OWHdsc0cxdjlwZUZpUExsTzQ3aWRHWkFvem5BVndvSXVyaFN5Yi1GUzJVUU40VGdLaFV3U1F2bnFHRzJIUFhNd3RtTnRSajdaczN0MTI5TExoU1M2V2ZQZElzVFllLUtpNi0yU29JTHZ1UjQ?oc=5",
+      "description": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-15T09:12:38.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Kolte-Patil Developers"
+      ],
+      "stream": "land"
+    },
+    {
       "id": "53592c7c",
       "title": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejBudnNQUjlMNktLa0JyTGl4T1U3OFZkNXFmNVUtalRQRWZCRkwzVWpHelV3NWZndnBHNlRNUTdIazM3dldObUczNk4zT2JiVTl1MzRlR1JnQms3Ykg2VHMzemFFVlBWN3JDZ1JoTDJvN2Vudm9tSWlqd0o4N0VfX2h3MlMtRENkOUxkeUJjTGpNMWRsZFdXRlJ2OUN2SERyTC0xTExYYU9GTlk5Y1QtQ08zZ08zeGVNdGJJMFRldGlPbGZ2eG14Z9IBzgFBVV95cUxNMHNKNmZMMFNwOGJyenJvRmRMUnFHSU0zU09YNWRQalh4em5YMFc1djdPdEl0STItTEtfRlg5VEl3R0tWMVBCRWZSMTdHLU5RNVEyN2RPTnNVMVRpMkd3VGprVDM1YV9JLU80UmlGMndaMDlqeVdCLVRtbmc5aUM1dVplN0VZd3YySTFZZ0VYVk1ydnNhOTgtUTVDU0w2R3o3Yl9BekZHYWtKUXZHbU9YcWhEQlRGZElyWGZWY3hUNDZUcjBmWklaRkZNRE5lZw?oc=5",
@@ -317,6 +419,20 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "fe0a8b7e",
+      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcTNHUE4tU0tIeHNtQ3dLX3N2RDlXb3NWWk85dDI1UHdmRjhhR1BxME55T3F4QkdXYTZTQThzN3ZEaGxfNEliOTVPZDVFdEEtQ1NrUklVUnBwQkh5aUJrUE9DVzdDUk9WYk9IUkpweVRLbXJGRkNvQ3ZXbGpNWkFKUlVTaFlmcS1YaVJEeFB4SlNHQnhrYXotTlJ3aklVa0pZdG4tV3FSSUpDVml4NGpPb0R6OHZXUVEtV205eVByNjFjdXp2aGM2aTB3Ylc4MlZvODRNWEprT2NWcmtjeWhoRmQ0Wm5BcmZKajVRbU1fM3VYUDF2cnRaRldPTUZfc2daaDRsQ0dMTWFQMkF6VUJKODAxLUHSAZQCQVVfeXFMTXEzR1BOLVNLSHhzbUN3S19zdkQ5V29zVlpPOXQyNVB3ZkY4YUdQcTBOeU9xeEJHV2E2U0E4czd2RGhsXzRJYjk1T2Q1RXRBLUNTa1JJVVJwcEJIeWlCa1BPQ1c3Q1JPVmJPSFJKcHlUS21yRkZDb0N2V2xqTVpBSlJVU2hZZnEtWGlSRHhQeEpTR0J4a2F6LU5Sd2pJVWtKWXRuLVdxUklKQ1ZpeDRqT29Eejh2V1FRLVdtOXlQcjYxY3V6dmhjNmkwd2JXODJWbzg0TVhKa09jVnJrY3loaEZkNFpuQXJmSmo1UW1NXzN1WFAxdnJ0WkZXT01GX3NnWmg0bENHTE1hUDJBelVCSjgwMS1B?oc=5",
+      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-14T12:55:08.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
     },
     {
       "id": "9f37e6fd",
@@ -379,6 +495,22 @@
       "stream": "reit"
     },
     {
+      "id": "f2db4caf",
+      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMTEtd1VWTGwyMEFwcEdad3pLZlZISmY3Nk5kUXBQd1B2VnVGZEF3Yl94eVYyQkNZeWhkZExQN29HRDRUUjdzQzI2YlNKZjFndllsUDNUY2J4b0dJeVNjTnRycm9BUS1Ralc4TWZhS1U0ZU9ZRm9feHpYY2NuTG5wcm9MU2d3SFFQbE9acTVFbzVGd21PQjdMMFpIaDFNY045OTVfVXN5amk5anZidlRqLXFTNFRxb0FrWlFfcW9nRjYzTDlEc2wtUk00R2xHMF9yZElWMUR5LUpwRk45Vnl5b2xZckpUZ0ktemJB0gHwAUFVX3lxTE5hYjZkZnpyYVhlUFhxczNlUlJZS01CTC1TUWp3Vm02WmpuSy1hWDlNQkJIdVBNSGxJN3RPSUl0ZU81N3NGdVcycnN6dFpBNjBBOGR4N3djU0xVU2UtREZFaC10ODdnbGRIbTNIZmlfdmlrdm5Jd0w0cER3OEFCcmJnQTNiX3RxUUttQlJVRzY1NjVZRGl6OGUzNU5nc0ZkRUQ3Y3J4U191azFGV2lMRmQyb19RY0wxOGxSQUVqU1ZXd3NkOTNsVy1hRkdYNWFDT1IzbkJqUDRnRFFDbnJaUHZmUXhZRld2SXR5bTBvZEVvUA?oc=5",
+      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-14T03:30:28.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "negative",
+      "priority": "watch",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "e4ad7277",
       "title": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate - Realty Today",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWVhZjR3UFpqbFNOaHJ6S1hOWXBsNGEwMjVEdUlVYjIxVUNVb1Z2Mlk5VVJKNHpCR2J0dWhlYWQwNmMwRkY0NDRZQVJhSjRGVklNX2NsSWMyY3h0VUtRQWxVbVM4dzhiRVdyQ3ppSjdGUnhBdnVROGdQZEdjOFFKYjZCaEZaSW5aVmd5MXB5T0NMb0NCZjV0VFhpNmkyMnd3UHpabWNxb0h1cE5NOWIyQWRuUQ?oc=5",
@@ -392,6 +524,20 @@
       "entities": [
         "Blackstone Real Estate"
       ],
+      "stream": "reit"
+    },
+    {
+      "id": "8108cb38",
+      "title": "Indian Real Estate Attracts USD 85.5 Bn in Institutional Investments Over 16 Years - Vestian - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTnNhOUtwXy03NWh5dHI4OGx3ZXJZWkF1MkVZQ2V4MDQyWmtNV2FmREVNbmhFVzlSc1hsV0dsT3IwMUJDZzRLcDJDSGkxNFJWa29ySWJORnlSMHBwQkRtb3hrRldSWS1LM1lPTUxTRzZ4cWVfelRmanVTNktPME90dTZneE5NZldXbkRMQktVTEkyX2dMM1Jka3d4aUQtYVdkSnFtV1JUQ3RmdFhHak1fX1gzandXSlBLN2RIaTg5NW8wbFlqX0dMdEFHRDRuN0NIeFplOQ?oc=5",
+      "description": "Indian Real Estate Attracts USD 85.5 Bn in Institutional Investments Over 16 Years - Vestian &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-10-13T18:30:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
       "stream": "reit"
     },
     {
