@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-16T07:25:26.204Z",
+  "generatedAt": "2026-10-17T07:06:46.964Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 126,
+  "itemCount": 133,
   "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -11,7 +11,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -47,6 +47,36 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -131,36 +161,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 3
     },
     {
@@ -176,11 +176,55 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 7
+      "items": 8
     }
   ],
   "todayItems": [
     {
+      "id": "80de2507",
+      "title": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUdIB2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUQ?oc=5",
+      "description": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-17T02:19:10.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "ba2c0ef",
+      "title": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3I3Y0J1bmdpdEhTM2M2N2JZWXVObjF6NldGcE12NzlrcUJfU2lkNXV6Z2xrbUN2ckVEd0M3c19fQ1hQMTdISklaRzQ3eWZNRlJJSWZ5X0VQd3hpX1RTaGhjN0JCWmJOWkRSU0g4RjFteFZXcjNITmVtUnBYc3V1bmFQbTdRRzhPQkd4RFVCQzg3NzMzRU5xR0RtUWkwUkhmc0stdU5rcl9kUjFHWlc2UEx6NDM2LUJHa2J5d1JlaVo4TXNhWExIN0hsWEVUdzMzMDYwbl94czNNWFEwNy130gHfAUFVX3lxTFBXcjdjQnVuZ2l0SFMzYzY3YllZdU5uMXo2V0ZwTXY3OWtxQl9TaWQ1dXpnbGttQ3ZyRUR3QzdzX19DWFAxN0hKSVpHNDd5Zk1GUklJZnlfRVB3eGlfVFNoaGM3QkJaYk5aRFJTSDhGMW14VldyM0hOZW1ScFhzdXVuYVBtN1FHOE9CR3hEVUJDODc3MzNFTnFHRG1RaTBSSGZzSy11TmtyX2RSMUdaVzZQTHo0MzYtQkdrYnl3UmVpWjhNc2FYTEg3SGxYRVR3MzMwNjBuX3hzM01YUTA3LXc?oc=5",
+      "description": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land &nbsp;&nbsp; Free Press Journal",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-10-16T19:54:18.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "5b56f94b",
+      "title": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDVHVzNQY1BPMzJBaXhaSXdDR21lZGFxMW1RdndQcU1jeE5YZFFpc19FNVpVYTlQNloyZUhnUlJZUjVTY0RKcE1leEtpalpQejYydkJuSW5sdjcyVnZVRGJDS3NuSnhqbjhtS1Z2T2hzNkZVdU54ZF9RSDhXajloWkRxNUYyTG1ybm90OTBPc1JyYUYtQkF5cEtQU2VpWlNaS3h6YXYzQWFMMEVYaGhHWldabkM?oc=5",
+      "description": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-16T16:13:05.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "7a662e4f",
       "title": "Kumar Properties Pune Review: PTM Builder Audit 2026 - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakhtNWtfSDJsM3JORE5Bd3VrRTZxRUI1Y00zUkZWRkpSUmNINlp5UzgxdkdLNG1ZV2JNd1dhcXRxZ056ZTlaNWdxZjVLZFZmYU8tQmJLREdCU2stVjhhcmNSQU16UVZqR3NjT3J1bUd2aU14UUJ6TF85YXlYeGwwWm8tb0ptZTZEYnM5LWtRZlhsLWVQdFlXd1hWQkRUdVRMVWpnRVpQR0JjWVhzb2Nwak1WWTN6NHZQQWJn?oc=5",
@@ -200,12 +244,28 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZzdvRGI4aE0yZWVEckl6ekN0TDN5b0EtNEZES1ZKazl4Y2puSnlWbEdfVU5KbHNsbGF2NG5Ka1lOMm15YUdBNkxtNXBIa0tybXZvck54UXhBU29sT2hYQ2N5VllCSWhwb3FRS0J0aExwaW0ySjFkaFZHczZUekFZc0xOdnFudHFreWhuRElXbUZWN3hlNDNjVnRQWkczTFVXLWVZelZadUpGYjBqa0ZMR01ET292R2wwdU9IV2hyUTNTWk1WUzdTWUFQNWhjWWst?oc=5",
       "description": "Swan Realty launches Bodhi with 24 four-bedroom residences in Bengaluru's Jayanagar &nbsp;&nbsp; Prop News Time",
       "source": "Prop News Time",
-      "publishedAt": "2026-10-16T05:30:27.000Z",
+      "publishedAt": "2026-10-16T05:31:28.000Z",
       "city": "Bengaluru",
       "category": "Projects & launches",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "a809df1e",
+      "title": "Lodha Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS182SExINWNYWVB2Y1hlYl96UGNSTGphOUZ3WF9uNG5jRDJZbFcwLU9jM2t4S3h4ZW5kSUZneU1wZW1WTnNrcWFVOWlQaHFmb29pUEdTQ2ZIdmE3WHJSLW0ycE5wcTJNbzV0N1UxbkluVTNIRjc5MzNwSUNlb21EMmRxUWNxU1E0V0NkRmZBT2Nkd05jUXJNc0VRNnN4VjRpbUJZM1JVOGR1OUhx?oc=5",
+      "description": "Lodha Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-16T05:24:06.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
       "stream": "projects"
     },
     {
@@ -254,68 +314,54 @@
         "Kolte-Patil Developers"
       ],
       "stream": "land"
-    },
-    {
-      "id": "53592c7c",
-      "title": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOejBudnNQUjlMNktLa0JyTGl4T1U3OFZkNXFmNVUtalRQRWZCRkwzVWpHelV3NWZndnBHNlRNUTdIazM3dldObUczNk4zT2JiVTl1MzRlR1JnQms3Ykg2VHMzemFFVlBWN3JDZ1JoTDJvN2Vudm9tSWlqd0o4N0VfX2h3MlMtRENkOUxkeUJjTGpNMWRsZFdXRlJ2OUN2SERyTC0xTExYYU9GTlk5Y1QtQ08zZ08zeGVNdGJJMFRldGlPbGZ2eG14Z9IBzgFBVV95cUxNMHNKNmZMMFNwOGJyenJvRmRMUnFHSU0zU09YNWRQalh4em5YMFc1djdPdEl0STItTEtfRlg5VEl3R0tWMVBCRWZSMTdHLU5RNVEyN2RPTnNVMVRpMkd3VGprVDM1YV9JLU80UmlGMndaMDlqeVdCLVRtbmc5aUM1dVplN0VZd3YySTFZZ0VYVk1ydnNhOTgtUTVDU0w2R3o3Yl9BekZHYWtKUXZHbU9YcWhEQlRGZElyWGZWY3hUNDZUcjBmWklaRkZNRE5lZw?oc=5",
-      "description": "KLA-Tencor acquires 12-acre land parcel in Chennai for ₹1,020 crore | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-14T15:02:11.000Z",
-      "city": "Chennai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "9af3fd3",
-      "title": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOamE2SHlPOGJjeUlzMFp6OXVWdV9JODZDYXRUSTFNcUt5RFhsSXFTd2NEUmZQUW5QbEY0ZGc4N3lJVDRhSkRnMnJKT0RHTEN5TnFwc2tNelNreFlyRnljeEZSdDlwN1MtcFUwckJSN2RMNTJLcDVQdG43NkUydG5lMUVZd1ZfLWtjbU11WXhiUzdwR28zbVV2dkg5UDljdGdTYWVWNk1ZNWRQdWRIelprWW5oay1fVUdNcmFXeC1zdVd1N21mV2FfRTA0azk?oc=5",
-      "description": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-14T14:03:12.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "fe0a8b7e",
-      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcTNHUE4tU0tIeHNtQ3dLX3N2RDlXb3NWWk85dDI1UHdmRjhhR1BxME55T3F4QkdXYTZTQThzN3ZEaGxfNEliOTVPZDVFdEEtQ1NrUklVUnBwQkh5aUJrUE9DVzdDUk9WYk9IUkpweVRLbXJGRkNvQ3ZXbGpNWkFKUlVTaFlmcS1YaVJEeFB4SlNHQnhrYXotTlJ3aklVa0pZdG4tV3FSSUpDVml4NGpPb0R6OHZXUVEtV205eVByNjFjdXp2aGM2aTB3Ylc4MlZvODRNWEprT2NWcmtjeWhoRmQ0Wm5BcmZKajVRbU1fM3VYUDF2cnRaRldPTUZfc2daaDRsQ0dMTWFQMkF6VUJKODAxLUHSAZQCQVVfeXFMTXEzR1BOLVNLSHhzbUN3S19zdkQ5V29zVlpPOXQyNVB3ZkY4YUdQcTBOeU9xeEJHV2E2U0E4czd2RGhsXzRJYjk1T2Q1RXRBLUNTa1JJVVJwcEJIeWlCa1BPQ1c3Q1JPVmJPSFJKcHlUS21yRkZDb0N2V2xqTVpBSlJVU2hZZnEtWGlSRHhQeEpTR0J4a2F6LU5Sd2pJVWtKWXRuLVdxUklKQ1ZpeDRqT29Eejh2V1FRLVdtOXlQcjYxY3V6dmhjNmkwd2JXODJWbzg0TVhKa09jVnJrY3loaEZkNFpuQXJmSmo1UW1NXzN1WFAxdnJ0WkZXT01GX3NnWmg0bENHTE1hUDJBelVCSjgwMS1B?oc=5",
-      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; Business Standard",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-14T12:55:08.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "bf2c2920",
-      "title": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report - Zee Business",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLZm1HMVZrY19PZFVHQk1Rc1M0ZW5ISWIzZVBYM1l2QWItY3BteHRXS0phQVBsYUdBSUlCRng2TFB1WEQwVkdzRFBHTUxlcTlFWk9jQUoxcXJGaGlSekZyeWd2MEx1Q2Q1dVBjQTYtRzVaWWRGdTAxaExQd0NuVEdLOFZiX0dheHF0Z2duSmFocjdBeWZWME5Mc19iTVZZc1ZOSlNSLUIzOXRDdGtaeDZ1eTNmeExpOWQwOXJJUVNnRU1QcUxNdS1EbnFRUQ?oc=5",
-      "description": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report &nbsp;&nbsp; Zee Business",
-      "source": "Zee Business",
-      "publishedAt": "2026-10-14T09:46:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ],
   "items": [
     {
+      "id": "80de2507",
+      "title": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUdIB2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUQ?oc=5",
+      "description": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-17T02:19:10.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "ba2c0ef",
+      "title": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land - Free Press Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3I3Y0J1bmdpdEhTM2M2N2JZWXVObjF6NldGcE12NzlrcUJfU2lkNXV6Z2xrbUN2ckVEd0M3c19fQ1hQMTdISklaRzQ3eWZNRlJJSWZ5X0VQd3hpX1RTaGhjN0JCWmJOWkRSU0g4RjFteFZXcjNITmVtUnBYc3V1bmFQbTdRRzhPQkd4RFVCQzg3NzMzRU5xR0RtUWkwUkhmc0stdU5rcl9kUjFHWlc2UEx6NDM2LUJHa2J5d1JlaVo4TXNhWExIN0hsWEVUdzMzMDYwbl94czNNWFEwNy130gHfAUFVX3lxTFBXcjdjQnVuZ2l0SFMzYzY3YllZdU5uMXo2V0ZwTXY3OWtxQl9TaWQ1dXpnbGttQ3ZyRUR3QzdzX19DWFAxN0hKSVpHNDd5Zk1GUklJZnlfRVB3eGlfVFNoaGM3QkJaYk5aRFJTSDhGMW14VldyM0hOZW1ScFhzdXVuYVBtN1FHOE9CR3hEVUJDODc3MzNFTnFHRG1RaTBSSGZzSy11TmtyX2RSMUdaVzZQTHo0MzYtQkdrYnl3UmVpWjhNc2FYTEg3SGxYRVR3MzMwNjBuX3hzM01YUTA3LXc?oc=5",
+      "description": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land &nbsp;&nbsp; Free Press Journal",
+      "source": "Free Press Journal",
+      "publishedAt": "2026-10-16T19:54:18.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "5b56f94b",
+      "title": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDVHVzNQY1BPMzJBaXhaSXdDR21lZGFxMW1RdndQcU1jeE5YZFFpc19FNVpVYTlQNloyZUhnUlJZUjVTY0RKcE1leEtpalpQejYydkJuSW5sdjcyVnZVRGJDS3NuSnhqbjhtS1Z2T2hzNkZVdU54ZF9RSDhXajloWkRxNUYyTG1ybm90OTBPc1JyYUYtQkF5cEtQU2VpWlNaS3h6YXYzQWFMMEVYaGhHWldabkM?oc=5",
+      "description": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-16T16:13:05.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "7a662e4f",
       "title": "Kumar Properties Pune Review: PTM Builder Audit 2026 - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakhtNWtfSDJsM3JORE5Bd3VrRTZxRUI1Y00zUkZWRkpSUmNINlp5UzgxdkdLNG1ZV2JNd1dhcXRxZ056ZTlaNWdxZjVLZFZmYU8tQmJLREdCU2stVjhhcmNSQU16UVZqR3NjT3J1bUd2aU14UUJ6TF85YXlYeGwwWm8tb0ptZTZEYnM5LWtRZlhsLWVQdFlXd1hWQkRUdVRMVWpnRVpQR0JjWVhzb2Nwak1WWTN6NHZQQWJn?oc=5",
@@ -341,6 +387,22 @@
       "tone": "positive",
       "priority": "normal",
       "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "a809df1e",
+      "title": "Lodha Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS182SExINWNYWVB2Y1hlYl96UGNSTGphOUZ3WF9uNG5jRDJZbFcwLU9jM2t4S3h4ZW5kSUZneU1wZW1WTnNrcWFVOWlQaHFmb29pUEdTQ2ZIdmE3WHJSLW0ycE5wcTJNbzV0N1UxbkluVTNIRjc5MzNwSUNlb21EMmRxUWNxU1E0V0NkRmZBT2Nkd05jUXJNc0VRNnN4VjRpbUJZM1JVOGR1OUhx?oc=5",
+      "description": "Lodha Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-16T05:24:06.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
       "stream": "projects"
     },
     {
@@ -421,12 +483,58 @@
       "stream": "projects"
     },
     {
+      "id": "ff1d4990",
+      "title": "Blackstone-backed AirTrunk postpones USD 1.5 billion Singapore REIT IPO amid AI market selloff - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0NQNVFwbnVZTy01OHVjdFpLMWdRTXBGRU5IaV91bmI1MjFwRVVUb1hMOC02QnpvN2lxR04zV3hkVlFWSU4xS3p3SWwxa0k4X0ZCc0g5V3VtN0hpdEtacFc4U1JYcnVaWmg5aFpDR3ZsUUdxVzM5aXRwTlJpZ1d1b19PbHh4TjhtcENZTHFiMGl5WG9CaWJfRmV0VzJtRXB6ZlBQUDgtbVJPNXNQQVg0VnpGZEI1T095U2NPYndlLU52NW1EOHNldWJGemp6R1pwclZnSERBU3ZpVjNQd29v?oc=5",
+      "description": "Blackstone-backed AirTrunk postpones USD 1.5 billion Singapore REIT IPO amid AI market selloff &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-14T13:33:05.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "536bd1c0",
+      "title": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMXJuZFVsMmxkRE5XV3Y5TXlUTzVwZEdDVzBaSFU3M2lxQjA0Zy0xUXVTY19sUzJxZGZmUjJMeDczUWVmVWJ2M1ZBV0ZlOGhBVl9aQjJWcUItSm9ZeVBKUXhqWTZjZzFjUENqTEkwX2VRWmZYWXZDSFBwSkYzUXQ4ZlFMZzdvN3Q0aWR4Y2taQWFPQ0p3UjJxakM3OHhRdmVKMWtkMGRUbHFTUlBxdGR2UjFXZnpON3lNaEFmQ2FDQW4tTXp2NzktZmJaYw?oc=5",
+      "description": "Prestige Estates Q2 sales bookings rise 20% to INR 7,225 crore on housing demand &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-14T13:27:52.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
       "id": "fe0a8b7e",
       "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcTNHUE4tU0tIeHNtQ3dLX3N2RDlXb3NWWk85dDI1UHdmRjhhR1BxME55T3F4QkdXYTZTQThzN3ZEaGxfNEliOTVPZDVFdEEtQ1NrUklVUnBwQkh5aUJrUE9DVzdDUk9WYk9IUkpweVRLbXJGRkNvQ3ZXbGpNWkFKUlVTaFlmcS1YaVJEeFB4SlNHQnhrYXotTlJ3aklVa0pZdG4tV3FSSUpDVml4NGpPb0R6OHZXUVEtV205eVByNjFjdXp2aGM2aTB3Ylc4MlZvODRNWEprT2NWcmtjeWhoRmQ0Wm5BcmZKajVRbU1fM3VYUDF2cnRaRldPTUZfc2daaDRsQ0dMTWFQMkF6VUJKODAxLUHSAZQCQVVfeXFMTXEzR1BOLVNLSHhzbUN3S19zdkQ5V29zVlpPOXQyNVB3ZkY4YUdQcTBOeU9xeEJHV2E2U0E4czd2RGhsXzRJYjk1T2Q1RXRBLUNTa1JJVVJwcEJIeWlCa1BPQ1c3Q1JPVmJPSFJKcHlUS21yRkZDb0N2V2xqTVpBSlJVU2hZZnEtWGlSRHhQeEpTR0J4a2F6LU5Sd2pJVWtKWXRuLVdxUklKQ1ZpeDRqT29Eejh2V1FRLVdtOXlQcjYxY3V6dmhjNmkwd2JXODJWbzg0TVhKa09jVnJrY3loaEZkNFpuQXJmSmo1UW1NXzN1WFAxdnJ0WkZXT01GX3NnWmg0bENHTE1hUDJBelVCSjgwMS1B?oc=5",
       "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; Business Standard",
       "source": "Business Standard",
       "publishedAt": "2026-10-14T12:55:08.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "6cb83f68",
+      "title": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeFR5WXZWY3RWNXhYYUlGbllIZ3lwZDdOdUQ3M1R0OU9NczQtX1d0MEg4QUJrSmRaQlRmUkluQnJ1UVpEZXFXTnVaQzFaUGdJR0xpTnhIaEl3MnZOVUdzU1h6MHROV3JYRGlhNWNvVnY3SVVhdnJqZ0Y3OXduc2FMeHJTVVBUNTd3MWFPZjdmdDlpSU1FaTQ1Q0tYRlpxUG5jUzJmVDQtRnZQQWp4Nl9JUHJpMnVTM0hJT1VpR3ZhbUQxUVlaX18yZDFFWVFLcHNCcmlydlVTbEJpTm1ZR0s2STlfOFBYTnpHckhXUkZNVEhVdzhjQnFFOHRvbzNCZ9IB_gFBVV95cUxQeFR5WXZWY3RWNXhYYUlGbllIZ3lwZDdOdUQ3M1R0OU9NczQtX1d0MEg4QUJrSmRaQlRmUkluQnJ1UVpEZXFXTnVaQzFaUGdJR0xpTnhIaEl3MnZOVUdzU1h6MHROV3JYRGlhNWNvVnY3SVVhdnJqZ0Y3OXduc2FMeHJTVVBUNTd3MWFPZjdmdDlpSU1FaTQ1Q0tYRlpxUG5jUzJmVDQtRnZQQWp4Nl9JUHJpMnVTM0hJT1VpR3ZhbUQxUVlaX18yZDFFWVFLcHNCcmlydlVTbEJpTm1ZR0s2STlfOFBYTnpHckhXUkZNVEhVdzhjQnFFOHRvbzNCZw?oc=5",
+      "description": "Assetz Expands Development Pipeline with 10-Acre North Bengaluru Project in Partnership with Fairlark &nbsp;&nbsp; The Tribune",
+      "source": "The Tribune",
+      "publishedAt": "2026-10-14T10:51:49.000Z",
       "city": "Bengaluru",
       "category": "Land & acquisitions",
       "tone": "neutral",
