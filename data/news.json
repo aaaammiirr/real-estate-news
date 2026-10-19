@@ -1,13 +1,133 @@
 {
-  "generatedAt": "2026-10-18T07:21:14.996Z",
+  "generatedAt": "2026-10-19T07:59:51.506Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 134,
-  "todayCount": 3,
+  "itemCount": 138,
+  "todayCount": 4,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
     {
       "label": "undefined · undefined",
       "status": "ok",
@@ -16,126 +136,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 2
     },
     {
@@ -161,7 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,18 +176,32 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 7
     }
   ],
   "todayItems": [
     {
-      "id": "32fe76bd",
-      "title": "Assetz adds 10-acre residential project in North Bengaluru - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnZJUnNjQlU4WEo4dGhZU0JtQnUtb092M3dJZjFxQng2UmR6bGZsMGdrcVh3MVdxbzVoQVF0UkhLel9kQndEem51eDU3Z3VKMVFSdmVhS2E4LU1ieUZSUk41Sm9tRUZ2Mk5OQkZfYTNudDFJZEw3OVdzZERjN0RnVU16S3BVM09xZ0FLdlNIWTRyNV9pdXREUWdZUGpZekdRdHExSzNseVJsTmZ4eUYw?oc=5",
-      "description": "Assetz adds 10-acre residential project in North Bengaluru &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-18T00:33:28.000Z",
-      "city": "Bengaluru",
+      "id": "1a91d48b",
+      "title": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India - SMEStreet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVM0dnBub09XeGlmWUlQREp2LVNaVm1zWDFpalNIQzNPYk83LUJDMUxXYl80RzRkSkxROXpFUHY5ZTFZRExRd0FEbVNvZTZwSWpzX2xFTHFHR1NQZno2TURBdXdSbFBTNmczVGxpdERnRG5YZGY5VzgtTm1xUE5QMlNmU1hLS1ZJTzRFLUpSak9pVmtkVzRrUlhOSFg2eGNQQ1NlZGZ1cDJXSURVemx1Qmw2ZnQyZ1dPa0hYLU1fbXjSAcABQVVfeXFMT0lTNHZwbm9PV3hpZllJUERKdi1TWlZtc1gxaWpTSEMzT2JPNy1CQzFMV2JfNEc0ZEpMUTl6RVB2OWUxWURMUXdBRG1Tb2U2cElqc19sRUxxR0dTUGZ6Nk1EQXV3UmxQUzZnM1RsaXREZ0RuWGRmOVc4LU5tcVBOUDJTZlNYS0tWSU80RS1KUmpPaVZrZFc0a1JYTkhYNnhjUENTZWRmdXAyV0lEVXpsdUJsNmZ0MmdXT2tIWC1NX214?oc=5",
+      "description": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India &nbsp;&nbsp; SMEStreet",
+      "source": "SMEStreet",
+      "publishedAt": "2026-10-19T04:59:49.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "8b50838c",
+      "title": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzhZT2luWFpUekhfNU9LVFp5SktvTExxT19BRE1rMDZsZERYX2pqVThHcWpaTGU2TzdJcGExLXpzV1ZiaW9sRjRXNG9qdjJGUUVZR2tTS0VlaUZaMlFadVpKZlZ0RlBaYWVTZVdhbkJ5T1dOMHF2dWV0djRUTm5ZV2lISXYzeGN4aWU3M0FfY1JPTUU0QjJaaUlEZHlBTWVleTltWG5HWmV5VW1UNDBUVmZ5TlZlcDlWaWc?oc=5",
+      "description": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai &nbsp;&nbsp; Construction Week India",
+      "source": "Construction Week India",
+      "publishedAt": "2026-10-19T04:10:00.000Z",
+      "city": "Mumbai",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -195,35 +209,79 @@
       "stream": "projects"
     },
     {
-      "id": "80de2507",
-      "title": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUdIB2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUQ?oc=5",
-      "description": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-17T02:19:10.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "ba2c0ef",
-      "title": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land - Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3I3Y0J1bmdpdEhTM2M2N2JZWXVObjF6NldGcE12NzlrcUJfU2lkNXV6Z2xrbUN2ckVEd0M3c19fQ1hQMTdISklaRzQ3eWZNRlJJSWZ5X0VQd3hpX1RTaGhjN0JCWmJOWkRSU0g4RjFteFZXcjNITmVtUnBYc3V1bmFQbTdRRzhPQkd4RFVCQzg3NzMzRU5xR0RtUWkwUkhmc0stdU5rcl9kUjFHWlc2UEx6NDM2LUJHa2J5d1JlaVo4TXNhWExIN0hsWEVUdzMzMDYwbl94czNNWFEwNy130gHfAUFVX3lxTFBXcjdjQnVuZ2l0SFMzYzY3YllZdU5uMXo2V0ZwTXY3OWtxQl9TaWQ1dXpnbGttQ3ZyRUR3QzdzX19DWFAxN0hKSVpHNDd5Zk1GUklJZnlfRVB3eGlfVFNoaGM3QkJaYk5aRFJTSDhGMW14VldyM0hOZW1ScFhzdXVuYVBtN1FHOE9CR3hEVUJDODc3MzNFTnFHRG1RaTBSSGZzSy11TmtyX2RSMUdaVzZQTHo0MzYtQkdrYnl3UmVpWjhNc2FYTEg3SGxYRVR3MzMwNjBuX3hzM01YUTA3LXc?oc=5",
-      "description": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land &nbsp;&nbsp; Free Press Journal",
-      "source": "Free Press Journal",
-      "publishedAt": "2026-10-16T19:54:18.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
+      "id": "544f6758",
+      "title": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzNHM2wwbVVjNFBzRXFQeTdQYlFiaTBkVHJMd2k4bGR5dHdsbm5MRjVyLXlTeFVFUUp0cTFFM3RNVFlvOURPUjEyNXhIa0lZdHBFQXRPUE9JZnd5dmhrOFEtMVdsdTJOR3MyZ2JvQVdMN20yVUNRSHpRcDItdTRoaW5xS2pwMjZTTm5taTVCVFpJZEZ2eVBoamdjWW1JTUlSN0NNWjFXTmNuS0Rzcm1kc1h6ZERMQ1NRM3VJVGNnTFpJUjZaQ2NKRTcydkE3TVdqb0pIZjJJSFNJeFB1?oc=5",
+      "description": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-18T16:32:15.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "land"
+      "stream": "projects"
+    },
+    {
+      "id": "d784bb91",
+      "title": "Embassy Office Parks REIT revenue, NOI surge 17% in Q1FY27 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFplTzRQRkxhY2Foc3VmUmoxU3pmb20wVDBIZEZoVWxqb3FRdXdMYTRtU2xQU3B4NXkybVpDdHhvamlqaFZ3UnMwRExCMTN4QWRBbElYWXF0a1RNXzhhZVdDOGpyQU9VdnhWWGJVUnNkalRZMzh2TUl2dUVXZEZoTHJHbGMxaXFodENLVFJHMmtUM3dQeEs5UUJIRElHNVFGSjZzSUcxaXR5SkdGZDdhSGJMdlpfU1QyazhsR2ZB?oc=5",
+      "description": "Embassy Office Parks REIT revenue, NOI surge 17% in Q1FY27 &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-18T09:29:55.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "1a91d48b",
+      "title": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India - SMEStreet",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVM0dnBub09XeGlmWUlQREp2LVNaVm1zWDFpalNIQzNPYk83LUJDMUxXYl80RzRkSkxROXpFUHY5ZTFZRExRd0FEbVNvZTZwSWpzX2xFTHFHR1NQZno2TURBdXdSbFBTNmczVGxpdERnRG5YZGY5VzgtTm1xUE5QMlNmU1hLS1ZJTzRFLUpSak9pVmtkVzRrUlhOSFg2eGNQQ1NlZGZ1cDJXSURVemx1Qmw2ZnQyZ1dPa0hYLU1fbXjSAcABQVVfeXFMT0lTNHZwbm9PV3hpZllJUERKdi1TWlZtc1gxaWpTSEMzT2JPNy1CQzFMV2JfNEc0ZEpMUTl6RVB2OWUxWURMUXdBRG1Tb2U2cElqc19sRUxxR0dTUGZ6Nk1EQXV3UmxQUzZnM1RsaXREZ0RuWGRmOVc4LU5tcVBOUDJTZlNYS0tWSU80RS1KUmpPaVZrZFc0a1JYTkhYNnhjUENTZWRmdXAyV0lEVXpsdUJsNmZ0MmdXT2tIWC1NX214?oc=5",
+      "description": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India &nbsp;&nbsp; SMEStreet",
+      "source": "SMEStreet",
+      "publishedAt": "2026-10-19T04:59:49.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "8b50838c",
+      "title": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzhZT2luWFpUekhfNU9LVFp5SktvTExxT19BRE1rMDZsZERYX2pqVThHcWpaTGU2TzdJcGExLXpzV1ZiaW9sRjRXNG9qdjJGUUVZR2tTS0VlaUZaMlFadVpKZlZ0RlBaYWVTZVdhbkJ5T1dOMHF2dWV0djRUTm5ZV2lISXYzeGN4aWU3M0FfY1JPTUU0QjJaaUlEZHlBTWVleTltWG5HWmV5VW1UNDBUVmZ5TlZlcDlWaWc?oc=5",
+      "description": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai &nbsp;&nbsp; Construction Week India",
+      "source": "Construction Week India",
+      "publishedAt": "2026-10-19T04:10:00.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "544f6758",
+      "title": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzNHM2wwbVVjNFBzRXFQeTdQYlFiaTBkVHJMd2k4bGR5dHdsbm5MRjVyLXlTeFVFUUp0cTFFM3RNVFlvOURPUjEyNXhIa0lZdHBFQXRPUE9JZnd5dmhrOFEtMVdsdTJOR3MyZ2JvQVdMN20yVUNRSHpRcDItdTRoaW5xS2pwMjZTTm5taTVCVFpJZEZ2eVBoamdjWW1JTUlSN0NNWjFXTmNuS0Rzcm1kc1h6ZERMQ1NRM3VJVGNnTFpJUjZaQ2NKRTcydkE3TVdqb0pIZjJJSFNJeFB1?oc=5",
+      "description": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-18T16:32:15.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
     {
       "id": "32fe76bd",
       "title": "Assetz adds 10-acre residential project in North Bengaluru - Prop News Time",
@@ -330,6 +388,20 @@
       "id": "49321c03",
       "title": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOeFBrT1pyRW11YWhjWkJ4RDd4cGxBT2VJbjhRN1BtSldDdHhBcUFiT2pCQ1ZkMzRZTTZQcXhGcWl6NGRIa0g2OG43bU5nYWNibS04M29jQTFMVmNnNXVuenhUbWlyQ1RsUWNWUVF3RFE3OXRwa1d5anVLejMxOXJObVlpc1hxZUxwY1RiYUpKdHdVUGozYmtyNFB4SElYUEZnNjFEY051REIyVHlhblFaY3I4V1FQZENNMmtzZU55TVY3TjRmeDlHTk1BdWxPRHZNcmJBcHJ6eGR6cl9PVUlwNzVxWE9MZVBOVmZKeVFWVnJqNkRHeWFSUjNrb3pJVmd6TnJjR1RRTUpmTTFWZFdTamVjaVZDaENQaVhEVjNLdWZLQlRaNXpJSDZfZkQyTDN2MW43SmUycUxfYWVMbzhoc1lyUjNfMFBwdDVOMWJ6R1cyeWdnZWM2bngzc3g?oc=5",
+      "description": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-16T03:47:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "d247b3e1",
+      "title": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQTlVNVHB5cm1qRzlwanhDWXFzeVNRamlXeC1BT1RDa1dFSWM5Z1pWZE1SaHZRQVd6QU1pbk5aR0xyUFdPZU9udklJS0liUGJzOXpiS0xUb1ZTMjZnUExPTXJZdmRCN2hkeUYwX0I5WGtEZkRCSmR1Rnh0TjNkWEV1QXRXbGJacGpsY29DempXNWlUZTBOdEVLOGQyeXNhV2pwZEJ1SThtR1VSN0VEZDNRYU5udDkxU2ZKZlFJWExtVVR4OUdnNG5fdFJwakxyXzRCdVhuYUQ4QkV3TE5XeEhBUHJHTFRxX25pb2lEVFlvUXJsTEhCX0tUU2xiYlJNRG9OdjZuVWl6NXV6N0pEN18tQ1pnbklwN29HSUExbno1T0lQWFFlcDg3ckcyUVJ5Ym9xZTA1UVdfeHV2T3Ixd0FzN0F4MktpWHVLaTRsNmFfRkRRd255MmdzMlp5VU41UmFUSzNVdDRn?oc=5",
       "description": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 &nbsp;&nbsp; The Economic Times",
       "source": "The Economic Times",
       "publishedAt": "2026-10-16T03:47:00.000Z",
