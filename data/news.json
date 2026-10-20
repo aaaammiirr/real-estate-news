@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T07:59:51.506Z",
+  "generatedAt": "2026-10-20T07:50:07.151Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 138,
-  "todayCount": 4,
+  "itemCount": 142,
+  "todayCount": 7,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,6 +11,96 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 2
     },
     {
@@ -41,97 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -161,7 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,52 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 7
+      "items": 5
     }
   ],
   "todayItems": [
+    {
+      "id": "c5dfd38b",
+      "title": "Kohinoor Group Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW1mQk9BS3Boa3NtRjhkSmN1cWc4aWZ4NEZpWWdvMjZfUDFNaURneURVd0JMaV82cktDUUZmUHFJZGxCSm5yT3l5d0ExcUR2U1FJNHRIYmpqcFBXS2FEcThwbXlzbUt5b05TYUx3OS1HbmNXNDBTM2QxdE96eHN6M2xhUlNwMm0xOElXSXZ6WjNDOFJUMXFseHFueGlvWGdXQjRzZS1fSWg3Y1llcTM5NHdNS1kxbE1f?oc=5",
+      "description": "Kohinoor Group Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-19T11:50:42.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "7e6b6a07",
+      "title": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVJnYV9GU2NiTjlzcEEtU1l5d2pncEE3bWtXM2daaFRyaGl0QWpDenBBMHJydzczYXd6RE03UFZDUDcxc2tlbU1kcUV1OUZGUG9reDlCQnJ4d0VEcEpSTXcwQmplcXpSY0NWWHhBLWNzUGRkd3k3Z2tmNU03WHM3N21vYlR3Y001QXQ4d0VQTWZpWE5YMUFoc0ZsNW4wU3M5NGc4RDJCN09NTjVkRHppbW51OFlCUUVaWXVESkpHakJWbTU1UjdvVg?oc=5",
+      "description": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-19T10:32:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "70ad54b4",
+      "title": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers - The Siasat Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3B6WF82SmkxM29kekhBWHBrbVZCS05qQ1hkdEJwNVZKYnMyOTUzakNCdXZpR0c2V2d5bTZtdXhiZkdmUk55ZHZVakkzQms2R3MzRC1PVFpGeUlyY0N1RHpLT0NNMENEd05La3g3OUJRYURtU2hsZzd4SUYyWEVLVXRfSXBaeW00YmlSQ3RCMUpub2NKQzh0TGxsZEFqeHPSAaQBQVVfeXFMT09qZmY4MFRSNDVDUzZndjM0cEtMWjUxZjRPQ0lzTXNfRGpYODB3ZmNxSVU3TDVKZzdtdnNmTTJQZnpsb0Y2Q3RiSVFHUU5feGdZdEZUWVlyV2k2eG5qbjJ6VzRXd1E0RzlITXlOT2FhOGRjX2RQbkQyQXpJMHpmUi1xaHlIRUJzNVd6akNGMFQwSFpNZmIzMjNmMU5XR1ptVDBZdFA?oc=5",
+      "description": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers &nbsp;&nbsp; The Siasat Daily",
+      "source": "The Siasat Daily",
+      "publishedAt": "2026-10-19T08:43:43.000Z",
+      "city": "Hyderabad",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
     {
       "id": "1a91d48b",
       "title": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India - SMEStreet",
@@ -240,6 +282,48 @@
     }
   ],
   "items": [
+    {
+      "id": "c5dfd38b",
+      "title": "Kohinoor Group Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW1mQk9BS3Boa3NtRjhkSmN1cWc4aWZ4NEZpWWdvMjZfUDFNaURneURVd0JMaV82cktDUUZmUHFJZGxCSm5yT3l5d0ExcUR2U1FJNHRIYmpqcFBXS2FEcThwbXlzbUt5b05TYUx3OS1HbmNXNDBTM2QxdE96eHN6M2xhUlNwMm0xOElXSXZ6WjNDOFJUMXFseHFueGlvWGdXQjRzZS1fSWg3Y1llcTM5NHdNS1kxbE1f?oc=5",
+      "description": "Kohinoor Group Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-19T11:50:42.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "7e6b6a07",
+      "title": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVJnYV9GU2NiTjlzcEEtU1l5d2pncEE3bWtXM2daaFRyaGl0QWpDenBBMHJydzczYXd6RE03UFZDUDcxc2tlbU1kcUV1OUZGUG9reDlCQnJ4d0VEcEpSTXcwQmplcXpSY0NWWHhBLWNzUGRkd3k3Z2tmNU03WHM3N21vYlR3Y001QXQ4d0VQTWZpWE5YMUFoc0ZsNW4wU3M5NGc4RDJCN09NTjVkRHppbW51OFlCUUVaWXVESkpHakJWbTU1UjdvVg?oc=5",
+      "description": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-19T10:32:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "70ad54b4",
+      "title": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers - The Siasat Daily",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3B6WF82SmkxM29kekhBWHBrbVZCS05qQ1hkdEJwNVZKYnMyOTUzakNCdXZpR0c2V2d5bTZtdXhiZkdmUk55ZHZVakkzQms2R3MzRC1PVFpGeUlyY0N1RHpLT0NNMENEd05La3g3OUJRYURtU2hsZzd4SUYyWEVLVXRfSXBaeW00YmlSQ3RCMUpub2NKQzh0TGxsZEFqeHPSAaQBQVVfeXFMT09qZmY4MFRSNDVDUzZndjM0cEtMWjUxZjRPQ0lzTXNfRGpYODB3ZmNxSVU3TDVKZzdtdnNmTTJQZnpsb0Y2Q3RiSVFHUU5feGdZdEZUWVlyV2k2eG5qbjJ6VzRXd1E0RzlITXlOT2FhOGRjX2RQbkQyQXpJMHpmUi1xaHlIRUJzNVd6akNGMFQwSFpNZmIzMjNmMU5XR1ptVDBZdFA?oc=5",
+      "description": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers &nbsp;&nbsp; The Siasat Daily",
+      "source": "The Siasat Daily",
+      "publishedAt": "2026-10-19T08:43:43.000Z",
+      "city": "Hyderabad",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
     {
       "id": "1a91d48b",
       "title": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India - SMEStreet",
@@ -341,6 +425,20 @@
       "stream": "reit"
     },
     {
+      "id": "1246879d",
+      "title": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNZkNRLUFQM0l6Zk1EZm1VM1V1aExUVG1WSk9vZXplNEEtYVh5czljQ0lNanBhTjR5VUNwT2tmVGQ0MWFBX1JWQ05fUmZYTUw3ZU5TVWozdFdGOVc0QXlSTmRfTjg2VEVGRVRGbzQ3d3J1R25DbHdnVGZ5Q3NsTzlNNkROS2tXczBMbmk1SnFRYm5vVWFrMlJXVHJYQm0wTmQ5Mm9BRHhWVElQNFVkU0N0ejBidzV5ZnhCX0dwdVRrOURsMkRXVVJuVlVmUF9odjlYWWJkd3c3ZE95LXVRX1U0U21mM201d2ZGZHd4QnZfaXpSWXotZS10cVBKa1FOQnNZOHpRcXZWTUZYS0FHOU1iLWJaeVFJWXBOVHBlbHRpRDZGbWlFVGNoMkhQYksydEYxUkttS3BITFQxTUVUaVQ2SEVSWjhCYXNDYjRPeE9KYlU0NU96VndZ?oc=5",
+      "description": "From Data Centres to Bengaluru & Pune: 8 key trends behind $2.7 billion investment in Indian real estate in H1 FY27 &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-16T08:15:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
       "id": "7a662e4f",
       "title": "Kumar Properties Pune Review: PTM Builder Audit 2026 - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakhtNWtfSDJsM3JORE5Bd3VrRTZxRUI1Y00zUkZWRkpSUmNINlp5UzgxdkdLNG1ZV2JNd1dhcXRxZ056ZTlaNWdxZjVLZFZmYU8tQmJLREdCU2stVjhhcmNSQU16UVZqR3NjT3J1bUd2aU14UUJ6TF85YXlYeGwwWm8tb0ptZTZEYnM5LWtRZlhsLWVQdFlXd1hWQkRUdVRMVWpnRVpQR0JjWVhzb2Nwak1WWTN6NHZQQWJn?oc=5",
@@ -431,9 +529,9 @@
     },
     {
       "id": "1ebd5d96",
-      "title": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 - Pune Mirror",
+      "title": "Kolte-Patil Developers Pune Review 2026: PTM Builder Audit, Score & Projects - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVVFLVpYX040cE9CYzVVUk9hSVgzQldXMzJQWldKdU9zaU5JNkp3WmEweEFxeFhGLWhjOVpWQ0xaMTNPZlBRU1BVQTVNYjgwd0FGRkd6Um5OWHdsc0cxdjlwZUZpUExsTzQ3aWRHWkFvem5BVndvSXVyaFN5Yi1GUzJVUU40VGdLaFV3U1F2bnFHRzJIUFhNd3RtTnRSajdaczN0MTI5TExoU1M2V2ZQZElzVFllLUtpNi0yU29JTHZ1UjQ?oc=5",
-      "description": "Kolte-Patil Developers Pune Review: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "description": "Kolte-Patil Developers Pune Review 2026: PTM Builder Audit, Score & Projects &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
       "publishedAt": "2026-10-15T09:12:38.000Z",
       "city": "Pune",
