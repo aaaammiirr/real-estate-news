@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T07:53:52.452Z",
+  "generatedAt": "2026-10-22T07:50:20.498Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 142,
-  "todayCount": 4,
+  "itemCount": 144,
+  "todayCount": 5,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,11 +11,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 4
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 1
     },
     {
@@ -66,6 +61,11 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -76,6 +76,36 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -101,7 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -117,51 +147,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -177,9 +162,84 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
     }
   ],
   "todayItems": [
+    {
+      "id": "c4795f6e",
+      "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtTzRlRXBhTGF0cXlRQUhmOTRfTzZhc216WTZhZk1SMm14SEV4X2lxWE93SjNCY1prS3BhZmJMZXlkcE54UHd6bUQ4ZFp5dW55SnluQXY0Yl9mY2ZtNF9GQTVqeS1CZDRwT2Z2dl92TS1OTXZ6YzZCaXVQd3c4QQ?oc=5",
+      "description": "Sunteck Realty Issues ₹70 Crore Commercial Paper &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-21T15:14:02.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "49cc4045",
+      "title": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUJDLUU4a2tHeGlNNUFxRkhwRk1tMWpLQzlFcDI2NHVFdEMzaGhmR2FxTjdFX0kyRGRkUTgyYjU4LUk5bFI0VWcyOXR3VkxTODlnd0xXaTdHb2xqZGItek90ZWRRbnlfalFydjY4X3Q4RjNJZFJERW8xemV3VUVscDgxMTJ0NHQxdjZRdGxwbmRRZHY1RnYyeHFXNFBKLXBIcUJfQ3BsSjZoc0plYXdvbGF5R2FEMVVtWTVMNE9IZXFLNVJrT0hBZWJOMnRPV3U2emdj?oc=5",
+      "description": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-21T14:19:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "d107f2bc",
+      "title": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZUVWcyNVAzaXpZUm91U3JhOVpsSTJBN1dwQXVsZVpVdmtBQndOdGFhTUVJNklsMzlKZnc4QkdxRmRsXzhjM0dTWUNBaFhnWWRJamVHUHNUVTF3dEJMb3k0OUVOTWJua09OYnFjamE5OHBqa0lGZ3FvMTA5VUhKSmU0aGdtdkdxR29HamtONlVXMGM5TnRqbTc0bFNHR2hoMWhlRGpZQzJiTDBqdmFVYmprYWk1VmNT?oc=5",
+      "description": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-21T12:28:25.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "5faf5645",
+      "title": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHVzdExkMWZJeVNlSVR4RzViSXpSeVNYZlVpbEktUEVqZVRqMnYwX1BMYlVrTDJzZHlCVzd6LVhhNGFsTmtfMktLb3NsZkhMWGhBaEM3MU41b1J2R2VpLXZJM2FLZlBna0dOZlE1OFVXOXR4WHU4RVpJU2hsdmd6YUhudGh6ZHI5alRyMFY4REFOSGRGTjAzMERiVU1CRFZMNmxsQUR3aEg5NzFoVWhUeDlBNzNZX2tMRmZvMmhrOXVYbFAtNFVZaEpMYnVQN1Q3TEtpUzY2QXhqdXlwVnpwV1I2YzZWVTlK?oc=5",
+      "description": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-21T01:42:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "1a821193",
       "title": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 - India Business Trade",
@@ -195,51 +255,69 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "c5dfd38b",
-      "title": "Kohinoor Group Pune Review 2026: PTM Builder Audit, Projects, RERA & Delivery - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW1mQk9BS3Boa3NtRjhkSmN1cWc4aWZ4NEZpWWdvMjZfUDFNaURneURVd0JMaV82cktDUUZmUHFJZGxCSm5yT3l5d0ExcUR2U1FJNHRIYmpqcFBXS2FEcThwbXlzbUt5b05TYUx3OS1HbmNXNDBTM2QxdE96eHN6M2xhUlNwMm0xOElXSXZ6WjNDOFJUMXFseHFueGlvWGdXQjRzZS1fSWg3Y1llcTM5NHdNS1kxbE1f?oc=5",
-      "description": "Kohinoor Group Pune Review 2026: PTM Builder Audit, Projects, RERA & Delivery &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-19T11:50:42.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "7e6b6a07",
-      "title": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVJnYV9GU2NiTjlzcEEtU1l5d2pncEE3bWtXM2daaFRyaGl0QWpDenBBMHJydzczYXd6RE03UFZDUDcxc2tlbU1kcUV1OUZGUG9reDlCQnJ4d0VEcEpSTXcwQmplcXpSY0NWWHhBLWNzUGRkd3k3Z2tmNU03WHM3N21vYlR3Y001QXQ4d0VQTWZpWE5YMUFoc0ZsNW4wU3M5NGc4RDJCN09NTjVkRHppbW51OFlCUUVaWXVESkpHakJWbTU1UjdvVg?oc=5",
-      "description": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-19T10:32:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "70ad54b4",
-      "title": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers - The Siasat Daily",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3B6WF82SmkxM29kekhBWHBrbVZCS05qQ1hkdEJwNVZKYnMyOTUzakNCdXZpR0c2V2d5bTZtdXhiZkdmUk55ZHZVakkzQms2R3MzRC1PVFpGeUlyY0N1RHpLT0NNMENEd05La3g3OUJRYURtU2hsZzd4SUYyWEVLVXRfSXBaeW00YmlSQ3RCMUpub2NKQzh0TGxsZEFqeHPSAaQBQVVfeXFMT09qZmY4MFRSNDVDUzZndjM0cEtMWjUxZjRPQ0lzTXNfRGpYODB3ZmNxSVU3TDVKZzdtdnNmTTJQZnpsb0Y2Q3RiSVFHUU5feGdZdEZUWVlyV2k2eG5qbjJ6VzRXd1E0RzlITXlOT2FhOGRjX2RQbkQyQXpJMHpmUi1xaHlIRUJzNVd6akNGMFQwSFpNZmIzMjNmMU5XR1ptVDBZdFA?oc=5",
-      "description": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers &nbsp;&nbsp; The Siasat Daily",
-      "source": "The Siasat Daily",
-      "publishedAt": "2026-10-19T08:43:43.000Z",
-      "city": "Hyderabad",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
     }
   ],
   "items": [
+    {
+      "id": "c4795f6e",
+      "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtTzRlRXBhTGF0cXlRQUhmOTRfTzZhc216WTZhZk1SMm14SEV4X2lxWE93SjNCY1prS3BhZmJMZXlkcE54UHd6bUQ4ZFp5dW55SnluQXY0Yl9mY2ZtNF9GQTVqeS1CZDRwT2Z2dl92TS1OTXZ6YzZCaXVQd3c4QQ?oc=5",
+      "description": "Sunteck Realty Issues ₹70 Crore Commercial Paper &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-10-21T15:14:02.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "49cc4045",
+      "title": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUJDLUU4a2tHeGlNNUFxRkhwRk1tMWpLQzlFcDI2NHVFdEMzaGhmR2FxTjdFX0kyRGRkUTgyYjU4LUk5bFI0VWcyOXR3VkxTODlnd0xXaTdHb2xqZGItek90ZWRRbnlfalFydjY4X3Q4RjNJZFJERW8xemV3VUVscDgxMTJ0NHQxdjZRdGxwbmRRZHY1RnYyeHFXNFBKLXBIcUJfQ3BsSjZoc0plYXdvbGF5R2FEMVVtWTVMNE9IZXFLNVJrT0hBZWJOMnRPV3U2emdj?oc=5",
+      "description": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-21T14:19:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "d107f2bc",
+      "title": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZUVWcyNVAzaXpZUm91U3JhOVpsSTJBN1dwQXVsZVpVdmtBQndOdGFhTUVJNklsMzlKZnc4QkdxRmRsXzhjM0dTWUNBaFhnWWRJamVHUHNUVTF3dEJMb3k0OUVOTWJua09OYnFjamE5OHBqa0lGZ3FvMTA5VUhKSmU0aGdtdkdxR29HamtONlVXMGM5TnRqbTc0bFNHR2hoMWhlRGpZQzJiTDBqdmFVYmprYWk1VmNT?oc=5",
+      "description": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-21T12:28:25.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "5faf5645",
+      "title": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHVzdExkMWZJeVNlSVR4RzViSXpSeVNYZlVpbEktUEVqZVRqMnYwX1BMYlVrTDJzZHlCVzd6LVhhNGFsTmtfMktLb3NsZkhMWGhBaEM3MU41b1J2R2VpLXZJM2FLZlBna0dOZlE1OFVXOXR4WHU4RVpJU2hsdmd6YUhudGh6ZHI5alRyMFY4REFOSGRGTjAzMERiVU1CRFZMNmxsQUR3aEg5NzFoVWhUeDlBNzNZX2tMRmZvMmhrOXVYbFAtNFVZaEpMYnVQN1Q3TEtpUzY2QXhqdXlwVnpwV1I2YzZWVTlK?oc=5",
+      "description": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-21T01:42:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "1a821193",
       "title": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 - India Business Trade",
@@ -339,6 +417,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "63f89e9b",
+      "title": "Brookfield India REIT approves schemes to set off accumulated losses - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0ptUzd3UXl5eThWaFZDUFpjV3NBVkNMUVQwNXRwLTM3U1lnYmZFcG11ZE5iNktYNW5GeDBBVlFJTEUxcFhGVmVaWnBtRTRTc1gxemtCZ3dwZ2d4NTQ0aWFZU09aaDlxWDRzcHBGVkFiZW1BNElmUzh2U1V3QUN2R1YycHN6Qm1JV25rNWVZX3hDMkFjanRGWXR1c2hkN295YTJYMkUySW0yU3BrLTBCUVdOdXZCY1VFRURLdEdLMTA?oc=5",
+      "description": "Brookfield India REIT approves schemes to set off accumulated losses &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-18T11:23:19.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
     },
     {
       "id": "32fe76bd",
@@ -2262,48 +2356,6 @@
       "description": "Want to invest in real estate without buying a house? India’s REIT market is booming &nbsp;&nbsp; The Times of India",
       "source": "The Times of India",
       "publishedAt": "2026-09-23T09:27:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "a008dd10",
-      "title": "OPINION | The refinancing test is coming to private credit in Indian real estate - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUpZT01HQ192T3BtSmVjTDFWSk54RHRpdHZvZC1MdXVPdkx1Q2w3el9JM2VoRnpuODVONlhnSTh1YzFtNXZpMXJILW5jMUN1WTkyOFFyYUxOWnAxSG02WEd4TzRxS3BDQS1ZQUJkaGREbHhOUS0tYTZqZk1UcEVpTV8xSWw3VVJoNkhvM1R4VEZvSVRQSUl3bHB6cW5TSGRBdnVZWGdWUGdTelcwWXFaT1RUdk5lS2k3aENMbnA0T1B2QWRZ0gHKAUFVX3lxTE95cS1hYzRrRThYUUFUTndMSVhBLUppNzBUUFdmMGJ4bmp4MEZEdmlQM1U5SFlOekNlY3FlV3pxdXFIMEx6WWVOd3YtLWNNWXg3bVdwckNROXhDUkU1c0xMYVJhSFRYbUpGX0lfY013SnktSU42LXVMNWNZTl9DN1ZaT2VRaXdlUzVaaWFXdFM4STlUdE1HdE1VUTVpUTROazBzTnZ6V1RtdmJjd0JQamswUEtEYVVXYjB2MTY2a1F5ZzZxcmEyNV8takE?oc=5",
-      "description": "OPINION | The refinancing test is coming to private credit in Indian real estate &nbsp;&nbsp; Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "44838641",
-      "title": "India's REIT market crosses USD 17 bn, overtakes Hong Kong to become Asia's fourth largest: Report - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNnZoRkcwZXJsNUtlUXFYSGZYTHJydXVNcTV4NXBNaVhQUThRcGJqcGQ4NUMxaXVpM1FEQnpUV1h1eUgwNUtlbkxrMTM5SGJsS0o1MG1jNWJUdUI5cjB5Y3Y4MmtNYWEyNUFjODFfYmNLUlJtNzRub1pMT1dQcU5oQlZIb3J3YXpRcmJnMG9ZTnczSUNEcjNlSE5qNllfdlFVZVdWck9ZS0tiM0VfZmFiYWN5YzBWSm1IMmVVNFNGUFRfd1phT2wySndXX1dkUEMxRmJQam82NUN1Rm5YaVE?oc=5",
-      "description": "India's REIT market crosses USD 17 bn, overtakes Hong Kong to become Asia's fourth largest: Report &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "publishedAt": "2026-09-22T07:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "31e827c7",
-      "title": "India overtakes Hong Kong to become Asia’s fourth-largest REIT market | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnBLd3E0ZEl3aUd5RWczOThHdng2QTl0dGRoNEpHalI4YU5laVlpSVhxS3I1ZWhaLWFTVkFrSWxiNC16bkk2STFJRG1mbXN3aDljU0pERGF6UTUybnQ1c1diQV9MTy1EZ2RQQ1YzMXQtOXlqeEZZTGdqc0kwc2lwYW5IQTZabUM2d0t4N1BZek1BMllzU3pvNGJTdXE2eXppbC1mb1JNM2M1d3F2SmlsdXJWWGRRYXZiYW9POHpKLTBRVkdDRmdyeDFKZ3FIQdIB0wFBVV95cUxQU1hHV0FyVUVncm9QeVdmTmFDemlaNm5kSm0weG4zQlRTZjFySzRsbWJEU3h0RlBiZzJTR3pXeUc1Rm02ODd5QmFsZGYtQ09YWUtiWGxCMW53NjNzclpkckY3LXJHM3VBZWZjQlc5cEczaG5PZHJEV04tOGY4ZmpRcXpEalBPNy1XWjVFRGt2aWJHdEFXb1VpS0RhSm1fRUZpN0lya3pPN1dQZ0ZNaWdoSGlMY2Z4TDFyQ0V2cGF5UnJrcEIzNkx3LXMyRVRNN0JXeEhR?oc=5",
-      "description": "India overtakes Hong Kong to become Asia’s fourth-largest REIT market | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-09-21T15:24:32.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
