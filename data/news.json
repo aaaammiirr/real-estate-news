@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T07:50:20.498Z",
+  "generatedAt": "2026-10-23T07:49:07.359Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 144,
-  "todayCount": 5,
+  "itemCount": 152,
+  "todayCount": 11,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,11 +101,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 1
     },
     {
@@ -131,6 +126,11 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -147,21 +147,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -177,9 +162,136 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 4
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 10
     }
   ],
   "todayItems": [
+    {
+      "id": "63aa97b7",
+      "title": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGxXOEh3RlJoc180TUNSU0tTQ1pCM1hhNkZHc0JxdzM0OUpxem1XR0J3U0RTY29TbFB0WmlTNUx4RHN5c3hHbmk4UFpISzAtbjNaQmJ0cVVhalVqWTRYWUdBSzNzMkNEUVo4TjNlVk9Ba1RZVkliNEpQZzB5SlBBU1ZMWFhOVXFzTEZhSDRVSFFncnlFcS1KSy1jZGtuV3p2bWxqbUxKTEpseXNfSk5zN0h6TmdzSk9PS3liWG9TdDNldVNwMHAtYg?oc=5",
+      "description": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-22T15:30:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "9fc64488",
+      "title": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM19VNEZGVDZMZXVvamZBbW51S2lEYzZKV01tUGR5Y1g5S3ZoYWtYU0dyYjA1amxwSUpzSldhVGc4N2tZWEVNcjNzaVhHU1FFUG9EYTlPTW1hUVRWblozTXFzd1AzRENyZTQwT2I0SFFoeUhRc01IYVMwNjFlT0FFTW1wNjNSeGJhcEVUSldkYTZMOV9zdk44NmxMS1dXMWRDN2I3cE51LXdRYTNXQ1ZOV1JfZzJ0REpxS1pWLWU2aVJvZlVkNFpCLWFTUHFTRllVU2lrUzdKYkk0Zzg?oc=5",
+      "description": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-22T15:20:15.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f606e4b0",
+      "title": "Paranjape Schemes Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkZSWHlIZXdEcHdVNnc3QWwyNG04elAyenFmZmUta0dJSVVnTS04d2N5OXJTSjBXV3ExS0lIZzdsMWN3b2NjMlZOdXJybkJEQ3ZPdGFtcWgxeXdWNXVIaFZCVVdZMTN1SC01aHpDX2JidmdMUEhLQi1xell0VTdXa0ZkYVlZR19IczNsUXVWaTVvY0VUeXJkdTQyb0ZOSDM5QW9FTw?oc=5",
+      "description": "Paranjape Schemes Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-22T10:36:43.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "8579c131",
+      "title": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTlFZVm9ad2txR0EyNW85UGNxMi1tUnNZNUVfeFRXSk4tQXhaRmdDdERCMllLYk45VnpHTVI3LVR2N2tYYTVUeGxONF9mdEg1Q0RKa05kNEpvbV9qWEw0dVR4Tkt1NjUzbHVseTNXb1N6Vl9ZNWZrdV9aaHZQbVJnbmJaaXZQcnh6Z1p5U05pSXZYZFBXMHZPWnM3LUM2bkh4Zk9Mc1JHVEg1dmtEX3hRX1hobXcxcWdTS0JXeW1uY05NV2I1Y2kxa1dXenVIMUEzZ0NlbEZlVHlvWElHQnVjWHFEeWU0bVNSa2U4NkpxbV95RTZhQ3Mw0gH8AUFVX3lxTE42T19hTlk3SzdjVWZwTDBBQXQ4d3NQNDlBY3dqR0xfN1lUWmV3LVNfU1RyMnZXdGx6a3phaTZPSUFIUVRyWE9tXzZmeFA1a2FxWENtczJ1NU5zTUZmanJTS2tURGhrcy1nY2hTaHhVbnJWUi1vbXljOE54ejhYYWJIeU15Z1pGQ1ZXRkJoTlJKZ1J3NVZPcHJyR0w5VjVBRXVuQXpmWl9QdnFKX3lZY3FodExWZ0FjQ2N3Q2FWTGhrVW5JZllTNkZEUFBsM0V1dW9YLUg1eTFVYXRxa3I1cFRXT3YzejlZb0xDRS1GS1o2TnJpWDRoeGcxOEY5dg?oc=5",
+      "description": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:53:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "123d1cbe",
+      "title": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHRSUzlxa2Q1WjRLa3dia2JIZm1PRmtTdWt2bElKNEhhU21rd292ZlJLMkZ6NU92NF9HVW45OUw0anFIbXVGYkVLWnQ5NWsyMUFpaHZQdjNwRmltb28yekhTWmljdEo2aEVvX0tPNlNwbUUwcTNEejFwUUppR0NpMThSZFdYUTY5aHRVYVRTb0o5djV3SWMxOWVqYnhGSVBtXzgwd0RjemVRUU5xeW1kZm55ZjNPV1NFRVB5MmRhN3RTd0hEOVRxcWRiZTd6anJRUnRSVjU2N2RfejdNNUxfZ0JrNGg0OVJkdk5HanRqcm8wdEdxY1doWS1wQdIBgAJBVV95cUxObjFLbE1TdEg1UndHUVNRZUZhVzlNQ3FGY29iX0lSYy1YNzFROHlWSWd6R0dJVF92RFRxa0gzaWxVcUNubHMydzAwU3RsZ2pSTkM5XzhjRm1YSmNSNmNEUTNndFNuR094YXRhbXVmX0ZjcDNvdzZPUDMxY1VsbG9QX2RuRTNkYTM5N3NJOW4wWjMxR1pTOGZkR3ktWDlwT0NBTEExN1duYWF2aUR5a1VPR1JmWklVQm93ZmVDa2VPYWtJM09SY0tFV2Y0VUxaYUJnV3hSRVJ1bVRYWkE1aWZUNjFlb0s0dWdjZlR4Zm5aUmZPR2JXVy1sc3EwVDhmLXlK?oc=5",
+      "description": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:50:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1b0ac533",
+      "title": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map - https://www.fintechbiznews.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhNcjQ1RnFZYWQtaVI4ZnZZeW4ySUp5ZHdkd1cwLUp1eU9EVjNGbkpfR296VjZWdVJlZzE5b1YxT0laN1pJVkV4cEpxQjdPRFZpZk1uaFFSdHNTTXhkWWtCd3pEUVQySmt3aG9rZ0M4NmRKdUpqSjFyQ1UxSmRoRXR0TkdYZDYtbEtDYUtVU3JwUi1sOGpBTkRmMVhpZFIyQkJ5WFo2ZG1yX0VNbTZERnBaai1xdnRvLUE?oc=5",
+      "description": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map &nbsp;&nbsp; https://www.fintechbiznews.com/",
+      "source": "https://www.fintechbiznews.com/",
+      "publishedAt": "2026-10-22T09:48:29.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "810c5180",
+      "title": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVNaR1NHQy03QU9fOC1ocnAxX3pkemlVUVVjME90YUtoUWtKT2hrUl9oUVNRNHMzNEFJX2sxcWhwX1lTVXZ3VVJtb0NSQUpZSkFjejZYcWt2aS1Edjc4RFRzV3ZIeFpuaWlhZ3ZBX3NqLW1lcE54RnIxS3lsZ2FIeXE3MmhXRW1rbURhVVVXdzQ0aXNocGhWaG83RWthRnVwVFNoSnhtMEtMOXBBODFONTRlQWdzdVdiTUVZX3JaRFZwbUFyRFl0djVXX3JxeTN3TjR2R0JYZk1NRGY0SXJGRzhIcG1CTTTSAewBQVVfeXFMTjBUZVRjYzA4Rm1mMV9fd0dhOTc0ODBPTHlEX0pZTE1sWTdQeVEySjRfcjFDUFF1R3NYdGdObU4ycDJ5X3AtZzdJc2F2RkdJT1B3YWJnUkRwN1ZxcXhvYlpwYVVOWUsyM0h6a2l4ZHZMNU5hVVR5VGZQcVBkS3ZESDRhSW9GTEpKei1NelhCLVJKV2pWcUdONHVtMkJDMm1YN190Zi1CRUk4VlllTVZXVEdpTERKOWpFUC1zM1BRdUVCQmYySUNrQ2VCY3RPWmJsc0hyRmhJZTFmdEIzcnc5MzEyTTBFWTdFSm9TS2w?oc=5",
+      "description": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:44:20.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "552c199e",
+      "title": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1ByOXdPbV93dngzVUlqalpoUGNPSVczbklvb1ZBOVQ3YnZyNHBiQjJrRkdKNzJKWjlnNENwQW1TNER3RmgyZF9RU1BXeVNqaEVJeExnUjlPcEV4Sm9TclZ6a2phaVRTS3kxN2VfX3gxaDh1dm9jdkZsMWZlRi1oRTVib2hGal9VMlFvRVNNWHBZRjVmdVFQbHZ5SnZ6NlZZblhhQ1hUdDBTMEhQYkN4UExudmhyV2tnOEE?oc=5",
+      "description": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report &nbsp;&nbsp; Menafn",
+      "source": "Menafn",
+      "publishedAt": "2026-10-22T08:30:50.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
     {
       "id": "c4795f6e",
       "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
@@ -223,41 +335,121 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "5faf5645",
-      "title": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHVzdExkMWZJeVNlSVR4RzViSXpSeVNYZlVpbEktUEVqZVRqMnYwX1BMYlVrTDJzZHlCVzd6LVhhNGFsTmtfMktLb3NsZkhMWGhBaEM3MU41b1J2R2VpLXZJM2FLZlBna0dOZlE1OFVXOXR4WHU4RVpJU2hsdmd6YUhudGh6ZHI5alRyMFY4REFOSGRGTjAzMERiVU1CRFZMNmxsQUR3aEg5NzFoVWhUeDlBNzNZX2tMRmZvMmhrOXVYbFAtNFVZaEpMYnVQN1Q3TEtpUzY2QXhqdXlwVnpwV1I2YzZWVTlK?oc=5",
-      "description": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-21T01:42:02.000Z",
+      "id": "63aa97b7",
+      "title": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGxXOEh3RlJoc180TUNSU0tTQ1pCM1hhNkZHc0JxdzM0OUpxem1XR0J3U0RTY29TbFB0WmlTNUx4RHN5c3hHbmk4UFpISzAtbjNaQmJ0cVVhalVqWTRYWUdBSzNzMkNEUVo4TjNlVk9Ba1RZVkliNEpQZzB5SlBBU1ZMWFhOVXFzTEZhSDRVSFFncnlFcS1KSy1jZGtuV3p2bWxqbUxKTEpseXNfSk5zN0h6TmdzSk9PS3liWG9TdDNldVNwMHAtYg?oc=5",
+      "description": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-22T15:30:34.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
+      "entities": [],
       "stream": "reit"
     },
     {
-      "id": "1a821193",
-      "title": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 - India Business Trade",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0Jid092Qk03ckNncUVQbGU4dC1zVHhPdE13MUNyRmxMTXRYdVZ3TDBMRHhzQjhOSlZobV9pZUFySGlPR0hfZEZ0WHFSRzFuS3otRGZ3SWdvTVk2bW1hTUlVTE5ialZDUUM0VkphWkNldEIxR2R1aERUTDJsbTJrQkpUZ0xnVDFmVUVSelVqbW9CWmpobW52eVVkUWhUb3ZxdDRJamlTdGpYUkZUdzEwbXNqal9zMnIwY0tWOVdn?oc=5",
-      "description": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 &nbsp;&nbsp; India Business Trade",
-      "source": "India Business Trade",
-      "publishedAt": "2026-10-20T19:06:27.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
+      "id": "9fc64488",
+      "title": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM19VNEZGVDZMZXVvamZBbW51S2lEYzZKV01tUGR5Y1g5S3ZoYWtYU0dyYjA1amxwSUpzSldhVGc4N2tZWEVNcjNzaVhHU1FFUG9EYTlPTW1hUVRWblozTXFzd1AzRENyZTQwT2I0SFFoeUhRc01IYVMwNjFlT0FFTW1wNjNSeGJhcEVUSldkYTZMOV9zdk44NmxMS1dXMWRDN2I3cE51LXdRYTNXQ1ZOV1JfZzJ0REpxS1pWLWU2aVJvZlVkNFpCLWFTUHFTRllVU2lrUzdKYkk0Zzg?oc=5",
+      "description": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-22T15:20:15.000Z",
+      "city": "India",
+      "category": "Market & policy",
       "tone": "positive",
       "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f606e4b0",
+      "title": "Paranjape Schemes Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkZSWHlIZXdEcHdVNnc3QWwyNG04elAyenFmZmUta0dJSVVnTS04d2N5OXJTSjBXV3ExS0lIZzdsMWN3b2NjMlZOdXJybkJEQ3ZPdGFtcWgxeXdWNXVIaFZCVVdZMTN1SC01aHpDX2JidmdMUEhLQi1xell0VTdXa0ZkYVlZR19IczNsUXVWaTVvY0VUeXJkdTQyb0ZOSDM5QW9FTw?oc=5",
+      "description": "Paranjape Schemes Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-22T10:36:43.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
       "stream": "projects"
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "8579c131",
+      "title": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTlFZVm9ad2txR0EyNW85UGNxMi1tUnNZNUVfeFRXSk4tQXhaRmdDdERCMllLYk45VnpHTVI3LVR2N2tYYTVUeGxONF9mdEg1Q0RKa05kNEpvbV9qWEw0dVR4Tkt1NjUzbHVseTNXb1N6Vl9ZNWZrdV9aaHZQbVJnbmJaaXZQcnh6Z1p5U05pSXZYZFBXMHZPWnM3LUM2bkh4Zk9Mc1JHVEg1dmtEX3hRX1hobXcxcWdTS0JXeW1uY05NV2I1Y2kxa1dXenVIMUEzZ0NlbEZlVHlvWElHQnVjWHFEeWU0bVNSa2U4NkpxbV95RTZhQ3Mw0gH8AUFVX3lxTE42T19hTlk3SzdjVWZwTDBBQXQ4d3NQNDlBY3dqR0xfN1lUWmV3LVNfU1RyMnZXdGx6a3phaTZPSUFIUVRyWE9tXzZmeFA1a2FxWENtczJ1NU5zTUZmanJTS2tURGhrcy1nY2hTaHhVbnJWUi1vbXljOE54ejhYYWJIeU15Z1pGQ1ZXRkJoTlJKZ1J3NVZPcHJyR0w5VjVBRXVuQXpmWl9QdnFKX3lZY3FodExWZ0FjQ2N3Q2FWTGhrVW5JZllTNkZEUFBsM0V1dW9YLUg1eTFVYXRxa3I1cFRXT3YzejlZb0xDRS1GS1o2TnJpWDRoeGcxOEY5dg?oc=5",
+      "description": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:53:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "123d1cbe",
+      "title": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHRSUzlxa2Q1WjRLa3dia2JIZm1PRmtTdWt2bElKNEhhU21rd292ZlJLMkZ6NU92NF9HVW45OUw0anFIbXVGYkVLWnQ5NWsyMUFpaHZQdjNwRmltb28yekhTWmljdEo2aEVvX0tPNlNwbUUwcTNEejFwUUppR0NpMThSZFdYUTY5aHRVYVRTb0o5djV3SWMxOWVqYnhGSVBtXzgwd0RjemVRUU5xeW1kZm55ZjNPV1NFRVB5MmRhN3RTd0hEOVRxcWRiZTd6anJRUnRSVjU2N2RfejdNNUxfZ0JrNGg0OVJkdk5HanRqcm8wdEdxY1doWS1wQdIBgAJBVV95cUxObjFLbE1TdEg1UndHUVNRZUZhVzlNQ3FGY29iX0lSYy1YNzFROHlWSWd6R0dJVF92RFRxa0gzaWxVcUNubHMydzAwU3RsZ2pSTkM5XzhjRm1YSmNSNmNEUTNndFNuR094YXRhbXVmX0ZjcDNvdzZPUDMxY1VsbG9QX2RuRTNkYTM5N3NJOW4wWjMxR1pTOGZkR3ktWDlwT0NBTEExN1duYWF2aUR5a1VPR1JmWklVQm93ZmVDa2VPYWtJM09SY0tFV2Y0VUxaYUJnV3hSRVJ1bVRYWkE1aWZUNjFlb0s0dWdjZlR4Zm5aUmZPR2JXVy1sc3EwVDhmLXlK?oc=5",
+      "description": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:50:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1b0ac533",
+      "title": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map - https://www.fintechbiznews.com/",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhNcjQ1RnFZYWQtaVI4ZnZZeW4ySUp5ZHdkd1cwLUp1eU9EVjNGbkpfR296VjZWdVJlZzE5b1YxT0laN1pJVkV4cEpxQjdPRFZpZk1uaFFSdHNTTXhkWWtCd3pEUVQySmt3aG9rZ0M4NmRKdUpqSjFyQ1UxSmRoRXR0TkdYZDYtbEtDYUtVU3JwUi1sOGpBTkRmMVhpZFIyQkJ5WFo2ZG1yX0VNbTZERnBaai1xdnRvLUE?oc=5",
+      "description": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map &nbsp;&nbsp; https://www.fintechbiznews.com/",
+      "source": "https://www.fintechbiznews.com/",
+      "publishedAt": "2026-10-22T09:48:29.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "810c5180",
+      "title": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVNaR1NHQy03QU9fOC1ocnAxX3pkemlVUVVjME90YUtoUWtKT2hrUl9oUVNRNHMzNEFJX2sxcWhwX1lTVXZ3VVJtb0NSQUpZSkFjejZYcWt2aS1Edjc4RFRzV3ZIeFpuaWlhZ3ZBX3NqLW1lcE54RnIxS3lsZ2FIeXE3MmhXRW1rbURhVVVXdzQ0aXNocGhWaG83RWthRnVwVFNoSnhtMEtMOXBBODFONTRlQWdzdVdiTUVZX3JaRFZwbUFyRFl0djVXX3JxeTN3TjR2R0JYZk1NRGY0SXJGRzhIcG1CTTTSAewBQVVfeXFMTjBUZVRjYzA4Rm1mMV9fd0dhOTc0ODBPTHlEX0pZTE1sWTdQeVEySjRfcjFDUFF1R3NYdGdObU4ycDJ5X3AtZzdJc2F2RkdJT1B3YWJnUkRwN1ZxcXhvYlpwYVVOWUsyM0h6a2l4ZHZMNU5hVVR5VGZQcVBkS3ZESDRhSW9GTEpKei1NelhCLVJKV2pWcUdONHVtMkJDMm1YN190Zi1CRUk4VlllTVZXVEdpTERKOWpFUC1zM1BRdUVCQmYySUNrQ2VCY3RPWmJsc0hyRmhJZTFmdEIzcnc5MzEyTTBFWTdFSm9TS2w?oc=5",
+      "description": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-22T09:44:20.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "552c199e",
+      "title": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1ByOXdPbV93dngzVUlqalpoUGNPSVczbklvb1ZBOVQ3YnZyNHBiQjJrRkdKNzJKWjlnNENwQW1TNER3RmgyZF9RU1BXeVNqaEVJeExnUjlPcEV4Sm9TclZ6a2phaVRTS3kxN2VfX3gxaDh1dm9jdkZsMWZlRi1oRTVib2hGal9VMlFvRVNNWHBZRjVmdVFQbHZ5SnZ6NlZZblhhQ1hUdDBTMEhQYkN4UExudmhyV2tnOEE?oc=5",
+      "description": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report &nbsp;&nbsp; Menafn",
+      "source": "Menafn",
+      "publishedAt": "2026-10-22T08:30:50.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
     {
       "id": "c4795f6e",
       "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
