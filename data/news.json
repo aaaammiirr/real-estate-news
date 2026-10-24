@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T07:49:07.359Z",
+  "generatedAt": "2026-10-24T07:30:49.386Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 152,
-  "todayCount": 11,
+  "itemCount": 160,
+  "todayCount": 16,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,6 +101,41 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -126,17 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
+      "items": 5
     },
     {
       "label": "undefined · undefined",
@@ -151,35 +176,136 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 4
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 10
+      "items": 13
     }
   ],
   "todayItems": [
+    {
+      "id": "b0956e8c",
+      "title": "Aditya Birla Real Estate Eyes ₹1,650 Crore Revenue From Pune Housing Project - India Business Trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHozcG9VTWxia2plT1Zsc2luaHZodjhxb3lsS2VrYUxGZE1lajQ0anVNeWViT2ZMMUhpbU1xSWw4SDZ6YWhIVmxiaTFWR1lXZ0dCUVNDX0tLa1k2X2VBcmo1cFQ5Qnc4VXg4TTVKYWs2NHVSS2xPY2RVWWZBeWV5S08tNGNQYTM2NWtjQVNPRngxcEg5bjU3UG9WaFI5MWxpUmoyZmtRS2xJMm9DUnh4QUo2MGEtN0pP?oc=5",
+      "description": "Aditya Birla Real Estate Eyes ₹1,650 Crore Revenue From Pune Housing Project &nbsp;&nbsp; India Business Trade",
+      "source": "India Business Trade",
+      "publishedAt": "2026-10-23T21:27:16.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "f102a827",
+      "title": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVV0YmR6RWJVQkhhalFTbjhQQ3BmYlNhemFqQl9OY2ctQWU5VHQyTGtvVXQ0ZXVhNnJnVDVrb3ZBdjh3QlF4aUNacnMtTFJpLUd5MTRMZ2pUcGJGWXIxMFpaYnpZaGxkNU14eUh2VFh1VXFfam9RNjZsV1FCUGo4bTJxUlJmOGhaRTFUNm9XeTEzQ1ZVaVZYSWFXS1BSbmllTTA5NDBfYjBIclltYjllN3NUU1ppMVV2SGthT3Z2UlZOODMyOVE?oc=5",
+      "description": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T17:05:39.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "29fd74fc",
+      "title": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZqLURoTFFDaFo2UTBKeUxLOVc0UHNqazRtLVRYMHJ2SW5yUHduTkcyNVVEUmVZa19pTWhjSXlXVEM1bTJJMkFhSy1qakFWWDVHN0hYR3kwY2xTUmozOHdZbU5GMy1lNlhrSUhxdEdDVnE3M3VSdE9qRUpXaFNyQWdkMXNsdVpselh5bGZzNWRNNU16a3V0RXVsOFM5b2k1ZWdxY3M5R3ZhU0lfcGpaMFhLbHNDb1VJZG5v?oc=5",
+      "description": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T14:42:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "4e0ed37f",
+      "title": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand - www.grihik.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkZJT29iamVsN2hHd2V4RG9WaGRwWXNXSXFwOUN0eEVjdFlBc2VfcFNibjRucjB3cGM5c0kxRXRjOW5CRmU1cXNYU3lfSGJod1J0NnNhNW9VcTFsdXFwLVNOUUpUbTVQYkN1ZV81LXFKb0ZacWNBa1VqN2txa3FCaWd5ZDJwYno1?oc=5",
+      "description": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand &nbsp;&nbsp; www.grihik.com",
+      "source": "www.grihik.com",
+      "publishedAt": "2026-10-23T14:20:00.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "2a1dc162",
+      "title": "Trent TRENT Netria Property Sale TreBits Investment Trust - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWt6cjBmN0FBWHZlNnU3V0V5ZzVudUdsMC1HZkJrYUR2RV9HWWdVeXZGSjEwNjY5UHZoeXJHQWZBRFZFTUY1RWM2QVZQeW9XVXc5V0tfM0MxZ1k5aWdYT1lLWXRZUVFCV1NWd21FcUNJajkxMUh2NFNQR1JZTmY4V3B1Mk1VTkdVWXRVZFRHdktNV3NybVJhNzR2VFFGbGM0dTRGYzREWkJoOWRWX200eDJfZTUzQTFGVTFB?oc=5",
+      "description": "Trent TRENT Netria Property Sale TreBits Investment Trust &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-23T14:18:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "96da7967",
+      "title": "Birla Estates launches Pune premium housing project worth ₹1,650 crore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHllczNQSHNPYXRZVDd5SGh5ZWF2OE9aUXpPTXhzZ1kxTktYMXZfeEhxOUJJSzFLNGs2Rnk3T1NKRDcybkxiM3dISDRhLXgzTEJSVndLUFFzSGFKZ0YyZWUwTnp0RDR4LXNUazliTERUSGpGeWMzdDVsZlRPc1RNMmdsek5Gc3Itb3NOakRyV1hDejQ2RThpUmRtOGRIZ3hkUENWWG1XQ2ZLNEU0YkFCZm5UNXUyclR6SDJVNg?oc=5",
+      "description": "Birla Estates launches Pune premium housing project worth ₹1,650 crore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T11:07:48.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "f88e0fc0",
+      "title": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUt2TnNHYnZoSEpKRG5mdVc3OHl2MTdNeDM4a2o3VGNnWHAxSTB4Q0cwSV8ycFJqdTIzYjFtUldxM1NtMGMzZzlIeWJuV1pxV292ZkhXSVBaZ3JRYnJnNEdYakV5dlh0MXBmSXROOTI5TEdxYWdjUm44UVF1b252QnFtcE8zWmpZc2V3S1F1QzlydFh6R1VGOU1CamJ1U2dSdVY5aEI1OHdvcEI0VmktQQ?oc=5",
+      "description": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-23T10:12:04.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "cfa283d6",
+      "title": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDIzVzlPdEZFcUlyLUJYdkpqMWJCX3o1Y0RfT0t6a1ZXRUItWFd3N2hWb1ZjV1ZKWi1ORXRla2tRNkMtenFCQ09rT20tNlhwck1XUlhYUHRvd2NwZnlTakNoeTRyaG93WUhoQVVxUVdXUDdlU2d2QXp5LUxMN0tIODA2S3pFU0dPd21yUHMwLVo3Q3hvTnI0OUF2dVZLd0dva1E?oc=5",
+      "description": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report &nbsp;&nbsp; Menafn",
+      "source": "Menafn",
+      "publishedAt": "2026-10-23T09:46:06.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "8da0e221",
+      "title": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages - Punekar News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTZfcWVTUVZKNkRkRzlLa3NBdUhudDRGV080S3FrblF0RURDMFRXT2Z3cDNfUmt4b2FOdVhKU05KWTNIRy1Rcm9PVTNxZ2J1TGhDSWJxWVhZTjNoQXhEV081eWRSaEdnaUhqRWgyN3pNYW1nRXFndXdERFR5VnZFTXdRQmNIcll4UVh4VDZOTjhEbkRiSllQN3NhenVKdU5tVk1IcXdGamtiUjRUVlEzMERfelBaLUU3WTdPTVdKQUdnNi1pS3c?oc=5",
+      "description": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages &nbsp;&nbsp; Punekar News",
+      "source": "Punekar News",
+      "publishedAt": "2026-10-23T04:50:58.000Z",
+      "city": "Pune",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
     {
       "id": "63aa97b7",
       "title": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com - Investing.com India",
@@ -277,67 +403,135 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
-    {
-      "id": "552c199e",
-      "title": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report - Menafn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1ByOXdPbV93dngzVUlqalpoUGNPSVczbklvb1ZBOVQ3YnZyNHBiQjJrRkdKNzJKWjlnNENwQW1TNER3RmgyZF9RU1BXeVNqaEVJeExnUjlPcEV4Sm9TclZ6a2phaVRTS3kxN2VfX3gxaDh1dm9jdkZsMWZlRi1oRTVib2hGal9VMlFvRVNNWHBZRjVmdVFQbHZ5SnZ6NlZZblhhQ1hUdDBTMEhQYkN4UExudmhyV2tnOEE?oc=5",
-      "description": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report &nbsp;&nbsp; Menafn",
-      "source": "Menafn",
-      "publishedAt": "2026-10-22T08:30:50.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "c4795f6e",
-      "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtTzRlRXBhTGF0cXlRQUhmOTRfTzZhc216WTZhZk1SMm14SEV4X2lxWE93SjNCY1prS3BhZmJMZXlkcE54UHd6bUQ4ZFp5dW55SnluQXY0Yl9mY2ZtNF9GQTVqeS1CZDRwT2Z2dl92TS1OTXZ6YzZCaXVQd3c4QQ?oc=5",
-      "description": "Sunteck Realty Issues ₹70 Crore Commercial Paper &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-21T15:14:02.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "49cc4045",
-      "title": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUJDLUU4a2tHeGlNNUFxRkhwRk1tMWpLQzlFcDI2NHVFdEMzaGhmR2FxTjdFX0kyRGRkUTgyYjU4LUk5bFI0VWcyOXR3VkxTODlnd0xXaTdHb2xqZGItek90ZWRRbnlfalFydjY4X3Q4RjNJZFJERW8xemV3VUVscDgxMTJ0NHQxdjZRdGxwbmRRZHY1RnYyeHFXNFBKLXBIcUJfQ3BsSjZoc0plYXdvbGF5R2FEMVVtWTVMNE9IZXFLNVJrT0hBZWJOMnRPV3U2emdj?oc=5",
-      "description": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-21T14:19:16.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "d107f2bc",
-      "title": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZUVWcyNVAzaXpZUm91U3JhOVpsSTJBN1dwQXVsZVpVdmtBQndOdGFhTUVJNklsMzlKZnc4QkdxRmRsXzhjM0dTWUNBaFhnWWRJamVHUHNUVTF3dEJMb3k0OUVOTWJua09OYnFjamE5OHBqa0lGZ3FvMTA5VUhKSmU0aGdtdkdxR29HamtONlVXMGM5TnRqbTc0bFNHR2hoMWhlRGpZQzJiTDBqdmFVYmprYWk1VmNT?oc=5",
-      "description": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-21T12:28:25.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "b0956e8c",
+      "title": "Aditya Birla Real Estate Eyes ₹1,650 Crore Revenue From Pune Housing Project - India Business Trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHozcG9VTWxia2plT1Zsc2luaHZodjhxb3lsS2VrYUxGZE1lajQ0anVNeWViT2ZMMUhpbU1xSWw4SDZ6YWhIVmxiaTFWR1lXZ0dCUVNDX0tLa1k2X2VBcmo1cFQ5Qnc4VXg4TTVKYWs2NHVSS2xPY2RVWWZBeWV5S08tNGNQYTM2NWtjQVNPRngxcEg5bjU3UG9WaFI5MWxpUmoyZmtRS2xJMm9DUnh4QUo2MGEtN0pP?oc=5",
+      "description": "Aditya Birla Real Estate Eyes ₹1,650 Crore Revenue From Pune Housing Project &nbsp;&nbsp; India Business Trade",
+      "source": "India Business Trade",
+      "publishedAt": "2026-10-23T21:27:16.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "f102a827",
+      "title": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVV0YmR6RWJVQkhhalFTbjhQQ3BmYlNhemFqQl9OY2ctQWU5VHQyTGtvVXQ0ZXVhNnJnVDVrb3ZBdjh3QlF4aUNacnMtTFJpLUd5MTRMZ2pUcGJGWXIxMFpaYnpZaGxkNU14eUh2VFh1VXFfam9RNjZsV1FCUGo4bTJxUlJmOGhaRTFUNm9XeTEzQ1ZVaVZYSWFXS1BSbmllTTA5NDBfYjBIclltYjllN3NUU1ppMVV2SGthT3Z2UlZOODMyOVE?oc=5",
+      "description": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T17:05:39.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "29fd74fc",
+      "title": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZqLURoTFFDaFo2UTBKeUxLOVc0UHNqazRtLVRYMHJ2SW5yUHduTkcyNVVEUmVZa19pTWhjSXlXVEM1bTJJMkFhSy1qakFWWDVHN0hYR3kwY2xTUmozOHdZbU5GMy1lNlhrSUhxdEdDVnE3M3VSdE9qRUpXaFNyQWdkMXNsdVpselh5bGZzNWRNNU16a3V0RXVsOFM5b2k1ZWdxY3M5R3ZhU0lfcGpaMFhLbHNDb1VJZG5v?oc=5",
+      "description": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T14:42:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "4e0ed37f",
+      "title": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand - www.grihik.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkZJT29iamVsN2hHd2V4RG9WaGRwWXNXSXFwOUN0eEVjdFlBc2VfcFNibjRucjB3cGM5c0kxRXRjOW5CRmU1cXNYU3lfSGJod1J0NnNhNW9VcTFsdXFwLVNOUUpUbTVQYkN1ZV81LXFKb0ZacWNBa1VqN2txa3FCaWd5ZDJwYno1?oc=5",
+      "description": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand &nbsp;&nbsp; www.grihik.com",
+      "source": "www.grihik.com",
+      "publishedAt": "2026-10-23T14:20:00.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "2a1dc162",
+      "title": "Trent TRENT Netria Property Sale TreBits Investment Trust - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWt6cjBmN0FBWHZlNnU3V0V5ZzVudUdsMC1HZkJrYUR2RV9HWWdVeXZGSjEwNjY5UHZoeXJHQWZBRFZFTUY1RWM2QVZQeW9XVXc5V0tfM0MxZ1k5aWdYT1lLWXRZUVFCV1NWd21FcUNJajkxMUh2NFNQR1JZTmY4V3B1Mk1VTkdVWXRVZFRHdktNV3NybVJhNzR2VFFGbGM0dTRGYzREWkJoOWRWX200eDJfZTUzQTFGVTFB?oc=5",
+      "description": "Trent TRENT Netria Property Sale TreBits Investment Trust &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-10-23T14:18:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "96da7967",
+      "title": "Birla Estates launches Pune premium housing project worth ₹1,650 crore - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHllczNQSHNPYXRZVDd5SGh5ZWF2OE9aUXpPTXhzZ1kxTktYMXZfeEhxOUJJSzFLNGs2Rnk3T1NKRDcybkxiM3dISDRhLXgzTEJSVndLUFFzSGFKZ0YyZWUwTnp0RDR4LXNUazliTERUSGpGeWMzdDVsZlRPc1RNMmdsek5Gc3Itb3NOakRyV1hDejQ2RThpUmRtOGRIZ3hkUENWWG1XQ2ZLNEU0YkFCZm5UNXUyclR6SDJVNg?oc=5",
+      "description": "Birla Estates launches Pune premium housing project worth ₹1,650 crore &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-23T11:07:48.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "f88e0fc0",
+      "title": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUt2TnNHYnZoSEpKRG5mdVc3OHl2MTdNeDM4a2o3VGNnWHAxSTB4Q0cwSV8ycFJqdTIzYjFtUldxM1NtMGMzZzlIeWJuV1pxV292ZkhXSVBaZ3JRYnJnNEdYakV5dlh0MXBmSXROOTI5TEdxYWdjUm44UVF1b252QnFtcE8zWmpZc2V3S1F1QzlydFh6R1VGOU1CamJ1U2dSdVY5aEI1OHdvcEI0VmktQQ?oc=5",
+      "description": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-23T10:12:04.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "cfa283d6",
+      "title": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDIzVzlPdEZFcUlyLUJYdkpqMWJCX3o1Y0RfT0t6a1ZXRUItWFd3N2hWb1ZjV1ZKWi1ORXRla2tRNkMtenFCQ09rT20tNlhwck1XUlhYUHRvd2NwZnlTakNoeTRyaG93WUhoQVVxUVdXUDdlU2d2QXp5LUxMN0tIODA2S3pFU0dPd21yUHMwLVo3Q3hvTnI0OUF2dVZLd0dva1E?oc=5",
+      "description": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report &nbsp;&nbsp; Menafn",
+      "source": "Menafn",
+      "publishedAt": "2026-10-23T09:46:06.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "8da0e221",
+      "title": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages - Punekar News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTZfcWVTUVZKNkRkRzlLa3NBdUhudDRGV080S3FrblF0RURDMFRXT2Z3cDNfUmt4b2FOdVhKU05KWTNIRy1Rcm9PVTNxZ2J1TGhDSWJxWVhZTjNoQXhEV081eWRSaEdnaUhqRWgyN3pNYW1nRXFndXdERFR5VnZFTXdRQmNIcll4UVh4VDZOTjhEbkRiSllQN3NhenVKdU5tVk1IcXdGamtiUjRUVlEzMERfelBaLUU3WTdPTVdKQUdnNi1pS3c?oc=5",
+      "description": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages &nbsp;&nbsp; Punekar News",
+      "source": "Punekar News",
+      "publishedAt": "2026-10-23T04:50:58.000Z",
+      "city": "Pune",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
     {
       "id": "63aa97b7",
       "title": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com - Investing.com India",
@@ -525,6 +719,22 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "6d0cc2a9",
+      "title": "Brookfield India Real Estate Trust (NSEI:BIRET) - Stock Analysis - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLW9CeUNKWGdzbVRVTGtUUGltZzY1Yi1XQnZ0U0ZXRWpVTnFWS2dzeE1lZEJLMjNwU0RldWJsY0p1dmNJb1VwM2xsWXlWcnZzYXdWemNnNy1oOHlqQ1FfdTBVeGZXNEZncjBhWkVLSjFPZDBZS2Z6VjdXTnNPVzRVa0N2VFJ2bzRvV05PQTRONzFpeWM1dmY5M0ZxVQ?oc=5",
+      "description": "Brookfield India Real Estate Trust (NSEI:BIRET) - Stock Analysis &nbsp;&nbsp; Simply Wall Street",
+      "source": "Simply Wall Street",
+      "publishedAt": "2026-10-19T12:37:32.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
     },
     {
       "id": "c5dfd38b",
@@ -2525,34 +2735,6 @@
       "entities": [
         "K Raheja Corp"
       ],
-      "stream": "reit"
-    },
-    {
-      "id": "2d01b648",
-      "title": "Angel One founder buys ₹711-crore Mumbai property: While affordable housing struggles, India’s ultra-rich a... - Bhaskar English",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGdUZVVzaHNFRXQ5c0RMUUVLOGNRSnFhTGVZODFXcVFheXpGTkZaeXlxaDhUVWhJcXhmTTZGTlozM2JFSmRPelBTdmlQSmRLclJqd3JfWUN4Tnl3YnZhWUVpOUdXaE1kTzRUY3RxdXZsT2w5Q0FUcjBadEktVHJ5VG9ZQkR5MTFfTFIwSm5Xa2d1UjIzLUx1WUt6SUYxNWNLanlZZ01qSHFDRy1GdmR0bHJOaDdBSWt2dk5lVnFhTnXSAcYBQVVfeXFMUG9yRTlYVnlYaGN4VXNteVA2eWxTZGIwX2ZjbEVYVVVadGVIZnl1bURuUU1QbXY1WUU3Z3JqTU1KWl9vOXJaVnhJU1NlVFdSVEN0ZXJIc2Vyd0dnSlczS0tRdi1INVBSNXU4c2ZoWXd1MnAyOHZDU0xzcEJ4djFmX0t6RnBQTDhvMUVveG4zMnktOG03RlQ1U1ktUUJrSlFDLWF6SnZQcEZNanBycmtYVEVNZENTQkgycm9nRXZSNmJ5THI5UW93?oc=5",
-      "description": "Angel One founder buys ₹711-crore Mumbai property: While affordable housing struggles, India’s ultra-rich a... &nbsp;&nbsp; Bhaskar English",
-      "source": "Bhaskar English",
-      "publishedAt": "2026-09-24T00:30:59.000Z",
-      "city": "Mumbai",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
-    },
-    {
-      "id": "7969b477",
-      "title": "Want to invest in real estate without buying a house? India’s REIT market is booming - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV3JmVGV0dTBCUENheFJpT2t6b0Z5b2NTR3NGOTFseXNuMG1NdlZLSGRmVWM2bHJnal9UbWJpdjNUZjgwYjluc1FuOE5jbG5NRHUtWnl6UjVhb3VjSkc3TEtOUzc4cWZpckJFUnpBa25xNEZSTWtOamZRSm0wSU9pUjlZVU1OOTF2UGdLdl9sMmRwSXF3RUxjUjhnNkhiVzNueTRLelJmRlJRNFo1eWctLUkwdFRRaGh5TXVBV1BPM1pfc0o3VjdZbVktMHplcGJ0NE1JdXlvQlZWN083b0Z4RXNtRks4VVdTaEtfU1hxZXE3Y0XSAfgBQVVfeXFMUFZJLUhmV2dSMHkteG1oU19lNWg0b0VFcFYyazBybkpvNFRmQ2FIblVxS0VmNHFxZWs4QkhUOWo5WGVoUEN4UTFsSFo1Mmx2Z2tvRjVGQjFzOW43Y0xCSVB6MldvZEVRVDVFaHdtNlZoUWZZaVphNW81RlkwMkVMT0VZb0hVMEZVMzRacnNxLW9Wa293YTJpby1SMkJmQmhic0x1ekZUdnQ4OWR0Y2dud1ZEckdMZDVPN2N1cExfN3o2alFBSmxBWnFSMDVLUERtN0gta2tsR3JrMTBid3ZTN2JFVVhmRGdTUmk0bHlfT1M4Y3pEYVhEREo?oc=5",
-      "description": "Want to invest in real estate without buying a house? India’s REIT market is booming &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-23T09:27:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
       "stream": "reit"
     }
   ]
