@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T07:44:12.016Z",
+  "generatedAt": "2026-10-26T07:59:55.808Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 156,
-  "todayCount": 9,
+  "itemCount": 149,
+  "todayCount": 4,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -71,7 +71,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -131,12 +131,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,17 +176,45 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 12
+      "items": 14
     }
   ],
   "todayItems": [
+    {
+      "id": "38dc3fd1",
+      "title": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN - Cushman & Wakefield",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFRHdWlGZS00S002cTlHNDBVNEFvVHVQcUZfUGpLLWdnZGViMENxQ3BzcFFLTjFpcUZTRlA5NWRWV0RGNHlreVRoOGtoMWxFMVh4TnV3aFdJamx4WVJna0piQXctRHJFa0UwUnlNd0JneDgzNUVpSGFNUno4RDg0WFFfUlRvLXJRb1JPSC1EcnhBS2RidEZONU9zcWc5dnVicVlyVQ?oc=5",
+      "description": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN &nbsp;&nbsp; Cushman & Wakefield",
+      "source": "Cushman & Wakefield",
+      "publishedAt": "2026-10-26T07:03:18.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "85808038",
+      "title": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzh4bHVjY0ZYWm1sUXN2LU9kVmVjZTVHdUtQckFpbEtBcS1OUTZqbUpDY1VhdDNUZ0JQZFlMZkdDdWVzUTFLdnNYenNmNEFUb0tEaHVQSndzMThOelZuNkVfU01hTUdPSnFsd2dvMDlQZXZfVHpTaHZtOTJyekhmcnM3VWxydkNmaFR2ODV6dGpzWGNfdEUxU3R2b04waUxDQlhoaGNJbXRyaU9qV3NWMFBOWG5mR0ZJNGdRQVp1dDk4ZjUx?oc=5",
+      "description": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report &nbsp;&nbsp; BW Businessworld",
+      "source": "BW Businessworld",
+      "publishedAt": "2026-10-25T08:19:34.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
     {
       "id": "1297e4f3",
       "title": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 - Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkFCVlZOY1ItQ0RmWXhTb1NfQWVLSkc1TEJGTWhsVHNtbklteWFSYmJoR1ZUSFFtbHlsMzF0TFVsWkFTSWhiSEM5ZXFacHh1bm1WdVdKQTZfMng0QzNQTHU2cHRzeGRtenlYTGM2UzFoMG1jNUcxdHNVdVN1T1NhZlhpc2JXZktOSmRfMnZtYWdFZ0Z5RHBXQjgxV2YxRUNPbjM1WnRHOVRldTJLdGRxNXM4Vk1idEVXVWVGZzBEeFhraGs0WXk3QVdfSQ?oc=5",
       "description": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 &nbsp;&nbsp; Prop News Time",
       "source": "Prop News Time",
-      "publishedAt": "2026-10-25T02:30:01.000Z",
+      "publishedAt": "2026-10-25T02:30:50.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "positive",
@@ -209,107 +237,37 @@
         "Blackstone Real Estate"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "f102a827",
-      "title": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVV0YmR6RWJVQkhhalFTbjhQQ3BmYlNhemFqQl9OY2ctQWU5VHQyTGtvVXQ0ZXVhNnJnVDVrb3ZBdjh3QlF4aUNacnMtTFJpLUd5MTRMZ2pUcGJGWXIxMFpaYnpZaGxkNU14eUh2VFh1VXFfam9RNjZsV1FCUGo4bTJxUlJmOGhaRTFUNm9XeTEzQ1ZVaVZYSWFXS1BSbmllTTA5NDBfYjBIclltYjllN3NUU1ppMVV2SGthT3Z2UlZOODMyOVE?oc=5",
-      "description": "Arihant Superstructures redeems ₹70 crore secured NCDs to real estate fund &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-23T17:05:39.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "29fd74fc",
-      "title": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDZqLURoTFFDaFo2UTBKeUxLOVc0UHNqazRtLVRYMHJ2SW5yUHduTkcyNVVEUmVZa19pTWhjSXlXVEM1bTJJMkFhSy1qakFWWDVHN0hYR3kwY2xTUmozOHdZbU5GMy1lNlhrSUhxdEdDVnE3M3VSdE9qRUpXaFNyQWdkMXNsdVpselh5bGZzNWRNNU16a3V0RXVsOFM5b2k1ZWdxY3M5R3ZhU0lfcGpaMFhLbHNDb1VJZG5v?oc=5",
-      "description": "Trent subsidiary to divest Netria stake to TreBits REIT for ₹171.91 crore &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-23T14:42:34.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "4e0ed37f",
-      "title": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand - www.grihik.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkZJT29iamVsN2hHd2V4RG9WaGRwWXNXSXFwOUN0eEVjdFlBc2VfcFNibjRucjB3cGM5c0kxRXRjOW5CRmU1cXNYU3lfSGJod1J0NnNhNW9VcTFsdXFwLVNOUUpUbTVQYkN1ZV81LXFKb0ZacWNBa1VqN2txa3FCaWd5ZDJwYno1?oc=5",
-      "description": "Birla Estates Bets ₹1,650 Crore on Hinjewadi as Pune’s IT Corridor Drives Housing Demand &nbsp;&nbsp; www.grihik.com",
-      "source": "www.grihik.com",
-      "publishedAt": "2026-10-23T14:20:00.000Z",
-      "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "2a1dc162",
-      "title": "Trent TRENT Netria Property Sale TreBits Investment Trust - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdWt6cjBmN0FBWHZlNnU3V0V5ZzVudUdsMC1HZkJrYUR2RV9HWWdVeXZGSjEwNjY5UHZoeXJHQWZBRFZFTUY1RWM2QVZQeW9XVXc5V0tfM0MxZ1k5aWdYT1lLWXRZUVFCV1NWd21FcUNJajkxMUh2NFNQR1JZTmY4V3B1Mk1VTkdVWXRVZFRHdktNV3NybVJhNzR2VFFGbGM0dTRGYzREWkJoOWRWX200eDJfZTUzQTFGVTFB?oc=5",
-      "description": "Trent TRENT Netria Property Sale TreBits Investment Trust &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-23T14:18:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "96da7967",
-      "title": "Birla Estates launches Pune premium housing project worth ₹1,650 crore - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdHllczNQSHNPYXRZVDd5SGh5ZWF2OE9aUXpPTXhzZ1kxTktYMXZfeEhxOUJJSzFLNGs2Rnk3T1NKRDcybkxiM3dISDRhLXgzTEJSVndLUFFzSGFKZ0YyZWUwTnp0RDR4LXNUazliTERUSGpGeWMzdDVsZlRPc1RNMmdsek5Gc3Itb3NOakRyV1hDejQ2RThpUmRtOGRIZ3hkUENWWG1XQ2ZLNEU0YkFCZm5UNXUyclR6SDJVNg?oc=5",
-      "description": "Birla Estates launches Pune premium housing project worth ₹1,650 crore &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-23T11:07:48.000Z",
-      "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "f88e0fc0",
-      "title": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUt2TnNHYnZoSEpKRG5mdVc3OHl2MTdNeDM4a2o3VGNnWHAxSTB4Q0cwSV8ycFJqdTIzYjFtUldxM1NtMGMzZzlIeWJuV1pxV292ZkhXSVBaZ3JRYnJnNEdYakV5dlh0MXBmSXROOTI5TEdxYWdjUm44UVF1b252QnFtcE8zWmpZc2V3S1F1QzlydFh6R1VGOU1CamJ1U2dSdVY5aEI1OHdvcEI0VmktQQ?oc=5",
-      "description": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-23T10:12:04.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "cfa283d6",
-      "title": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report - Menafn",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDIzVzlPdEZFcUlyLUJYdkpqMWJCX3o1Y0RfT0t6a1ZXRUItWFd3N2hWb1ZjV1ZKWi1ORXRla2tRNkMtenFCQ09rT20tNlhwck1XUlhYUHRvd2NwZnlTakNoeTRyaG93WUhoQVVxUVdXUDdlU2d2QXp5LUxMN0tIODA2S3pFU0dPd21yUHMwLVo3Q3hvTnI0OUF2dVZLd0dva1E?oc=5",
-      "description": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report &nbsp;&nbsp; Menafn",
-      "source": "Menafn",
-      "publishedAt": "2026-10-23T09:46:06.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
     }
   ],
   "items": [
+    {
+      "id": "38dc3fd1",
+      "title": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN - Cushman & Wakefield",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFRHdWlGZS00S002cTlHNDBVNEFvVHVQcUZfUGpLLWdnZGViMENxQ3BzcFFLTjFpcUZTRlA5NWRWV0RGNHlreVRoOGtoMWxFMVh4TnV3aFdJamx4WVJna0piQXctRHJFa0UwUnlNd0JneDgzNUVpSGFNUno4RDg0WFFfUlRvLXJRb1JPSC1EcnhBS2RidEZONU9zcWc5dnVicVlyVQ?oc=5",
+      "description": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN &nbsp;&nbsp; Cushman & Wakefield",
+      "source": "Cushman & Wakefield",
+      "publishedAt": "2026-10-26T07:03:18.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "85808038",
+      "title": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzh4bHVjY0ZYWm1sUXN2LU9kVmVjZTVHdUtQckFpbEtBcS1OUTZqbUpDY1VhdDNUZ0JQZFlMZkdDdWVzUTFLdnNYenNmNEFUb0tEaHVQSndzMThOelZuNkVfU01hTUdPSnFsd2dvMDlQZXZfVHpTaHZtOTJyekhmcnM3VWxydkNmaFR2ODV6dGpzWGNfdEUxU3R2b04waUxDQlhoaGNJbXRyaU9qV3NWMFBOWG5mR0ZJNGdRQVp1dDk4ZjUx?oc=5",
+      "description": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report &nbsp;&nbsp; BW Businessworld",
+      "source": "BW Businessworld",
+      "publishedAt": "2026-10-25T08:19:34.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
     {
       "id": "1297e4f3",
       "title": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 - Prop News Time",
@@ -653,6 +611,20 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "ff6e28f0",
+      "title": "Thane–Belapur: The Next Big Business Destination - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalBrbXVUWmZkWlZTY1ViNHBidXhlQnd3cE5LVzA3Zm02RWt5SGNyOW05WXVPWFA5UU43NVJjbHRDdkdVdEcwNnNMR3lSRDlLR2FLMFFzTHdtaHc5Zzh2ZFRoQmRzWTMwV2c3X2t6OThOMnFVUmtjVm00RHJjRDd0Vk5qQjl6TThvU3l1UnhWUTY1VmxSZDNwZERVV1ltSkU?oc=5",
+      "description": "Thane–Belapur: The Next Big Business Destination &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-20T03:24:26.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
     },
     {
       "id": "6d0cc2a9",
@@ -2440,150 +2412,6 @@
         "Casagrand"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "8f7dc914",
-      "title": "Chandru Raheja Sells 1.49% Stake in Mindspace REIT for Rs. 5 bn - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdWYybVdMenh4dE81MC1SSEJKajZfM2RDWFEtUml5YTBCSWRMOEpjWm1FbDR5SFlrbldZbXhRbU1ZZ3hIWnM1Z2RXQVJJR29MV3VzN1FlT3d4S0o1ZTkwb0hCN1pNd1Q4REFNQzBmaHVsekFrQUdzeThFQnNPTXFUa2JObkVWTnpETjJGWXdDNEFCQVJ4SUhlTzRTZFU5OTJLU0V4UWoyWVlHVVBPM3dRa2xiT2JCVTdNU2FRbG0tYXcyNmx0NmNQd0ZpLTd3MW8?oc=5",
-      "description": "Chandru Raheja Sells 1.49% Stake in Mindspace REIT for Rs. 5 bn &nbsp;&nbsp; Construction World",
-      "source": "Construction World",
-      "publishedAt": "2026-09-26T05:54:38.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "K Raheja Corp"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "dab6362f",
-      "title": "BM Property - Bangalore Mirror",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUU0aTI2ZHh4OWFUdWN5T2E4Nl9PWUtuSlhLRWdwUW9YMGl4UUk5dDU3WWg2dkdzdll4MHdELWxNNWZKVnZ0MkRoY1FwckpjZlFVVU96Qzhqa2lONHVXcEw2dEEtYl9zQTZvdXhVY0l2ZVFvbVpZeTI4eFRIS1ZnbkcyVGdXWm1rV0RyZ3EtV01NY1pCVW5vZtIBngFBVV95cUxOVEVUTEIwTHFrc2EtUjJXN1ZEZkNzRkdEdWVTRjJWT0FlRzlLa2xjaXViNklhV0ZpbThCTFRiTjdPVjhsNFl3WjY4S2hNZ3d0TDF0UVpnZFRocGVCbDVZQ1dHNW5vQy1FdVZRRGxTSi1qaFh3NHI4d1poVzk2akJXY3NYeV8tQ3A4OFlFSmhVcFc0QkphRmxwZjBiZHR6QQ?oc=5",
-      "description": "BM Property &nbsp;&nbsp; Bangalore Mirror",
-      "source": "Bangalore Mirror",
-      "publishedAt": "2026-09-26T00:30:00.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "b22af59f",
-      "title": "22-A cloud hangs over Hyderabad property mkt - The Hans India",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzVDZUdBOFRPNHZUNjk3UWR6ZTFTUGdNdE9NcFoxbDNmdlU2V1lTVU5QRUxpNDZwajNYbm1kQmRkVjA3V1M4ZFFRbUNhcnExOXh1VmdBakVjZ3lMSjZYTXVza0lGWEEtcjgzTk9tU0VXS3Q1bVZSa2NRVkxxTmRUN1o0Wm1UQ0s3Y0lNcTlBRmxWbk85?oc=5",
-      "description": "22-A cloud hangs over Hyderabad property mkt &nbsp;&nbsp; The Hans India",
-      "source": "The Hans India",
-      "publishedAt": "2026-09-25T23:25:27.000Z",
-      "city": "Hyderabad",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
-    },
-    {
-      "id": "20bab65",
-      "title": "Embassy Reit Raises Rs 1,000 Cr From European Bank In First Trust-Level Bank Financing - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVNtSnhJS1BOVTlxeV9GVGJablRQcU82cGl6YzRZb3NHZzAxcFZrR1k3V0p6Qkt4Q2FER1VDMWpGTzhRdmpsMFFsVEJJSWlQeWU3SkFJMVdSTFc3X3FHSlRreFJSVHQtUGIydDJFSUpsNEpkMEpOR3pOMzdCX3BlZGJkSkg3WENFaThvUjh0QUNxRy1rZ2h3Vmg5dC1WQWdaNDRBNVRNcEg0Y255TDdPVWN4QjZkaFBVbjRKWDV4NDZweDJLTURpcnN3TWFKcUJ0ZlR5Mzd4M2I4aE0?oc=5",
-      "description": "Embassy Reit Raises Rs 1,000 Cr From European Bank In First Trust-Level Bank Financing &nbsp;&nbsp; TradingView",
-      "source": "TradingView",
-      "publishedAt": "2026-09-25T16:01:14.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "fe4dab6a",
-      "title": "Truist cuts Camden Property Trust stock price target on 2027 outlook - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlBjdjNpR1NLNWJZZ0J1NUJPbVpxVkZ2WHZFSUNOLTVSTTl3cGUwd2dZcnpuMG1JSzhILTRTNlBuenhfS3otbjZYRE56YUJsbUVXaHRwSXhHRXNnbFJyVzdNMDdRX1ZvMlNiaFZpdzdBY3MzcUU0dmc5Q1dFcm9jNlgyRWctNmFUdGtheXdXZWlhR19rMEdiX01uSGNrdDJpV2ZhOUJUaTZOT0dfTjQwMDRMMGI3dFE0RmRJSFptV1IwTWotRDZCQQ?oc=5",
-      "description": "Truist cuts Camden Property Trust stock price target on 2027 outlook &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-09-25T13:30:45.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "2e2b3727",
-      "title": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMVZtRi05RE1tWXNoQzZ2MXA4MVNqRVdUVTdGQ0xNaG5ZemdpX0pMUUNEcU1ycTF5Q2R1UU5Rb21lNFlHaV9SbTBjWnZ5Mk15aVRoblFxdTRPX1dpeE1ELUFjdWZrMUZ4cjVobFJ1blljdkoydjRRLWlhLVBkTlpaV0FsVkNiRS1DRkVJZVRoUjl0YTRuWm80YXFTODdVWWJ0dUN1WWRFT1RBSzFNaDB3UDlKZVdHdi1wVjFTSElHcjJTcDFCNFUtQ2JiZ2YzZkt0S3Z0RzR5M1BvUXZvMFlPUkJDOWFNZkE4REktVG530gHzAUFVX3lxTE8xYmJ5ZlFYbFozR09WMXU2TGd0enJYdXVWTlNrN2Qwb1RZSGRmbndHMDNqSDZzQXEybEZrSzY1eGgzcy03aWZPR1g2S25hUEdGSWJxM3lBX2VmcFpOTEowLUo3andaUzhDOWdNakVEZkFYM2hleklFb0s5NWRuTmlwdDlWTGZiQlJpMFNqeHlubmJLU3NkMHdOSHRicDYtcVdDZ3VZbERxX1FnY2piOUdDSXZpTHdHMUNKQl8yQVFNYWJRWUpSdXBaNUFidTRjWHl3SE5xY0tzNmphcjBnUWp5ZWR4YUsyMXRlbXBvZ3hjM2llTQ?oc=5",
-      "description": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-09-25T12:22:53.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "ec5c29cf",
-      "title": "Khaitan & Co advises Brokers on INR 11,988 Crore sale of 25.03% stake in Knowledge Realty Trust - scconline.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnVqczRPUUY0alJodnE5N242b0x0QVl5N3lwRmVfQ0lTX3lJX3FwRWx3X093U1czMHNQRUhPTDd3eHN4QWRMYUNGaXZxOFJDdW10SVZraktMcDJjRjdtd3Nqc0FXMHJlVndma3ktd2tSSFRvRzFtUkxoYVlkYVRmY1l0TGlPXzJGa3ZqOERDYy1rQ2lYNndmMHdhOWd6V3JlUGY0UkloY2xWcTBETXZnVlk0WF9SWVk?oc=5",
-      "description": "Khaitan & Co advises Brokers on INR 11,988 Crore sale of 25.03% stake in Knowledge Realty Trust &nbsp;&nbsp; scconline.com",
-      "source": "scconline.com",
-      "publishedAt": "2026-09-25T11:30:06.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "1ab2d458",
-      "title": "Prestige Estates expects Rs 2,850 crore revenue from 2 new housing projects in Bengaluru - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOYnJIaHNKUm45Qm9PSS1oTWRVQ29qcnVtVXRFMVBhbGtfTTVDUGJOdVFaM3J4M1ZlYlQyY3BpQ00wWjdjM1dpX2FycV95ZXFPQ3F4dWE0cjFOR3dBa0N2TlpCZ09yOTZaM043OXU4djlKdHJJRUtoQ0xNVEtwLUttLVRaeFdGSE1pRWE0a1NZaFA1V1hsNnBkQV83RF9ERkhIbng0aHJKN2oyMktuTDM0V1ZMRWN6WXFRTUIzdXdWRW5nc2pSUUhBR1l6VS04YXVYQUhqeFNkRjdmZXo4UzZZbE1nS3VQMmpCWGJiazVHNEtyYzRHdjM4c0duSUIxUWpNSkszX2FleGpvU0VVVnfSAZMCQVVfeXFMT3FJc25EcG1EM3VYRGtnTGJJWG1zeUluazJTM0xhcU84UmZtaG10R050WlV3WGxuaVM0OGtMWnQ1UWNGN21Vakl2dXd1VjRadGEtdTlPRE5scUxEeU03aExrVHlJTTN1VG9nX3lFcllzT0JWbkR1dFFSOC1PbHZsQXlSRG9ZdGh2bDZZUVZjem5FRUJGMFJ2dmd6ZkJRM0xnMHlCZDUtVFczdTNXOEtiRGVycTdMZkxjcFlmZTZxWEZBUWJvTmY2YkR0a1NCR1ZLZEZ4Z19ZMWx6NjJ5ODVYSzg4ZW5lSnJiX1M4NktSWVRMRmw3T3kySFBXUlpJdXc0dl84NnZmcGdYY21HRXQ4UFF0SE0?oc=5",
-      "description": "Prestige Estates expects Rs 2,850 crore revenue from 2 new housing projects in Bengaluru &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-09-25T11:20:06.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "51e211a9",
-      "title": "Embassy REIT raises ₹1,000 crores in landmark first bank financing at REIT trust level | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUQ5bWxVRWRaUkY4aktEOTBwd2dyc3FoNk1oU2lVbTZ5OElNNG0zVXp0aEl0TGxsZkhSTTVaTzBQbE5MR3JTNXRUY3dGc0JncFdGdWU1UVo1SHhtWGU5cHB4QnRhTm9nNDhpaGdpLWNlbEdYOEZ4YkI0SlJtR3Qtd3BCd0xtWXFtZ1JNMTRZb1V5R1pKdUVDZS1QSm1ZYUdLUFJrTWFobEt3Z0xreDZGLXF4bWhLVldYZ3lUTThtSHNVVnpzV01TSDUzc2tHN2kycllJc2ZrcFdpZ2kzZkthaGcxVdIB6AFBVV95cUxNSVEwc1lDcDlNZzRYWnFDWWtQQWhZbFkzNHJoVlRHcGE1em15WjBrRWxOdjg5aGRCeVV4YW9yM0pTQTVxSzRDa0VEVjN1N0pRNW9tcEhsZTE5bDZxNlNQWkZfY0RRVFlsZ21yUnBvNUhtMWVrUkt0MVI4S2o4dTNpWWF0ZkhsX0lHRVZiV256UEJkZnY3Q0NsMWxIYS10NGtOMlBKU3NlUkVGQWtDTDVpNEhORTJQbERxdm85aGNSWnE0Q0VFTmI1WGpZSWE3TENodUhjM19UTVhGdS1rT0JURFZvZ3JEMlhJ?oc=5",
-      "description": "Embassy REIT raises ₹1,000 crores in landmark first bank financing at REIT trust level | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-09-25T08:54:30.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "90c433a4",
-      "title": "Embassy Reit gets ₹1,000 crore bank financing after RBI rule change - business-standard.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGlMa1dZYzlRNHN5M3hSbnhZSk9EZjd6LXN4OGRBR0M4NWdOWVdZVDQ4TEFHTVUyakdVOXlMa3lKd2syU09PNDVHemxBVDBHdkVtclRDZXVRZEhvM2JTTTBCQTFKWm9xMmJfOGtrdUJFVDV2OVRNSmJmdk0ycGZhNWhBQ3lYTDltT2VwMmZOcnpLVWlsVzhJWngwRDgyTXNGMERLVTVOaFpyVE4tV2s1Q05fYnhqODhGTlNuOFc5bEtuRlFTb0ZoZlo1OFNDdEtv0gHWAUFVX3lxTE9RQTJKOUVKWmNteW5VT3ltaFZWWDZsOUtIV2p5MFB1THJKVEwtRUltUmx6d2J4ZTcwVlZXN0JCV05pRzY1YmU2bnZWZHFtZ0xFcHl1WmRueGhrQnVNblVnZDlfOXQ2MWlzTDllaGdwWTJwU3JHblljVEVWWTJ3UzlhS292dk5YSWRDMW9ZaE9qSHU0ci1MSlBSS0t6MGt1aTVCdEtEbjh6aFAyRktLeWg2M3IwVF8yQ09lUFBnLVViYkRSVm1uTFdMUHNNWFJNd21iNGo4NUE?oc=5",
-      "description": "Embassy Reit gets ₹1,000 crore bank financing after RBI rule change &nbsp;&nbsp; business-standard.com",
-      "source": "business-standard.com",
-      "publishedAt": "2026-09-25T08:32:02.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ]
 }
