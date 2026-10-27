@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T07:59:55.808Z",
+  "generatedAt": "2026-10-27T08:11:48.054Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 149,
-  "todayCount": 4,
+  "itemCount": 151,
+  "todayCount": 5,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -16,56 +16,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 1
     },
     {
@@ -101,7 +51,57 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
     },
     {
       "label": "undefined · undefined",
@@ -136,6 +136,31 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 2
     },
     {
@@ -151,42 +176,59 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 5
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 14
+      "items": 12
     }
   ],
   "todayItems": [
     {
+      "id": "8be83988",
+      "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2l5Vkp1blpKVDBUX1NQcW50UmtOeklaTHFIQ3FFbFFXMGl2Uzk2MmV4WThzNzVZLUpyaEw0VEZkakt3THFxTXg2OWJaeVRCeExXNlNOTmlVdHpDSHFjR055WDRSSFhTUmx6SHFpX25hT2kwMjBwWF80VElMUVZWRGdNUEItNXJ6RWFtMHkxVEVpRkhxb05SemhPb2gwWWpQTFZfdjFUYjhjZ2xkV1dXdUlpcHhkTXJ1SnZmZWlQRmFsa01NaElTQmdZTUs?oc=5",
+      "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-26T11:45:01.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "a7e17c2b",
+      "title": "Kalpataru Limited Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhDTkhWaGJncXM1Q1BLelJDMXY5ejZaZWpIb0g5MEEwX2cxNERzSnBROFdvNTZna1FaUk54Z3VscHYwbUlxYlpWYjJwNGs3dl9EVmtTZzhaMlRaR19ULUdiRFhlRFAyUTA0UjMtRk95SzdkM3EwSDZILWRvRG1xQVgyMTNsSjJhR1pQSjNoYmFtWkxoVmpVa2kyc2ZXcU5YVFlWTU1WbVctX1BBaEN1MXZoQkFGZldCMVBEZk5iVVVLZ3dX?oc=5",
+      "description": "Kalpataru Limited Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-26T10:42:09.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "4516dfb9",
+      "title": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eNIB7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eA?oc=5",
+      "description": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-26T10:13:37.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
       "id": "38dc3fd1",
-      "title": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN - Cushman & Wakefield",
+      "title": "Connected Intelligence: The Next Chapter of India's Construction Industry - Cushman & Wakefield",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFRHdWlGZS00S002cTlHNDBVNEFvVHVQcUZfUGpLLWdnZGViMENxQ3BzcFFLTjFpcUZTRlA5NWRWV0RGNHlreVRoOGtoMWxFMVh4TnV3aFdJamx4WVJna0piQXctRHJFa0UwUnlNd0JneDgzNUVpSGFNUno4RDg0WFFfUlRvLXJRb1JPSC1EcnhBS2RidEZONU9zcWc5dnVicVlyVQ?oc=5",
-      "description": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN &nbsp;&nbsp; Cushman & Wakefield",
+      "description": "Connected Intelligence: The Next Chapter of India's Construction Industry &nbsp;&nbsp; Cushman & Wakefield",
       "source": "Cushman & Wakefield",
-      "publishedAt": "2026-10-26T07:03:18.000Z",
+      "publishedAt": "2026-10-26T07:07:59.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -200,46 +242,58 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzh4bHVjY0ZYWm1sUXN2LU9kVmVjZTVHdUtQckFpbEtBcS1OUTZqbUpDY1VhdDNUZ0JQZFlMZkdDdWVzUTFLdnNYenNmNEFUb0tEaHVQSndzMThOelZuNkVfU01hTUdPSnFsd2dvMDlQZXZfVHpTaHZtOTJyekhmcnM3VWxydkNmaFR2ODV6dGpzWGNfdEUxU3R2b04waUxDQlhoaGNJbXRyaU9qV3NWMFBOWG5mR0ZJNGdRQVp1dDk4ZjUx?oc=5",
       "description": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report &nbsp;&nbsp; BW Businessworld",
       "source": "BW Businessworld",
-      "publishedAt": "2026-10-25T08:19:34.000Z",
+      "publishedAt": "2026-10-25T09:11:53.000Z",
       "city": "India",
       "category": "Capital & lending",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "funds"
-    },
-    {
-      "id": "1297e4f3",
-      "title": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkFCVlZOY1ItQ0RmWXhTb1NfQWVLSkc1TEJGTWhsVHNtbklteWFSYmJoR1ZUSFFtbHlsMzF0TFVsWkFTSWhiSEM5ZXFacHh1bm1WdVdKQTZfMng0QzNQTHU2cHRzeGRtenlYTGM2UzFoMG1jNUcxdHNVdVN1T1NhZlhpc2JXZktOSmRfMnZtYWdFZ0Z5RHBXQjgxV2YxRUNPbjM1WnRHOVRldTJLdGRxNXM4Vk1idEVXVWVGZzBEeFhraGs0WXk3QVdfSQ?oc=5",
-      "description": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-25T02:30:50.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "27734897",
-      "title": "Blackstone Real Estate AUM Falls 1.6% in Q3 as Asset Sales Outstrip Deployment - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9uVzR2NWpwRW1OZGdHMGw4dlBBLTJ3YkJfbTRVamgwVlNzb0o1WjRwd0ZPZ1lHUnpJcU1vOHR6cjNwdmloeHBqNEFobGVfY2d1c2lCV2tDd3ZmNkxMNDZhejdkdF9ldHpoS3FUNWEyYjY5SWpHZUNFdXpEb3RWak9mbm1rLXJtTENxZ2oyMTZjUFRz?oc=5",
-      "description": "Blackstone Real Estate AUM Falls 1.6% in Q3 as Asset Sales Outstrip Deployment &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-10-24T14:41:59.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "8be83988",
+      "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2l5Vkp1blpKVDBUX1NQcW50UmtOeklaTHFIQ3FFbFFXMGl2Uzk2MmV4WThzNzVZLUpyaEw0VEZkakt3THFxTXg2OWJaeVRCeExXNlNOTmlVdHpDSHFjR055WDRSSFhTUmx6SHFpX25hT2kwMjBwWF80VElMUVZWRGdNUEItNXJ6RWFtMHkxVEVpRkhxb05SemhPb2gwWWpQTFZfdjFUYjhjZ2xkV1dXdUlpcHhkTXJ1SnZmZWlQRmFsa01NaElTQmdZTUs?oc=5",
+      "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-26T11:45:01.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "a7e17c2b",
+      "title": "Kalpataru Limited Pune: PTM Builder Audit 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhDTkhWaGJncXM1Q1BLelJDMXY5ejZaZWpIb0g5MEEwX2cxNERzSnBROFdvNTZna1FaUk54Z3VscHYwbUlxYlpWYjJwNGs3dl9EVmtTZzhaMlRaR19ULUdiRFhlRFAyUTA0UjMtRk95SzdkM3EwSDZILWRvRG1xQVgyMTNsSjJhR1pQSjNoYmFtWkxoVmpVa2kyc2ZXcU5YVFlWTU1WbVctX1BBaEN1MXZoQkFGZldCMVBEZk5iVVVLZ3dX?oc=5",
+      "description": "Kalpataru Limited Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-26T10:42:09.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "4516dfb9",
+      "title": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eNIB7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eA?oc=5",
+      "description": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-26T10:13:37.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "38dc3fd1",
       "title": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN - Cushman & Wakefield",
@@ -395,6 +449,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "a637ffa4",
+      "title": "Brookfield India Real Estate Trust Share Price Live Today - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMW9QVmpGUE5nUk9NV2M0enprTWpYZC1FWXRhVzl4SFNCNnhRNVpWaEpvRHRsdmVmYThVX2ZBX1lkcER1S05FUDJkMkpQb2Rvc0M3WEV4LXhpcnA3cS1NcXFHTFJDNjJSeVNmTklZLTBUM2EzelJiQmZHWWpxQVhwR0sxSGw3eXZRaC1mOEg1MWxPMmpL?oc=5",
+      "description": "Brookfield India Real Estate Trust Share Price Live Today &nbsp;&nbsp; CNBC TV18",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
     },
     {
       "id": "cfa283d6",
@@ -2382,36 +2452,6 @@
         "Embassy Developments"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "8b2ecbe8",
-      "title": "Mindspace REIT Sponsor Group Files PIT Disclosures After Preferential Unit Allotment for Chennai Acquisitions - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUUFKUEtqWXRwWlFiREs3dXNtSjAxSnJQSkUzUTN6dHJLNnlHbUhQOU9mNlEyd1BlcDNRcGJhNTcza0JIZnc4TUI5WG5iZ2ZtUUkxVFNuU1lSYmdqa0wwSHdsMzU1YV9FVDNnbFJ6amZQSjBNUTZUNkFGUHZjeEJLOW9xQzhJRmNHbkFaLVJNQ21DODhESHFrSXdHUkhoOElLYlh0RGVLOGczdlYxREdFYTdtMGR5ZGRMSjA0N0k1OXA3STBQbmU2MWVyOEZsYVpZZE5CSkJzM0plczRmd1QtRjhlMGk1SFc4YlZjVzN3?oc=5",
-      "description": "Mindspace REIT Sponsor Group Files PIT Disclosures After Preferential Unit Allotment for Chennai Acquisitions &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-09-27T05:52:02.000Z",
-      "city": "Chennai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "90548458",
-      "title": "Casagrand founder Arun Mn receives Hurun India’s self-made real estate entrepreneur award - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNal9uQTNFNnRTQlJISnFvNTIxVW1lUWtPT0xDZmhLZmpjeTIxZUh2cFhXSU53SVNxYWY5V2dDTjhMU2JuYlBmd3l4WGNZdVVBbkU4Y1lCenFvUGpnbjVPbXpJOGZ6dnBZVnFfbUN6U3YxZGVfLTAteDRISzlndGpfT0xLVDZrZUdEZU93Z3lRaHg3c1JYbktLbEwzWWFGRlRpbUVlZFBSajhqM2drYjRXN1JXdldwREhDWjdvRVpyclltUHY5ZW51U05mNVpzbUpON0pDZkpfbjU?oc=5",
-      "description": "Casagrand founder Arun Mn receives Hurun India’s self-made real estate entrepreneur award &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-26T10:03:11.000Z",
-      "city": "Chennai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Casagrand"
-      ],
-      "stream": "projects"
     }
   ]
 }
