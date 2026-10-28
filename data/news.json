@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T08:11:48.054Z",
+  "generatedAt": "2026-10-28T08:50:43.228Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 151,
-  "todayCount": 5,
+  "itemCount": 153,
+  "todayCount": 10,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,16 +11,16 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -101,7 +101,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     {
       "label": "undefined · undefined",
@@ -131,32 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +151,135 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 12
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 11
     }
   ],
   "todayItems": [
+    {
+      "id": "dec180c6",
+      "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
+      "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-28T07:45:59.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "ce857df9",
+      "title": "India Real Estate PE Investment Falls 31% in 2026 - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0FCYzRkWFg2VWpOa0psQ3lPWEp1ck9MWFpJOUJQTU1McEdnMnVycDFiT3k5WklBVVYxZWU1QXlRdWJVZmV5ajZVdkp5NUJJMGlvTmtXWkg5M3Fuc2JPM0Etb1B1UGJzODhlSkhqVks3WXJJaG1MYTRPYk9UeGE3QjhyOFplYnlwTmRlTzU5am04OVZob1pMWHcteUtwSFRkeFp6ODFWS2FDOEU0RjdOQ0d5a3hqYTlOamhvTjc3NmRCbUJ0dU9NblhRclllV1oyX09NYXp6RmZqWFJabjVvYjF0VQ?oc=5",
+      "description": "India Real Estate PE Investment Falls 31% in 2026 &nbsp;&nbsp; Passionate In Marketing",
+      "source": "Passionate In Marketing",
+      "publishedAt": "2026-10-28T07:37:41.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "ed19d363",
+      "title": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0hZVm1NU2pJNDdnOW1WSzh2WFVPeXE5SzQtcVlNWGctUThDd3VvSEpZa0c5ZWtYZnAyeWN2UVJRc0JteVZLVTNlbXk5Z0twZFg0UDc0VFVBeldhcm1lTGxMcjYtYnRlZ3FGaktpRlFaSENNN1RyZjAyVEFRWG44cUZ3WThFU0duVDJzOVpOaHBsSjk4dzJJbTlBQ1hpUkxEMTQzYTZQX3h6ZFV1R1AwUVAyS1c?oc=5",
+      "description": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt &nbsp;&nbsp; Construction Week India",
+      "source": "Construction Week India",
+      "publishedAt": "2026-10-28T06:28:39.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "52a61d08",
+      "title": "Brookfield India REIT retains GRESB 5-Star rating for fifth year - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUZ3b29oRzRJRThhN1lPQWVZcDdzVG5pWG5KMUlIVDFMdTlYdnlsVjdENlZIMnhFdXdSSUlQUmxLcktweldFYUUwdTVVY1pPTGlmejlpazlUc0puUy1BVWlEMzdkMDB0OVN5MWZ6aWo2N1lIeHY0RER5ckZjNXdYdkFZS1RkOUhWZTl4WlV3Y3RjQkV1ektnNUNnbDNMQ0VZMEhNbHFRTUpBSDI3ZEtGUzk3SXFtWVlh?oc=5",
+      "description": "Brookfield India REIT retains GRESB 5-Star rating for fifth year &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-28T06:26:55.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "c2576e5e",
+      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0phc1JrNU5hd2k3b0xURDZ5T1BCeC0wZFk3OXg1dVpVdmhCYVdoNGxJN0VMRXdEOGFPcEU4TEVzTktMZVc4LW1LYTZQU1JtOHRWSl9rbERtQUhON25RMjJZOU90MS1Mb3ZhcW9LeUF5NDV4THZrSUNaREdXS2RCRmhBcm1UN3JoeXFoQTdJXzlKWFY4N0c0UkZ5RlV5Vm1hN2xFZFlhQktSN0w4TkZzYlplU0RxbEVXc0kyMVMxaTByTlU1YjltWUtVeERHYkItWWNwbFlTRG9rbnhnVXlhR0VYSDFsWVlJUUFKQkNXcElKNG9fM2tpckpvNm5TUUpH0gGAAkFVX3lxTE9nSmFzUms1TmF3aTdvTFRENnlPUEJ4LTBkWTc5eDV1WlV2aEJhV2g0bEk3RUxFd0Q4YU9wRThMRXNOS0xlVzgtbUthNlBTUm04dFZKX2tsRG1BSE43blEyMlk5T3QxLUxvdmFxb0t5QXk0NXhMdmtJQ1pER1dLZEJGaEFybVQ3cmh5cWhBN0lfOUpYVjg3RzRSRnlGVXlWbWE3bEVkWWFCS1I3TDhORnNiWmVTRHFsRVdzSTIxUzFpMHJOVTViOW1ZS1V4REdiQi1ZY3BsWVNEb2tueGdVeWFHRVhIMWxZWUlRQUpCQ1dwSUo0b18za2lySm82blNRSkc?oc=5",
+      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Devdiscourse",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-10-28T05:10:54.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "6fe9743d",
+      "title": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNNIBkwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNA?oc=5",
+      "description": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-27T14:55:01.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "c27d9d93",
+      "title": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzZidDBCZ19Ndy02UzJ4d0VMazVCeEt0Wm9QMFdMN2ZTZmJwWmY5Y2l3THdveHNic04yZmkxX1Z6bWdjZUhGVldVWDVXUkdGaU41QVFIR3BybUxGX0FIcUxCUUFicjZjaXpnTlZtRVlWT2hULTBobFQtTGlNTUZWZGpmXzRXUVZnNUJPb2dVV0xGMjFpaGJmTFZaNzNWdGVELU5lVm9xOTBLX2Z5WFpiVHlmRlgyV2d2SHJYZ2pQMW1kX29HSjBpdGRpazBlQmtDTHprM2NNa1l2bFlsQl95enZJZ0dJNmNSTlZJeUlR0gHzAUFVX3lxTE52S3A3T1lvcW1fU25VQ2N6eHJCTVMyTEZzeHdld01IMXA3akYxaUNSeFJ2S1RzeFdxSDRwQXpmOUNtLXVvcWxzZ21tcnlmRWFlNnJJc3lBcExnamJ4MnlmX0pyS041ZWE0em1yVzF5dUhVVjBvUWstS3FJN3ZoQW1CcTNDQzAwazNtbENYTVlmY0FuYUVrbHdQYjB3bnduU08tbWcyVktnTjgzTnlnaG9iVG5URXJqWDE2ZldCcHJESzJmWDNsZW1KQWc3cTJGV0V6YU9MSVZSWGhTUnU1SE8zZU9UWFRRS21OVmM0RzkyU1J6VQ?oc=5",
+      "description": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom &nbsp;&nbsp; Business Today",
+      "source": "Business Today",
+      "publishedAt": "2026-10-27T12:44:57.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "8be83988",
       "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
@@ -221,37 +321,109 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "38dc3fd1",
-      "title": "Connected Intelligence: The Next Chapter of India's Construction Industry - Cushman & Wakefield",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFRHdWlGZS00S002cTlHNDBVNEFvVHVQcUZfUGpLLWdnZGViMENxQ3BzcFFLTjFpcUZTRlA5NWRWV0RGNHlreVRoOGtoMWxFMVh4TnV3aFdJamx4WVJna0piQXctRHJFa0UwUnlNd0JneDgzNUVpSGFNUno4RDg0WFFfUlRvLXJRb1JPSC1EcnhBS2RidEZONU9zcWc5dnVicVlyVQ?oc=5",
-      "description": "Connected Intelligence: The Next Chapter of India's Construction Industry &nbsp;&nbsp; Cushman & Wakefield",
-      "source": "Cushman & Wakefield",
-      "publishedAt": "2026-10-26T07:07:59.000Z",
-      "city": "India",
-      "category": "Market & policy",
+      "id": "dec180c6",
+      "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
+      "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-28T07:45:59.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
+      "stream": "projects"
     },
     {
-      "id": "85808038",
-      "title": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report - BW Businessworld",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzh4bHVjY0ZYWm1sUXN2LU9kVmVjZTVHdUtQckFpbEtBcS1OUTZqbUpDY1VhdDNUZ0JQZFlMZkdDdWVzUTFLdnNYenNmNEFUb0tEaHVQSndzMThOelZuNkVfU01hTUdPSnFsd2dvMDlQZXZfVHpTaHZtOTJyekhmcnM3VWxydkNmaFR2ODV6dGpzWGNfdEUxU3R2b04waUxDQlhoaGNJbXRyaU9qV3NWMFBOWG5mR0ZJNGdRQVp1dDk4ZjUx?oc=5",
-      "description": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report &nbsp;&nbsp; BW Businessworld",
-      "source": "BW Businessworld",
-      "publishedAt": "2026-10-25T09:11:53.000Z",
+      "id": "ce857df9",
+      "title": "India Real Estate PE Investment Falls 31% in 2026 - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0FCYzRkWFg2VWpOa0psQ3lPWEp1ck9MWFpJOUJQTU1McEdnMnVycDFiT3k5WklBVVYxZWU1QXlRdWJVZmV5ajZVdkp5NUJJMGlvTmtXWkg5M3Fuc2JPM0Etb1B1UGJzODhlSkhqVks3WXJJaG1MYTRPYk9UeGE3QjhyOFplYnlwTmRlTzU5am04OVZob1pMWHcteUtwSFRkeFp6ODFWS2FDOEU0RjdOQ0d5a3hqYTlOamhvTjc3NmRCbUJ0dU9NblhRclllV1oyX09NYXp6RmZqWFJabjVvYjF0VQ?oc=5",
+      "description": "India Real Estate PE Investment Falls 31% in 2026 &nbsp;&nbsp; Passionate In Marketing",
+      "source": "Passionate In Marketing",
+      "publishedAt": "2026-10-28T07:37:41.000Z",
       "city": "India",
       "category": "Capital & lending",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "funds"
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "ed19d363",
+      "title": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0hZVm1NU2pJNDdnOW1WSzh2WFVPeXE5SzQtcVlNWGctUThDd3VvSEpZa0c5ZWtYZnAyeWN2UVJRc0JteVZLVTNlbXk5Z0twZFg0UDc0VFVBeldhcm1lTGxMcjYtYnRlZ3FGaktpRlFaSENNN1RyZjAyVEFRWG44cUZ3WThFU0duVDJzOVpOaHBsSjk4dzJJbTlBQ1hpUkxEMTQzYTZQX3h6ZFV1R1AwUVAyS1c?oc=5",
+      "description": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt &nbsp;&nbsp; Construction Week India",
+      "source": "Construction Week India",
+      "publishedAt": "2026-10-28T06:28:39.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "52a61d08",
+      "title": "Brookfield India REIT retains GRESB 5-Star rating for fifth year - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUZ3b29oRzRJRThhN1lPQWVZcDdzVG5pWG5KMUlIVDFMdTlYdnlsVjdENlZIMnhFdXdSSUlQUmxLcktweldFYUUwdTVVY1pPTGlmejlpazlUc0puUy1BVWlEMzdkMDB0OVN5MWZ6aWo2N1lIeHY0RER5ckZjNXdYdkFZS1RkOUhWZTl4WlV3Y3RjQkV1ektnNUNnbDNMQ0VZMEhNbHFRTUpBSDI3ZEtGUzk3SXFtWVlh?oc=5",
+      "description": "Brookfield India REIT retains GRESB 5-Star rating for fifth year &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-28T06:26:55.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "c2576e5e",
+      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0phc1JrNU5hd2k3b0xURDZ5T1BCeC0wZFk3OXg1dVpVdmhCYVdoNGxJN0VMRXdEOGFPcEU4TEVzTktMZVc4LW1LYTZQU1JtOHRWSl9rbERtQUhON25RMjJZOU90MS1Mb3ZhcW9LeUF5NDV4THZrSUNaREdXS2RCRmhBcm1UN3JoeXFoQTdJXzlKWFY4N0c0UkZ5RlV5Vm1hN2xFZFlhQktSN0w4TkZzYlplU0RxbEVXc0kyMVMxaTByTlU1YjltWUtVeERHYkItWWNwbFlTRG9rbnhnVXlhR0VYSDFsWVlJUUFKQkNXcElKNG9fM2tpckpvNm5TUUpH0gGAAkFVX3lxTE9nSmFzUms1TmF3aTdvTFRENnlPUEJ4LTBkWTc5eDV1WlV2aEJhV2g0bEk3RUxFd0Q4YU9wRThMRXNOS0xlVzgtbUthNlBTUm04dFZKX2tsRG1BSE43blEyMlk5T3QxLUxvdmFxb0t5QXk0NXhMdmtJQ1pER1dLZEJGaEFybVQ3cmh5cWhBN0lfOUpYVjg3RzRSRnlGVXlWbWE3bEVkWWFCS1I3TDhORnNiWmVTRHFsRVdzSTIxUzFpMHJOVTViOW1ZS1V4REdiQi1ZY3BsWVNEb2tueGdVeWFHRVhIMWxZWUlRQUpCQ1dwSUo0b18za2lySm82blNRSkc?oc=5",
+      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Devdiscourse",
+      "source": "Devdiscourse",
+      "publishedAt": "2026-10-28T05:10:54.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "6fe9743d",
+      "title": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNNIBkwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNA?oc=5",
+      "description": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-27T14:55:01.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "c27d9d93",
+      "title": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom - Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzZidDBCZ19Ndy02UzJ4d0VMazVCeEt0Wm9QMFdMN2ZTZmJwWmY5Y2l3THdveHNic04yZmkxX1Z6bWdjZUhGVldVWDVXUkdGaU41QVFIR3BybUxGX0FIcUxCUUFicjZjaXpnTlZtRVlWT2hULTBobFQtTGlNTUZWZGpmXzRXUVZnNUJPb2dVV0xGMjFpaGJmTFZaNzNWdGVELU5lVm9xOTBLX2Z5WFpiVHlmRlgyV2d2SHJYZ2pQMW1kX29HSjBpdGRpazBlQmtDTHprM2NNa1l2bFlsQl95enZJZ0dJNmNSTlZJeUlR0gHzAUFVX3lxTE52S3A3T1lvcW1fU25VQ2N6eHJCTVMyTEZzeHdld01IMXA3akYxaUNSeFJ2S1RzeFdxSDRwQXpmOUNtLXVvcWxzZ21tcnlmRWFlNnJJc3lBcExnamJ4MnlmX0pyS041ZWE0em1yVzF5dUhVVjBvUWstS3FJN3ZoQW1CcTNDQzAwazNtbENYTVlmY0FuYUVrbHdQYjB3bnduU08tbWcyVktnTjgzTnlnaG9iVG5URXJqWDE2ZldCcHJESzJmWDNsZW1KQWc3cTJGV0V6YU9MSVZSWGhTUnU1SE8zZU9UWFRRS21OVmM0RzkyU1J6VQ?oc=5",
+      "description": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom &nbsp;&nbsp; Business Today",
+      "source": "Business Today",
+      "publishedAt": "2026-10-27T12:44:57.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "8be83988",
       "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
@@ -2376,82 +2548,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
-    {
-      "id": "941a965b",
-      "title": "Arvind SmartSpaces adds Rs 470 crore Sarjapur Road project, lifts FY27 business development pipeline to Rs 3,100 crore - Dalal Street Investment Journal",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQemlSLU5ibHRneVRGVUJCd3RYSktnVHdocWZyZ2tXOW9IZmkxMmZFZE9mZkNUQzMyYTNOMVhmVDlXMVF5Q1VQWHYyd1lKMjZINmMxMllmQ0RYU0RQdG41SWg5Q2NlczRPRlZYRV8zM0tkZlh5M09HYWpTdC1nbzRsT0tXZEFnZHhnUlFOYkR6LWwxQTN5S0xVR0tqTmZ3OTQ2VXpLVFZfUUg4TWlhbFllRUtOQ1BxRWRQbXQ0NVVqN2dNMzVqc2x1UXVMMU4zNlUwenBSQ0l1SXMxS2RLT1FVeVRtWFcwbFFpZVZUWVlwekc?oc=5",
-      "description": "Arvind SmartSpaces adds Rs 470 crore Sarjapur Road project, lifts FY27 business development pipeline to Rs 3,100 crore &nbsp;&nbsp; Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "publishedAt": "2026-09-28T08:33:46.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "87d5fb77",
-      "title": "Godrej Properties Marine Lines: Rs 6,000 Crore Project - Univest",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hY1haZlRuNFo4V2tTTWVXR0J2WHlKUi1mOW9tZkxTb1o5X1JJbFNxVktlMEdaXzRFcXdnbkY4RFlGODVMelBfOUxrZ0Z0NU81SGlHel9hR1BlOWduWWlVdUtQRWpRQQ?oc=5",
-      "description": "Godrej Properties Marine Lines: Rs 6,000 Crore Project &nbsp;&nbsp; Univest",
-      "source": "Univest",
-      "publishedAt": "2026-09-28T04:43:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Godrej Properties"
-      ],
-      "stream": "land"
-    },
-    {
-      "id": "5320033",
-      "title": "Godrej Properties Adds ₹6,000 Crore Luxury Project in Marine Lines, South Mumbai - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdmlZWWxoWnNVekpKYnJkd1Fna21kZkVqOWs3TkR6am81RFNaZ2ZfQ1NpMHJ1Z0lfNGQyRnRjaGVkVUJPSjRkMGNxRi0xSVVHcDZEa05xNUZidjdubmRVbjExaXRXVURkcG14c2N1NGNGV3lNMXBSOW8ya01xdDdGcUd3c1A0Y2tISWZrajVob3M1Y3pBV1ZGUFJ2NHRxY3Q2SkNUbHN5SQ?oc=5",
-      "description": "Godrej Properties Adds ₹6,000 Crore Luxury Project in Marine Lines, South Mumbai &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-09-28T03:13:39.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Godrej Properties"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "56f2d6b3",
-      "title": "UK Realty launches Celestique Gardens in Goregaon East - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQkkzdVBMWDdwRmphbEJJRFNOaUpSWl90VFd5dFlRQU5FNmdhUjd5cVVqOGtsMEVUZi1GMkhQSVlXcjRKWHhPelRtXzR2WVhaNU52VkhRTmlybkVIMjlwNVkxSHpBVzhsVUVKejNNWUkwMVRESlhBbFcwdEFsR0RYZzN1WGppVDNxVGQ5T1JaMkFybXJMR2ZYUEJOMjFDcUhKVzJTRnQ4Rmhfdw?oc=5",
-      "description": "UK Realty launches Celestique Gardens in Goregaon East &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-27T14:17:19.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "d784bb91",
-      "title": "Embassy Office Parks REIT revenue, NOI surge 17% in Q1FY27 - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUFplTzRQRkxhY2Foc3VmUmoxU3pmb20wVDBIZEZoVWxqb3FRdXdMYTRtU2xQU3B4NXkybVpDdHhvamlqaFZ3UnMwRExCMTN4QWRBbElYWXF0a1RNXzhhZVdDOGpyQU9VdnhWWGJVUnNkalRZMzh2TUl2dUVXZEZoTHJHbGMxaXFodENLVFJHMmtUM3dQeEs5UUJIRElHNVFGSjZzSUcxaXR5SkdGZDdhSGJMdlpfU1QyazhsR2ZB?oc=5",
-      "description": "Embassy Office Parks REIT revenue, NOI surge 17% in Q1FY27 &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-09-27T14:13:58.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
     }
   ]
 }
