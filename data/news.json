@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T08:50:43.228Z",
+  "generatedAt": "2026-10-29T08:44:45.232Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 153,
-  "todayCount": 10,
+  "itemCount": 156,
+  "todayCount": 16,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,12 +101,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 8
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
+      "items": 5
     },
     {
       "label": "undefined · undefined",
@@ -131,32 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,11 +151,108 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 11
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 13
     }
   ],
   "todayItems": [
     {
+      "id": "7cdf320d",
+      "title": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUY2X05oN0ZfdE5qMGNTVDVteUVWbjdBNlBpUlVndmY2TEIwckNiR2JNSXhYMU1VdWRXSTV5bnl1NEVZMkJ0SEx6cHF4QjFzSUZ3VHRrWDJDLWtwdG0yM3NZUzJfQ1Z2anZCNGNPd0ZvTzd5eXl2X3ktVDlycDFYa3gtYjZ4dkRrMUhoYXhXcEJMc081UE5KX2c1ck9PU0UyZ2dldTVNUmpNWFVUWXF3dWFrWHAwdw?oc=5",
+      "description": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-29T03:36:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "b69f3477",
+      "title": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVotM0k3eEZTOUxhR1cxMjNNc2h1UWxlREw0SUVldkhxcnVjbjgxZTJuYXRfRFpqLW42VzZvYUN0RVE5cUJKWk5IYXpIZXFoOVFVeUpSWkF4M0NBc3hyM0lDQ19VZGZia2VBWkt5b1pPV3g2eGJvaDBBTnZzTzJMa213OGpDZ1BpeHFLcmpYaXpBM3VERjMyZ2VUbjFiYV9DdWxSRjFWR25BSXhmbW94SHFNVWM2YTFtUzVITllCS0dUTDZi?oc=5",
+      "description": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-28T16:31:53.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "250ded67",
+      "title": "Embassy Office Parks REIT’s NOI rises 15% to ₹1,069 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlhBTUZWamR5Ty1pbFRXQk9DRlg3RnNodmc5RXBZT2xMdVVrZjdVdWdWZGFmbEpSaHlhbmxiZlZiY2plOXNzdGJwOTRScGp1VlcxU1FoYVg4YWdnaGw5S3dHWHRESWUzeTV2cXdBVkxjODJsQkRraWtvTnJIa1JhSWFtSUY5bWRIMnFkeU43djlodXRjVGdXNGtTbU44cXNIOWQ0SkxSS0pFLUs3YmJPdTVCVnhYOUVqTjI4X1kwcWFTdEswMTNqLXpCWFdwX2vSAdQBQVVfeXFMTkswWVB6YktQVWxmallIc082UHFReW9JQlFKa2ZKeklucExaUWxldGVNOENUVnAxcUFCUUVoWTVTNUJkRzAxMTZpN3lNVGp2bm5qMHhLTTZMNzY0ZWMyZ1lWVDJoZlFadjRIRzNGZ2JXeEdhQmhTbHdLT3JhcUIyU1ZJVTFrdENxTUN5WVRONEVOd29iLWRBMXRwcHE4T0FWUGtCdlJtTlNzemZXYTdqUEtrc2RrTEUtOGxzeVlwQkozekt3WE4wSFlpajBMQzJOWm1ISG4?oc=5",
+      "description": "Embassy Office Parks REIT’s NOI rises 15% to ₹1,069 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-28T13:09:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "ff7ae4f0",
+      "title": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU1kWml5XzU4RV8zRExFTmZ5aDRWSjdUd2xfOXVlRTBIcU9lRFl5RWdWNnNmSjFKV3JfS01nZG9FbGZBRWRUUGNxRXVfOTE0RXNlMnNaZ2lSa1FNT18wMEowR1hnZXZUWkQwYUlybDNrRS1pd19oWTE4bjVFZ3IwcVk0TlVRZnkwMlc5SzlucF9tWFFabjlkcXhzcFFIY0xGNUlQV1pXWUZ0RTM1UGhDbkVyNFhhQXBpTzJzVVBUbmQ?oc=5",
+      "description": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-28T12:14:01.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "205d234c",
+      "title": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFyc1FIWUd5VWtZQnVFUEpqckQyTDlhTXd5UWpkT0t2VlFuZmt3SERvaHFlQTdWa0xudDUwbHRocHo0cnBFRDY5NW1MVUs1WnZrdXl5RGtPSjVYZXQ3NzE1aGdJcFJCS3F1akQwZGZvUlVVeWpTUlROUW9ORTdXb2wzZzNMMHJFb3FLNlpXWEZmTDYtazJHakdYTzRKelZHRVRxV21sdXA2Z21Ga05ZVWozb05INXgxTC1ScEp6QVhSdw?oc=5",
+      "description": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-28T07:52:05.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
       "id": "dec180c6",
       "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
@@ -239,6 +311,20 @@
       "stream": "reit"
     },
     {
+      "id": "bdfd8a8d",
+      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNFdzdUJTSE1zWkNEMy15LWI1MEN2SU95XzZoZUV4SmljdGRLYVFPSTVUNTdEcnVXR3p2UndROXhzUUF4dzY4MVBzWFdSUmlYTmt0Q0lZWGRTSDVnZ2p6TlQ4SHlTeWhtRVZmdE8wX050aXNCaTFPVjFBdVE1b3N3SHlQYTlKUVIxZjFZNWpoR1ZUQkFqN0dzdXpnN2hkdXoxV0dfeHZnRHU0amlnUGlMMG56Q3hpczk3NEFqOE1tNlA2U29rWmpkX05wN2VnWWRYT0xKVkVfb25Qck8yU0FBWkh2X1R6cjhGdkhDR2FlUHI?oc=5",
+      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Big News Network.com",
+      "source": "Big News Network.com",
+      "publishedAt": "2026-10-28T05:33:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
       "id": "c2576e5e",
       "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0phc1JrNU5hd2k3b0xURDZ5T1BCeC0wZFk3OXg1dVpVdmhCYVdoNGxJN0VMRXdEOGFPcEU4TEVzTktMZVc4LW1LYTZQU1JtOHRWSl9rbERtQUhON25RMjJZOU90MS1Mb3ZhcW9LeUF5NDV4THZrSUNaREdXS2RCRmhBcm1UN3JoeXFoQTdJXzlKWFY4N0c0UkZ5RlV5Vm1hN2xFZFlhQktSN0w4TkZzYlplU0RxbEVXc0kyMVMxaTByTlU1YjltWUtVeERHYkItWWNwbFlTRG9rbnhnVXlhR0VYSDFsWVlJUUFKQkNXcElKNG9fM2tpckpvNm5TUUpH0gGAAkFVX3lxTE9nSmFzUms1TmF3aTdvTFRENnlPUEJ4LTBkWTc5eDV1WlV2aEJhV2g0bEk3RUxFd0Q4YU9wRThMRXNOS0xlVzgtbUthNlBTUm04dFZKX2tsRG1BSE43blEyMlk5T3QxLUxvdmFxb0t5QXk0NXhMdmtJQ1pER1dLZEJGaEFybVQ3cmh5cWhBN0lfOUpYVjg3RzRSRnlGVXlWbWE3bEVkWWFCS1I3TDhORnNiWmVTRHFsRVdzSTIxUzFpMHJOVTViOW1ZS1V4REdiQi1ZY3BsWVNEb2tueGdVeWFHRVhIMWxZWUlRQUpCQ1dwSUo0b18za2lySm82blNRSkc?oc=5",
@@ -251,6 +337,34 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
+    },
+    {
+      "id": "8ade1b1",
+      "title": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India - www.uniindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNW9WREhoVVltbGR4TU1uT1FGQktJVnk3aG01RGxMVHg4LW5vQmJYaFBmTlJkQko0VXk1MFZrTS1jVmtzR0tzaGRFaXJvMHU5RDIxckNtWHNqVElNWDlrVnZ4TDA2V2lJNW5TYld5TlEtd3JtX3d2X3ctbzlrVnBNZ2EwU0p0MzdPd20waURGTzJMOTNwMDY3VV83Q0dXRWN1VmI5TzlaUS1RU3AzQUpLZHh5UHg4V2RSampCVkhNSW5qZ0lEN25LNVhNdnVBZmJIcTh5ZDAtWW5CTV9VQWZ4a2l2b2xRNGFqeVdPTXdwZ0M?oc=5",
+      "description": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India &nbsp;&nbsp; www.uniindia.com",
+      "source": "www.uniindia.com",
+      "publishedAt": "2026-10-28T01:44:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "cdb6aa4a",
+      "title": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFBTzJIVG5CVUtSRjhueFdGTG5XYVBIUW9ZZ05CR1hoTDBIUFJmS1NTU3VSVzdGRWdjRS00MFRaa2JOZzhsVDJmQ21MaW84eG5kOHdnUUlNZUZGeDNWN043LWY0RnNOaUI4ZFZMWjZoaHFfZWMxMTkwaVNfdllyYWtjc1JLa2dpc2tnR1dHLWtaWmp1dEZkVkdKME9qdGlnTXYxeVZSTERFeExzSnF1QkVZdHpHXzJYbnc?oc=5",
+      "description": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness &nbsp;&nbsp; The Business Times",
+      "source": "The Business Times",
+      "publishedAt": "2026-10-28T00:19:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "6fe9743d",
@@ -281,50 +395,94 @@
       "stream": "land"
     },
     {
-      "id": "8be83988",
-      "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2l5Vkp1blpKVDBUX1NQcW50UmtOeklaTHFIQ3FFbFFXMGl2Uzk2MmV4WThzNzVZLUpyaEw0VEZkakt3THFxTXg2OWJaeVRCeExXNlNOTmlVdHpDSHFjR055WDRSSFhTUmx6SHFpX25hT2kwMjBwWF80VElMUVZWRGdNUEItNXJ6RWFtMHkxVEVpRkhxb05SemhPb2gwWWpQTFZfdjFUYjhjZ2xkV1dXdUlpcHhkTXJ1SnZmZWlQRmFsa01NaElTQmdZTUs?oc=5",
-      "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "id": "69147750",
+      "title": "Duville Estates Pune Review 2026: A PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX05DRGExczBXX2VIcGJiQkZpVUpBdW9LQmx1Mk45ZTJ1ZUFaZmtSS3Y2QmtrMXVSb2lVd1RRSXUtdzUxZ1licU51X003OU1DRmtJQWlVR2ZJOGxtajQ0QUdZbU1NaVJfcEtEZ1ZvVktVQzBOZGprR1FxRDA4Q1BrUWlseEFxbnBDY1pBa1RMSXhZS0JIbXNSSnNOTW1IQVBVTjU4aGpiRi1lbEptN29qS3FzYV90Ymh2ZlpUQQ?oc=5",
+      "description": "Duville Estates Pune Review 2026: A PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
-      "publishedAt": "2026-10-26T11:45:01.000Z",
+      "publishedAt": "2026-10-27T11:05:35.000Z",
       "city": "Pune",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "projects"
-    },
-    {
-      "id": "a7e17c2b",
-      "title": "Kalpataru Limited Pune: PTM Builder Audit 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhDTkhWaGJncXM1Q1BLelJDMXY5ejZaZWpIb0g5MEEwX2cxNERzSnBROFdvNTZna1FaUk54Z3VscHYwbUlxYlpWYjJwNGs3dl9EVmtTZzhaMlRaR19ULUdiRFhlRFAyUTA0UjMtRk95SzdkM3EwSDZILWRvRG1xQVgyMTNsSjJhR1pQSjNoYmFtWkxoVmpVa2kyc2ZXcU5YVFlWTU1WbVctX1BBaEN1MXZoQkFGZldCMVBEZk5iVVVLZ3dX?oc=5",
-      "description": "Kalpataru Limited Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-26T10:42:09.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "4516dfb9",
-      "title": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eNIB7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eA?oc=5",
-      "description": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-26T10:13:37.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
     }
   ],
   "items": [
     {
+      "id": "7cdf320d",
+      "title": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUY2X05oN0ZfdE5qMGNTVDVteUVWbjdBNlBpUlVndmY2TEIwckNiR2JNSXhYMU1VdWRXSTV5bnl1NEVZMkJ0SEx6cHF4QjFzSUZ3VHRrWDJDLWtwdG0yM3NZUzJfQ1Z2anZCNGNPd0ZvTzd5eXl2X3ktVDlycDFYa3gtYjZ4dkRrMUhoYXhXcEJMc081UE5KX2c1ck9PU0UyZ2dldTVNUmpNWFVUWXF3dWFrWHAwdw?oc=5",
+      "description": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-10-29T03:36:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "b69f3477",
+      "title": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVotM0k3eEZTOUxhR1cxMjNNc2h1UWxlREw0SUVldkhxcnVjbjgxZTJuYXRfRFpqLW42VzZvYUN0RVE5cUJKWk5IYXpIZXFoOVFVeUpSWkF4M0NBc3hyM0lDQ19VZGZia2VBWkt5b1pPV3g2eGJvaDBBTnZzTzJMa213OGpDZ1BpeHFLcmpYaXpBM3VERjMyZ2VUbjFiYV9DdWxSRjFWR25BSXhmbW94SHFNVWM2YTFtUzVITllCS0dUTDZi?oc=5",
+      "description": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-28T16:31:53.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "250ded67",
+      "title": "Embassy Office Parks REIT’s NOI rises 15% to ₹1,069 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlhBTUZWamR5Ty1pbFRXQk9DRlg3RnNodmc5RXBZT2xMdVVrZjdVdWdWZGFmbEpSaHlhbmxiZlZiY2plOXNzdGJwOTRScGp1VlcxU1FoYVg4YWdnaGw5S3dHWHRESWUzeTV2cXdBVkxjODJsQkRraWtvTnJIa1JhSWFtSUY5bWRIMnFkeU43djlodXRjVGdXNGtTbU44cXNIOWQ0SkxSS0pFLUs3YmJPdTVCVnhYOUVqTjI4X1kwcWFTdEswMTNqLXpCWFdwX2vSAdQBQVVfeXFMTkswWVB6YktQVWxmallIc082UHFReW9JQlFKa2ZKeklucExaUWxldGVNOENUVnAxcUFCUUVoWTVTNUJkRzAxMTZpN3lNVGp2bm5qMHhLTTZMNzY0ZWMyZ1lWVDJoZlFadjRIRzNGZ2JXeEdhQmhTbHdLT3JhcUIyU1ZJVTFrdENxTUN5WVRONEVOd29iLWRBMXRwcHE4T0FWUGtCdlJtTlNzemZXYTdqUEtrc2RrTEUtOGxzeVlwQkozekt3WE4wSFlpajBMQzJOWm1ISG4?oc=5",
+      "description": "Embassy Office Parks REIT’s NOI rises 15% to ₹1,069 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-28T13:09:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "ff7ae4f0",
+      "title": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU1kWml5XzU4RV8zRExFTmZ5aDRWSjdUd2xfOXVlRTBIcU9lRFl5RWdWNnNmSjFKV3JfS01nZG9FbGZBRWRUUGNxRXVfOTE0RXNlMnNaZ2lSa1FNT18wMEowR1hnZXZUWkQwYUlybDNrRS1pd19oWTE4bjVFZ3IwcVk0TlVRZnkwMlc5SzlucF9tWFFabjlkcXhzcFFIY0xGNUlQV1pXWUZ0RTM1UGhDbkVyNFhhQXBpTzJzVVBUbmQ?oc=5",
+      "description": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-28T12:14:01.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "205d234c",
+      "title": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFyc1FIWUd5VWtZQnVFUEpqckQyTDlhTXd5UWpkT0t2VlFuZmt3SERvaHFlQTdWa0xudDUwbHRocHo0cnBFRDY5NW1MVUs1WnZrdXl5RGtPSjVYZXQ3NzE1aGdJcFJCS3F1akQwZGZvUlVVeWpTUlROUW9ORTdXb2wzZzNMMHJFb3FLNlpXWEZmTDYtazJHakdYTzRKelZHRVRxV21sdXA2Z21Ga05ZVWozb05INXgxTC1ScEp6QVhSdw?oc=5",
+      "description": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-28T07:52:05.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
       "id": "dec180c6",
       "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
@@ -383,6 +541,20 @@
       "stream": "reit"
     },
     {
+      "id": "bdfd8a8d",
+      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Big News Network.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNFdzdUJTSE1zWkNEMy15LWI1MEN2SU95XzZoZUV4SmljdGRLYVFPSTVUNTdEcnVXR3p2UndROXhzUUF4dzY4MVBzWFdSUmlYTmt0Q0lZWGRTSDVnZ2p6TlQ4SHlTeWhtRVZmdE8wX050aXNCaTFPVjFBdVE1b3N3SHlQYTlKUVIxZjFZNWpoR1ZUQkFqN0dzdXpnN2hkdXoxV0dfeHZnRHU0amlnUGlMMG56Q3hpczk3NEFqOE1tNlA2U29rWmpkX05wN2VnWWRYT0xKVkVfb25Qck8yU0FBWkh2X1R6cjhGdkhDR2FlUHI?oc=5",
+      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Big News Network.com",
+      "source": "Big News Network.com",
+      "publishedAt": "2026-10-28T05:33:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
       "id": "c2576e5e",
       "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Devdiscourse",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0phc1JrNU5hd2k3b0xURDZ5T1BCeC0wZFk3OXg1dVpVdmhCYVdoNGxJN0VMRXdEOGFPcEU4TEVzTktMZVc4LW1LYTZQU1JtOHRWSl9rbERtQUhON25RMjJZOU90MS1Mb3ZhcW9LeUF5NDV4THZrSUNaREdXS2RCRmhBcm1UN3JoeXFoQTdJXzlKWFY4N0c0UkZ5RlV5Vm1hN2xFZFlhQktSN0w4TkZzYlplU0RxbEVXc0kyMVMxaTByTlU1YjltWUtVeERHYkItWWNwbFlTRG9rbnhnVXlhR0VYSDFsWVlJUUFKQkNXcElKNG9fM2tpckpvNm5TUUpH0gGAAkFVX3lxTE9nSmFzUms1TmF3aTdvTFRENnlPUEJ4LTBkWTc5eDV1WlV2aEJhV2g0bEk3RUxFd0Q4YU9wRThMRXNOS0xlVzgtbUthNlBTUm04dFZKX2tsRG1BSE43blEyMlk5T3QxLUxvdmFxb0t5QXk0NXhMdmtJQ1pER1dLZEJGaEFybVQ3cmh5cWhBN0lfOUpYVjg3RzRSRnlGVXlWbWE3bEVkWWFCS1I3TDhORnNiWmVTRHFsRVdzSTIxUzFpMHJOVTViOW1ZS1V4REdiQi1ZY3BsWVNEb2tueGdVeWFHRVhIMWxZWUlRQUpCQ1dwSUo0b18za2lySm82blNRSkc?oc=5",
@@ -395,6 +567,34 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
+    },
+    {
+      "id": "8ade1b1",
+      "title": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India - www.uniindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNW9WREhoVVltbGR4TU1uT1FGQktJVnk3aG01RGxMVHg4LW5vQmJYaFBmTlJkQko0VXk1MFZrTS1jVmtzR0tzaGRFaXJvMHU5RDIxckNtWHNqVElNWDlrVnZ4TDA2V2lJNW5TYld5TlEtd3JtX3d2X3ctbzlrVnBNZ2EwU0p0MzdPd20waURGTzJMOTNwMDY3VV83Q0dXRWN1VmI5TzlaUS1RU3AzQUpLZHh5UHg4V2RSampCVkhNSW5qZ0lEN25LNVhNdnVBZmJIcTh5ZDAtWW5CTV9VQWZ4a2l2b2xRNGFqeVdPTXdwZ0M?oc=5",
+      "description": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India &nbsp;&nbsp; www.uniindia.com",
+      "source": "www.uniindia.com",
+      "publishedAt": "2026-10-28T01:44:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "cdb6aa4a",
+      "title": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFBTzJIVG5CVUtSRjhueFdGTG5XYVBIUW9ZZ05CR1hoTDBIUFJmS1NTU3VSVzdGRWdjRS00MFRaa2JOZzhsVDJmQ21MaW84eG5kOHdnUUlNZUZGeDNWN043LWY0RnNOaUI4ZFZMWjZoaHFfZWMxMTkwaVNfdllyYWtjc1JLa2dpc2tnR1dHLWtaWmp1dEZkVkdKME9qdGlnTXYxeVZSTERFeExzSnF1QkVZdHpHXzJYbnc?oc=5",
+      "description": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness &nbsp;&nbsp; The Business Times",
+      "source": "The Business Times",
+      "publishedAt": "2026-10-28T00:19:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "6fe9743d",
@@ -425,12 +625,68 @@
       "stream": "land"
     },
     {
+      "id": "69147750",
+      "title": "Duville Estates Pune Review 2026: A PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX05DRGExczBXX2VIcGJiQkZpVUpBdW9LQmx1Mk45ZTJ1ZUFaZmtSS3Y2QmtrMXVSb2lVd1RRSXUtdzUxZ1licU51X003OU1DRmtJQWlVR2ZJOGxtajQ0QUdZbU1NaVJfcEtEZ1ZvVktVQzBOZGprR1FxRDA4Q1BrUWlseEFxbnBDY1pBa1RMSXhZS0JIbXNSSnNOTW1IQVBVTjU4aGpiRi1lbEptN29qS3FzYV90Ymh2ZlpUQQ?oc=5",
+      "description": "Duville Estates Pune Review 2026: A PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-27T11:05:35.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "40dbf740",
+      "title": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakdxRkVtcmp2UXZ6V1l3UEp0WkNCUzV6bE5ySFdkWTZPTERucUozeXJkZlFnNVU1Vi1hU1ZwVlNOY1cwRVc2TWxFYkZtR0lFZ19LTkZ1ZVoweDRKUnh5RTktM2FvNXFzU2RIUGg4OHluVThlSlk2eWFhNUNUTmJtcW1seGJ3VmtxeHBuWXNTb0l3ZWFpM1Z4ZkREbkMxb19Za09nZzRPdExWZzdKSFZyZUdIQkRVNVpMTWtwRzRlenlQSHVyYU9KZ3A3eHU3dFV4ZnYwbGNlWXRxUEJUb3fSAd4BQVVfeXFMUGpHcUZFbXJqdlF2eldZd1BKdFpDQlM1emxOckhXZFk2T0xEbnFKM3lyZGZRZzVVNVYtYVNWcFZTTmNXMEVXNk1sRWJGbUdJRWdfS05GdWVaMHg0SlJ4eUU5LTNhbzVxc1NkSFBoODh5blU4ZUpZNnlhYTVDVE5ibXFtbHhid1ZrcXhwbllzU29Jd2VhaTNWeGZERG5DMW9fWWtPZ2c0T3RMVmc3SkhWcmVHSEJEVTVaTE1rcEc0ZXp5UEh1cmFPSmdwN3h1N3RVeGZ2MGxjZVl0cVBCVG93?oc=5",
+      "description": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-27T08:37:36.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "df526055",
+      "title": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUppbWJVSlhSOFdZQ3FVakp3Zk9raUt5ZXhUV2pnaUlwcXFmUXVsNHh0SEZUWGpZQ1pkRXN2UFNEMy1oYTVJQy1HbWkxcWstRTBtMUFwd042TDl5MHoyM3MwcHo1VDBOd1Q0WGdhdFFWcXpLSllXVHAzZWpxaWpqRkZzV015ckRIb3lvYXpCUEVNTVpjTDBjNEFzUW9aWHNzMXhwNDIyc2FiNDFGMTVZNnlLb0s2N3hLRi1EVEZtYXFNOWlLdkE?oc=5",
+      "description": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-27T05:31:18.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
       "id": "8be83988",
       "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2l5Vkp1blpKVDBUX1NQcW50UmtOeklaTHFIQ3FFbFFXMGl2Uzk2MmV4WThzNzVZLUpyaEw0VEZkakt3THFxTXg2OWJaeVRCeExXNlNOTmlVdHpDSHFjR055WDRSSFhTUmx6SHFpX25hT2kwMjBwWF80VElMUVZWRGdNUEItNXJ6RWFtMHkxVEVpRkhxb05SemhPb2gwWWpQTFZfdjFUYjhjZ2xkV1dXdUlpcHhkTXJ1SnZmZWlQRmFsa01NaElTQmdZTUs?oc=5",
       "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
       "publishedAt": "2026-10-26T11:45:01.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "4484425c",
+      "title": "Aditya Birla Real Estate to develop INR 1,650 crore Hinjewadi housing project in Pune - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWNMaGlVRFNpRFQyNVBoN1ZhUDZYNjJXQlNqUVlDTU1mNkRQSW4xbkRBWXVwNDZUMWNLS0VTX2V3RFIzSGtZaUNRYUNRTzBPUXBQNHRrZHo5bHpGRlZsWFZ6d2RZR19HTk50clhaVERLUDhmSV9Jc1FOcV92a3dPQXQzLWpJVlU1U2htQXdlbjJZcXFtVFB1OGNQeGljZDgzNGRvWGF4aDZHV2MtRjRfdUpHTzhhb0hfVEVrb245bzlSekVMZW1NaTk0VkpFWng3OTJn?oc=5",
+      "description": "Aditya Birla Real Estate to develop INR 1,650 crore Hinjewadi housing project in Pune &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-10-26T11:00:13.000Z",
       "city": "Pune",
       "category": "Projects & launches",
       "tone": "neutral",
@@ -2418,136 +2674,6 @@
         "Embassy Developments"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "1a6d140c",
-      "title": "Embassy REIT raises INR 1,000 crore through NCDs to refinance debt - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORVg3VUJMNm52ZmdWVU5PNXI1MXZxREtubjRtR1hHU2hwT21sVFlzQ011ZWVzaW00TXZTNmI5eWRxR1NqdzFkb1JGdGZYa2kyVUlHbWtIb0dza0xKVC1Ob2VZUTMyc0YyODhMb1lkcFNDN2ZRb0lnd1ZqWHF0UUlBNmFCLU5wS0hQTUYwTU50WnV1djh1M1ZRTEV4czd1RmM4UHFCNFpIclFFaGVUZDRwUnVjdlVhRmNkUVE?oc=5",
-      "description": "Embassy REIT raises INR 1,000 crore through NCDs to refinance debt &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-29T06:02:40.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "a87f25a7",
-      "title": "Godrej Properties Bets ₹6,000 Crore On Mumbai Expansion As Premium Property Prices Cross ₹80,000/Sq Ft - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTk0taW9ubldUcjR4d1FQQW9WZVp1SUZZa2RSTlZtUzNMaGxvdUNWVXVGQmZ6OU1aV1Q3UWt2MGxPUy1aNUZYVHM2MzRzcUI2TVp3dnVPbDZ2MGVEdjlvNXlEY2NXWUExXzlEdldWWVB5Y2NENjNDX2FhQlN5SV96VFQxZFFPblhFVVpHMzdNTEVXa0w3MGRLVnRfV0hpN0RkRG8za0JlY0hPbDdRUHlpbTd2eWxVNjBhNmFVQlcza1JpVjgx?oc=5",
-      "description": "Godrej Properties Bets ₹6,000 Crore On Mumbai Expansion As Premium Property Prices Cross ₹80,000/Sq Ft &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-09-29T04:13:05.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Godrej Properties"
-      ],
-      "stream": "land"
-    },
-    {
-      "id": "747d621f",
-      "title": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level - constructionweekonline.in",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBtYURMdUx1Z2hoX1ZSMjRfajQySlRrQXQ0cl9hQ0wzX0NyYW8xQ2xsY2xZd21BV3Rma1haRVVGU1hHSHgtcG1lSmpIOVd6TGJJRlZjQU9UZjlVVGt6Wk5zaTEtOTdYY1FIQWZfLVdRNV9kUjN4NmwxMENBT21zVUtxVTZSQWpDTjByVmdyVk04OWQzdFp1WHdDVHFac3FIU00wbE85V0tjeVIxLUJpMkhxaUEtcWptNE1GUURn?oc=5",
-      "description": "Embassy REIT raises Rs 1,000 cr in first bank financing at REIT Trust level &nbsp;&nbsp; constructionweekonline.in",
-      "source": "constructionweekonline.in",
-      "publishedAt": "2026-09-29T03:07:59.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b220cb4",
-      "title": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 - therealtytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2pyMlhzMnlLWkhvTmpMUDRGblFiMV9WdEdzYkktNlg1LUx6UG9HaDlPMXNudzZTbmoxaXBDU0QtLWJaVmVQbDItSnhlek5HUjdvS3I0TGNNZkpGXzBLLUxYRVlheWhMVzVabkhBUXdaTmFuV1dRTXVyMjRKaWtlTU9hN3ZpYkRvbTVqNUp1TjJVUThiVy1YSTM4QlhjZ1kxQnJaWTd4aTdKX3BwWEt2WmVn?oc=5",
-      "description": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 &nbsp;&nbsp; therealtytoday.com",
-      "source": "therealtytoday.com",
-      "publishedAt": "2026-09-28T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "6f448529",
-      "title": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzltOFlSOEN1Nk1JNG1kcXB0d3VqT2dyaG5Sd3hCV2FBRlhoem0wQmhnSmVlZTJ2eFFLeHk2YWZVdGdKRXFmLUN3NmNjU01uOXpVUG55VlhOS2drX3ptcFliTWtjeHNVaUMtc0FGQXpmZHlqZWR0bXdYTndFc0dRa3dsdndUSU1uMGJUVjRWcE1rUmVkQkpURDZIU3BXU0NweE1YWmtXYzNLQ2s0VGVteGJlS2pBeV9ubnlWWA?oc=5",
-      "description": "Foreign investors return: India real estate draws a record $9.5 billion in Q3 &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-09-28T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "aec2bccd",
-      "title": "Embassy Office Parks REIT Raises Debt Funding Through Debentures - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVRNdGNiQjF6LXl0by1zY0tIS0FQQWJXMW5oVkpud012TDJTV21waU1vS0I4MUtSN1BUSHRaR0VOekJBakNzcXhNSXVyblJVeVRoNUd4YlFXMVB5TDAwMlFHcFlRR0MyQkpnS2R3Wk8ydHZ3M0Z1MlFvRXpZNm9uSDhOV01BX2NPNkVrcDFjemM5UEJJd25QcDhvMnotNkRiV3JmOGZRdEtOeEpma29yS2tJWGUyMWRjalp3VFZISXJma28ycnpQaw?oc=5",
-      "description": "Embassy Office Parks REIT Raises Debt Funding Through Debentures &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-09-28T12:49:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "funds"
-    },
-    {
-      "id": "93fd29e",
-      "title": "India realty capital inflows hit record USD 9.5 bn in Q3, more than double YoY: CBRE report - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckpJMDFyZmpud01ISXdDYU1acWs1R3VUNkxUclZzaU1IbUlpZ3REckRuYVR4VVMwWG1zZFlkUlAxaDRhc3BSSWpPTnZieV9pM1p3N0l4MUJPRTBUQmo0M2pSaTRCS2MySWxWOWV1ZGFBSnNmWTkxTDBFcEd4VkU0TFIwcmptMnpmdDVFcFkwbjNITXpnNkJRd0RVYkRXdUgyN3dRd0p1OTB1N3hsTFdHd0ZYeDZXcWRYbTlNNzVCczNKbHMzM3pHY0ZwZG9ZOFVrdGNzbkpR?oc=5",
-      "description": "India realty capital inflows hit record USD 9.5 bn in Q3, more than double YoY: CBRE report &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "publishedAt": "2026-09-28T11:49:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "3d665fc4",
-      "title": "HDFC Mutual Fund announces reopening of HDFC BSE REITS and Commercial Real Estate Index Fund for ongoing s - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYnlaeGJwaGtCYUZDaUtYREhSZUZxSXdxbThpdEpLN3RxaWxwRjI0V2cxN292T18yTTBldTFqQnZRdURhbTJSdkxVUEQ2QXc1Z1NfbWlrbVVpblAtR2hDX1JvZ2Q5cFNQdDZ6RTZtUFhvRnJxc053WlV2OVRfQkVsRU5SWmpCVzlzVVQ2OVo5UEp2dF9LOFJDTFdOV0NXWHp0WERxVlZ5SThLYlJTODVUSzEwdnpFREtzU1ZOck5Nb3pNN0dyY2FGTUZJamY1aks4VlF0OWctUVlKbmlRU0xrNk5qQUdZWFQyZ2FaX2w3MlhEbXhtcEM2U2E0R2VUc21DYjk0VGszQnZvTE40aUk00gGUAkFVX3lxTE9GNzhYc0ZlVk1RdlltaHpuWnhiaXFfcUZfWF8zR1FnaEpBNXB0VlRpckVXbmJRUGhfN29OX3AtTTZxb0VfMTJ4NEdqUjJwdGM4amZJVEthRnlhT3c4S1J0YTRMUU52X1JaM1RFQnRmckt6NUszX0Vrb0Y1cFZlWDdWR2Rlb1MtM0s2bWxvS3h5NTd6QTVtTzFMeXFfOHRKbjVoZnJVR0ZKUGNTcTRNVGpBM3lBUFNKWkp1cUptWWxNRXRRX0F3dDBub0gzemhvb2lSdXd5X1ZDMHJyRWM4ZWJEVkM3Q19ndzhlVk5DUURRRTNfRjl1bDgzWkwtWUJjSzJQNmZYUWlTa3Utb3doTnRyOUNNQw?oc=5",
-      "description": "HDFC Mutual Fund announces reopening of HDFC BSE REITS and Commercial Real Estate Index Fund for ongoing s &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-09-28T11:20:06.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "e4ce2181",
-      "title": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 - tradebrains.in",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZXp2clp0dVhVbVhWbFk5WlJyUE9TMDhETnRLMEJ5S00yTm5RdHlna1J6NFljeFlaenZWSXlvcDIxaEhyUi1jaU9WV1pvNE5XbHk3bEhwUm5GTE1PRFRXdjUtUE50dW8tSTZqMndieF9iV0N1MlNCT3BjN2RrZ216dURaeXVfcWlHUy1fNmxmUmY5dTMzcEdpWG5kWGxwVGdYYm9UQlZPSDZwQTBnWWJsbkxNWWhwZG8yZXZTYmp0ano3R2sxemc0dElGVVFzZ05zZUlIcnNVUmNNSmt3ZUMwUFhyeUo?oc=5",
-      "description": "Bengaluru’s Land Rush: 4 Major Developers Acquiring Big Land Parcels Across North, East and South Bengaluru in 2026 &nbsp;&nbsp; tradebrains.in",
-      "source": "tradebrains.in",
-      "publishedAt": "2026-09-28T09:42:27.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
     }
   ]
 }
