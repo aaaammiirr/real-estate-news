@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T08:51:24.666Z",
+  "generatedAt": "2026-10-31T08:39:10.058Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 155,
+  "itemCount": 153,
   "todayCount": 6,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -101,37 +101,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 7
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 5
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -161,7 +131,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -176,98 +151,65 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 6
     }
   ],
   "todayItems": [
     {
-      "id": "4df1fb13",
-      "title": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjllNTZ4ZkJqYlcxaURHam5WMk84ZUxTcVlieWRGQzV2NzZReXN1NEVjY2YxelN3U3RXX1owMWVpWnZ4SmhhLXNwRG5XbEc0a3lDcWxWdHJudk8xTnhNby1neWlja2pUbW1kVmhfUlZhdVp2ZE8wVGlObWhNVExlcDVTVUFfb0ktaXlfZndJZFRUQUxKRFBrZWZ1TUItSjd2RkZyaXJ3NlNIRkFJbnExXzVTeEVPXzB5OWZMbmx5eVg?oc=5",
-      "description": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-30T02:57:17.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "ac15863",
-      "title": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmRreEtzTU5tUi1wdzVmTEk3cnozZ0cwVHE1M3R5ejVOU0tNWlM0d3lIRDBYRlo3Z2VFQ2hPZThmOXo2QWg5ZUFtWHZ0WWxjbUFNYnEyc2hoZUFxMDNIUDNCLUxHOEJuQjRJSEMzd2ZNTHJ0aS1tQnFhSmtxSTUwUEpVVW5CNnU5NUVhSGN2ZVN2Q2VnZ291UF8tR1d1MDJLeGdfelZ2WUpLYjhQUlViVVNwTTVuV3l0QXVWOV8wLXU3ZGxoQ2R2Mk5pamdMdnJDUjVTOWtMTlM?oc=5",
-      "description": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T15:27:03.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "800eec31",
-      "title": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON25wRWk1ZWpOSTllMEk0ZlZjZjRXTWxLMS03aGdBWTVrVjFOSENUcUpiTDMzRngwR2VSYy1RdkFSMEYyR1pCazJUX05TdThoUEt1OVVhZ0I0QldHNVRva2UxTERPSEtzWERMMVlIUDY1Wl93UUZaWExzWVpSRVNhX29KY3YtcUd5cXhmQ1RYWHR1N1FzZ0pxRHdlNG9FT1VHckRybzdjaF9JZUxqZGpzYjAwaGhqUUQwWGowWTF1VTQtVjNTUDhYWkxpUzk2dw?oc=5",
-      "description": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T15:07:03.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "5f6636b",
-      "title": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjFLY0xPSEhTSzJVM3gyajBCRHdvZmdvMVRaM0ZYenlncHBjSWJKczlUcDZOcjZwWko2WlpxdXhQdEw2VWpMQ2doWDdySDRDbUIweTAybm1ENnZ4b0tkT3FGbTZCaThSN2RvSlVxb2pSbDFGMHZxZ3pWT08yNTd1U00tcjdpeGJCbkFpMWVXWjlHX2VoVnQ2OEs1ekZkdzVNTXVZX0R6dUNMTGowc3FXUnlibWs4LVV0elVta3g0QlB3MVYycVZsSnA5NlJEaG9WY2h3?oc=5",
-      "description": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T14:41:17.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "7cdf320d",
-      "title": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUY2X05oN0ZfdE5qMGNTVDVteUVWbjdBNlBpUlVndmY2TEIwckNiR2JNSXhYMU1VdWRXSTV5bnl1NEVZMkJ0SEx6cHF4QjFzSUZ3VHRrWDJDLWtwdG0yM3NZUzJfQ1Z2anZCNGNPd0ZvTzd5eXl2X3ktVDlycDFYa3gtYjZ4dkRrMUhoYXhXcEJMc081UE5KX2c1ck9PU0UyZ2dldTVNUmpNWFVUWXF3dWFrWHAwdw?oc=5",
-      "description": "CPPIB-Backed Indian Developer Seeks Bain Financing for Expansion &nbsp;&nbsp; Bloomberg.com",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-10-29T03:36:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "b69f3477",
-      "title": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNVotM0k3eEZTOUxhR1cxMjNNc2h1UWxlREw0SUVldkhxcnVjbjgxZTJuYXRfRFpqLW42VzZvYUN0RVE5cUJKWk5IYXpIZXFoOVFVeUpSWkF4M0NBc3hyM0lDQ19VZGZia2VBWkt5b1pPV3g2eGJvaDBBTnZzTzJMa213OGpDZ1BpeHFLcmpYaXpBM3VERjMyZ2VUbjFiYV9DdWxSRjFWR25BSXhmbW94SHFNVWM2YTFtUzVITllCS0dUTDZi?oc=5",
-      "description": "Tata Realty expands Pune land bank with reported INR 450 crore acquisition &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-28T16:31:53.000Z",
+      "id": "ca8eab11",
+      "title": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVpqVDBnZFdZeXhLam4tVGpZNmlxU1ZDekxOdmZrd3VQQXpFQjBlSmFVZ3hiMjY5T2tRSFgtNlJoUkFnRURKU25YVlQwa3QwcXJheVBjQkxPVFBOSE5Kcjhpd2Z6bmdQRm1DVUR2MUtEOERnQlpvU04wQUdHbU1uejlTZUlwZ2x6VDVmcXNtWUhaeUNyVFdITmlyUVJoa0VPRWZKTW5NVG9zYVlQR0hmTWkxeXR0VFk?oc=5",
+      "description": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-30T17:25:19.000Z",
       "city": "Pune",
       "category": "Land & acquisitions",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    }
-  ],
-  "items": [
+    },
+    {
+      "id": "bee714e7",
+      "title": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFVVaEdhZWlxUGJUWV9CejNMbGtlZjRLMXBjbHNHMEZPYVoxUE5LakRLSnVLVTBsR3lteFUyWGZhZFo0UVVYdHk3NWJVVHlhbnhzZXhLZFYzS25BUG1LYlRBVGRBNTM1VkUwaW9GOHpqZlR1S2tEcGJDclhNeER4SzRkU3NvajBScjdmRElYUkFyVFZOVzF1MGdULWp0RklvT3lXUHZfT05HQklkRThzYW5pZy1ibEozb0tmVjZGNG9HU3ExUmFHQThIZW9JdERp0gHQAUFVX3lxTE1EVVVoR2FlaXFQYlRZX0J6M0xsa2VmNEsxcGNsc0cwRk9hWjFQTktqREtKdUtVMGxHeW14VTJYZmFkWjRRVVh0eTc1YlVUeWFueHNleEtkVjNLbkFQbUtiVEFUZEE1MzVWRTBpb0Y4empmVHVLa0RwYkNyWE14RHhLNGRTc29qMFJyN2ZESVhSQXJUVk5XMXUwZ1QtanRGSW9PeVdQdl9PTkdCSWRFOHNhbmlnLWJsSjNvS2ZWNkY0b0dTcTFSYUdBOEhlb0l0RGk?oc=5",
+      "description": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-30T15:14:10.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "projects"
+    },
     {
       "id": "4df1fb13",
       "title": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 - Realty Plus Magazine",
@@ -324,6 +266,110 @@
       "entities": [
         "Blackstone Real Estate"
       ],
+      "stream": "reit"
+    }
+  ],
+  "items": [
+    {
+      "id": "ca8eab11",
+      "title": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVpqVDBnZFdZeXhLam4tVGpZNmlxU1ZDekxOdmZrd3VQQXpFQjBlSmFVZ3hiMjY5T2tRSFgtNlJoUkFnRURKU25YVlQwa3QwcXJheVBjQkxPVFBOSE5Kcjhpd2Z6bmdQRm1DVUR2MUtEOERnQlpvU04wQUdHbU1uejlTZUlwZ2x6VDVmcXNtWUhaeUNyVFdITmlyUVJoa0VPRWZKTW5NVG9zYVlQR0hmTWkxeXR0VFk?oc=5",
+      "description": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-10-30T17:25:19.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "bee714e7",
+      "title": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFVVaEdhZWlxUGJUWV9CejNMbGtlZjRLMXBjbHNHMEZPYVoxUE5LakRLSnVLVTBsR3lteFUyWGZhZFo0UVVYdHk3NWJVVHlhbnhzZXhLZFYzS25BUG1LYlRBVGRBNTM1VkUwaW9GOHpqZlR1S2tEcGJDclhNeER4SzRkU3NvajBScjdmRElYUkFyVFZOVzF1MGdULWp0RklvT3lXUHZfT05HQklkRThzYW5pZy1ibEozb0tmVjZGNG9HU3ExUmFHQThIZW9JdERp0gHQAUFVX3lxTE1EVVVoR2FlaXFQYlRZX0J6M0xsa2VmNEsxcGNsc0cwRk9hWjFQTktqREtKdUtVMGxHeW14VTJYZmFkWjRRVVh0eTc1YlVUeWFueHNleEtkVjNLbkFQbUtiVEFUZEE1MzVWRTBpb0Y4empmVHVLa0RwYkNyWE14RHhLNGRTc29qMFJyN2ZESVhSQXJUVk5XMXUwZ1QtanRGSW9PeVdQdl9PTkdCSWRFOHNhbmlnLWJsSjNvS2ZWNkY0b0dTcTFSYUdBOEhlb0l0RGk?oc=5",
+      "description": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-30T15:14:10.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "4df1fb13",
+      "title": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 - Realty Plus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjllNTZ4ZkJqYlcxaURHam5WMk84ZUxTcVlieWRGQzV2NzZReXN1NEVjY2YxelN3U3RXX1owMWVpWnZ4SmhhLXNwRG5XbEc0a3lDcWxWdHJudk8xTnhNby1neWlja2pUbW1kVmhfUlZhdVp2ZE8wVGlObWhNVExlcDVTVUFfb0ktaXlfZndJZFRUQUxKRFBrZWZ1TUItSjd2RkZyaXJ3NlNIRkFJbnExXzVTeEVPXzB5OWZMbmx5eVg?oc=5",
+      "description": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 &nbsp;&nbsp; Realty Plus Magazine",
+      "source": "Realty Plus Magazine",
+      "publishedAt": "2026-10-30T02:57:17.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "ac15863",
+      "title": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmRreEtzTU5tUi1wdzVmTEk3cnozZ0cwVHE1M3R5ejVOU0tNWlM0d3lIRDBYRlo3Z2VFQ2hPZThmOXo2QWg5ZUFtWHZ0WWxjbUFNYnEyc2hoZUFxMDNIUDNCLUxHOEJuQjRJSEMzd2ZNTHJ0aS1tQnFhSmtxSTUwUEpVVW5CNnU5NUVhSGN2ZVN2Q2VnZ291UF8tR1d1MDJLeGdfelZ2WUpLYjhQUlViVVNwTTVuV3l0QXVWOV8wLXU3ZGxoQ2R2Mk5pamdMdnJDUjVTOWtMTlM?oc=5",
+      "description": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-29T15:27:03.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "800eec31",
+      "title": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON25wRWk1ZWpOSTllMEk0ZlZjZjRXTWxLMS03aGdBWTVrVjFOSENUcUpiTDMzRngwR2VSYy1RdkFSMEYyR1pCazJUX05TdThoUEt1OVVhZ0I0QldHNVRva2UxTERPSEtzWERMMVlIUDY1Wl93UUZaWExzWVpSRVNhX29KY3YtcUd5cXhmQ1RYWHR1N1FzZ0pxRHdlNG9FT1VHckRybzdjaF9JZUxqZGpzYjAwaGhqUUQwWGowWTF1VTQtVjNTUDhYWkxpUzk2dw?oc=5",
+      "description": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-29T15:07:03.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "5f6636b",
+      "title": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjFLY0xPSEhTSzJVM3gyajBCRHdvZmdvMVRaM0ZYenlncHBjSWJKczlUcDZOcjZwWko2WlpxdXhQdEw2VWpMQ2doWDdySDRDbUIweTAybm1ENnZ4b0tkT3FGbTZCaThSN2RvSlVxb2pSbDFGMHZxZ3pWT08yNTd1U00tcjdpeGJCbkFpMWVXWjlHX2VoVnQ2OEs1ekZkdzVNTXVZX0R6dUNMTGowc3FXUnlibWs4LVV0elVta3g0QlB3MVYycVZsSnA5NlJEaG9WY2h3?oc=5",
+      "description": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-29T14:41:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "b7207628",
+      "title": "Earnings call transcript: Embassy REIT posts strong Q2 2026 beat on profit, revenue By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQTdjOWJqa1I2M3VuLV9ZNDlOUnQ0a09FQk83ZVFfdnk5RE5xQmQyTDJpOTZFSHFhTnc4ckhFUURoczhjckRqX2RQX2NaS0JrV2pzQlZxUjE2T3VjSi1ZV0loekhNeVhFVHRkeFhnMlZxak9nNmFQVkNxeVRqcllSVmZncGNlbU9DaGdBaWJvR1JJdjBIWGtpV1Njb1J3Wks3Um5LdDRHdHoxbmFxVmRxRDM1cWRUTDMwSTBNQWI0UEp5YVlzRUpYc1dPMGQ3X2Q5TU0xNDJNWkRhUQ?oc=5",
+      "description": "Earnings call transcript: Embassy REIT posts strong Q2 2026 beat on profit, revenue By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-29T03:58:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
       "stream": "reit"
     },
     {
@@ -402,6 +448,20 @@
       "id": "dec180c6",
       "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
+      "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-28T07:45:59.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "48ac6058",
+      "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVVwTVdScVd2c0FVcENoMGpWOXBuVVdBblUtYkw5LTRzdDl0eVQzbXpJd2oyU2pxNnl6WVRPX01FM0t5eGQza3pWZXdObDAtclZNTnJBbTJpNWlSSnZjWnZrQ3Q3azdEQmZCQ0tKZlgwUkxqYnZxb1QwN1BPODdUNXZiY3V5Y3dwYTVFUEV3?oc=5",
       "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
       "publishedAt": "2026-10-28T07:45:59.000Z",
@@ -2425,94 +2485,6 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "e823032b",
-      "title": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYTZfQmplbjlHT2FuOWU1Uk1xdGhONEVqNnREVXRBYWtSQm0xM2dnSWdsSURYWDFnUHZhWnpCT2cxOHlGYy1UTHpsQTdHeDNzY1hqLXZhRWZPakRnazNyWU9YbUhSNnNMNThhdjJSY09JT1ppeTN4UFpNQVh6WXJoZzRtMTZBQmpud252d0F3MTRDdHJHZnhZY2tZRUF6OTRpQ2k3bVFadGM0bldCNVJBZDRDZG9MdkRXaDl1cjRwUjhqNzhNQ3ZYcmV2cmFZYXpnTjYtSQ?oc=5",
-      "description": "Mumbai-based Anarock Property Consultants Limited files DRHP for IPO for Rs. 1,000 crore &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-01T07:29:45.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "f8f93df",
-      "title": "Mapletree Weighs $470 Million India Office REIT Listing - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Cbnh1M2lnX240dVBrQXR1c0xIYzBsaWRPQXVBOGdnTVU4eWdlVkhYZTRPWWVDV0VtV0tlSXBDRUtvSnFJMlk2LTRnVTZCdFpwTzEwTWV4UHc3WF9RcDd4VlVpSzZNNGMyUmlRVnlkN2JqaW5Ia3c?oc=5",
-      "description": "Mapletree Weighs $470 Million India Office REIT Listing &nbsp;&nbsp; finance.biggo.com",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-09-30T23:25:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "ba1858c7",
-      "title": "Temasek-backed Mapletree mulls India REIT listing - klsescreener.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQck5kTVZCV2JSdEhDS0RqUjEtT19GSUtpLS1qR1lWdm5EMEJDa0JuSzU1aERPNGFBUVFLWDM5YmZLUUc1RFRFWDVLLWM1WTQ5WXktaTdmcmpfMlBLbXJhTEY1ODRwVGd5OURnMXRXLWdXTXVSLUdSRTZxT3RaR2lWY19ydU52NjV5aHVaX3dwemhyYlN6VEFGUnkySlJpY042?oc=5",
-      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; klsescreener.com",
-      "source": "klsescreener.com",
-      "publishedAt": "2026-09-30T23:10:24.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "1ad7e309",
-      "title": "Temasek-backed Mapletree mulls India REIT listing - thestar.com.my",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUTFyMnVhU2ZGWmxwZTBsa01BUHFsRFZDREptT3FZZGpYTklab2k3Nkx4U2hCcHFxNVI2VjlFbmRBTUNfczdoWEpjMFpIVWl3c0JTaXYtZnRJSmdvQUh3YU9RWlUwVENPM1JMOVdpMmVkTC1EWVN0T0lXbzdWTk5WZUdKTDBUZFFaSFVxSTNwOWdMRUVQVDFqSjhyd2dIeUlOc0E2RmxMNkhROGltbXlN?oc=5",
-      "description": "Temasek-backed Mapletree mulls India REIT listing &nbsp;&nbsp; thestar.com.my",
-      "source": "thestar.com.my",
-      "publishedAt": "2026-09-30T23:04:13.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "f7fe206b",
-      "title": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeG9vZkFnN2ZtMHFvNEhLRFdvTGpLUHlhcER3X3J3YzlOd2h2WFhIb19mMERmOFpUX3ZKUHdKMWlLSS1fRnVvT3dHM1AyeDQzQTVsM0tXY2Z4anZnQkJXZm41NU5ENGJZZkVmUWhCVzBqdFBxM1gwSjFGQXF4dzFLZ0ZVc1J5QnNyU1ZBeFBtYTJXWk1VNGdJSVlMcnBzaE05Y3JiNm5sRXE?oc=5",
-      "description": "Brookfield India REIT, NCW Close $177M Mumbai Office Deal and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-09-30T14:32:41.000Z",
-      "city": "Mumbai",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "funds"
-    },
-    {
-      "id": "7a588327",
-      "title": "Prestige Estates to develop two Bengaluru housing projects worth INR 2,850 crore - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMERicHJjY1dXakhqdjNBOUZpdlQxclZCbFdZS0NKU0xWSDJtOV9ReExGZG1CenQ1WWQyN0pyRWpjdV9Cb1phSzd1Z0NIYTlHQnZfaFVmMVJqakRNV3M5NlVMelozYWZieWtZd3FDRDdpdzQyMEtwWlZfOWE2Q0lWb1NULUFXQjVyeGw2cXRVUDlXSm85SUg5NU96TnM0VjJ1VmJ6Qzc5SnR2VjlFemY1WkhQQXRsNk5jcGlkTE5kNnJvblpuVnhiRjdnaGo?oc=5",
-      "description": "Prestige Estates to develop two Bengaluru housing projects worth INR 2,850 crore &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-09-30T11:00:41.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
       "stream": "projects"
     }
   ]
