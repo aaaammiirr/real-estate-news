@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T08:39:10.058Z",
+  "generatedAt": "2026-11-01T09:30:03.025Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 153,
-  "todayCount": 6,
+  "itemCount": 150,
+  "todayCount": 5,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -131,7 +131,32 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 5
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -151,35 +176,54 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 6
     }
   ],
   "todayItems": [
+    {
+      "id": "5b1dea3f",
+      "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb2s0OUZaVjN6Yk53WldvbFJUcS0xQ3h4QVJQZDFSYms5VU1kOFFMM3pPOC1USXE0MFRrcmNTNFpYWUpwSlJveGZpdV9hUmlTMzRyRF9nd3ZrVXNPR0J2MjZSRk5PNS1LRkVsLUkySjJxSUhwOHVmcXlKZ25oSXV6TFFWZjdqMDlQT2VKNDZaM09WQVRfUlJKQm5QeXY0TGJhYnd3MmgtQWdDajdldXdTZ0doWWk4Q1ctUmVRYVdKZy1raVYyQWN3S19Uekk0V2pEYWNYWDBGQjg0SUE2c0RIRXcxU3RTb2I1bjVHbDhaNVlYQl9CdVh3T2d0bnFsZzlqMTlzVVRkVDQxaGhmelJyUHZ0ellLTlptZkZlbmJB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
+      "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-31T15:38:47.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "5230c4b6",
+      "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLU5CbG9zR3FoOGZPcWc1RUE4ZXpMcE96QWxjcjB1TU5uei1Gb0ZMd0UyQXVaOVBPTGNHVHhpUmFSZzNMbW5STVVnaVZpLWgwMmRmQ05WYlpRMG1wcVJlZHZUOFVXeTJiSGJIMUhHREh6Yk5aUHJsMl9GSkhMWGhIdWoxT2RvS2M1dkVEdno5bnRpamllb1hESjBkRVBzamZkWlJvSmlLX1FuZjNzMDIwVDhJNi1DTHdzMjlvM2pyM0dVRHFNMktTUVZFSjgxTC1ZQ0FkWTFyQTkzZVZ5RG9OaDlGSmFHQWFHaWxUbHlNV2x6MkZoSGJlSTRFNlR1RkpXUzEwNU1fcXB1NVdmYXFjQTZUNk1OTUnSAZcCQVVfeXFMUC1OQmxvc0dxaDhmT3FnNUVBOGV6THBPekFsY3IwdU1ObnotRm9GTHdFMkF1WjlQT0xjR1R4aVJhUmczTG1uUk1VZ2lWaS1oMDJkZkNOVmJaUTBtcHFSZWR2VDhVV3kyYkhiSDFIR0RIemJOWlBybDJfRkpITFhoSHVqMU9kb0tjNXZFRHZ6OW50aWppZW9YREowZEVQc2pmZFpSb0ppS19RbmYzczAyMFQ4STYtQ0x3czI5bzNqcjNHVURxTTJLU1FWRUo4MUwtWUNBZFkxckE5M2VWeURvTmg5RkphR0FhR2lsVGx5TVdsejJGaEhiZUk0RTZUdUZKV1MxMDVNX3FwdTVXZmFxY0E2VDZNTk1J?oc=5",
+      "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-31T15:38:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "fbef60e4",
+      "title": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkxrb0VnbzdKd3d0WjNPUWRGMGxNdlNiV0JGc1UzQ3NoUGdxOE9Zd3dqemFlZHpEY2tPWWkyTFNoMDdqTVdkV0VsbFFpcFBlTnhKejM3TnJZcnRBN19aX3BlSmRDdVFqQXpUTG04ZjIwSGhJZlVVdUNsWFJPa01PV2RHdkRva1dUN21DMko4UG1DNVB4WWlFUFV5UVlsQ2dwaWtYbWJSYTgwc1VUWm10Nk82Wm84UG1pcGhMdUR0VFI4LVBYQ0Rqc2d1QUtzcGVKaGcxSnA3aF9hRS1xRXN0Z2I3bWlVU2da0gHoAUFVX3lxTE5WTGtvRWdvN0p3d3RaM09RZEYwbE12U2JXQkZzVTNDc2hQZ3E4T1l3d2p6YWVkekRja09ZaTJMU2gwN2pNV2RXRWxsUWlwUGVOeEp6MzdOcllydEE3X1pfcGVKZEN1UWpBelRMbThmMjBIaElmVVV1Q2xYUk9rTU9XZEd2RG9rV1Q3bUMySjhQbUM1UHhZaUVQVXlRWWxDZ3Bpa1htYlJhODBzVVRabXQ2TzZabzhQbWlwaEx1RHRUUjgtUFhDRGpzZ3VBS3NwZUpoZzFKcDdoX2FFLXFFc3RnYjdtaVVTZ1o?oc=5",
+      "description": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-31T11:55:51.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "DLF Limited"
+      ],
+      "stream": "projects"
+    },
     {
       "id": "ca8eab11",
       "title": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune - scanx.trade",
@@ -209,67 +253,53 @@
         "Lodha Developers"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "4df1fb13",
-      "title": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjllNTZ4ZkJqYlcxaURHam5WMk84ZUxTcVlieWRGQzV2NzZReXN1NEVjY2YxelN3U3RXX1owMWVpWnZ4SmhhLXNwRG5XbEc0a3lDcWxWdHJudk8xTnhNby1neWlja2pUbW1kVmhfUlZhdVp2ZE8wVGlObWhNVExlcDVTVUFfb0ktaXlfZndJZFRUQUxKRFBrZWZ1TUItSjd2RkZyaXJ3NlNIRkFJbnExXzVTeEVPXzB5OWZMbmx5eVg?oc=5",
-      "description": "India Real Estate PE Investment Falls 31% to $1.66 Billion in Jan-Sep 2026 &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-30T02:57:17.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "ac15863",
-      "title": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmRreEtzTU5tUi1wdzVmTEk3cnozZ0cwVHE1M3R5ejVOU0tNWlM0d3lIRDBYRlo3Z2VFQ2hPZThmOXo2QWg5ZUFtWHZ0WWxjbUFNYnEyc2hoZUFxMDNIUDNCLUxHOEJuQjRJSEMzd2ZNTHJ0aS1tQnFhSmtxSTUwUEpVVW5CNnU5NUVhSGN2ZVN2Q2VnZ291UF8tR1d1MDJLeGdfelZ2WUpLYjhQUlViVVNwTTVuV3l0QXVWOV8wLXU3ZGxoQ2R2Mk5pamdMdnJDUjVTOWtMTlM?oc=5",
-      "description": "Earnings call transcript: VICI Properties posts mixed Q3 2026 results, shares rise By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T15:27:03.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "800eec31",
-      "title": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON25wRWk1ZWpOSTllMEk0ZlZjZjRXTWxLMS03aGdBWTVrVjFOSENUcUpiTDMzRngwR2VSYy1RdkFSMEYyR1pCazJUX05TdThoUEt1OVVhZ0I0QldHNVRva2UxTERPSEtzWERMMVlIUDY1Wl93UUZaWExzWVpSRVNhX29KY3YtcUd5cXhmQ1RYWHR1N1FzZ0pxRHdlNG9FT1VHckRybzdjaF9JZUxqZGpzYjAwaGhqUUQwWGowWTF1VTQtVjNTUDhYWkxpUzk2dw?oc=5",
-      "description": "Earnings call transcript: Primaris REIT tops revenue estimates in Q3 2026 By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T15:07:03.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "5f6636b",
-      "title": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMjFLY0xPSEhTSzJVM3gyajBCRHdvZmdvMVRaM0ZYenlncHBjSWJKczlUcDZOcjZwWko2WlpxdXhQdEw2VWpMQ2doWDdySDRDbUIweTAybm1ENnZ4b0tkT3FGbTZCaThSN2RvSlVxb2pSbDFGMHZxZ3pWT08yNTd1U00tcjdpeGJCbkFpMWVXWjlHX2VoVnQ2OEs1ekZkdzVNTXVZX0R6dUNMTGowc3FXUnlibWs4LVV0elVta3g0QlB3MVYycVZsSnA5NlJEaG9WY2h3?oc=5",
-      "description": "Earnings call transcript: Blackstone Mortgage Trust tops Q3 2026 EPS forecast By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-29T14:41:17.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "5b1dea3f",
+      "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb2s0OUZaVjN6Yk53WldvbFJUcS0xQ3h4QVJQZDFSYms5VU1kOFFMM3pPOC1USXE0MFRrcmNTNFpYWUpwSlJveGZpdV9hUmlTMzRyRF9nd3ZrVXNPR0J2MjZSRk5PNS1LRkVsLUkySjJxSUhwOHVmcXlKZ25oSXV6TFFWZjdqMDlQT2VKNDZaM09WQVRfUlJKQm5QeXY0TGJhYnd3MmgtQWdDajdldXdTZ0doWWk4Q1ctUmVRYVdKZy1raVYyQWN3S19Uekk0V2pEYWNYWDBGQjg0SUE2c0RIRXcxU3RTb2I1bjVHbDhaNVlYQl9CdVh3T2d0bnFsZzlqMTlzVVRkVDQxaGhmelJyUHZ0ellLTlptZkZlbmJB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
+      "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-31T15:38:47.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "5230c4b6",
+      "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLU5CbG9zR3FoOGZPcWc1RUE4ZXpMcE96QWxjcjB1TU5uei1Gb0ZMd0UyQXVaOVBPTGNHVHhpUmFSZzNMbW5STVVnaVZpLWgwMmRmQ05WYlpRMG1wcVJlZHZUOFVXeTJiSGJIMUhHREh6Yk5aUHJsMl9GSkhMWGhIdWoxT2RvS2M1dkVEdno5bnRpamllb1hESjBkRVBzamZkWlJvSmlLX1FuZjNzMDIwVDhJNi1DTHdzMjlvM2pyM0dVRHFNMktTUVZFSjgxTC1ZQ0FkWTFyQTkzZVZ5RG9OaDlGSmFHQWFHaWxUbHlNV2x6MkZoSGJlSTRFNlR1RkpXUzEwNU1fcXB1NVdmYXFjQTZUNk1OTUnSAZcCQVVfeXFMUC1OQmxvc0dxaDhmT3FnNUVBOGV6THBPekFsY3IwdU1ObnotRm9GTHdFMkF1WjlQT0xjR1R4aVJhUmczTG1uUk1VZ2lWaS1oMDJkZkNOVmJaUTBtcHFSZWR2VDhVV3kyYkhiSDFIR0RIemJOWlBybDJfRkpITFhoSHVqMU9kb0tjNXZFRHZ6OW50aWppZW9YREowZEVQc2pmZFpSb0ppS19RbmYzczAyMFQ4STYtQ0x3czI5bzNqcjNHVURxTTJLU1FWRUo4MUwtWUNBZFkxckE5M2VWeURvTmg5RkphR0FhR2lsVGx5TVdsejJGaEhiZUk0RTZUdUZKV1MxMDVNX3FwdTVXZmFxY0E2VDZNTk1J?oc=5",
+      "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-31T15:38:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "fbef60e4",
+      "title": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkxrb0VnbzdKd3d0WjNPUWRGMGxNdlNiV0JGc1UzQ3NoUGdxOE9Zd3dqemFlZHpEY2tPWWkyTFNoMDdqTVdkV0VsbFFpcFBlTnhKejM3TnJZcnRBN19aX3BlSmRDdVFqQXpUTG04ZjIwSGhJZlVVdUNsWFJPa01PV2RHdkRva1dUN21DMko4UG1DNVB4WWlFUFV5UVlsQ2dwaWtYbWJSYTgwc1VUWm10Nk82Wm84UG1pcGhMdUR0VFI4LVBYQ0Rqc2d1QUtzcGVKaGcxSnA3aF9hRS1xRXN0Z2I3bWlVU2da0gHoAUFVX3lxTE5WTGtvRWdvN0p3d3RaM09RZEYwbE12U2JXQkZzVTNDc2hQZ3E4T1l3d2p6YWVkekRja09ZaTJMU2gwN2pNV2RXRWxsUWlwUGVOeEp6MzdOcllydEE3X1pfcGVKZEN1UWpBelRMbThmMjBIaElmVVV1Q2xYUk9rTU9XZEd2RG9rV1Q3bUMySjhQbUM1UHhZaUVQVXlRWWxDZ3Bpa1htYlJhODBzVVRabXQ2TzZabzhQbWlwaEx1RHRUUjgtUFhDRGpzZ3VBS3NwZUpoZzFKcDdoX2FFLXFFc3RnYjdtaVVTZ1o?oc=5",
+      "description": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-10-31T11:55:51.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "DLF Limited"
+      ],
+      "stream": "projects"
+    },
     {
       "id": "ca8eab11",
       "title": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune - scanx.trade",
@@ -632,6 +662,20 @@
       "id": "40dbf740",
       "title": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects - ET Realty",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakdxRkVtcmp2UXZ6V1l3UEp0WkNCUzV6bE5ySFdkWTZPTERucUozeXJkZlFnNVU1Vi1hU1ZwVlNOY1cwRVc2TWxFYkZtR0lFZ19LTkZ1ZVoweDRKUnh5RTktM2FvNXFzU2RIUGg4OHluVThlSlk2eWFhNUNUTmJtcW1seGJ3VmtxeHBuWXNTb0l3ZWFpM1Z4ZkREbkMxb19Za09nZzRPdExWZzdKSFZyZUdIQkRVNVpMTWtwRzRlenlQSHVyYU9KZ3A3eHU3dFV4ZnYwbGNlWXRxUEJUb3fSAd4BQVVfeXFMUGpHcUZFbXJqdlF2eldZd1BKdFpDQlM1emxOckhXZFk2T0xEbnFKM3lyZGZRZzVVNVYtYVNWcFZTTmNXMEVXNk1sRWJGbUdJRWdfS05GdWVaMHg0SlJ4eUU5LTNhbzVxc1NkSFBoODh5blU4ZUpZNnlhYTVDVE5ibXFtbHhid1ZrcXhwbllzU29Jd2VhaTNWeGZERG5DMW9fWWtPZ2c0T3RMVmc3SkhWcmVHSEJEVTVaTE1rcEc0ZXp5UEh1cmFPSmdwN3h1N3RVeGZ2MGxjZVl0cVBCVG93?oc=5",
+      "description": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-27T08:37:36.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "e4b77200",
+      "title": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFFQbWx5U0JzYXR0WjVuOUNubG9FSDltOEhubGNBd2d5eUtyNVh1YXE4TUc4ZTNVTmVfSElnc29iT253RFZHSWpSQ2EyMmFGcm8wdzZUUG9TcjJRREpZZXZWX2Z5T3R6WGpmMy00S0FwRER0c3ZWRXQxNnFVaEFFMGxSd2pJRnhYc21xaEEySkNQOTR2VE54emhIUmNNYlJBUFEtdmRWRlpDVVZibXBZNXBSbmZsSXVYLWZYQk8td1NsbkxGcDN6d2RMMlhoVkZEa1J6MmtmQ2jSAd4BQVVfeXFMUGpHcUZFbXJqdlF2eldZd1BKdFpDQlM1emxOckhXZFk2T0xEbnFKM3lyZGZRZzVVNVYtYVNWcFZTTmNXMEVXNk1sRWJGbUdJRWdfS05GdWVaMHg0SlJ4eUU5LTNhbzVxc1NkSFBoODh5blU4ZUpZNnlhYTVDVE5ibXFtbHhid1ZrcXhwbllzU29Jd2VhaTNWeGZERG5DMW9fWWtPZ2c0T3RMVmc3SkhWcmVHSEJEVTVaTE1rcEc0ZXp5UEh1cmFPSmdwN3h1N3RVeGZ2MGxjZVl0cVBCVG93?oc=5",
       "description": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects &nbsp;&nbsp; ET Realty",
       "source": "ET Realty",
       "publishedAt": "2026-10-27T08:37:36.000Z",
@@ -2382,110 +2426,6 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "e709a2f",
-      "title": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity - Prittle Prattle News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUklZOHh6ZVdYVHZadVhvWFluaDBHclkyak5mSHhlTy1XSjhyUlZPbGY3eXBDdmhYVVU1SWFQXzNmQkF1akRQNkpkelZ1cWFlTHJkcVh3ZzBtVlRpQzRiYS1oM3NoM2UtNjdsbk9jUzNtUjVRMGJlSGxpbzYzWHR0VWZIajhtSDkwNjduMFZ3OW9NZGFtNTNXbVY5T2ktOE1GcE41Z3dpWW1ZNzZMdzNOWUxGc1p4TzNDUzZ5ZjN6TzdYLTRmNkJaXw?oc=5",
-      "description": "12,622 Mumbai Homes Registered in September as Ganesh Chaturthi Lifts Festive Property Activity &nbsp;&nbsp; Prittle Prattle News",
-      "source": "Prittle Prattle News",
-      "publishedAt": "2026-10-02T00:53:34.000Z",
-      "city": "Mumbai",
-      "category": "Company & leadership",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "companies"
-    },
-    {
-      "id": "e5ac404c",
-      "title": "Brookfield India REIT, NCW acquire three floors in Godrej BKC, Mumbai - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT25lR01UQmVIMjY3REJOcUd3R2V0QXA3OVRCV3poQUJtS3VyUG5EcXJrZkpsZHhuUEI4TXh2QzdkbHJwbldxODRUOWFDUTJxVjdwYWpoSnJDdl9kUm5pNlBvX2VZT01CS0lPVXdSckZpcU1OeVR5emxIa0N3QlA3UzJFb1lZdWx3di1HRjJuVUVKRlp0aUtZdzktRFdZSW9WZmtDNUE1Z0VHLWRTSkFwRV81QlNwNXp6TXFB?oc=5",
-      "description": "Brookfield India REIT, NCW acquire three floors in Godrej BKC, Mumbai &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-01T19:31:35.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "land"
-    },
-    {
-      "id": "a4b16400",
-      "title": "Mahindra Lifespaces launches residential project Rivenza in Pune - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTl6Z3M5N3R0ODF4MDg1bkx6YjJWWm10RTgxZmd6YmxncXU3ZVhPOHM5UFRTdW5jX3hZT2J0dWdyd0dpblJRejUwY3ZnRzIwTzl4OWRMQ253X19SdjdPVDVneFJPWTZfbC1GQVJyRHF2RWR5elE5Z3p3M3I3UmR1ZGNmcDk3bWNlM0FEdTZWa1BaVVl6dVQ2TXdQUXdRb3l0N3F1OU4tUGhESzVrWDliOVdZQ3k3Zi05TTMyWg?oc=5",
-      "description": "Mahindra Lifespaces launches residential project Rivenza in Pune &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T15:26:14.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "7f6bed3f",
-      "title": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUFqd0prcnV5TDVJVEFBTXFFQ09BYzRaVXo0d3Y3RnZHN3kxLUdHc2IxYkYtd2tZMi1EWDRvVzhWRkV5WHBmWmdERUs1ODZzMzl2eUxod2VJeEtjcTNwZnB6M1FLYTZnNU1kOUpOei1Mb0dhUW1TUUxta2J2Qi01UEtVd1d4dUlxVXZMMHJESnBhSW9pRDRNem5LOFFCMW9DbkZxVFphLTZzeDNVem92dldwWWw5NGo3b20tLW9aT0tpQXdkYXlKWms0d1Y2a0E?oc=5",
-      "description": "Embassy Office Parks REIT (NSE: EMBASSY) Raises Rs 1,000 Crore Through NCDs &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-01T15:21:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "7bba4055",
-      "title": "Brookfield India REIT holds investor meetings on Q1FY27 updates - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWZDY3U0Tkw4cUFrUmZHX3JWd2tsOENsLXVOWnVwTjZWV1NLeTM1NFF2dGJHX0xld2VlNFM3ZFhyRWVZRWRrZXNLSkliTzFwRW5wMGxFVzdhRy1meld3akY1RldWSF96VTVOYWNicFlITEFjVkhBU3ZOY0puUzNacTE1VzVMeG5qS2JpX1RMRlR6Y3o3TjRDWTdRTTJRaWdibkU3TE04QXFBdENYN0dIVDQwNjNlQXpN?oc=5",
-      "description": "Brookfield India REIT holds investor meetings on Q1FY27 updates &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T13:00:46.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "b869ffb4",
-      "title": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzhfcC1selgxLVh4RmptcF9DU1ctNlZsQWhuSEFOd1AzeW9JOTFBamZrOXBRZDRRd3ZyM0d0ZEM4SjgxWmp6RWY0WDc4R0YtTFRSa21zRHhCVmJ1b1g2bHU3aTV0U05rT1l2SlRfcEplZW8zeEZIOVZycWJrN2ZKblVkejJwODhMMjZBS2F6VDc2dVRVcTNrLUVFc3hqdGplNk9ndFBSQ0pSYlIyTE9ZaFlVNTVhc010M3NvMVNwSXBFQQ?oc=5",
-      "description": "Mindspace REIT secures IGBC Green Landscape Gold rating for Airoli East &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-01T12:12:05.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "ce94bd4a",
-      "title": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFV5WmtadjFFdmg0Yk1xb0Nuc0NmLWZzNVlHNGVjWDJybXZDNGRsUHc0NVJQb1NFUHA2M0JwdlVQbHNlVVd1dnk0czlEVjlsU2RyakMxMllGRzB2UWVFaXVuQ1ptOVdsWkdjTU4tcVQ2NHhXall2SjdqMElYV2tJY3hYOXlwV0xRamFzMGxjd095M3YwOHg5bHVoSjB2VnNVWFZ6b2hUU2taUzNvX0hXdHc1SUl5ZWRCcF9xa3hiOHpZa3NkeGc?oc=5",
-      "description": "Vera Vita Living to invest INR 250 crore in Hyderabad senior living project &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-01T11:03:37.000Z",
-      "city": "Hyderabad",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
     }
   ]
 }
