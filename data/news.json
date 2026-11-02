@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T09:30:03.025Z",
+  "generatedAt": "2026-11-02T09:47:14.229Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 150,
-  "todayCount": 5,
+  "itemCount": 159,
+  "todayCount": 7,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,16 +101,71 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 7
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 6
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 5
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -121,66 +176,71 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 5
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
+      "items": 13
     }
   ],
   "todayItems": [
     {
+      "id": "f07a6c04",
+      "title": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3NadVZrbC1LQWZHeUtEZDF3cjk0YmluanJLTXIyelRKMFNyWG9pQ1lLWUlBYk52dmJFNEtaWVV3Qnh4UlJubmpSNHIxQkstd01CSk1lREUwOGtVWlVPNUFZTHkzWXBmc24yLW92WGR5S3dfVmZuanlGS2xuSEJRZjlxNDd4Tk1yaHVuTGtRdW96SUMtcVVHMnItOWF5Znp3X0VOd2RWdjFZSE9PcF9KSV9iVG1ubDg?oc=5",
+      "description": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T09:10:57.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "614339f8",
+      "title": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUk1Umc5RGFVLTZJZ2NNOTg2bExVM204SjUzdGljckExUGNVTXJlM1hzRDFsVjRLcTZNZ1VfaHpMbUctRGIyQ0cyS3VBMC1tNTdpN0g1RWpnMENqU0JWc1M3UzZCXzRaeEwzRzFGaWk0SzlySFc2T2tOS1dEQ3UydmJnZmxBR3BGaHNMME9OaWNMeU5tNEUzY25jOVZJcmNKdzVhQjB1R3JZZzFGYm1BamdVMFBEdXFPYzZzT3JfXzNkZjBLRENNelRaQmhEaUJ3aS1vbS0tUmgwSTYtVnl2bkxZTDMzaknSAewBQVVfeXFMTkZLVWJObTdBY1o0bExWc19UZE9CM3o3eU5BMUM1WGUya3JKNVFNRTNxNEhEZ3FxVHZUQ2hTeTdkYXkwcTBHQTBIX0ZIeDM5X3NjODZhNjBEa3dxOFh0S1l2MmpwZGZyOVdWOXBkQi1qc3hVWW42UmhqXzVxSE9wcVVVRmFiR3R1V1Y5dGswWWJ2NHJpQjRxTjktcEZ3d2ZIRTZpTjd4WE1tcVJNa3pJZ3JyemxjT3ZBU3VxY3F0VlFuOHJBaW1MaWI1eXczRG5oWUlfWC14SzJzWjRTdWhKRlNSRnlBbFQyaVdWRkQ?oc=5",
+      "description": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T01:00:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "97d3377",
+      "title": "G Square Housing enters Maharashtra with 125-acre Panvel project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQktqZUdySE9WMmdnSl9zSHZiZ3EtSXg1NEtVandfcmE2V21qVkdKVHVwSkhjUEctYzN5UlptZEZlclF1TGUtdWFlQzhMSlpWWXA3dkFCLVpjaDkyOTZZLWRfYWZZS2wtb1RhZGZaMGZnXzl2X1I1cUgtQVRvNnRNbVFkTkcxcnJoTWd3cnRwNnNuLW1fbU5Nelg5NHNJUnFMWWVydElrZ0d4Z0pHUUdiNVRDeDQ5blE?oc=5",
+      "description": "G Square Housing enters Maharashtra with 125-acre Panvel project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-01T14:31:16.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "73b942d2",
+      "title": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHd3UmMyT0JSRklOZ0xlRjdLRGdna3VHTmNMS2NmN1VZQnRrWjN2V3ljQVNROXEtT2hBU29ZR1JJNnczOEdacnBXLXp1bHJubUtkb3ZFWlc2UXBUZTBqclhfUHJ0aVFkRV9sd25iYmpPbllHOFhHUDJ4b01lTnl0SE1zT2hQR3lqSEpXWmlpUEJWYnhZbHU2eDhmT0Ytd3QwTUZwNnR5TkItS3hHcjJvVlhsaXZUYkJRbEFQcVg5ZDAtdGxMeEE?oc=5",
+      "description": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-01T14:06:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "5b1dea3f",
       "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb2s0OUZaVjN6Yk53WldvbFJUcS0xQ3h4QVJQZDFSYms5VU1kOFFMM3pPOC1USXE0MFRrcmNTNFpYWUpwSlJveGZpdV9hUmlTMzRyRF9nd3ZrVXNPR0J2MjZSRk5PNS1LRkVsLUkySjJxSUhwOHVmcXlKZ25oSXV6TFFWZjdqMDlQT2VKNDZaM09WQVRfUlJKQm5QeXY0TGJhYnd3MmgtQWdDajdldXdTZ0doWWk4Q1ctUmVRYVdKZy1raVYyQWN3S19Uekk0V2pEYWNYWDBGQjg0SUE2c0RIRXcxU3RTb2I1bjVHbDhaNVlYQl9CdVh3T2d0bnFsZzlqMTlzVVRkVDQxaGhmelJyUHZ0ellLTlptZkZlbmJB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
@@ -209,54 +269,82 @@
       "stream": "land"
     },
     {
-      "id": "fbef60e4",
-      "title": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkxrb0VnbzdKd3d0WjNPUWRGMGxNdlNiV0JGc1UzQ3NoUGdxOE9Zd3dqemFlZHpEY2tPWWkyTFNoMDdqTVdkV0VsbFFpcFBlTnhKejM3TnJZcnRBN19aX3BlSmRDdVFqQXpUTG04ZjIwSGhJZlVVdUNsWFJPa01PV2RHdkRva1dUN21DMko4UG1DNVB4WWlFUFV5UVlsQ2dwaWtYbWJSYTgwc1VUWm10Nk82Wm84UG1pcGhMdUR0VFI4LVBYQ0Rqc2d1QUtzcGVKaGcxSnA3aF9hRS1xRXN0Z2I3bWlVU2da0gHoAUFVX3lxTE5WTGtvRWdvN0p3d3RaM09RZEYwbE12U2JXQkZzVTNDc2hQZ3E4T1l3d2p6YWVkekRja09ZaTJMU2gwN2pNV2RXRWxsUWlwUGVOeEp6MzdOcllydEE3X1pfcGVKZEN1UWpBelRMbThmMjBIaElmVVV1Q2xYUk9rTU9XZEd2RG9rV1Q3bUMySjhQbUM1UHhZaUVQVXlRWWxDZ3Bpa1htYlJhODBzVVRabXQ2TzZabzhQbWlwaEx1RHRUUjgtUFhDRGpzZ3VBS3NwZUpoZzFKcDdoX2FFLXFFc3RnYjdtaVVTZ1o?oc=5",
-      "description": "DLF gets MahaRERA nod for second phase of Mumbai's The Westpark, November launch likely | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-31T11:55:51.000Z",
+      "id": "1aa82ea4",
+      "title": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEEzYkV6ZnVyZ1FwdXpKZ0RtR3M1c18xdG1teGtoX2xiUHBoQ09UU3kzZVQ1X2dkaEJ0VEV4UnJzaTYtV3FIZk1zOHVBd0Q1Q1dWcXMwcGZicmdWRURuV0g3bEpOaVBJOTY4S0ViREhSTk96aDdkOHhrX2Uxc29mcjJzd2FWMHRudndOWHIxLTN2VVN1aEdPZVpHaUl4Qi1uV0F3MWZjVHVZNHpa0gGyAUFVX3lxTE41V0k5OEc1dVd2ekZoWDZjTTFucnAwbXhjYzB2UzU2SVpKUzI2Vk9XQ1dBYzk3bWRQSldwUFJVaFN1RVBNX09XbnZJLXluc2tENG4yRmhKOERlclRfdmlUazI3SHMtSkhGZlZvWi0yakNpbHJHcE9UYWR4WkVCaVQ2MzRzMVQ3X2JBNUlyRTQtb1VkNlM3YkVRTi1jdjBwQl9aVG9pel9oc05uT0kyc1FsbGc?oc=5",
+      "description": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-31T14:59:25.000Z",
       "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "DLF Limited"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "ca8eab11",
-      "title": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVpqVDBnZFdZeXhLam4tVGpZNmlxU1ZDekxOdmZrd3VQQXpFQjBlSmFVZ3hiMjY5T2tRSFgtNlJoUkFnRURKU25YVlQwa3QwcXJheVBjQkxPVFBOSE5Kcjhpd2Z6bmdQRm1DVUR2MUtEOERnQlpvU04wQUdHbU1uejlTZUlwZ2x6VDVmcXNtWUhaeUNyVFdITmlyUVJoa0VPRWZKTW5NVG9zYVlQR0hmTWkxeXR0VFk?oc=5",
-      "description": "Deep Health AI hikes land acquisition cost to ₹19.50 crore in Pune &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-30T17:25:19.000Z",
-      "city": "Pune",
       "category": "Land & acquisitions",
-      "tone": "positive",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
-    {
-      "id": "bee714e7",
-      "title": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFVVaEdhZWlxUGJUWV9CejNMbGtlZjRLMXBjbHNHMEZPYVoxUE5LakRLSnVLVTBsR3lteFUyWGZhZFo0UVVYdHk3NWJVVHlhbnhzZXhLZFYzS25BUG1LYlRBVGRBNTM1VkUwaW9GOHpqZlR1S2tEcGJDclhNeER4SzRkU3NvajBScjdmRElYUkFyVFZOVzF1MGdULWp0RklvT3lXUHZfT05HQklkRThzYW5pZy1ibEozb0tmVjZGNG9HU3ExUmFHQThIZW9JdERp0gHQAUFVX3lxTE1EVVVoR2FlaXFQYlRZX0J6M0xsa2VmNEsxcGNsc0cwRk9hWjFQTktqREtKdUtVMGxHeW14VTJYZmFkWjRRVVh0eTc1YlVUeWFueHNleEtkVjNLbkFQbUtiVEFUZEE1MzVWRTBpb0Y4empmVHVLa0RwYkNyWE14RHhLNGRTc29qMFJyN2ZESVhSQXJUVk5XMXUwZ1QtanRGSW9PeVdQdl9PTkdCSWRFOHNhbmlnLWJsSjNvS2ZWNkY0b0dTcTFSYUdBOEhlb0l0RGk?oc=5",
-      "description": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-30T15:14:10.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Lodha Developers"
-      ],
-      "stream": "projects"
     }
   ],
   "items": [
     {
+      "id": "f07a6c04",
+      "title": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3NadVZrbC1LQWZHeUtEZDF3cjk0YmluanJLTXIyelRKMFNyWG9pQ1lLWUlBYk52dmJFNEtaWVV3Qnh4UlJubmpSNHIxQkstd01CSk1lREUwOGtVWlVPNUFZTHkzWXBmc24yLW92WGR5S3dfVmZuanlGS2xuSEJRZjlxNDd4Tk1yaHVuTGtRdW96SUMtcVVHMnItOWF5Znp3X0VOd2RWdjFZSE9PcF9KSV9iVG1ubDg?oc=5",
+      "description": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T09:10:57.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "614339f8",
+      "title": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUk1Umc5RGFVLTZJZ2NNOTg2bExVM204SjUzdGljckExUGNVTXJlM1hzRDFsVjRLcTZNZ1VfaHpMbUctRGIyQ0cyS3VBMC1tNTdpN0g1RWpnMENqU0JWc1M3UzZCXzRaeEwzRzFGaWk0SzlySFc2T2tOS1dEQ3UydmJnZmxBR3BGaHNMME9OaWNMeU5tNEUzY25jOVZJcmNKdzVhQjB1R3JZZzFGYm1BamdVMFBEdXFPYzZzT3JfXzNkZjBLRENNelRaQmhEaUJ3aS1vbS0tUmgwSTYtVnl2bkxZTDMzaknSAewBQVVfeXFMTkZLVWJObTdBY1o0bExWc19UZE9CM3o3eU5BMUM1WGUya3JKNVFNRTNxNEhEZ3FxVHZUQ2hTeTdkYXkwcTBHQTBIX0ZIeDM5X3NjODZhNjBEa3dxOFh0S1l2MmpwZGZyOVdWOXBkQi1qc3hVWW42UmhqXzVxSE9wcVVVRmFiR3R1V1Y5dGswWWJ2NHJpQjRxTjktcEZ3d2ZIRTZpTjd4WE1tcVJNa3pJZ3JyemxjT3ZBU3VxY3F0VlFuOHJBaW1MaWI1eXczRG5oWUlfWC14SzJzWjRTdWhKRlNSRnlBbFQyaVdWRkQ?oc=5",
+      "description": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T01:00:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "97d3377",
+      "title": "G Square Housing enters Maharashtra with 125-acre Panvel project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQktqZUdySE9WMmdnSl9zSHZiZ3EtSXg1NEtVandfcmE2V21qVkdKVHVwSkhjUEctYzN5UlptZEZlclF1TGUtdWFlQzhMSlpWWXA3dkFCLVpjaDkyOTZZLWRfYWZZS2wtb1RhZGZaMGZnXzl2X1I1cUgtQVRvNnRNbVFkTkcxcnJoTWd3cnRwNnNuLW1fbU5Nelg5NHNJUnFMWWVydElrZ0d4Z0pHUUdiNVRDeDQ5blE?oc=5",
+      "description": "G Square Housing enters Maharashtra with 125-acre Panvel project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-01T14:31:16.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "73b942d2",
+      "title": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHd3UmMyT0JSRklOZ0xlRjdLRGdna3VHTmNMS2NmN1VZQnRrWjN2V3ljQVNROXEtT2hBU29ZR1JJNnczOEdacnBXLXp1bHJubUtkb3ZFWlc2UXBUZTBqclhfUHJ0aVFkRV9sd25iYmpPbllHOFhHUDJ4b01lTnl0SE1zT2hQR3lqSEpXWmlpUEJWYnhZbHU2eDhmT0Ytd3QwTUZwNnR5TkItS3hHcjJvVlhsaXZUYkJRbEFQcVg5ZDAtdGxMeEE?oc=5",
+      "description": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-01T14:06:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "5b1dea3f",
       "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb2s0OUZaVjN6Yk53WldvbFJUcS0xQ3h4QVJQZDFSYms5VU1kOFFMM3pPOC1USXE0MFRrcmNTNFpYWUpwSlJveGZpdV9hUmlTMzRyRF9nd3ZrVXNPR0J2MjZSRk5PNS1LRkVsLUkySjJxSUhwOHVmcXlKZ25oSXV6TFFWZjdqMDlQT2VKNDZaM09WQVRfUlJKQm5QeXY0TGJhYnd3MmgtQWdDajdldXdTZ0doWWk4Q1ctUmVRYVdKZy1raVYyQWN3S19Uekk0V2pEYWNYWDBGQjg0SUE2c0RIRXcxU3RTb2I1bjVHbDhaNVlYQl9CdVh3T2d0bnFsZzlqMTlzVVRkVDQxaGhmelJyUHZ0ellLTlptZkZlbmJB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
@@ -277,6 +365,20 @@
       "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
       "source": "The Economic Times",
       "publishedAt": "2026-10-31T15:38:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "1aa82ea4",
+      "title": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEEzYkV6ZnVyZ1FwdXpKZ0RtR3M1c18xdG1teGtoX2xiUHBoQ09UU3kzZVQ1X2dkaEJ0VEV4UnJzaTYtV3FIZk1zOHVBd0Q1Q1dWcXMwcGZicmdWRURuV0g3bEpOaVBJOTY4S0ViREhSTk96aDdkOHhrX2Uxc29mcjJzd2FWMHRudndOWHIxLTN2VVN1aEdPZVpHaUl4Qi1uV0F3MWZjVHVZNHpa0gGyAUFVX3lxTE41V0k5OEc1dVd2ekZoWDZjTTFucnAwbXhjYzB2UzU2SVpKUzI2Vk9XQ1dBYzk3bWRQSldwUFJVaFN1RVBNX09XbnZJLXluc2tENG4yRmhKOERlclRfdmlUazI3SHMtSkhGZlZvWi0yakNpbHJHcE9UYWR4WkVCaVQ2MzRzMVQ3X2JBNUlyRTQtb1VkNlM3YkVRTi1jdjBwQl9aVG9pel9oc05uT0kyc1FsbGc?oc=5",
+      "description": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-10-31T14:59:25.000Z",
       "city": "Mumbai",
       "category": "Land & acquisitions",
       "tone": "neutral",
@@ -329,6 +431,52 @@
         "Lodha Developers"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "6ddc1653",
+      "title": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkg4UE5GS0FvR2tyQWc1RHpMX2pYYTR2X0MwaUlVNzBtOEY4SFA5UTRQNjZCWjdsWkctYXlhWEd6eEVoelJyT0c0a1ZkN1V3RDN5eDN2XzYwV21yY0VtUkRLdUlOdGo5RDY1VW54UEhMUDlyZFNYTDAzS3VhOExrYWJUX2FZMzU5emF3blplRXZldGNxcW1vaTB1MEU2TktaNUtlY2tfRVFnRmdya25rc0had0JnVXhPVDNOSDY1ak54dFFnTVVuNXEwWdIB0AFBVV95cUxNRFVVaEdhZWlxUGJUWV9CejNMbGtlZjRLMXBjbHNHMEZPYVoxUE5LakRLSnVLVTBsR3lteFUyWGZhZFo0UVVYdHk3NWJVVHlhbnhzZXhLZFYzS25BUG1LYlRBVGRBNTM1VkUwaW9GOHpqZlR1S2tEcGJDclhNeER4SzRkU3NvajBScjdmRElYUkFyVFZOVzF1MGdULWp0RklvT3lXUHZfT05HQklkRThzYW5pZy1ibEozb0tmVjZGNG9HU3ExUmFHQThIZW9JdERp?oc=5",
+      "description": "Lodha Developers’ net profit rises 28% to ₹1,013.5 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-10-30T15:14:10.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "9f935093",
+      "title": "GCCs drive 40-45% of India’s office space demand, creating new opportunities for REITs: Ramesh Nair - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUVBXeUlERnI5R0M2bGphd1Roamx1dFUyNXZwU0NWaEhvY2U0OGNaYUVoUFlUbXkwOWF2TnlPSXZTbmRlMXVkc191a2hjaGRSTVZJUEg4MGZaOGFfM2JQaF9xR3B3VW9iMnc5cGF0eWlWTlEyOG9INjc3VUZXYnQ3TUd1ck9UdmFneXppS2puQ3hiMVpCVldILXIweFh2eXVCNVF3U3RLdUlDUEM2MVoxd19QWlJTd0Q4WnE2RThBdWt1bGJodVdNSldXQ0pWSU9SR3JkYm1ybnVoTWFveTJ0VmktU0NfQWIwN1RJSmE1MGPSAfYBQVVfeXFMTWEzaUZmUlhja2hzVHdfWEx4WUhsRXEwRUl3ZFhodDh5TGl2dGk4ajRDWDFnaGg5SW1WSUVYanY1bVVDbFU1QjJiSi1zOVlmclE1RmtJVGkwTjdmZXcxRndrS1hCbVpqeXgza1dxU0R1UXI2QzBGWWdKT2VFSTNhRkYxRWJHd1JOVVZVUHNGbS1xajFYdVh6eWQxNXBrQ295N280OTJZeFU4UEtnelEtZHFUbGk5SDRDOE1ISll2enlMSnpMS2FSUk5YZWYtdEJ0S1FOWEt6MkJ2ajlGcXpDbmc5OTVrSUtoMTNlQXFJZHpBTnFsVE5B?oc=5",
+      "description": "GCCs drive 40-45% of India’s office space demand, creating new opportunities for REITs: Ramesh Nair &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-10-30T10:11:59.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b22225a6",
+      "title": "EMBASSY OFFICE PARKS REIT Share Price - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iSm5XV0hQaE1jNWhaTDRabnliZzZCclZuQTNaRFBsT2pUd0FVY05vNnJHWlFXS09vV3R4VDEwNnRzcVQ0R3hyQlUwOHY1VG1JQlYtSkpvbm5qU0xDYV8wTU04eHBkTlVOOEZVSnluZUlTQQ?oc=5",
+      "description": "EMBASSY OFFICE PARKS REIT Share Price &nbsp;&nbsp; Upstox",
+      "source": "Upstox",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
     },
     {
       "id": "4df1fb13",
@@ -343,6 +491,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "funds"
+    },
+    {
+      "id": "9db823a7",
+      "title": "Earnings call transcript: PennyMac Mortgage beats Q3 2026 EPS forecast as stock edges up By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0FwRTNzNkRBbi1NVi1WendlSzlGTFBlVFNybFZ4U2U4VnZiRmhjT2l2OUh2aEpaVXRBcW1hRWx4QllTdm5LdzBadHpudkp4b2VvYmRWaXhuNGxvY3IyWTVxVlpLYlpRN3MzNEJYbkU4LVlyc2pmd1E5Q3JSRE9XZVpJTzRhZXhsZ1pCdTh5eldzMF9BaDJBNEptY3hocGFpWWQzMDJBbDc3T0pVNGJzOGVYMzhwUE9sdGZBZnByaldvN0k1NHhhOTR1RG0tYmNMVDZuV2E5WEJmZlhKblZwS3F3?oc=5",
+      "description": "Earnings call transcript: PennyMac Mortgage beats Q3 2026 EPS forecast as stock edges up By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-10-29T23:22:15.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "ac15863",
@@ -385,6 +547,36 @@
       "priority": "normal",
       "entities": [
         "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "6a7d1150",
+      "title": "Embassy REIT Declares Highest-Ever Quarterly Distribution of Rs. 7.07 per Unit; Leases 1.5 Million Square Feet in Q2 FY2027 - India's News.Net",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbFhhMFUtaUo0emZxOWhrVm0zOWsybHFBMDRJdlRDSHMtdDBEZ203Q0I5SHBaMFBDbExuaHpCNlRmQ1NaaUJLWjZBNklXQlVURjdQNGNheWVodHZBV3pmekw3TWdmNGQ2TFQ5OVlFVGxuNWFvbG1pQ1dHZEdxcXFsWXI0ZldmTnF4U1dOVXIxenJFNEIzU3JEQnY5eklYdlhoUkxJUXg3U1dUN2thSFV4OWVmaFZneEVPSzJLRjN5ckVRdzQySDZnSG5qeF8zQUJkejNVbldhU01HNmFIb3g0bVExT1JaZVVhTEt6WHQyaUF6ZVk?oc=5",
+      "description": "Embassy REIT Declares Highest-Ever Quarterly Distribution of Rs. 7.07 per Unit; Leases 1.5 Million Square Feet in Q2 FY2027 &nbsp;&nbsp; India's News.Net",
+      "source": "India's News.Net",
+      "publishedAt": "2026-10-29T14:33:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "fe1db2a4",
+      "title": "Embassy Office Parks REIT (BSE:542602) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEhQWGkyaC10UkxKVDJreXl2WjJOM1M3aHRReE5EU09tdUxqb1d3anJRY3lESFVfQUNZNlBqSnlNbkNsdGhqNFJSeHZ0MnV4S1dPNlVHMmg2b1Z2RmJkamRLb0lPQXNObDdXQWVaSFk5bXpWLUxfSWZKbjFJSW5qME11emtQWE5YRlpIYndpODJoMFhlOGtId2tn?oc=5",
+      "description": "Embassy Office Parks REIT (BSE:542602) Stock Forecast & Analyst Predictions &nbsp;&nbsp; Simply Wall St",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
       ],
       "stream": "reit"
     },
@@ -473,6 +665,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "6d47222c",
+      "title": "India real estate PE investments fall 31% to $1.66 billion in 9M 2026; domestic investors dominate - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlo2MFFfYjMtUTA5UWxPZ2d3S0FXZlI0TXdPbzhMXzVncVlYRmhTdE95bUROa1B4eW5OZzFtc3Q2eXRCUEZTZXB2aktHQnMxY3FpWkJEVnpFWEZsaWF0d3hyRkstYUhYd3RfcVhpTFVzRGJ2aGJOSmpjUVdNMmhpVjRuTkhLNlhpVVRFbnE1V0gyVVJxbVRkVVF4VmFYd0FiaVlQLUtueGk5MVp5MUQ4djJSdE1UbS1WZVJ4eC1EdnpRTTJYWlNzdlVfc3I5Y1NfbE8wVnZQUENndw?oc=5",
+      "description": "India real estate PE investments fall 31% to $1.66 billion in 9M 2026; domestic investors dominate &nbsp;&nbsp; Fortune India",
+      "source": "Fortune India",
+      "publishedAt": "2026-10-28T07:46:29.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
     },
     {
       "id": "dec180c6",
@@ -687,6 +893,20 @@
       "stream": "projects"
     },
     {
+      "id": "ce50f338",
+      "title": "India Commercial Real Estate Market Size, Share Report 2035 - Market Research Future",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhxMmlMYk1TN1hSUXI5RHhEeC1vVTdfUm5hNk1XNS1KV2ZmajYtZGFyaGdmTUtpZ2wtTndNT3pWbWoydXZEUjdNdDUwdERTbndPckpyZEZqUXIyNUlLaGVPSjBnRVVXV3VZXzJTUEJZTUlwcVJBX2VseHdJMGZYUzVNNEdMYXZWU0dIN0M1WQ?oc=5",
+      "description": "India Commercial Real Estate Market Size, Share Report 2035 &nbsp;&nbsp; Market Research Future",
+      "source": "Market Research Future",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "df526055",
       "title": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion - Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUppbWJVSlhSOFdZQ3FVakp3Zk9raUt5ZXhUV2pnaUlwcXFmUXVsNHh0SEZUWGpZQ1pkRXN2UFNEMy1oYTVJQy1HbWkxcWstRTBtMUFwd042TDl5MHoyM3MwcHo1VDBOd1Q0WGdhdFFWcXpLSllXVHAzZWpxaWpqRkZzV015ckRIb3lvYXpCUEVNTVpjTDBjNEFzUW9aWHNzMXhwNDIyc2FiNDFGMTVZNnlLb0s2N3hLRi1EVEZtYXFNOWlLdkE?oc=5",
@@ -707,6 +927,20 @@
       "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
       "publishedAt": "2026-10-26T11:45:01.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "a1831464",
+      "title": "Shapoorji Pallonji Pune Review 2026: PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjlQR0NuOU56bXVmOXR4Y3BqTlJtLVRiVFJfLVVxMmFMVS02MzB4eWcxR3k5dDBYR3ZJLVJuUDJIQnkyQUctR3FfdlRSSUlUZ29kWXVhLVdZUVprR2QweVRXT3JCTlFna1gwejd3b3ZmTGRvS0NHT3NKeThfLTdiQ0ltTkxtbk9Vc3NSODFDZXMydnlFTnVnUWNDbTdHUmVfUWVabEo4c1hrTUhHdE45cW82TXZ3bGRMVFBHSjNn?oc=5",
+      "description": "Shapoorji Pallonji Pune Review 2026: PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-10-26T11:06:37.000Z",
       "city": "Pune",
       "category": "Projects & launches",
       "tone": "neutral",
@@ -2354,78 +2588,6 @@
         "Puravankara Limited"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "e899357d",
-      "title": "Alternative capital gains ground in India’s commercial real estate financing - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmo4OXY1VjRYckJIVFVXc3BVbUhuLUV6UzEwSzFJVERsZEhqbkk2dGd4cEU5ZDA3S3g3QzhmRzFDV0VhRXRWdTVXa0NOTmtPcnR1dEp3ZnZvTWRhLTNrMHd0WkItYVRURC1Md1BWTTBuRXFyR0t1WmdkUlF0b0lKUGFRLXdtTXA2WmV2Vko0WmtBOEcwRklrbzlFVG9mdWNpazJ0WTdOT1lkT21fdlFycmtLZ19NbUxOTkVLeEZha19qVW1GYk0w?oc=5",
-      "description": "Alternative capital gains ground in India’s commercial real estate financing &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-03T06:30:01.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "fe0eb370",
-      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - realty.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZ9IB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
-      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; realty.economictimes.indiatimes.com",
-      "source": "realty.economictimes.indiatimes.com",
-      "publishedAt": "2026-10-02T17:35:20.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "5bff53d6",
-      "title": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY2UzYllHenI3bzZCeFlyakJBYTc1V2JtM2hTQlRFZWFLOTBOSG11RS1hNm1uTnBUVVdRRFFvOVpxSHc0dWZXWXkwU1hSQ3hkOFBDeUtoSHFZcjlhQ1hCRUctZ1E4NzVIQUxMNFNvVFZaOTZQSXpRZjJYYXd1NU9iVDU3TERFcWJvMEpNRzlhakoxdHktSnhZaDlPajdsdHZlYS1DU1N2dzhlaWk5UTY1XzBaaUoydlpmeEIwM0YxWGYwOUcwMzR6XzBtSzNPaDVqUlp6a2Vpb2o0SHQwRmtBRnU0MVVDZXlFX2ZoSFgtM3lPaDI2VmYtOdIB_gFBVV95cUxQVWFQRjNqLUdHZ3NuNldhamVEcmJfbl90YWRraElINlRtRU81c2xaeERRanFMakJIdVU0eWRRNk85NzhkMG5hT0VISXFGZjNGbndFbEhrWk1yMkZxZFc1b284TFkyNWRabGR2QW44ZEoxX1ZaVS0zcC1wVHllR0JzT3M4M0RjejE4MFp3cGR6VDVEOWExckI1UUNMT0xwWS1KVDR6LVR4Umo3SkhJWXhVRmNnRGY4MS1vM3l0MjBjUFBlampkbGFqQWVqUDFZMzR6YlVKeGUwakEteWhOdGhURTVFaWZJQjUxTmY4ZEpFMU9PREhKN1dBQnhnV2JpZw?oc=5",
-      "description": "Ajmera Realty looks to create two million sq ft of rental portfolio in Mumbai over next 5-8 years &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-02T17:35:20.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "1846f760",
-      "title": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGlnWnlXU0RXX2ZUcEFvdDh1c1Voeko2b2xoV1Ryd1BjRkI3aU5XNnl3WHZWM1pyNGFpWXFqUDNfaElqSnZEQzExbHppVUdGeXVUeVRvcHgzZndKLU8wN0xXVV9GUUdDUjJfLW9BdXBUZUFQRE4yUFZZdHVxN3hOTDA1UEozNWhhQmpGa1d5YXo3Y0xSX2tBSXEzdks4aXptWVgycF9XTkZENnVrRFdJdXQxcTRCcFJ0M0l6NzVBS0JVY0tUVnlCU2pSUTZCcHFnYjFaVVFrOHVrSExmbFo3QVNSYzNKWF94QVZtQmR0R2xSMmdWMkRFZDVZSnhYY3IxT2fSAY8CQVVfeXFMTV9Lc3hHck5ZN1RFMWpoQjE0UmE5UDFZRG5DX0xkZGhGek9lSFFFZjd2LWN0aldralViSlNKTG1IaS1uQjNIY0hQTXlkS0d0c0dEN2F5THVhbkpOQjFxVUhPN1QzOXZrTzNrMUhlZDlUcjBBRjQ5dDRxeXV0X0NzYWF3U1FNbjBtYi03Z2VuZDZrWWh5THg0VU1kWG5URXYtMmFnSlYtZXprZkphRUNaQ3V0cmNKV0oxTnU1N19BUGw1b2hBQlRHOTdHWnZza0lzYWI0Y1FiUHgwenRqWFVsbmR6THdvSlUwS3B2TGxhcUt2WnYzNU1NaU9IV3JUQ0RQUVdQUFcyYkV2UldSaWRaRQ?oc=5",
-      "description": "Real estate under-construction value rises five-fold to $503 bn; GDP contribution seen doubling to 13% by 2030: CREDAI President &nbsp;&nbsp; Fortune India",
-      "source": "Fortune India",
-      "publishedAt": "2026-10-02T13:45:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "5357e0ea",
-      "title": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYzFxVEpxSkpiWEU0X1FCUW83VEZUbHB4eVdkY2piekR1cDk4b3ZaaFF0RTVNZGdjc2Y4c01QMzN3Z0xLTEZhbExHOEt4cjUzY3lTb0ktT3c2Wm1zd0lBbzdrZXJ0Zm81TmlLLTFUT3ZoRnppUXFzWTlsdTVHTVMzX3N1SG1meDBrYS01X0dhdjJMdzVQUmNYYjc5VDBqelR6YlJhVkdFbzl6Q19wOC0zT0Vra0xjb3ZXdlJsRjZhRkt1N1FMVU50MDViX3ZDcXRuN215dG5FOHNCdw?oc=5",
-      "description": "Brookfield India REIT (NSE:BIRET) Holds Investor Meetings on Q1 FY27 Updates &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-02T11:08:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
     }
   ]
 }
