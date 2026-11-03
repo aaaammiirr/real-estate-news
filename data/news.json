@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T09:47:14.229Z",
+  "generatedAt": "2026-11-03T09:50:24.276Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 159,
-  "todayCount": 7,
+  "itemCount": 178,
+  "todayCount": 26,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,42 +101,42 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 5
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 7
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 6
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,318 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 13
+      "items": 24
     }
   ],
   "todayItems": [
+    {
+      "id": "6ce7c6e",
+      "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
+      "description": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-11-03T07:40:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "12b8a0f0",
+      "title": "Runwal vs Godrej vs Lodha Pune 2026 | PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZF8ta01GRjUzNVVaak5NZ1lZQlpZYTBESzRrWDFWdlBiX3BrRUJubTNMaWVLbGNNUWxWS1RSU2lZdzN2NUZsWlphbDNDa2hSeF85TjdtdG5ncUpMaDJhVGhiTjF6Z1ZQdzlDWmlRTG5uSjBXeEZWRUdsQXgzNGV2YWYwbmQ5ZGJEZVNLWWN5SllwZGdzX3JDOEc3N0JySFpuc19XZXYyd3RoTlpNSTVlQ2JHWG42cmlHYnFocFVoQTZuajA0aDBCaEZOOVBnX3M?oc=5",
+      "description": "Runwal vs Godrej vs Lodha Pune 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-03T06:38:04.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "64e2060",
+      "title": "Brookfield India REIT fair-value NAV rises to Rs 392.38 - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXNLZ0Z3eGZlZklDY08td2x4Uk9FUDRBeW5QVVNBTEYtVzgwYzdTbzdObGRvNkJPcGI5cTlVU0p5R25IN21faHpxUkpUOGFrRTVQOGdBMEhnV0JnZUh5d0RkR3RrbnJBWE5PaXdOUXJDMEEtOUg0aEl5d0IxaDRFZkVRWG1qYUpEYldRZ2tnb3FKSTNNckp1X2Z4NF9Kc1BhQUxTckZVTDhZMXJ4b08tMDR6bEhOS1V2?oc=5",
+      "description": "Brookfield India REIT fair-value NAV rises to Rs 392.38 &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-03T05:53:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "9ffa2639",
+      "title": "Brookfield India REIT H1 revenue up 50%, unitholder profit up 59% - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3MyajBOVV9zQnd4dnFMNVZTMW9WaDZZdkx5SE5NNXlpMVRsQWVVbHA4R0pIRHZjRXl2TEVMcDZEbzVjT0RnbV9UeXMwMDVkcHpqa0NOTjFoZ3NKMnQ2bXMxSDNDWnB5RHFsLUZDSmhaY3UwOWdVdmZ4cUJFTzBpRVVpMVZaUzM4cEZCYmN0a2ZpVlliRXIzOEZsTzEySGU1dUtOSXVhejVQcXFrX3JUSlNDVHc2SXNpN3IyRkFNU2tYbTQ?oc=5",
+      "description": "Brookfield India REIT H1 revenue up 50%, unitholder profit up 59% &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-03T05:50:18.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "be57ac5a",
+      "title": "Mumbai Shocker: Property Broker From Mulund Kidnapped, Assaulted By Loan Recovery Agent - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVVVdVRTNXpaRkgtUDhaRVBlakRiNnkxbjBJdkszc1dtZElTM0ZlMVRsWDJ2TkFmaDRxWXp5bzZRTVpsVl91b2FKbnA4RE5DRHVLRFdILUhjTVlJWHlYRDlCVUdnb0ZhUWc4Wi1sTDdMUHJWTXVCQlJJcXVTX0pueHhzckpZRmFJQU1sNHo3Smt3MzUxTXJqU0YtN3k1OWZFTzdzNnVoVnBBN1AtOVBLd21tcXNvTEpzZExKZ1Z6RTQ5R0VCWmfSAc4BQVVfeXFMTllieUZac2gtRWVEdVM4N0FxVkFwRUZyeWM1ZXFyZ1Bra1NCTmxxVkFtZWJuTXVxdVlOYm1vRmFERWIxTG5CVG83QkJRZ3Q4Y2RLZHZFUUVORUFiMVBXQngxLS1aRnJkZzhlZ1BfOHFPamhfbzQxVzJNMTlpa1NaajViQndURGdtRG1scmtSWlpXVGw0b3NBT0pFTWV6M2hEYm9oeC12cm5aOFFGcHZNaEQ1LXhvUWo2ZUdsSHVsNlBmX2wxLUtMNFVmUy1xbnc?oc=5",
+      "description": "Mumbai Shocker: Property Broker From Mulund Kidnapped, Assaulted By Loan Recovery Agent &nbsp;&nbsp; NDTV Profit",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-11-03T04:54:02.000Z",
+      "city": "Mumbai",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "465dae71",
+      "title": "Brookfield India REIT’s NOI rises 51% to ₹767.2 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3RYdEUydWR2bi1KRmh3MmFud0NlNGJwTk5jRE5BLXZicTR4bEhFNFBzYWJKUkd1emlUamh4d01DSjZnR1pZU3g3ZFcxamhFMWdXQmVIT0pzd05kbTZndmdPMEVzeWQ0bXFmdFNjbWZ0Z2p5bG1HMTFCVjR0OVZ2eGxnb0U3OVRuLS1FaFZhZU5CLVNjYmZKdjFOMV9wMEtmTzQ1anYxSkVvbDltMzY1eEU1d19MZTVxelVHbXBLMXMxejg1NE5xQzYwRdIB0AFBVV95cUxPWXBjdUhtTTFEbVBkZ2lTRm1fNnhNR0c0dmxWcEUxWEppZ1V4NVZsWS1RQVBBbzRiajJjUTQ0eWxoWU9Hci1hblVQVHNBSmEwSUV5M2tQLU5hUmNXbk9DUDU3OTZBcHFIZW5NenUzdTNNRmFzLVV1a0lybmhzQVA3aUJ1UFFHOE9JRlJ4ZGJGa2ZldnQ3eS1WXzJHUkpUMjJpVEgtT3k2bjlBNDV0VnhhYTBSUWwwMDh5emdKREFuZU9Ybko2a0VVOEM2eXJoMDhp?oc=5",
+      "description": "Brookfield India REIT’s NOI rises 51% to ₹767.2 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-03T03:49:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "204e0416",
+      "title": "Embassy Office Parks REIT reports 16% revenue growth to INR 1,303 crore as quarterly distribution reaches record INR 670 crore - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS2RtTjR0MWRiV1JzWXh0RmlQUXo4eG92RndDNVF4bW1KTVF2bEMwdWlRU3hVWWxjWEl1b19yVTdVRkg5dXVRR3VxamE4Q3pDMTM2OVBFbnR4VTdtNkZsT2pEWTVfMFpqUTFrN1lSbkdhMnhzRU1iN1dHU2VaS0pKazdQcTJldFNGVFd3MlJiamFSTG5kTXM3LTZmSFpsMWdmdGtRMUtJdGpycmYyMWVIZ3ZiYmtCbl9pRFVLZFpId3d1Qm5QVnUxTnZWdXloRF8tVTRfUzFNUFlidGlvZzBoWUZyZ0N5aWpCTy1fSndWYjFvbXVOVjdEcHhvOVdsQjNPNlRidVZaMkJzQQ?oc=5",
+      "description": "Embassy Office Parks REIT reports 16% revenue growth to INR 1,303 crore as quarterly distribution reaches record INR 670 crore &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-03T00:31:20.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "62d98e5b",
+      "title": "Brookfield India REIT signs 1.6 MSF at 16% re-leasing spread - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN25STjV5dmlCbXZPVmJfZG5xRTNjTVJOaElmTFdXV180eEhHYVotVWtvWnc4ZHNRMEFnZDhpeUhHWi1PMnAzWjlqVm5FVnBTX01FaFdCclFVcU1Ba041NUdzNXA3UUZRODYzR18tMEdaZ2ZweF9XeTFuMjk1YlhIRjE3QVVsZlVPMzRfMzBfVWU3WUtZQnhfTVV2Si1zekVFZVhNeHZaOW02U3ZZWUE?oc=5",
+      "description": "Brookfield India REIT signs 1.6 MSF at 16% re-leasing spread &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:18:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "e2a3d4bf",
+      "title": "Brookfield India REIT NOI rise was driven by consolidation - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzdBMnpmSmgtR0lERWwtbGJseW5NVkM0N29xbVFqcEZxQ3lNMy1HZE5uYTlSRVlyejBlTExmbVdpMGNSYzRmMXVRM3ZnMlhmeE1CSWRUdEc5YnN6QWJNVzBuaFh5LVJMd3AtaW1pRU93aE8zZ0M2TGVmSmJOMHc1QzV1OGsya2lVLUdpOGtDRHpDVFJMdXdNZTQ1MjAwZGJEdk9hVjFVTjU2Vi1CYUFheVlyR1RwbWs?oc=5",
+      "description": "Brookfield India REIT NOI rise was driven by consolidation &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:17:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "8506dd29",
+      "title": "Brookfield India REIT Has 83% of Debt Maturing From FY31+ - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2JoVDBYSFVtMkc1TVdvdllVME9lbngwZjZYaG9EYi1hUjJHVkpWN0ZXbHR3RlJmZ1JjZTQ2d2h1Sk5MOURMWDFOajNFMWhMTTI1MDlCZG05TEdEZzk0QkdudHBOV0pONFRQSlUwWE5UcVljckxxU2ZCR0pOWVJlbHY3WWVnelFiZ085X3JRUUtsTi1XWWx0dTZKNXIxTzdrQ0F0S0piLTdtU19NZ2toeXh3?oc=5",
+      "description": "Brookfield India REIT Has 83% of Debt Maturing From FY31+ &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:17:14.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "6ba68544",
+      "title": "Bagmane Prime Office REIT Q2FY27 Results: Declares ₹1.55 per unit distribution - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVNjWVBONkhhSVRXUnZpRmtGUF9mX09aMEN4eGM0ZnlicS1DekJEcmU2aFNZN3BZcTFuR3RaNlFFSDZOVWdnVWp1V2tGaTZ5RmJXTG01bUlzTFBhWFVhNk1aUUVLemZHZUJPd3ZjZEdpSlNaUWdBcTUzdXJEVGdiQTdQcHFINjNpMThoWUhCalVFZk16UTZ6aUVWLWJVUlpXVXl6Q2w3SG82NmNXd0ZiQ2tBbkZ4MHhIelJwYw?oc=5",
+      "description": "Bagmane Prime Office REIT Q2FY27 Results: Declares ₹1.55 per unit distribution &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T16:33:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "56a22a49",
+      "title": "Mindspace REIT Q2 results: NOI rises 32% to ₹836 crore on strong leasing - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZzFzNndaanlycU1Ra0pybDVueDdhUUxyeDdwdko5bE85VEtZNkFjTEhRTlEtcGVQRTVaZzluQ0xFc0I3X3o0NExPMFBuWHg3OC1sczZ4RV9ldHlVenRYMHZ2VDFVN1lFU01UdG1wT0pOWmFsejdYVXR1Wl84TWtmeFc1anpaMEpHU25rTWdwMHU2cE53a1JzUnl0YUFtUG9lWEI1S19XdUxHaG8wbzUwR094cGRqVno3RXdkTC0tVVlkSi1kQXFDZGpkRHRiODU3UUJQZTZTUWJJdzZfRnhKbnA0dDRBZ9IB6wFBVV95cUxNVjVGWnRwRG55Ry1tcDJkVGpGcDlpTGxpSkpJdU80b3Fwd2xHeENHWUhqeGdMVkYydjQ1SWdQdE85cl9hWTBoZGhQbTNFMUV3UG52ZXhuUGJjU3VmNHJhOTJaOU9fWjdiUDBRbkpTSC0tWVlvUFlnRUFzMV9wUW8yS2tQQUowQlNkNVViOVl4aV8xV2poWWhTbjE4X2QwTEUwZUhrdUpvbi1EVkg5YWVnUUtBOTRhdHlPeGxua1V6TEZzdFdJaG4zM0EwTUh2Nl9lVkFfQk9XRnZTX0phX2lreTh0WHVOOGZkekEw?oc=5",
+      "description": "Mindspace REIT Q2 results: NOI rises 32% to ₹836 crore on strong leasing &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-02T15:26:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "a3d0612f",
+      "title": "Mindspace REIT Q2 NOI Jumps 32% to Rs 836 Cr; Rs 442 Cr Payout - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNay1FeklvT3lDaHlKR2VoUldoVEVMQnF1WW9zZ2thR0s0RUlOSkFnT05PQmZadjlHOGlYVDlDT0RmWG94LXctNmRuV1k4bThJYlg1QS01cHBYMFQzY1R1SEtrOTUtSkpIdDNfa3FPN1pwaE1JbEczS1lwVFI2dmpDaTVGeVBmWGZFSzQtUWVWYlppdjdUTlhYRlZleDRmeV9TMlhudDE4MHdZZFlKeGU2elE4QVQ5TDjSAbcBQVVfeXFMTWstRXpJb095Q2h5SkdlaFJXaFRFTEJxdVlvc2drYUdLNEVJTkpBZ09OT0JmWnY5RzhpWFQ5Q09EZlhveC13LTZkbldZOG04SWJYNUEtNXBwWDBUM2NUdUhLazk1LUpKSHQzX2txTzdacGhNSWxHM0tZcFRSNnZqQ2k1RnlQZlhmRUs0LVFlVmJaaXY3VE5YWEZWZXg0ZnlfUzJYbnQxODB3WWRZSnhlNnpROEFUOUw4?oc=5",
+      "description": "Mindspace REIT Q2 NOI Jumps 32% to Rs 836 Cr; Rs 442 Cr Payout &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-02T14:20:38.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1d07f7e3",
+      "title": "Brookfield India REIT Q2: Rental income jumps 52% to Rs 722 crore, declares Rs 5.70 per unit distribution - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYktIX2dVYi1fY08wSXcza3AzZ0xkNE9Hb0VVODFjWXFIMy1NSmZXSnl4OG5zYlBpYmx4OUZvQWdpbDk0WUpEMm5DQlpnTnFPYVVCb051TWtkcG9PeFRsd1YxRWpsS0dzN2R2UDNZZllNX2VFQ29IdDRHbFluRXR6MVpHUzkzdHFoWGNGYUtTZW9OVWxlNjJRYzdEUHZzN1JIMzZyeDRZSW8wdjBsNmRYNEFjQmJSU2tCUEpZb2FkMjBwbHgtUW5qa0tQRFNlVVgwLW8tczE0dkY0SzBjODhKOXgtSVFGSWhoRkMtQ2xlYjIwU0ZvdXV5elNPWlZFQXl3bkHSAYICQVVfeXFMTWJLSF9nVWItX2NPMEl3M2twM2dMZDRPR29FVTgxY1lxSDMtTUpmV0p5eDhuc2JQaWJseDlGb0FnaWw5NFlKRDJuQ0JaZ05xT2FVQm9OdU1rZHBvT3hUbHdWMUVqbEtHczdkdlAzWWZZTV9lRUNvSHQ0R2xZbkV0ejFaR1M5M3RxaFhjRmFLU2VvTlVsZTYyUWM3RFB2czdSSDM2cng0WUlvMHYwbDZkWDRBY0JiUlNrQlBKWW9hZDIwcGx4LVFuamtLUERTZVVYMC1vLXMxNHZGNEswYzg4Sjl4LUlRRkloaEZDLUNsZWIyMFNGb3V1eXpTT1pWRUF5d25B?oc=5",
+      "description": "Brookfield India REIT Q2: Rental income jumps 52% to Rs 722 crore, declares Rs 5.70 per unit distribution &nbsp;&nbsp; Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "publishedAt": "2026-11-02T13:04:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "fcb51f74",
+      "title": "Brookfield India REIT's operating income rises 51% on strong leasing - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajlGb3VyMmNfWFNYb2sxeFF2WWVNZHBObV9vdzZqbC1rMjhKNFQ5Yy0zTFVJT0JGaVBvRXNLLTdCVjlxbDBUdl9RbnUtNE9CNW5qVGxnd21DcVJyQkdsUk1SZnM0LWVDcTdlN0dVaFE2eWNHSFhNcmxzNHZFWjNsc2JFay1Uc3NiMVRoRXNuek5oLU1EamhBbXN0bDJ3dEZmYUtiZDVmNnVTQXVnLTMxNFN4bG5pZFZOV3hFUVcwc2ZLVThaM1VVM0ZHdC00YkF1Vl9TVDNtdVJ6NHBOeV9IRDM2Y9IB6AFBVV95cUxNVE9RTEYtV2oxeThrcTZFajBYSk9JQ1VsakFPcFJkQnR0Y0x1S1FTaVFjLThQeV8za3VPMlg5VnhteUlsTHNnSWtxZ21VdUFJWHdXVjJ0NlcwT3BmejVYcmpJNEhiWnl5bGlrMGZvRUZ6ZUFXWFc4MXlyVmY3VWFPYWJLajV3TGVob3FRdHNaQjJydlp4cXlwa2FtOWNmWW9YSjhwaFpFX19BUXMwRU5uT3hFcGc0YWVQczNTYkFwR2tXM1VkYldid2xMdUl4bW91M3F6MVpPMDU3UkNJYWJmM0lWMEtIRHQ5?oc=5",
+      "description": "Brookfield India REIT's operating income rises 51% on strong leasing &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-02T12:58:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "66efa14d",
+      "title": "Brookfield India REIT leases 1.6 million sq ft in Q2, occupancy rises to 93% - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa00yaUZKNWhlZU9WVm91NU1VaHg4QTNfSmNfQm90UVd4VXM4T2s5Q2RfeU1hLU4zV2d6OGdyUERaOERkeGgydGhZNVdGTjBKZGNDd29IY2ZrMGV6NkNaOFJlYWJ6VmQzR2g2WGhVM0lNTDFFWmRqQkVsTmpMdFI0NkJ2VGJhMHpkMGJIejEySnpzdGVkb3c5VWpCanczRENvU1h6SkVXUVdPaGYxTWttRkNVYU0zSnZlWEV2VGlydnBvUndlTWFtbkg2QlotLWh2M2F1a2YydlpfQ0FVVEHSAeMBQVVfeXFMT29CWnFJVnRiSjROdDBJNjlEd2pnYWotdHdfeURHekpzR1Zad1VvRXI1Q2l4SVBodEk1WVpVc2EtS0NxOVpnSm1LNG44QVpTRms0MnlMbDBiRDF6R0p4ZXE5ci0zaEhNaGtNTWJsQ0R3MF9tYVJsaUdPS1FOTWlwSEYtdnNCZTdwdllnN1JHZzU4SHZyeGJvX0RDblJ5VER6X0NBYzBZWjE0bTRkNi15MFJvMEpzLVVKVV9abzVmVFk5aXRTMGYydTVzazR2ZEJuQ1pLQjJSUWM3TEd4U1RMampxVDA?oc=5",
+      "description": "Brookfield India REIT leases 1.6 million sq ft in Q2, occupancy rises to 93% &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T12:13:45.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "a9a55564",
+      "title": "Brookfield India REIT utilizes ₹1,625 mn of CP proceeds for debt repayment - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1RMRUZMdE5lZGFYU3laV0hRZnYwYUVta21qdHZsNXBQbXZiRnV1djlPSFRJT2FHdGtkVWFCWjVJeFJSVkF5X0lPMTE4dGp3eFdqUERtaUluamphTENBOUtDSWpJbTdmd3NzajJrT3pYV1Y3bVV6V3FzOHhSTV83dUJFSHl5MEZHWlhxWnJsRWw1U3ZVRnFtbkd2S0wtam0zYzdYakdsbENzb1htYmdIRmJYYndMQ2NwT2VSeGg1MDA?oc=5",
+      "description": "Brookfield India REIT utilizes ₹1,625 mn of CP proceeds for debt repayment &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T11:57:53.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "63117b40",
+      "title": "Brookfield India Real Estate Trust Launches ₹3,500 Crore QIP - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUhhNy1DUHZ0bzIzRldqeUpEclRheVRvWnZ1bnJXZXFqNjd3VDZoWkZmSjZ4aExPeXZmWHV4QzQ5LTU4cHhaanlZYWJPQkdGOVBaSU03N281QU9ZWDNXZ1hhRGxrZ2ZKZjQtTW1ZSjRzU1FxdDZtUWxLSFlReHpZZHBiVUlCQ0cxNFJtZmJZUXJIYnlOT1h6WDhDelljdmRTOW95ajdzQXQtRHVN?oc=5",
+      "description": "Brookfield India Real Estate Trust Launches ₹3,500 Crore QIP &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T11:21:31.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "c0a66934",
+      "title": "Brookfield India REIT Declares Rs 473 Cr Distribution - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3BkYnFDVmtHRGR6QlpRUno4c09mWGVOTFdkb2s2MXY2SmZFQUlyNXpDYV9pOU1TVmFTOVgweGRFTEU3ZnNFQV9IOWJhWHU3Z2NmemFob1JsVUJOTkRmWUxqN1lSeEtFa1lyNXV1Q1BIMG1HUk1yWG9mcl9nYk1BaTgwTkVCVHh4dTh5VmgxT2FsTUM0LXp6VjBLNUNERlQ2M2FMUVVtX1bSAa4BQVVfeXFMT2RZNEZwQkF6SzlLa1g4QlJUWV9Ic3B2b09CWVBCcFJ2TDN0cDY0dTZNa0k2SjBKWlV0NzQ1Qmw2REs4c1FyLXVVc0NOYVFEMjJCNXl6QnluYllCWXNFTktqVTNHbXZ1bWgtVll4d29tT2xJeVRjbkpkZkZxSVozbUVuOHdnUkVmT3lNdUdnM2tkeTJjQWVGdXZfWVV3TGliT3NoZUFWaW5PMVdiMTdn?oc=5",
+      "description": "Brookfield India REIT Declares Rs 473 Cr Distribution &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-02T10:33:56.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "2f21b9d1",
+      "title": "G Square Housing Enters Maharashtra With 125-Acre Panvel Project - MUMBAI VIRAL",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUx1WmhEVW14bGE3UkxiV2RaazRMekpkWG13WWZWMmNCR1RZT1dDeGYzY0s5SEpMNGUwLW9BSDlfS1p1QWVXQ0NhaDNLRmhqODFwUHZ0N3BxRTE0ZUZ5OFBETF9KSGM1ZTdZajRESWsyVmJsdlhlSHlGVFFobDB6aTBSOVVCa1cyNHJ5WFNzeDlnYWhTVU5GdjRjN2o?oc=5",
+      "description": "G Square Housing Enters Maharashtra With 125-Acre Panvel Project &nbsp;&nbsp; MUMBAI VIRAL",
+      "source": "MUMBAI VIRAL",
+      "publishedAt": "2026-11-02T09:39:33.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "f07a6c04",
       "title": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution - scanx.trade",
@@ -195,6 +503,36 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
+    },
+    {
+      "id": "f0302f2a",
+      "title": "Godrej vs Panchshil vs Kolte-Patil: Best Pune Builder Compared - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHdPcmJMQmdkRFRMcUYwNTg2eXdkVUZja0xDNnBVLWZ2V0xmdk1yVzk0WktEX3lsYWw3a2NoMDNUMlpqVDZubDRZTHc0Z21zbEYzTUhSUmNDdHd1NHRXRUhUM0xBVTBfUm1VTldvaElnZUVQY1VBSkQ4UkRqdWE3TDV1dElFV0VwZ0Y1NmJrbGNoOXVBV01maV96WHdfSVVhS0E?oc=5",
+      "description": "Godrej vs Panchshil vs Kolte-Patil: Best Pune Builder Compared &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-02T07:46:55.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Panchshil Realty"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "ef7e4758",
+      "title": "The News Is Not Good for Mumbai Real Estate. It's Time to Face the Truth! - Substack",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZVFaNDA5ZnM2M014a1hYRUxyeGhvS054TG5qWlRjUkF3YjlmUEZlUWNDc1ZxZHd0S1YtQTZqRTM2TFd6RFI2OWxrLUkweWxobjFweU5SVTlZd0g3T25Nd01CcUo?oc=5",
+      "description": "The News Is Not Good for Mumbai Real Estate. It's Time to Face the Truth! &nbsp;&nbsp; Substack",
+      "source": "Substack",
+      "publishedAt": "2026-11-02T06:28:40.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
     },
     {
       "id": "614339f8",
@@ -239,6 +577,420 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
+    }
+  ],
+  "items": [
+    {
+      "id": "6ce7c6e",
+      "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City - Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
+      "description": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City &nbsp;&nbsp; Realty Today",
+      "source": "Realty Today",
+      "publishedAt": "2026-11-03T07:40:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "12b8a0f0",
+      "title": "Runwal vs Godrej vs Lodha Pune 2026 | PTM Builder Audit - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZF8ta01GRjUzNVVaak5NZ1lZQlpZYTBESzRrWDFWdlBiX3BrRUJubTNMaWVLbGNNUWxWS1RSU2lZdzN2NUZsWlphbDNDa2hSeF85TjdtdG5ncUpMaDJhVGhiTjF6Z1ZQdzlDWmlRTG5uSjBXeEZWRUdsQXgzNGV2YWYwbmQ5ZGJEZVNLWWN5SllwZGdzX3JDOEc3N0JySFpuc19XZXYyd3RoTlpNSTVlQ2JHWG42cmlHYnFocFVoQTZuajA0aDBCaEZOOVBnX3M?oc=5",
+      "description": "Runwal vs Godrej vs Lodha Pune 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-03T06:38:04.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "64e2060",
+      "title": "Brookfield India REIT fair-value NAV rises to Rs 392.38 - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYXNLZ0Z3eGZlZklDY08td2x4Uk9FUDRBeW5QVVNBTEYtVzgwYzdTbzdObGRvNkJPcGI5cTlVU0p5R25IN21faHpxUkpUOGFrRTVQOGdBMEhnV0JnZUh5d0RkR3RrbnJBWE5PaXdOUXJDMEEtOUg0aEl5d0IxaDRFZkVRWG1qYUpEYldRZ2tnb3FKSTNNckp1X2Z4NF9Kc1BhQUxTckZVTDhZMXJ4b08tMDR6bEhOS1V2?oc=5",
+      "description": "Brookfield India REIT fair-value NAV rises to Rs 392.38 &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-03T05:53:13.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "9ffa2639",
+      "title": "Brookfield India REIT H1 revenue up 50%, unitholder profit up 59% - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3MyajBOVV9zQnd4dnFMNVZTMW9WaDZZdkx5SE5NNXlpMVRsQWVVbHA4R0pIRHZjRXl2TEVMcDZEbzVjT0RnbV9UeXMwMDVkcHpqa0NOTjFoZ3NKMnQ2bXMxSDNDWnB5RHFsLUZDSmhaY3UwOWdVdmZ4cUJFTzBpRVVpMVZaUzM4cEZCYmN0a2ZpVlliRXIzOEZsTzEySGU1dUtOSXVhejVQcXFrX3JUSlNDVHc2SXNpN3IyRkFNU2tYbTQ?oc=5",
+      "description": "Brookfield India REIT H1 revenue up 50%, unitholder profit up 59% &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-03T05:50:18.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "be57ac5a",
+      "title": "Mumbai Shocker: Property Broker From Mulund Kidnapped, Assaulted By Loan Recovery Agent - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVVVdVRTNXpaRkgtUDhaRVBlakRiNnkxbjBJdkszc1dtZElTM0ZlMVRsWDJ2TkFmaDRxWXp5bzZRTVpsVl91b2FKbnA4RE5DRHVLRFdILUhjTVlJWHlYRDlCVUdnb0ZhUWc4Wi1sTDdMUHJWTXVCQlJJcXVTX0pueHhzckpZRmFJQU1sNHo3Smt3MzUxTXJqU0YtN3k1OWZFTzdzNnVoVnBBN1AtOVBLd21tcXNvTEpzZExKZ1Z6RTQ5R0VCWmfSAc4BQVVfeXFMTllieUZac2gtRWVEdVM4N0FxVkFwRUZyeWM1ZXFyZ1Bra1NCTmxxVkFtZWJuTXVxdVlOYm1vRmFERWIxTG5CVG83QkJRZ3Q4Y2RLZHZFUUVORUFiMVBXQngxLS1aRnJkZzhlZ1BfOHFPamhfbzQxVzJNMTlpa1NaajViQndURGdtRG1scmtSWlpXVGw0b3NBT0pFTWV6M2hEYm9oeC12cm5aOFFGcHZNaEQ1LXhvUWo2ZUdsSHVsNlBmX2wxLUtMNFVmUy1xbnc?oc=5",
+      "description": "Mumbai Shocker: Property Broker From Mulund Kidnapped, Assaulted By Loan Recovery Agent &nbsp;&nbsp; NDTV Profit",
+      "source": "NDTV Profit",
+      "publishedAt": "2026-11-03T04:54:02.000Z",
+      "city": "Mumbai",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "465dae71",
+      "title": "Brookfield India REIT’s NOI rises 51% to ₹767.2 crore in Q2 FY27 - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3RYdEUydWR2bi1KRmh3MmFud0NlNGJwTk5jRE5BLXZicTR4bEhFNFBzYWJKUkd1emlUamh4d01DSjZnR1pZU3g3ZFcxamhFMWdXQmVIT0pzd05kbTZndmdPMEVzeWQ0bXFmdFNjbWZ0Z2p5bG1HMTFCVjR0OVZ2eGxnb0U3OVRuLS1FaFZhZU5CLVNjYmZKdjFOMV9wMEtmTzQ1anYxSkVvbDltMzY1eEU1d19MZTVxelVHbXBLMXMxejg1NE5xQzYwRdIB0AFBVV95cUxPWXBjdUhtTTFEbVBkZ2lTRm1fNnhNR0c0dmxWcEUxWEppZ1V4NVZsWS1RQVBBbzRiajJjUTQ0eWxoWU9Hci1hblVQVHNBSmEwSUV5M2tQLU5hUmNXbk9DUDU3OTZBcHFIZW5NenUzdTNNRmFzLVV1a0lybmhzQVA3aUJ1UFFHOE9JRlJ4ZGJGa2ZldnQ3eS1WXzJHUkpUMjJpVEgtT3k2bjlBNDV0VnhhYTBSUWwwMDh5emdKREFuZU9Ybko2a0VVOEM2eXJoMDhp?oc=5",
+      "description": "Brookfield India REIT’s NOI rises 51% to ₹767.2 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-03T03:49:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "204e0416",
+      "title": "Embassy Office Parks REIT reports 16% revenue growth to INR 1,303 crore as quarterly distribution reaches record INR 670 crore - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS2RtTjR0MWRiV1JzWXh0RmlQUXo4eG92RndDNVF4bW1KTVF2bEMwdWlRU3hVWWxjWEl1b19yVTdVRkg5dXVRR3VxamE4Q3pDMTM2OVBFbnR4VTdtNkZsT2pEWTVfMFpqUTFrN1lSbkdhMnhzRU1iN1dHU2VaS0pKazdQcTJldFNGVFd3MlJiamFSTG5kTXM3LTZmSFpsMWdmdGtRMUtJdGpycmYyMWVIZ3ZiYmtCbl9pRFVLZFpId3d1Qm5QVnUxTnZWdXloRF8tVTRfUzFNUFlidGlvZzBoWUZyZ0N5aWpCTy1fSndWYjFvbXVOVjdEcHhvOVdsQjNPNlRidVZaMkJzQQ?oc=5",
+      "description": "Embassy Office Parks REIT reports 16% revenue growth to INR 1,303 crore as quarterly distribution reaches record INR 670 crore &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-03T00:31:20.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "62d98e5b",
+      "title": "Brookfield India REIT signs 1.6 MSF at 16% re-leasing spread - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN25STjV5dmlCbXZPVmJfZG5xRTNjTVJOaElmTFdXV180eEhHYVotVWtvWnc4ZHNRMEFnZDhpeUhHWi1PMnAzWjlqVm5FVnBTX01FaFdCclFVcU1Ba041NUdzNXA3UUZRODYzR18tMEdaZ2ZweF9XeTFuMjk1YlhIRjE3QVVsZlVPMzRfMzBfVWU3WUtZQnhfTVV2Si1zekVFZVhNeHZaOW02U3ZZWUE?oc=5",
+      "description": "Brookfield India REIT signs 1.6 MSF at 16% re-leasing spread &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:18:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "e2a3d4bf",
+      "title": "Brookfield India REIT NOI rise was driven by consolidation - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzdBMnpmSmgtR0lERWwtbGJseW5NVkM0N29xbVFqcEZxQ3lNMy1HZE5uYTlSRVlyejBlTExmbVdpMGNSYzRmMXVRM3ZnMlhmeE1CSWRUdEc5YnN6QWJNVzBuaFh5LVJMd3AtaW1pRU93aE8zZ0M2TGVmSmJOMHc1QzV1OGsya2lVLUdpOGtDRHpDVFJMdXdNZTQ1MjAwZGJEdk9hVjFVTjU2Vi1CYUFheVlyR1RwbWs?oc=5",
+      "description": "Brookfield India REIT NOI rise was driven by consolidation &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:17:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "8506dd29",
+      "title": "Brookfield India REIT Has 83% of Debt Maturing From FY31+ - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2JoVDBYSFVtMkc1TVdvdllVME9lbngwZjZYaG9EYi1hUjJHVkpWN0ZXbHR3RlJmZ1JjZTQ2d2h1Sk5MOURMWDFOajNFMWhMTTI1MDlCZG05TEdEZzk0QkdudHBOV0pONFRQSlUwWE5UcVljckxxU2ZCR0pOWVJlbHY3WWVnelFiZ085X3JRUUtsTi1XWWx0dTZKNXIxTzdrQ0F0S0piLTdtU19NZ2toeXh3?oc=5",
+      "description": "Brookfield India REIT Has 83% of Debt Maturing From FY31+ &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T20:17:14.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "6ba68544",
+      "title": "Bagmane Prime Office REIT Q2FY27 Results: Declares ₹1.55 per unit distribution - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZVNjWVBONkhhSVRXUnZpRmtGUF9mX09aMEN4eGM0ZnlicS1DekJEcmU2aFNZN3BZcTFuR3RaNlFFSDZOVWdnVWp1V2tGaTZ5RmJXTG01bUlzTFBhWFVhNk1aUUVLemZHZUJPd3ZjZEdpSlNaUWdBcTUzdXJEVGdiQTdQcHFINjNpMThoWUhCalVFZk16UTZ6aUVWLWJVUlpXVXl6Q2w3SG82NmNXd0ZiQ2tBbkZ4MHhIelJwYw?oc=5",
+      "description": "Bagmane Prime Office REIT Q2FY27 Results: Declares ₹1.55 per unit distribution &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T16:33:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "56a22a49",
+      "title": "Mindspace REIT Q2 results: NOI rises 32% to ₹836 crore on strong leasing - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZzFzNndaanlycU1Ra0pybDVueDdhUUxyeDdwdko5bE85VEtZNkFjTEhRTlEtcGVQRTVaZzluQ0xFc0I3X3o0NExPMFBuWHg3OC1sczZ4RV9ldHlVenRYMHZ2VDFVN1lFU01UdG1wT0pOWmFsejdYVXR1Wl84TWtmeFc1anpaMEpHU25rTWdwMHU2cE53a1JzUnl0YUFtUG9lWEI1S19XdUxHaG8wbzUwR094cGRqVno3RXdkTC0tVVlkSi1kQXFDZGpkRHRiODU3UUJQZTZTUWJJdzZfRnhKbnA0dDRBZ9IB6wFBVV95cUxNVjVGWnRwRG55Ry1tcDJkVGpGcDlpTGxpSkpJdU80b3Fwd2xHeENHWUhqeGdMVkYydjQ1SWdQdE85cl9hWTBoZGhQbTNFMUV3UG52ZXhuUGJjU3VmNHJhOTJaOU9fWjdiUDBRbkpTSC0tWVlvUFlnRUFzMV9wUW8yS2tQQUowQlNkNVViOVl4aV8xV2poWWhTbjE4X2QwTEUwZUhrdUpvbi1EVkg5YWVnUUtBOTRhdHlPeGxua1V6TEZzdFdJaG4zM0EwTUh2Nl9lVkFfQk9XRnZTX0phX2lreTh0WHVOOGZkekEw?oc=5",
+      "description": "Mindspace REIT Q2 results: NOI rises 32% to ₹836 crore on strong leasing &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-02T15:26:24.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "a3d0612f",
+      "title": "Mindspace REIT Q2 NOI Jumps 32% to Rs 836 Cr; Rs 442 Cr Payout - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNay1FeklvT3lDaHlKR2VoUldoVEVMQnF1WW9zZ2thR0s0RUlOSkFnT05PQmZadjlHOGlYVDlDT0RmWG94LXctNmRuV1k4bThJYlg1QS01cHBYMFQzY1R1SEtrOTUtSkpIdDNfa3FPN1pwaE1JbEczS1lwVFI2dmpDaTVGeVBmWGZFSzQtUWVWYlppdjdUTlhYRlZleDRmeV9TMlhudDE4MHdZZFlKeGU2elE4QVQ5TDjSAbcBQVVfeXFMTWstRXpJb095Q2h5SkdlaFJXaFRFTEJxdVlvc2drYUdLNEVJTkpBZ09OT0JmWnY5RzhpWFQ5Q09EZlhveC13LTZkbldZOG04SWJYNUEtNXBwWDBUM2NUdUhLazk1LUpKSHQzX2txTzdacGhNSWxHM0tZcFRSNnZqQ2k1RnlQZlhmRUs0LVFlVmJaaXY3VE5YWEZWZXg0ZnlfUzJYbnQxODB3WWRZSnhlNnpROEFUOUw4?oc=5",
+      "description": "Mindspace REIT Q2 NOI Jumps 32% to Rs 836 Cr; Rs 442 Cr Payout &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-02T14:20:38.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1d07f7e3",
+      "title": "Brookfield India REIT Q2: Rental income jumps 52% to Rs 722 crore, declares Rs 5.70 per unit distribution - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYktIX2dVYi1fY08wSXcza3AzZ0xkNE9Hb0VVODFjWXFIMy1NSmZXSnl4OG5zYlBpYmx4OUZvQWdpbDk0WUpEMm5DQlpnTnFPYVVCb051TWtkcG9PeFRsd1YxRWpsS0dzN2R2UDNZZllNX2VFQ29IdDRHbFluRXR6MVpHUzkzdHFoWGNGYUtTZW9OVWxlNjJRYzdEUHZzN1JIMzZyeDRZSW8wdjBsNmRYNEFjQmJSU2tCUEpZb2FkMjBwbHgtUW5qa0tQRFNlVVgwLW8tczE0dkY0SzBjODhKOXgtSVFGSWhoRkMtQ2xlYjIwU0ZvdXV5elNPWlZFQXl3bkHSAYICQVVfeXFMTWJLSF9nVWItX2NPMEl3M2twM2dMZDRPR29FVTgxY1lxSDMtTUpmV0p5eDhuc2JQaWJseDlGb0FnaWw5NFlKRDJuQ0JaZ05xT2FVQm9OdU1rZHBvT3hUbHdWMUVqbEtHczdkdlAzWWZZTV9lRUNvSHQ0R2xZbkV0ejFaR1M5M3RxaFhjRmFLU2VvTlVsZTYyUWM3RFB2czdSSDM2cng0WUlvMHYwbDZkWDRBY0JiUlNrQlBKWW9hZDIwcGx4LVFuamtLUERTZVVYMC1vLXMxNHZGNEswYzg4Sjl4LUlRRkloaEZDLUNsZWIyMFNGb3V1eXpTT1pWRUF5d25B?oc=5",
+      "description": "Brookfield India REIT Q2: Rental income jumps 52% to Rs 722 crore, declares Rs 5.70 per unit distribution &nbsp;&nbsp; Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "publishedAt": "2026-11-02T13:04:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "fcb51f74",
+      "title": "Brookfield India REIT's operating income rises 51% on strong leasing - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPajlGb3VyMmNfWFNYb2sxeFF2WWVNZHBObV9vdzZqbC1rMjhKNFQ5Yy0zTFVJT0JGaVBvRXNLLTdCVjlxbDBUdl9RbnUtNE9CNW5qVGxnd21DcVJyQkdsUk1SZnM0LWVDcTdlN0dVaFE2eWNHSFhNcmxzNHZFWjNsc2JFay1Uc3NiMVRoRXNuek5oLU1EamhBbXN0bDJ3dEZmYUtiZDVmNnVTQXVnLTMxNFN4bG5pZFZOV3hFUVcwc2ZLVThaM1VVM0ZHdC00YkF1Vl9TVDNtdVJ6NHBOeV9IRDM2Y9IB6AFBVV95cUxNVE9RTEYtV2oxeThrcTZFajBYSk9JQ1VsakFPcFJkQnR0Y0x1S1FTaVFjLThQeV8za3VPMlg5VnhteUlsTHNnSWtxZ21VdUFJWHdXVjJ0NlcwT3BmejVYcmpJNEhiWnl5bGlrMGZvRUZ6ZUFXWFc4MXlyVmY3VWFPYWJLajV3TGVob3FRdHNaQjJydlp4cXlwa2FtOWNmWW9YSjhwaFpFX19BUXMwRU5uT3hFcGc0YWVQczNTYkFwR2tXM1VkYldid2xMdUl4bW91M3F6MVpPMDU3UkNJYWJmM0lWMEtIRHQ5?oc=5",
+      "description": "Brookfield India REIT's operating income rises 51% on strong leasing &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-02T12:58:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "66efa14d",
+      "title": "Brookfield India REIT leases 1.6 million sq ft in Q2, occupancy rises to 93% - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa00yaUZKNWhlZU9WVm91NU1VaHg4QTNfSmNfQm90UVd4VXM4T2s5Q2RfeU1hLU4zV2d6OGdyUERaOERkeGgydGhZNVdGTjBKZGNDd29IY2ZrMGV6NkNaOFJlYWJ6VmQzR2g2WGhVM0lNTDFFWmRqQkVsTmpMdFI0NkJ2VGJhMHpkMGJIejEySnpzdGVkb3c5VWpCanczRENvU1h6SkVXUVdPaGYxTWttRkNVYU0zSnZlWEV2VGlydnBvUndlTWFtbkg2QlotLWh2M2F1a2YydlpfQ0FVVEHSAeMBQVVfeXFMT29CWnFJVnRiSjROdDBJNjlEd2pnYWotdHdfeURHekpzR1Zad1VvRXI1Q2l4SVBodEk1WVpVc2EtS0NxOVpnSm1LNG44QVpTRms0MnlMbDBiRDF6R0p4ZXE5ci0zaEhNaGtNTWJsQ0R3MF9tYVJsaUdPS1FOTWlwSEYtdnNCZTdwdllnN1JHZzU4SHZyeGJvX0RDblJ5VER6X0NBYzBZWjE0bTRkNi15MFJvMEpzLVVKVV9abzVmVFk5aXRTMGYydTVzazR2ZEJuQ1pLQjJSUWM3TEd4U1RMampxVDA?oc=5",
+      "description": "Brookfield India REIT leases 1.6 million sq ft in Q2, occupancy rises to 93% &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T12:13:45.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "a9a55564",
+      "title": "Brookfield India REIT utilizes ₹1,625 mn of CP proceeds for debt repayment - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1RMRUZMdE5lZGFYU3laV0hRZnYwYUVta21qdHZsNXBQbXZiRnV1djlPSFRJT2FHdGtkVWFCWjVJeFJSVkF5X0lPMTE4dGp3eFdqUERtaUluamphTENBOUtDSWpJbTdmd3NzajJrT3pYV1Y3bVV6V3FzOHhSTV83dUJFSHl5MEZHWlhxWnJsRWw1U3ZVRnFtbkd2S0wtam0zYzdYakdsbENzb1htYmdIRmJYYndMQ2NwT2VSeGg1MDA?oc=5",
+      "description": "Brookfield India REIT utilizes ₹1,625 mn of CP proceeds for debt repayment &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T11:57:53.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "63117b40",
+      "title": "Brookfield India Real Estate Trust Launches ₹3,500 Crore QIP - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZUhhNy1DUHZ0bzIzRldqeUpEclRheVRvWnZ1bnJXZXFqNjd3VDZoWkZmSjZ4aExPeXZmWHV4QzQ5LTU4cHhaanlZYWJPQkdGOVBaSU03N281QU9ZWDNXZ1hhRGxrZ2ZKZjQtTW1ZSjRzU1FxdDZtUWxLSFlReHpZZHBiVUlCQ0cxNFJtZmJZUXJIYnlOT1h6WDhDelljdmRTOW95ajdzQXQtRHVN?oc=5",
+      "description": "Brookfield India Real Estate Trust Launches ₹3,500 Crore QIP &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-02T11:21:31.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "c0a66934",
+      "title": "Brookfield India REIT Declares Rs 473 Cr Distribution - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3BkYnFDVmtHRGR6QlpRUno4c09mWGVOTFdkb2s2MXY2SmZFQUlyNXpDYV9pOU1TVmFTOVgweGRFTEU3ZnNFQV9IOWJhWHU3Z2NmemFob1JsVUJOTkRmWUxqN1lSeEtFa1lyNXV1Q1BIMG1HUk1yWG9mcl9nYk1BaTgwTkVCVHh4dTh5VmgxT2FsTUM0LXp6VjBLNUNERlQ2M2FMUVVtX1bSAa4BQVVfeXFMT2RZNEZwQkF6SzlLa1g4QlJUWV9Ic3B2b09CWVBCcFJ2TDN0cDY0dTZNa0k2SjBKWlV0NzQ1Qmw2REs4c1FyLXVVc0NOYVFEMjJCNXl6QnluYllCWXNFTktqVTNHbXZ1bWgtVll4d29tT2xJeVRjbkpkZkZxSVozbUVuOHdnUkVmT3lNdUdnM2tkeTJjQWVGdXZfWVV3TGliT3NoZUFWaW5PMVdiMTdn?oc=5",
+      "description": "Brookfield India REIT Declares Rs 473 Cr Distribution &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-02T10:33:56.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "2f21b9d1",
+      "title": "G Square Housing Enters Maharashtra With 125-Acre Panvel Project - MUMBAI VIRAL",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUx1WmhEVW14bGE3UkxiV2RaazRMekpkWG13WWZWMmNCR1RZT1dDeGYzY0s5SEpMNGUwLW9BSDlfS1p1QWVXQ0NhaDNLRmhqODFwUHZ0N3BxRTE0ZUZ5OFBETF9KSGM1ZTdZajRESWsyVmJsdlhlSHlGVFFobDB6aTBSOVVCa1cyNHJ5WFNzeDlnYWhTVU5GdjRjN2o?oc=5",
+      "description": "G Square Housing Enters Maharashtra With 125-Acre Panvel Project &nbsp;&nbsp; MUMBAI VIRAL",
+      "source": "MUMBAI VIRAL",
+      "publishedAt": "2026-11-02T09:39:33.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "f07a6c04",
+      "title": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3NadVZrbC1LQWZHeUtEZDF3cjk0YmluanJLTXIyelRKMFNyWG9pQ1lLWUlBYk52dmJFNEtaWVV3Qnh4UlJubmpSNHIxQkstd01CSk1lREUwOGtVWlVPNUFZTHkzWXBmc24yLW92WGR5S3dfVmZuanlGS2xuSEJRZjlxNDd4Tk1yaHVuTGtRdW96SUMtcVVHMnItOWF5Znp3X0VOd2RWdjFZSE9PcF9KSV9iVG1ubDg?oc=5",
+      "description": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-02T09:10:57.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "f0302f2a",
+      "title": "Godrej vs Panchshil vs Kolte-Patil: Best Pune Builder Compared - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcHdPcmJMQmdkRFRMcUYwNTg2eXdkVUZja0xDNnBVLWZ2V0xmdk1yVzk0WktEX3lsYWw3a2NoMDNUMlpqVDZubDRZTHc0Z21zbEYzTUhSUmNDdHd1NHRXRUhUM0xBVTBfUm1VTldvaElnZUVQY1VBSkQ4UkRqdWE3TDV1dElFV0VwZ0Y1NmJrbGNoOXVBV01maV96WHdfSVVhS0E?oc=5",
+      "description": "Godrej vs Panchshil vs Kolte-Patil: Best Pune Builder Compared &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-02T07:46:55.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Panchshil Realty"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "ef7e4758",
+      "title": "The News Is Not Good for Mumbai Real Estate. It's Time to Face the Truth! - Substack",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZVFaNDA5ZnM2M014a1hYRUxyeGhvS054TG5qWlRjUkF3YjlmUEZlUWNDc1ZxZHd0S1YtQTZqRTM2TFd6RFI2OWxrLUkweWxobjFweU5SVTlZd0g3T25Nd01CcUo?oc=5",
+      "description": "The News Is Not Good for Mumbai Real Estate. It's Time to Face the Truth! &nbsp;&nbsp; Substack",
+      "source": "Substack",
+      "publishedAt": "2026-11-02T06:28:40.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "614339f8",
+      "title": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUk1Umc5RGFVLTZJZ2NNOTg2bExVM204SjUzdGljckExUGNVTXJlM1hzRDFsVjRLcTZNZ1VfaHpMbUctRGIyQ0cyS3VBMC1tNTdpN0g1RWpnMENqU0JWc1M3UzZCXzRaeEwzRzFGaWk0SzlySFc2T2tOS1dEQ3UydmJnZmxBR3BGaHNMME9OaWNMeU5tNEUzY25jOVZJcmNKdzVhQjB1R3JZZzFGYm1BamdVMFBEdXFPYzZzT3JfXzNkZjBLRENNelRaQmhEaUJ3aS1vbS0tUmgwSTYtVnl2bkxZTDMzaknSAewBQVVfeXFMTkZLVWJObTdBY1o0bExWc19UZE9CM3o3eU5BMUM1WGUya3JKNVFNRTNxNEhEZ3FxVHZUQ2hTeTdkYXkwcTBHQTBIX0ZIeDM5X3NjODZhNjBEa3dxOFh0S1l2MmpwZGZyOVdWOXBkQi1qc3hVWW42UmhqXzVxSE9wcVVVRmFiR3R1V1Y5dGswWWJ2NHJpQjRxTjktcEZ3d2ZIRTZpTjd4WE1tcVJNa3pJZ3JyemxjT3ZBU3VxY3F0VlFuOHJBaW1MaWI1eXczRG5oWUlfWC14SzJzWjRTdWhKRlNSRnlBbFQyaVdWRkQ?oc=5",
+      "description": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-02T01:00:00.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "97d3377",
+      "title": "G Square Housing enters Maharashtra with 125-acre Panvel project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQktqZUdySE9WMmdnSl9zSHZiZ3EtSXg1NEtVandfcmE2V21qVkdKVHVwSkhjUEctYzN5UlptZEZlclF1TGUtdWFlQzhMSlpWWXA3dkFCLVpjaDkyOTZZLWRfYWZZS2wtb1RhZGZaMGZnXzl2X1I1cUgtQVRvNnRNbVFkTkcxcnJoTWd3cnRwNnNuLW1fbU5Nelg5NHNJUnFMWWVydElrZ0d4Z0pHUUdiNVRDeDQ5blE?oc=5",
+      "description": "G Square Housing enters Maharashtra with 125-acre Panvel project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-01T14:31:16.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "73b942d2",
+      "title": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHd3UmMyT0JSRklOZ0xlRjdLRGdna3VHTmNMS2NmN1VZQnRrWjN2V3ljQVNROXEtT2hBU29ZR1JJNnczOEdacnBXLXp1bHJubUtkb3ZFWlc2UXBUZTBqclhfUHJ0aVFkRV9sd25iYmpPbllHOFhHUDJ4b01lTnl0SE1zT2hQR3lqSEpXWmlpUEJWYnhZbHU2eDhmT0Ytd3QwTUZwNnR5TkItS3hHcjJvVlhsaXZUYkJRbEFQcVg5ZDAtdGxMeEE?oc=5",
+      "description": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-01T14:06:16.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "b47baa38",
+      "title": "Jhamtani launches high-rise commercial project in Rahatani, Pune - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSmdybmFGSjJSY2hKMlVTTjEtZDRrS3B6SXVITG92VGVJODlsMDJma1VyeGxzNGN2QkMwZUxYTlF6TElZUU1zUWt0bGVGdDZBZTFZTVVKLTljZ3ZoVXlxdVNVNU9BSlpNYjhZR1kyM3ptaVJRTjhpVjZ2a1B5RzN4WlIyQUwzY01pRDZTMlE2VWhvc0F5VVYtQ20wMC1sb0tpMjJhaWVNQk9WUXp1djU3WGlYYkV4dw?oc=5",
+      "description": "Jhamtani launches high-rise commercial project in Rahatani, Pune &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-01T06:49:27.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "5b1dea3f",
@@ -255,99 +1007,9 @@
       "stream": "land"
     },
     {
-      "id": "5230c4b6",
+      "id": "946402d3",
       "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLU5CbG9zR3FoOGZPcWc1RUE4ZXpMcE96QWxjcjB1TU5uei1Gb0ZMd0UyQXVaOVBPTGNHVHhpUmFSZzNMbW5STVVnaVZpLWgwMmRmQ05WYlpRMG1wcVJlZHZUOFVXeTJiSGJIMUhHREh6Yk5aUHJsMl9GSkhMWGhIdWoxT2RvS2M1dkVEdno5bnRpamllb1hESjBkRVBzamZkWlJvSmlLX1FuZjNzMDIwVDhJNi1DTHdzMjlvM2pyM0dVRHFNMktTUVZFSjgxTC1ZQ0FkWTFyQTkzZVZ5RG9OaDlGSmFHQWFHaWxUbHlNV2x6MkZoSGJlSTRFNlR1RkpXUzEwNU1fcXB1NVdmYXFjQTZUNk1OTUnSAZcCQVVfeXFMUC1OQmxvc0dxaDhmT3FnNUVBOGV6THBPekFsY3IwdU1ObnotRm9GTHdFMkF1WjlQT0xjR1R4aVJhUmczTG1uUk1VZ2lWaS1oMDJkZkNOVmJaUTBtcHFSZWR2VDhVV3kyYkhiSDFIR0RIemJOWlBybDJfRkpITFhoSHVqMU9kb0tjNXZFRHZ6OW50aWppZW9YREowZEVQc2pmZFpSb0ppS19RbmYzczAyMFQ4STYtQ0x3czI5bzNqcjNHVURxTTJLU1FWRUo4MUwtWUNBZFkxckE5M2VWeURvTmg5RkphR0FhR2lsVGx5TVdsejJGaEhiZUk0RTZUdUZKV1MxMDVNX3FwdTVXZmFxY0E2VDZNTk1J?oc=5",
-      "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-31T15:38:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "1aa82ea4",
-      "title": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEEzYkV6ZnVyZ1FwdXpKZ0RtR3M1c18xdG1teGtoX2xiUHBoQ09UU3kzZVQ1X2dkaEJ0VEV4UnJzaTYtV3FIZk1zOHVBd0Q1Q1dWcXMwcGZicmdWRURuV0g3bEpOaVBJOTY4S0ViREhSTk96aDdkOHhrX2Uxc29mcjJzd2FWMHRudndOWHIxLTN2VVN1aEdPZVpHaUl4Qi1uV0F3MWZjVHVZNHpa0gGyAUFVX3lxTE41V0k5OEc1dVd2ekZoWDZjTTFucnAwbXhjYzB2UzU2SVpKUzI2Vk9XQ1dBYzk3bWRQSldwUFJVaFN1RVBNX09XbnZJLXluc2tENG4yRmhKOERlclRfdmlUazI3SHMtSkhGZlZvWi0yakNpbHJHcE9UYWR4WkVCaVQ2MzRzMVQ3X2JBNUlyRTQtb1VkNlM3YkVRTi1jdjBwQl9aVG9pel9oc05uT0kyc1FsbGc?oc=5",
-      "description": "Marathon Nextgen Buys Adani's 60% Stake in Mumbai Project &nbsp;&nbsp; Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-31T14:59:25.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    }
-  ],
-  "items": [
-    {
-      "id": "f07a6c04",
-      "title": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3NadVZrbC1LQWZHeUtEZDF3cjk0YmluanJLTXIyelRKMFNyWG9pQ1lLWUlBYk52dmJFNEtaWVV3Qnh4UlJubmpSNHIxQkstd01CSk1lREUwOGtVWlVPNUFZTHkzWXBmc24yLW92WGR5S3dfVmZuanlGS2xuSEJRZjlxNDd4Tk1yaHVuTGtRdW96SUMtcVVHMnItOWF5Znp3X0VOd2RWdjFZSE9PcF9KSV9iVG1ubDg?oc=5",
-      "description": "Brookfield India REIT Q2FY27 Results: Declares ₹5.70 per unit distribution &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-11-02T09:10:57.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "614339f8",
-      "title": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUk1Umc5RGFVLTZJZ2NNOTg2bExVM204SjUzdGljckExUGNVTXJlM1hzRDFsVjRLcTZNZ1VfaHpMbUctRGIyQ0cyS3VBMC1tNTdpN0g1RWpnMENqU0JWc1M3UzZCXzRaeEwzRzFGaWk0SzlySFc2T2tOS1dEQ3UydmJnZmxBR3BGaHNMME9OaWNMeU5tNEUzY25jOVZJcmNKdzVhQjB1R3JZZzFGYm1BamdVMFBEdXFPYzZzT3JfXzNkZjBLRENNelRaQmhEaUJ3aS1vbS0tUmgwSTYtVnl2bkxZTDMzaknSAewBQVVfeXFMTkZLVWJObTdBY1o0bExWc19UZE9CM3o3eU5BMUM1WGUya3JKNVFNRTNxNEhEZ3FxVHZUQ2hTeTdkYXkwcTBHQTBIX0ZIeDM5X3NjODZhNjBEa3dxOFh0S1l2MmpwZGZyOVdWOXBkQi1qc3hVWW42UmhqXzVxSE9wcVVVRmFiR3R1V1Y5dGswWWJ2NHJpQjRxTjktcEZ3d2ZIRTZpTjd4WE1tcVJNa3pJZ3JyemxjT3ZBU3VxY3F0VlFuOHJBaW1MaWI1eXczRG5oWUlfWC14SzJzWjRTdWhKRlNSRnlBbFQyaVdWRkQ?oc=5",
-      "description": "How Indian investors’ portfolios are changing: From property and gold to SIPs and ETFs &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-02T01:00:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "97d3377",
-      "title": "G Square Housing enters Maharashtra with 125-acre Panvel project - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQktqZUdySE9WMmdnSl9zSHZiZ3EtSXg1NEtVandfcmE2V21qVkdKVHVwSkhjUEctYzN5UlptZEZlclF1TGUtdWFlQzhMSlpWWXA3dkFCLVpjaDkyOTZZLWRfYWZZS2wtb1RhZGZaMGZnXzl2X1I1cUgtQVRvNnRNbVFkTkcxcnJoTWd3cnRwNnNuLW1fbU5Nelg5NHNJUnFMWWVydElrZ0d4Z0pHUUdiNVRDeDQ5blE?oc=5",
-      "description": "G Square Housing enters Maharashtra with 125-acre Panvel project &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-11-01T14:31:16.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "73b942d2",
-      "title": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcHd3UmMyT0JSRklOZ0xlRjdLRGdna3VHTmNMS2NmN1VZQnRrWjN2V3ljQVNROXEtT2hBU29ZR1JJNnczOEdacnBXLXp1bHJubUtkb3ZFWlc2UXBUZTBqclhfUHJ0aVFkRV9sd25iYmpPbllHOFhHUDJ4b01lTnl0SE1zT2hQR3lqSEpXWmlpUEJWYnhZbHU2eDhmT0Ytd3QwTUZwNnR5TkItS3hHcjJvVlhsaXZUYkJRbEFQcVg5ZDAtdGxMeEE?oc=5",
-      "description": "Brookfield India Real Estate Trust revises Q2FY27 earnings call timing &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-11-01T14:06:16.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "5b1dea3f",
-      "title": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOb2s0OUZaVjN6Yk53WldvbFJUcS0xQ3h4QVJQZDFSYms5VU1kOFFMM3pPOC1USXE0MFRrcmNTNFpYWUpwSlJveGZpdV9hUmlTMzRyRF9nd3ZrVXNPR0J2MjZSRk5PNS1LRkVsLUkySjJxSUhwOHVmcXlKZ25oSXV6TFFWZjdqMDlQT2VKNDZaM09WQVRfUlJKQm5QeXY0TGJhYnd3MmgtQWdDajdldXdTZ0doWWk4Q1ctUmVRYVdKZy1raVYyQWN3S19Uekk0V2pEYWNYWDBGQjg0SUE2c0RIRXcxU3RTb2I1bjVHbDhaNVlYQl9CdVh3T2d0bnFsZzlqMTlzVVRkVDQxaGhmelJyUHZ0ellLTlptZkZlbmJB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMFQwRGdiQ3ZPSjZNR2VpQklrNXBlc1hJN2ZCeXhBd1Y4SkJSOFFsRkR1OGxVWFF2LUpmYlFYTkhqckJxVm9VSXFWeWxrZVU1ZTZTRG9WM2tNN2NMYmdsaENCaFpoMjZGeVRpUHp5WWdBMVoxMWZpRklOU2RLM0N0VzlFYkswZ243SWs1dUg0OGNJMktLSUwxeXVtVVNjUDBrREJnREthT1BTZkZZUGVLN0VCUVRmUFJ2N2RTMFIwQjQyYWJCNG9CWEdFaEhsejliUHZ5SHBkTkJPT0piUnR5S19od29FTnVBNFVWRUtUN1oxdHl1NUY4WWk1LUxIME90czB2MDBxQ3VyMEF6SWk2azZB0gGXAkFVX3lxTFAtTkJsb3NHcWg4Zk9xZzVFQThlekxwT3pBbGNyMHVNTm56LUZvRkx3RTJBdVo5UE9MY0dUeGlSYVJnM0xtblJNVWdpVmktaDAyZGZDTlZiWlEwbXBxUmVkdlQ4VVd5MmJIYkgxSEdESHpiTlpQcmwyX0ZKSExYaEh1ajFPZG9LYzV2RUR2ejludGlqaWVvWERKMGRFUHNqZmRaUm9KaUtfUW5mM3MwMjBUOEk2LUNMd3MyOW8zanIzR1VEcU0yS1NRVkVKODFMLVlDQWRZMXJBOTNlVnlEb05oOUZKYUdBYUdpbFRseU1XbHoyRmhIYmVJNEU2VHVGSldTMTA1TV9xcHU1V2ZhcWNBNlQ2TU5NSQ?oc=5",
       "description": "Marathon Nextgen Realty to buy Adani Group's 60 pc stake in Mumbai project for Rs 335 crore &nbsp;&nbsp; The Economic Times",
       "source": "The Economic Times",
       "publishedAt": "2026-10-31T15:38:47.000Z",
@@ -2516,78 +3178,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
-    {
-      "id": "92846498",
-      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSFJZQlhWd0E2a25IU2ppblVfUzZWaDJFU3hFR1dHWXdmRHBNcnJCaXh6S2dBLUktd1o1TmxFQ1ZRaVpqMkVPVjJLWTViZnBWWjg2MmNBRHJUaWE4bEpiaHBvbFRzb2dsdzFKRjl0TUo1c0pDUzA0NGUxTWF1NjdqN3lhb21UQzBRTWZKWHZOaG9PaTZQYlZySjdyUFB3S01XT0ZvdlRBMWJPV0F1Uy05WnFHTWZKLVdkQklBS0J2RGRodTJWeEc3bmU3MjJ0Q2NVYjdKOFZkRTZXUHh6WUk5dVZRWDYwVjQ1cW1hVTFJN3pTWktrRGY00gH3AUFVX3lxTE5IUllCWFZ3QTZrbkhTamluVV9TNlZoMkVTeEVHV0dZd2ZEcE1yckJpeHpLZ0EtSS13WjVObEVDVlFpWmoyRU9WMktZNWJmcFZaODYyY0FEclRpYThsSmJocG9sVHNvZ2x3MUpGOXRNSjVzSkNTMDQ0ZTFNYXU2N2o3eWFvbVRDMFFNZkpYdk5ob09pNlBiVnJKN3JQUHdLTVdPRm92VEExYk9XQXVTLTlacUdNZkotV2RCSUFLQnZEZGh1MlZ4RzduZTcyMnRDY1ViN0o4VmRFNldQeHpZSTl1VlFYNjBWNDVxbWFVMUk3elNaS2tEZjQ?oc=5",
-      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
-      "source": "The Tribune",
-      "publishedAt": "2026-10-04T06:32:24.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "dc32456a",
-      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - The Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbkRaN2lLV29RelhqZHRLeTZmZ1VLUGdOSmpwbzNFVThwTi11VkJBWGRLR1lFeG8tdENjQk1mSmJEdDJISm81cDRjLVl1MEh3ODZzcUxsclRZZFZ0LVEtLWdUaXRWZk9OLVl0ajVieVRvSll4NlNBNS1EcHhHMHRlZmhzVGxfamtlU1RoY3BEdGJEV3NKc2ZZSnc3VmZwVkJRRXBWQy1FTFlVclVkajhJU3FIQzVYZzM1R09fUHR0T3F0azNrb09CNkoyVVFTZUpVSjlPM29Qb0ZlRmFmM1dHTzQ3WlV4Wmh2S3hpRXhZTGZvTTjSAfcBQVVfeXFMTkhSWUJYVndBNmtuSFNqaW5VX1M2VmgyRVN4RUdXR1l3ZkRwTXJyQml4ektnQS1JLXdaNU5sRUNWUWlaajJFT1YyS1k1YmZwVlo4NjJjQURyVGlhOGxKYmhwb2xUc29nbHcxSkY5dE1KNXNKQ1MwNDRlMU1hdTY3ajd5YW9tVEMwUU1mSlh2TmhvT2k2UGJWcko3clBQd0tNV09Gb3ZUQTFiT1dBdVMtOVpxR01mSi1XZEJJQUtCdkRkaHUyVnhHN25lNzIydENjVWI3SjhWZEU2V1B4ellJOXVWUVg2MFY0NXFtYVUxSTd6U1pLa0RmNA?oc=5",
-      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; The Tribune",
-      "source": "The Tribune",
-      "publishedAt": "2026-10-04T06:32:24.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "ebf0e231",
-      "title": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcFlfNDc1X1I0TTVIT1cwX1NkV3NzV0hWeGRGUVYxZ25sekxtWUJwZ2Z6eUx5WGVrd3gyaUxzTFRXVjZvbzhkbEdzMTVnZ1NtUXdlcFk1RDBPbzFFYnR2R3RSSk9wdHV0VkZhdTdjN2Q5LUJyMm85YnZFaGVXdUczM0FxcEEzZGtQaG01R2FzUDZCekVXbGg1MVJ0OXpLOEZWanNzSGY1SzFkRFpqUmxPTTAxM1ktbHFYSTkwWEpwYXVZRUl0LTRMdk1XN0FKZEtCdEZVY2hTdGZqdHU0eUh2WTFZMTNHa0dka0xCTE5ZZUg1MERuOFFISENvZG9DZmJBN3c?oc=5",
-      "description": "India’s real estate market shows two-speed trend as commercial demand stays strong, residential inventory rises: Equirus &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "publishedAt": "2026-10-04T06:29:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "9aad19c9",
-      "title": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPVkZDT0ZIQnhJVzVBMUdOWDAyZkRDWjctck5CMzIxMUxscHV6djhQdzVyMGFTZlNOVGhXdC1fQ0ZvdGl6Q1dIRmlFWXNNRVl1WDgzX25NWWpkUy0zRE1KQ3lESjZPcmRNNm9lYzh2OTc0SlpyTUs1Q25zR3lyeXhUSE9HazcxODEwOGhKdlc1NG1yZlZqWDZMN09WT0lkdy1RVm1HRXhnRDhLYzRqbmQ4WGl4aWpZQUVfYXM0OFJrZ0l3bVBJV3BBaFo4anE4Q25xdHNObnUycU5iTkNhaXU2SWM5UHBvU2RmNGp1bWU1cDQtRmstWTllRXBJQ1ZBbXFMYlZSSHV0LTRHR29BRXNFQ2szZnlOZlNBR3c5anFjS1lrLXFKRVNiWGZjY29uZV96UUY0NTJRazZLcExUbXYwYmZ4SUpmN3VLcXdPU2F4aG5zR2lmX0VlNFRBSUZmX2NZUldjb09LM0pseHA0V0p6T3h3Nm5qX200bkFrSC04aHZOUnlTZXfSAYsDQVVfeXFMTU91SkRQUG43YW5GQTFxd2libGRzOE1mODhPYWlhZVFTYVBNUkpsNUtPTkQwTGVsejJtakVUVk5YNTJITnd4NEJQQ2VfX0JBWVBFeTBGWTRqNkJ6Q1h4a0prelBsbXVvYkVLcU02SWlkeTRRaTRFZ2pwYW9WZlkxcXFlTWpjOG1SVkJqWjBFNVN6ZmpNTXVnb3hSVVhITC1nZ0tndm1jX1YwbWZsQVBFWDR4Q25LaWNyQUh1UHg1Q2JuOXFXcGhhTWlIbndQQVNRQS1QZkl3VFVQUndQUkdxSUIxQ2JBcTlzcm82bW9zWUE3S0VXN19vTzQzcTlkRFRKY1J5XzR3WENFQ3JMb2w0NUtsOXg3UmdJX1VTMWZ4bDZOTXRKVDNEQjBXZ0htTGM2dm9RaFJoX1JCZGI0XzVTYUtzbHdCMllBdnNyNXhrWWlYZ0NyMEJJN29DampjdHlhZ0llWVNLMm94OG0xbHYzbkdSdTI3ZTIwZmNZSmdYeVR5VE0xejhuTGVtOFE?oc=5",
-      "description": "In 2024, Jeff Bezos' ex-wife MacKenzie Scott gave $30 million to a Silicon Valley housing nonprofit; a ye &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-04T04:46:00.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "a337029f",
-      "title": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSHVJV1BmekgtM0Q5NG5veUFQN0FsSDhGcWJfOUFxZDFpdEZBb3VCMEQyZkFIdC1mZ01iTzFOSGE4UjZzcUM3Tm1aM1JiVGFVMF8tRTBGSEk0Z2taUEhpT2hNR0NPQ0pEQ3dra1NrV1Zham9NcFhUWXlOZmtuay0yWjQzWFBTUjRqTEFMRmVuYnhQeS1IZXZaTXpoamF2T2J6akZTYjNXbWVMcHNRLTN2aHF1ejJoWmVlUWliQXJINTcwY2hjaXdla3Zkek1abEotaDhRWkpR?oc=5",
-      "description": "Puravankara Subsidiary Secures ₹280.35 Crore Construction Contract from VIT Vellore &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-04T03:29:23.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Puravankara Limited"
-      ],
-      "stream": "projects"
     }
   ]
 }
