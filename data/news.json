@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T09:37:53.592Z",
+  "generatedAt": "2026-11-07T09:02:05.281Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 186,
-  "todayCount": 5,
+  "itemCount": 182,
+  "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,11 +11,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 1
     },
     {
@@ -41,7 +36,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -106,7 +106,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -176,7 +176,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 15
+      "items": 11
     }
   ],
   "todayItems": [
@@ -202,48 +202,6 @@
       "source": "The Realty Today",
       "publishedAt": "2026-11-05T18:35:42.000Z",
       "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "a07a3509",
-      "title": "Bengaluru construction costs rise 33% as Tamil Nadu material curbs squeeze developers - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHdaeDhTd09ZZHYxNXlFYVY0N3VhZkhCeHRWSW9VbGVkM2ZpWWtOTXJUaXhpX0RwWGwtWUx2NGxJUmhpb1hEQXZ0ZWNFZ3FJUUhmZHZ1eDBJdE9FcWNtdGhjMFlRejd4aEV2YWp1b0dFa2RPS0loV3lIYW9rMHVCNmRKZ1o4R3JwX1N2dlgwV2kyOFQtUVdMemVQQUxtSkE2LUhQVFR3cUlTRHRSRkphR0pWWFQ0TzV3TEZ1T3RaZzUtSWI0ZjhnV3FSTUh3eDNKSkRj?oc=5",
-      "description": "Bengaluru construction costs rise 33% as Tamil Nadu material curbs squeeze developers &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-11-04T16:01:41.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "c58b514e",
-      "title": "Real Estate Investment Trusts In India (2014) - IMPRI Impact and Policy Research Institute",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSE0zdGRFSnlyOVhLT3Q4R0FXSnRfaHFRdk9sNmdxUTFnbHhlem5MSEM3NktpWF9DeWhZMjNTaF9FR0x5OEtVaERUVEl5a29TNnV1TngzZ0VSTDZSeDBMZlp5TElhZnFXd0xHNVY2OVdFbGRWdFo5NnBYVHRUS2ptUDVJWXZPeDZEN1huNUxjdndDdlU4NDlxd2FB?oc=5",
-      "description": "Real Estate Investment Trusts In India (2014) &nbsp;&nbsp; IMPRI Impact and Policy Research Institute",
-      "source": "IMPRI Impact and Policy Research Institute",
-      "publishedAt": "2026-11-04T15:43:03.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "192f5d2e",
-      "title": "Rohan vs Shapoorji Pallonji vs Birla Estates: Three Developers Compared in Pune: PTM Builder Audit 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd0hkNEhwMTV6NWpScDJCSjVlMlExalVVX1UwR2YwbFMtTmdXUWw4cnNSY285UHlsc1NPQ0RfYmh3aG5zdUhReTZyN1psYVpIZTNXQ1QzQ21uRVRRYmZiWGZkRG5yMWcwb3RzUGc5UFhVQndhT21CYWs0ZEZjUURVblNUa0hyMk96Z0lMRGRFVGRRc3lBeVBJdDJmR0V4R0FJMzRYRVA2V2hiMmwtX3BwZkMycVZWZFlub3lmMDJYVURoOVl4ZkNZNmZSLUhCYXhBdy1DUXZvaEZja29zVzhETFpFZnhScEg0c0pTQTlkSE5fZG02WkxramJNN2Vsdw?oc=5",
-      "description": "Rohan vs Shapoorji Pallonji vs Birla Estates: Three Developers Compared in Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-04T10:16:54.000Z",
-      "city": "Pune",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -279,6 +237,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "3f35123c",
+      "title": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVpaTGNUdXdaWGNLeUFLVEUwb1k0bzlqQnBQdmdoTklwZnpjV0tQNGxaSlJKUTBORzBWbzJSakJ0TWljRkpQNmx6clRiYng4NXF1cEI5VkRENjBJcmkwQ0c3T3M3TWhGQ2FBRmp3OUdQT3FobTgzTUZzaTkxZ016Y3lVeFZmM1dLZXRldGZRZTZZNFdLeXBnaHRWWlJZVkpNeUVySHRPRGNmNTlSYUVJc0M3S1VCZmJaeGVsV1hHV21SdzlBSVhQWGVla0w?oc=5",
+      "description": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-04T19:16:56.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "a07a3509",
@@ -471,6 +443,22 @@
       "description": "Brookfield India REIT Q2 FY2027 slides: 9% DPU growth, 93% occupancy By Investing.com &nbsp;&nbsp; Investing.com India",
       "source": "Investing.com India",
       "publishedAt": "2026-11-03T10:17:47.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "fc2d6dcc",
+      "title": "Earnings call transcript: Brookfield India REIT posts strong Q2 2026 growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVWkza3I4OWh5SVMwai1fRDJKMzRzVjMzSlFEbUlucy1QX3pvajRGOW9Lc3pFTFBvbGpEZGZOaGh4WmhnbjlSYkZFVHkwa195dUI1czF0UDF0RHl3TEZrWGpIY0tpRWtZbTdCNnlsN2FSdDdMczlTMWZBb251YzVjRjRNdjRua280aXVCelhLaHdmSHpUT3B5SU9BNEpEZV83Q21UZ1BhVW5kYURxZDlZQVNSNEdhVjUtQzJqOWN5aHFZbWh4c0c3U09B?oc=5",
+      "description": "Earnings call transcript: Brookfield India REIT posts strong Q2 2026 growth &nbsp;&nbsp; Investing.com",
+      "source": "Investing.com",
+      "publishedAt": "2026-11-03T10:03:47.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "positive",
@@ -790,9 +778,9 @@
     },
     {
       "id": "c0a66934",
-      "title": "Brookfield India REIT Declares Rs 473 Cr Distribution - Rediff MoneyWiz",
+      "title": "Brookfield India REIT Q2 NOI Jumps 51%, Distributes Rs 473cr - Rediff MoneyWiz",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb3BkYnFDVmtHRGR6QlpRUno4c09mWGVOTFdkb2s2MXY2SmZFQUlyNXpDYV9pOU1TVmFTOVgweGRFTEU3ZnNFQV9IOWJhWHU3Z2NmemFob1JsVUJOTkRmWUxqN1lSeEtFa1lyNXV1Q1BIMG1HUk1yWG9mcl9nYk1BaTgwTkVCVHh4dTh5VmgxT2FsTUM0LXp6VjBLNUNERlQ2M2FMUVVtX1bSAa4BQVVfeXFMT2RZNEZwQkF6SzlLa1g4QlJUWV9Ic3B2b09CWVBCcFJ2TDN0cDY0dTZNa0k2SjBKWlV0NzQ1Qmw2REs4c1FyLXVVc0NOYVFEMjJCNXl6QnluYllCWXNFTktqVTNHbXZ1bWgtVll4d29tT2xJeVRjbkpkZkZxSVozbUVuOHdnUkVmT3lNdUdnM2tkeTJjQWVGdXZfWVV3TGliT3NoZUFWaW5PMVdiMTdn?oc=5",
-      "description": "Brookfield India REIT Declares Rs 473 Cr Distribution &nbsp;&nbsp; Rediff MoneyWiz",
+      "description": "Brookfield India REIT Q2 NOI Jumps 51%, Distributes Rs 473cr &nbsp;&nbsp; Rediff MoneyWiz",
       "source": "Rediff MoneyWiz",
       "publishedAt": "2026-11-02T10:33:56.000Z",
       "city": "India",
@@ -1056,6 +1044,20 @@
       "entities": [
         "DLF Limited"
       ],
+      "stream": "projects"
+    },
+    {
+      "id": "4d7220e8",
+      "title": "From Apartments to Aspirational Land: Why Millennials Are Rewriting Bengaluru’s Homeownership Story - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS1NnUURiNWdOblZleEd2WTNOWTRjcHR5cUg4aXlpMFRkQUVicDNmZ1NhdzA2MjcyQXhQandDdTVJRm1USDRMa1EwNVo4S2ZWS3NyV1VXcWJYV1NGVFdXbDJXSUFNRERHSG4wZUJWNHo5dy1RNXlNRjQ2OEJxa2YyQzVBb2dGcGk5N18wc0t5QkotbTdDVTNEUnZwVEpZV2hxWHMySjRvZzdNWmR0eG1aZEdZTEx1azBWOThiajRjTExkdDBXSmxhaWxyRS03T0xoYk9GTDl1b05NZEhN?oc=5",
+      "description": "From Apartments to Aspirational Land: Why Millennials Are Rewriting Bengaluru’s Homeownership Story &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-10-31T09:01:51.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
       "stream": "projects"
     },
     {
@@ -2870,106 +2872,6 @@
         "Keystone Realtors"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "ae897596",
-      "title": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUtWdnNBVjZHZHBRRi1rRzZGRWJNcGIwT3h0Y2ZUQWpHZkg2bnEzaUFyMDd5RDVUaTlpR2laSlBzRlFKeUV1bll1bS1oYjVucDgtcG1mZWlZSVpZb0l5LVhqLVJrZ1VlUlRkNDV1SVhlVTlfbmc4QXB4RjdfSEIzOF9OeVpFWFR0Nk5iQ0JFSjlyWnpiekxnbERzWE1zT0ViNmdmUTA3U0Vmai0tTmfSAbMBQVVfeXFMTUZILXdMT2lyQjJfV1F5NUZDYjh1NFBiVUp6ZVlsVWF2RmVBaUE3VDJBcXhSQkFaZndoYVZVekJOOTVkWjloeDlsZlhjcmNwYllzemtfei1SM2ZSdkpKMDlRWWt5MzctV21HV29RUzZ2TUFrT3Rqd2FieXFkUDFFZDF1NjdhTW5wT0ZSWU5uV3VzbV9hdkhKYUp3QWJmUkM5SjdzbnNJOEkyQWdzR1NONV83NlU?oc=5",
-      "description": "Brigade Group to Invest ₹40,000 Cr in Real Estate Expansion &nbsp;&nbsp; Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "publishedAt": "2026-10-08T08:01:53.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Brigade Enterprises"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "d0209f45",
-      "title": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMkZPeDRFc0hFUmxRM3lDVE9aZkpKTlBYRVg4Q0VHT0QwRDQ2cm1pYWpZMFluRUNqblVYWVZLeV9ZQjdRd1pubnNCbGRXN3pONElQZy12MFBLbkJvR3dtaUJtS1hyUXRYcnl2LTVma19fUC1IckFvck1Jb3ZqMmNvbXkzcGIteDZpdG5wZjZ4b0VwSUtSZzFaamVENEw1OUFKUDVLVUdpajRETTcyaHVtY2x0bDg0ZU1qVHZyUHpjNl9STkNNOEI3akdmX1lQOFQtWC1qNHRraGFuRDZObGlvVXdmS1BYQlpVanAxcDczREVidThBWTVwd2pvS1FEUWhyZmlzNXhPZU5YdnAxM1JmTnExZFZTVEJNWjk4SXdQNW81cy1WZWdPOUlzSXlSUmRxLVJYREY5V0pqbFdCaC1Mci1B?oc=5",
-      "description": "India housing market Q3 2026: Hyderabad, Bengaluru lead sales surge in 7 cities even as inventory zooms 12% &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-10-08T04:34:12.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "6ef516c6",
-      "title": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSElnLUQ0RDYzYXNHaHI5R1AwRDVrRi1FblFlaGVwa19xaUhzZl9RSkZhV3hPX1o1OUkyZnhMd0ZTSWNDR25jdzVnWkRYVkkzOERMTU9fdzVRSlhOdkJ2blVuRTdGV0dIcmJkaHRYYkJrWGtaMHBnMEdfX2tvNUpRRFZybm1VMTdoRDZPQW5GaG9KZjB5bnpRem1UeFV1RVZ2cHc?oc=5",
-      "description": "Embassy REIT Buys 8,048 Sq Ft at BKC's FIFC for ₹48.29 Crore &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-07T18:30:00.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b48811ff",
-      "title": "Embassy REIT expands retail footprint in Mumbai-located flagship asset - VCCircle",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGxUVUVkdmRSbEhMYjFCbm1BNnFxSGQyZElOM0xwejhCZDVMVlMxNXdRMmR0aGl5c0xoX1NvTzFKclpKUEhrdHh0Z2h1R0VtaUpuVVhDUHhQNTFrMFRjWGJwM3lrRHJqdmxkdHlPWGZPQVFKQUN0SzJTaXc3U1FWVU1CSW9WRkJZVUlPb05SRnpteG85dlVSdEpB?oc=5",
-      "description": "Embassy REIT expands retail footprint in Mumbai-located flagship asset &nbsp;&nbsp; VCCircle",
-      "source": "VCCircle",
-      "publishedAt": "2026-10-07T12:09:37.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "69a59e1a",
-      "title": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcmsxZmtDYmlYdS1xS2wwdjJqbmNObDlvMHFVd2lqLUdscEk3UXlfc1hQMk41eTNIR2o4VGdVOHd6Nm5md2xvb2ZLSEpfQy1kWGg3N3Z2cmktWGNQSjJNdmx4ZzBNZEZ5OEcxMEtIeDlodFRuRmdSSVl6V0d5dWJwMHk4bjRQX3ptelQzd3ZGOExZOXdqV3R3eFZ5cUowRjdDdFhKeW1MUzlrOGtVaE5YMWg1T3JHZ3VoY19ReDF6QnZDbzhOaklPc19LRlZVNVpnYzctSXpWX2xZOU9RLWlLVDBuUVByOUV2VFBtQm5ZWHZpUdIB9wFBVV95cUxQN3FOZjJBOFNLUFhTcDRncFJ2NXMtbUotaV8zbWRTMmV4WVIxeU9PMnJvVFptam45Y0hNTnNjR3JHZEtlTlA1X1dXMGFjemVYSTVnRk9SdGdhS2pqQlhiQkROQlRhejc4UExtUXh4THdSdHhBRVVjOG1UYURVQzQyZW52bHNYV18wcEZtcllYamJ6U2tzcFpzUVEwZmFCUzd3OXBCRDI4MXFQc2FUczZTTXQzZVh5c1hpTTN0c3Vfb0dkWWdsREQyV2YyeF9GM2lxTGl3SWlEcGdudDBYZVJpNU1TNkdpc0RSLW81QjVXQnZ5X2tiazVn?oc=5",
-      "description": "Mumbai land fraud: 8, including company directors, booked over Rs 100 crore property scam using forged do &nbsp;&nbsp; The Times of India",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T12:08:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "negative",
-      "priority": "high",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "3c7d6af3",
-      "title": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3JwdG9RWTRrWnpVcEVqbnBuX192VmJfS1FhMWxIdElvcDU5dTFlTWZSUXdZOUpnQUgwRFZZWXpMckJtZDJWZXJSRldNQ0hEMDN0TzF4SXZRc0JzQWZ4c3BvZWhFcllVZU9NalNQSjZvalRjR1FlWFVkWmFMYUQ1WGtHU2VFZFFoekd2TzN6SDJLS3p5UTl0VDl4ZWxfd3pEYWVWeTVmUVhDeFBxQmFyUUxsMC0yZTZkZXJfNk85eC1zenE4NWc?oc=5",
-      "description": "Brookfield to Acquire ESR’s Industrial, Logistics Portfolio for Rs. 4,300 Crore &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-07T11:30:13.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "a8d0e5c",
-      "title": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMURBZUtrc0F0M1ZZV19VUDZ6Zkx3VVdkSGI3MEVNRlZ6cVZISk1rQnU3UHhNN2IyNkZFNEhDV1J1OEM0eUhNUFQzMGRINVNxSFVadGthVGU0dEppOEFYMVZLYnlKZXA3eXZMTExZZE02SExXU211OGw0RXh5ejRpSTVVa2FnZVlUNG5GR2pnMkQtdXgtVjdYdVk1Z09lXzRxSndnb292QXY5emJ3a2xraE1KWmpLTlRZOG83VXJzblY3MWMzT2xBOEp2X2I1WTk4UHlyNG40eENCcEQ1NEs00gHkAUFVX3lxTE1KY2ZMX1JsUi16RnMyMEIta1cyaUN2aHRNNVRBT1ZmTzB2X1lRbGwyWXFqekl2UGpkWXppeGtJSEJzS28tSXJmM19ZS3dRUG5rMGJKQkRBZTdWT3hHZGdMS0pram9pTG5TQTlwc0d1aFY5TVNHU2VRb0hUU19hMHNjM0Y1TV9velpLYzBiS3g1QUYycWNlT0RuQ0l5QzBwSGxDWVRScXdQUFM1dmJlMTJ5aFdMdVJQY3VsMHlTTmQ4R0pvMWY2NENoVkxad1VBU3MxTXNmby1STWhGeV94aHZBUi1sbA?oc=5",
-      "description": "Embassy REIT board approves acquisition of 8,048 sq ft retail space at FIFC, Mumbai | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-07T11:08:40.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ]
 }
