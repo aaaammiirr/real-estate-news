@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T09:02:05.281Z",
+  "generatedAt": "2026-11-08T09:19:17.187Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 182,
+  "itemCount": 184,
   "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -11,11 +11,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -101,7 +96,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 4
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,41 +176,69 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 11
+      "items": 15
     }
   ],
   "todayItems": [
     {
-      "id": "da1ebcf0",
-      "title": "Rubics Realty launches 41-storey BeauMonte Tower C residential project at Sion Circle, Mumbai - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeU1TazkxcXFhcEwxRWJ6aExzb3kzSlJiQnVHa1JqdHVpOEg2SzlGQWxjVnpIdTFTMm9CYmF0QXZOZEsxQnNNRGo2dGdRelM3Q18xcV91ZEF1aEgxSXphRV9OUERLSjlwek9ZbHFPM3FFcU5weXpubTctN2dLZ1djVW1oSDRnTDZ0MXZTY0hURGdJUXBSZDFHdV92OWQzNW4xalQ5eWRRck4zVnlYWE1EaHpVeEc2QWtPMlBtS1dUakNKenE5d3VhWTNndjc0dGNoRE56QjdMa211amZMbkE?oc=5",
-      "description": "Rubics Realty launches 41-storey BeauMonte Tower C residential project at Sion Circle, Mumbai &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-11-05T22:06:53.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "1e849169",
-      "title": "Bombay High Court Orders Regular Noise Monitoring at Mumbai Construction Sites - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc0FqSF9xcF9LOXRJamF0RnR5eFdxV2hPQXRnUUlQalJFNjhibWxSNWRXRVphSWQyekMyejhkMHVNWmQ2MUxuekduNzhTaER2Snp3SDJQNWJxWW5feWhiSXRtVmlrT2F6RFZ1aGRBMEM3ZmY1TnhaS3hkbVBrWFRTeFNaekJYWVYyUGY2NE90TWdaNkstNVFweXB6QjN6WWczTFl2WVJ4eXkxcXVZWEJzb0hBLVRnQWFpaDBoUmtn?oc=5",
-      "description": "Bombay High Court Orders Regular Noise Monitoring at Mumbai Construction Sites &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-05T18:35:42.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
+      "id": "6f005495",
+      "title": "CapitaLand India Industrial JV Said Weighing $500M IPO and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNG9KT3p3QTh0VGdjSlpHaW9Ic3BrT1d0c0tmeEtIaWkwa3IxY0Frb1BMZTFfWFlhV3hQSkJJQlp4TWRQVjZQUnpMY1YxZHpla0VqODdtZ0QxZUlPTV9GMURma25UY1UzN0lvMC1Dak5OaE9HUjVnUU01Zmc1WHdUeGlaNlJReEZ3cHJDX0EtNi0zYzJuYm4tMEhLNW84cVZmVWVTanR4Vk5XREd6TURLWmk2cVU2N3hjMjBXangzeWg4bUVxbFhwOHhmVF9RSFVBRVEw?oc=5",
+      "description": "CapitaLand India Industrial JV Said Weighing $500M IPO and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-07T06:02:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
+      "stream": "reit"
+    },
+    {
+      "id": "4ffb22df",
+      "title": "From India to Dubai: Why investors may be watching Dubai South's booming property market: Anarock study - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNGoxUTZ3QkZaandid1l6dS1CZGdDd2hVYUpJLWZyMXNfX19feGVGLWNTZGhjMnBGZ2ZYY3JXSmx2dGNRM2pXTUpoR1NkSFM0QTJ4ajB2RHhnNEw4aGVXZUF0TzBTSDRKZkRHSHJtX09aaE45SHVlVVJvUmloY2dJWm52Nm5FeTMyWHZxLVdxcGEydzVYT21zTFpicG1aZXdsS3c1bG53em9NN3F0SFprSTZ1aXZpTzg1WEJKR0hMZC1DNlRmYmphY2k3TWtJV2ttYmFyY2RwUEdmLUgxUnJ1eE0yTGRUMXJXWjZxaHBGOUJPZTg1VHhfQ1ZHVnN0b1FKVnRIWU9ydjRlSUZmUHI2eDNPZWMxcVo0VzQ4TjYwVdIBpAJBVV95cUxNN1N0TnBDdEt0OGdtX0toMHBKMEE1cTljUDhJX0tzOGlNbDdjcmgxaHRJSnZyT21YS0MxM201cVp1dnFmM2FjdkFDV0JuMkxSdUNtN0xhOGJPNjhRS245ejl5RWY0a1NRSFFvdXpVUTQ1RTdldEZvd3RoSHhBejhBbGs2RWZjcDdROEluOUJPZFk4R0RyRncxbV9jMWtsUkd6TVRmaEVlbXA0Nm1qSHJIRDF5R3FTRUdWT21SMzhuVWc4ZlIxQ2UxaURWSWtSNkQtSHFrSmxKV1JqV0hNOXcwVENkNXgxRWJLRjhqODg2ZUtUaTFQanlXaHdZNFVITkFfT0dYTVRsemdQNXlBbmlPaHN4VWVDaVE5bS1wejZvWHNPMzZa?oc=5",
+      "description": "From India to Dubai: Why investors may be watching Dubai South's booming property market: Anarock study &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-06T09:30:04.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     }
   ],
   "items": [
     {
+      "id": "6f005495",
+      "title": "CapitaLand India Industrial JV Said Weighing $500M IPO and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNG9KT3p3QTh0VGdjSlpHaW9Ic3BrT1d0c0tmeEtIaWkwa3IxY0Frb1BMZTFfWFlhV3hQSkJJQlp4TWRQVjZQUnpMY1YxZHpla0VqODdtZ0QxZUlPTV9GMURma25UY1UzN0lvMC1Dak5OaE9HUjVnUU01Zmc1WHdUeGlaNlJReEZ3cHJDX0EtNi0zYzJuYm4tMEhLNW84cVZmVWVTanR4Vk5XREd6TURLWmk2cVU2N3hjMjBXangzeWg4bUVxbFhwOHhmVF9RSFVBRVEw?oc=5",
+      "description": "CapitaLand India Industrial JV Said Weighing $500M IPO and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-07T06:02:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "4ffb22df",
+      "title": "From India to Dubai: Why investors may be watching Dubai South's booming property market: Anarock study - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNGoxUTZ3QkZaandid1l6dS1CZGdDd2hVYUpJLWZyMXNfX19feGVGLWNTZGhjMnBGZ2ZYY3JXSmx2dGNRM2pXTUpoR1NkSFM0QTJ4ajB2RHhnNEw4aGVXZUF0TzBTSDRKZkRHSHJtX09aaE45SHVlVVJvUmloY2dJWm52Nm5FeTMyWHZxLVdxcGEydzVYT21zTFpicG1aZXdsS3c1bG53em9NN3F0SFprSTZ1aXZpTzg1WEJKR0hMZC1DNlRmYmphY2k3TWtJV2ttYmFyY2RwUEdmLUgxUnJ1eE0yTGRUMXJXWjZxaHBGOUJPZTg1VHhfQ1ZHVnN0b1FKVnRIWU9ydjRlSUZmUHI2eDNPZWMxcVo0VzQ4TjYwVdIBpAJBVV95cUxNN1N0TnBDdEt0OGdtX0toMHBKMEE1cTljUDhJX0tzOGlNbDdjcmgxaHRJSnZyT21YS0MxM201cVp1dnFmM2FjdkFDV0JuMkxSdUNtN0xhOGJPNjhRS245ejl5RWY0a1NRSFFvdXpVUTQ1RTdldEZvd3RoSHhBejhBbGs2RWZjcDdROEluOUJPZFk4R0RyRncxbV9jMWtsUkd6TVRmaEVlbXA0Nm1qSHJIRDF5R3FTRUdWT21SMzhuVWc4ZlIxQ2UxaURWSWtSNkQtSHFrSmxKV1JqV0hNOXcwVENkNXgxRWJLRjhqODg2ZUtUaTFQanlXaHdZNFVITkFfT0dYTVRsemdQNXlBbmlPaHN4VWVDaVE5bS1wejZvWHNPMzZa?oc=5",
+      "description": "From India to Dubai: Why investors may be watching Dubai South's booming property market: Anarock study &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-06T09:30:04.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "da1ebcf0",
       "title": "Rubics Realty launches 41-storey BeauMonte Tower C residential project at Sion Circle, Mumbai - Prop News Time",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeU1TazkxcXFhcEwxRWJ6aExzb3kzSlJiQnVHa1JqdHVpOEg2SzlGQWxjVnpIdTFTMm9CYmF0QXZOZEsxQnNNRGo2dGdRelM3Q18xcV91ZEF1aEgxSXphRV9OUERLSjlwek9ZbHFPM3FFcU5weXpubTctN2dLZ1djVW1oSDRnTDZ0MXZTY0hURGdJUXBSZDFHdV92OWQzNW4xalQ5eWRRck4zVnlYWE1EaHpVeEc2QWtPMlBtS1dUakNKenE5d3VhWTNndjc0dGNoRE56QjdMa211amZMbkE?oc=5",
@@ -234,15 +262,29 @@
       "city": "Mumbai",
       "category": "Projects & launches",
       "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "8d6365b4",
+      "title": "Rubics Realty launches 41-storey BeauMonte Tower C residential project at Sion Circle, Mumbai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMzBwRXpNTGtHRXdldU1RZURZY19VdDRBaHh5U0hEY1hGNXFibE01d09zMVlOcU9tQk82bHRwdTRXb3R6aEtSbXRjdUJIeW02TTZ2V0EwdHllSHVCcjVHSnNWY3hOV2R4R1ZiRjRrUm1kQnNKYWktUXo0MjJzTU9wNDQwUTJpSl9DNlNGVG5nMzBtWGthVWpLak9QVVhtMjVZZ0FwTTdXYlNvV1RKRWd1dWFUZ2Exc0FnRGZEUFBuT3A2dHd3NmlJWVY5Z1hfeEpCMzJNRkJVM0dWeVJ6?oc=5",
+      "description": "Rubics Realty launches 41-storey BeauMonte Tower C residential project at Sion Circle, Mumbai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-05T06:00:23.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "projects"
     },
     {
       "id": "3f35123c",
-      "title": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast - Investing.com India",
+      "title": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast By Investing.com - Investing.com India",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVpaTGNUdXdaWGNLeUFLVEUwb1k0bzlqQnBQdmdoTklwZnpjV0tQNGxaSlJKUTBORzBWbzJSakJ0TWljRkpQNmx6clRiYng4NXF1cEI5VkRENjBJcmkwQ0c3T3M3TWhGQ2FBRmp3OUdQT3FobTgzTUZzaTkxZ016Y3lVeFZmM1dLZXRldGZRZTZZNFdLeXBnaHRWWlJZVkpNeUVySHRPRGNmNTlSYUVJc0M3S1VCZmJaeGVsV1hHV21SdzlBSVhQWGVla0w?oc=5",
-      "description": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast &nbsp;&nbsp; Investing.com India",
+      "description": "Earnings call transcript: Boardwalk REIT misses Q3 2026 revenue forecast By Investing.com &nbsp;&nbsp; Investing.com India",
       "source": "Investing.com India",
       "publishedAt": "2026-11-04T19:16:56.000Z",
       "city": "India",
@@ -459,6 +501,22 @@
       "description": "Earnings call transcript: Brookfield India REIT posts strong Q2 2026 growth &nbsp;&nbsp; Investing.com",
       "source": "Investing.com",
       "publishedAt": "2026-11-03T10:03:47.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "4c310282",
+      "title": "Earnings call transcript: Brookfield India REIT posts strong Q2 2026 growth - Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnlnRk5hNFpYNGVTWmtDaTFuSzhxTXV0SFlBbEVaaDZ6R0VmY0dCZWJJaTZMVF85ejY5OWUzQWNBRFRGWWpLcl9xa09iVXdkY2NWQnExRlhzRG9TUlZtdDZEckQ4VFJTb0tsLUVORUFvdl9TMWFWcmwyaHJPUWFMS2w3eEhBZnVXZzlKb2JCMlVYWWZLUEVwN3Q0SmxvSmNoZ3EwLTQtaEY1V00zOWJEVUZSZmxnelZKQXhwakRXYi0ybTlwMWxQS3VNa2V2OUxo?oc=5",
+      "description": "Earnings call transcript: Brookfield India REIT posts strong Q2 2026 growth &nbsp;&nbsp; Investing.com UK",
+      "source": "Investing.com UK",
+      "publishedAt": "2026-11-03T10:02:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "positive",
@@ -2842,36 +2900,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "funds"
-    },
-    {
-      "id": "52608c73",
-      "title": "Indiabulls Real Estate Share Price - Live NSE: EMBDL Stock Price & Chart - Upstox",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWFhuRlduZUROTVhtNXI4QVA2cEFBZVB0MWNWdzNPRXZiYnpXR3loUTlDRlU1RmJUbGQ5RXN1QUpJWDBpNDNCeDZ4SlhuRFBVQkhTeWpPZHltMFpISGFFaUlUZ3RmMERRaWJyOVR3VFg?oc=5",
-      "description": "Indiabulls Real Estate Share Price - Live NSE: EMBDL Stock Price & Chart &nbsp;&nbsp; Upstox",
-      "source": "Upstox",
-      "publishedAt": "2026-10-09T07:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "1a2dc1cb",
-      "title": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand - Trade Brains",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcU9VeGJ2RWtSUWFKRmVKTG1PNzBBWHhicldvb1B2S1hpVmJheFU2dHRZS0lQTVd4YkJNRC1acE9WczhBT09oMUIzRmQ1OGhtNDE0cl9HNGtWbzd1UUtlZGx0VFNQd2dOb3FxV2VMWkt5UG84YVZNNHNrZ2pkV0VuVWE4YjVTeDdEQVdMWUFMZlpxV0ZTMWtkSUlTNnlqSFhGVm9ESlhmQVNBaC1lQ1Rfa2F0MXpteDFHeVpfd3Q2T3lCcFhzVng3SlJGU25ScFhLdk81ZVdwZ3RMeXZFSjRtMHZR?oc=5",
-      "description": "Keystone Realtors in focus after booking ₹1,423 Crore pre-sales in Q2 FY27 led by luxury housing demand &nbsp;&nbsp; Trade Brains",
-      "source": "Trade Brains",
-      "publishedAt": "2026-10-08T11:42:19.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Keystone Realtors"
-      ],
-      "stream": "projects"
     }
   ]
 }
