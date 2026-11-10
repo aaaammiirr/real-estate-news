@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T10:03:37.431Z",
+  "generatedAt": "2026-11-10T10:12:37.775Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 182,
-  "todayCount": 1,
+  "itemCount": 184,
+  "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,7 +101,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -161,7 +161,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,26 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 13
+      "items": 7
     }
   ],
   "todayItems": [
+    {
+      "id": "c57096be",
+      "title": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3E3b0dYcnVLcXdIZEZtd09FNEZMbVpBX20zb29SdFY3ZnRKRGtLTWJ3WVJkRzk2UGJub1ZsY3BybnRrTjA0dWF1UDhxM29OYThYZ2ZzRHh5MlNDQTJGVnNHY1lENDEyVUVoOTVCX3hWb3kzUVlTckpmWkVMcWtDa3RMaGRYQ3pRZHVSVTd6SkpNSWZZa042NkFEX3U?oc=5",
+      "description": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... &nbsp;&nbsp; Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-10T09:03:58.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "cd852b46",
       "title": "Kotak eyes ₹4,500 crore fundraise to deepen bets on India's real estate market - The Economic Times",
@@ -197,6 +213,22 @@
   ],
   "items": [
     {
+      "id": "c57096be",
+      "title": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3E3b0dYcnVLcXdIZEZtd09FNEZMbVpBX20zb29SdFY3ZnRKRGtLTWJ3WVJkRzk2UGJub1ZsY3BybnRrTjA0dWF1UDhxM29OYThYZ2ZzRHh5MlNDQTJGVnNHY1lENDEyVUVoOTVCX3hWb3kzUVlTckpmWkVMcWtDa3RMaGRYQ3pRZHVSVTd6SkpNSWZZa042NkFEX3U?oc=5",
+      "description": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... &nbsp;&nbsp; Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-10T09:03:58.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "cd852b46",
       "title": "Kotak eyes ₹4,500 crore fundraise to deepen bets on India's real estate market - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEg1TklXTjlkeGdvVkszcVBOV1BSNmRsZzRmV0F4cFQ2cFpTV2ppbG5XUnFla2gtcndXQVhmV2xlSHpSeUdTZEFxVWVBUWxRb2N5ZkY5QXBVUkJYTm0yeXdNU2xfZkFOOGhra1dfR09UZU1vWEV6c3pBUW45YmYxa05oeGhMS0hhT0VrVVpWbl9NSlM3S0NOYUpIOTlPamtWTERLcjVFZnhZR0t5WUVhSFQ0VlZMTWJzZS13Z2tpU2xFaWwtTTJ0T0FjazEwZlpjU0I5OGJNNXZ1QWc4dU53RTZGamhnSmdWeW1CMGNjeGRPaWRsRTdvUnhUWXFLUdIBgwJBVV95cUxQc0hJTGRKVnpTX2tpN2oxdlFpRzF6Nm8wZi1OX2l6TDctcE91U0NxcWZEb1ljZ2s1X1g0MXQxaXYxVm4zNGJyaFY3bExUUUhPNFNXSzNSaHZxWVNieHJJeUE5TkQ2RHZEVkhPallrZDZsaVNwVVpRQ0xYSDlLb1JhbnhjMUxzZzlxdmtpSjI5Z1llTlVlLXlMLTlQVFppWVh6NDRWcHBMOVVONFBhbldNcnl3VGR3a1pVRXFtYk9aSzJMVGtjRDRZNU00bFlSd0ZCT1lETGlOSE5fVFZjMjc3cTBKTEozWWN0NXVnRXVBTi0ycXJZb2o3aUtTVU1qV2JudUN3?oc=5",
@@ -209,6 +241,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "funds"
+    },
+    {
+      "id": "3f1215f7",
+      "title": "GO Residential Real Estate Investment Trust (TSX: GO.U), Blackstone Real Estate Advisors L.P., Crestpoint Real Estate Investments Ltd., Public Sector Pension Investment Board and a company controlled by members of the family of Tom Hofstedter, Executive - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT0YyTFNwUGk5Tlp1V2NpenRWdk1ZQnlOQlNJN3FlYU8zMktJYkFzWFg3NDFzS2otYWx3OV9JRThBTmF6ZVZFSE5vbnNRRGFWMEZzdV9JNmNpM1dHZ053bThpeC1SU0tsQXlTeE42ek5XdDV4ektwb1g3SVo4SGhhVjV4OFVxdmZsYUJLOVpqVHdqQVItMVVGWjdYTmVPQ3NSS2hjbmw3eV9ZSGVFYUVLaVdDQzFGTHl1UEVZb01VTS1tSG9GWWFaTUVzcmFGMzJnbEtSR2lFdDU1WnE4MjRjeWE1NDlRdw?oc=5",
+      "description": "GO Residential Real Estate Investment Trust (TSX: GO.U), Blackstone Real Estate Advisors L.P., Crestpoint Real Estate Investments Ltd., Public Sector Pension Investment Board and a company controlled by members of the family of Tom Hofstedter, Executive &nbsp;&nbsp; marketscreener.com",
+      "source": "marketscreener.com",
+      "publishedAt": "2026-11-07T08:04:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
     },
     {
       "id": "6f005495",
