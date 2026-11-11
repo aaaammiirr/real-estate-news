@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T10:12:37.775Z",
+  "generatedAt": "2026-11-11T09:43:10.402Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
   "itemCount": 184,
-  "todayCount": 2,
+  "todayCount": 7,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -16,6 +16,151 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -31,156 +176,81 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 7
+      "items": 8
     }
   ],
   "todayItems": [
     {
+      "id": "4f9c62d4",
+      "title": "India’s rich pivot to real estate after stock returns falter - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlrZFZINjNPeTRYcVNOeXpOSnNoNmlVQW5WUlo3ODQ4bUFaaVp0Yl9IV1Z3ZHc0MWdZVUc2WHphdG40ZDBOSXdHTGpEMnFrQU55eUlsOE5pQ0ktWm41MzFPRk9XRkFzSllVRVNxbFhrczFqZXBNVU5SX0k1c1YwYnJfR182WUdMU0t6TXNmWGM1M2tVek5nTmdCbXM?oc=5",
+      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Business Times",
+      "source": "The Business Times",
+      "publishedAt": "2026-11-11T07:14:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "da59dfb7",
+      "title": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund - FinanceAsia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0I4QVBtQUtJREVqUzlJZmZYWlhkejRWaUdJZ3Y5emJFak9KUjlTdEEzV19maDRyWXFfVmdjak9GajFMeWVRNnk4eEgwQ1Atc2tldHlWZ19vUzZFaFdadU9FMGxmYjJ0TWFEdVBpZWZCQndEaEgzVnFiemRrX1E4XzJCWE80cWdtU3JKRFltLTdqeHgyOFVpXzZ0QmRDZ21vQ01tZzU4VlI4YzQ?oc=5",
+      "description": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund &nbsp;&nbsp; FinanceAsia",
+      "source": "FinanceAsia",
+      "publishedAt": "2026-11-11T02:56:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1b5830a",
+      "title": "India’s rich pivot to real estate after stock returns falter - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWmprNHhKc0NkYUJfcE1mTUp4bjNHUVpLV3ltRnhVbTZtd0VpT0tiUDZWV3ZjX2hsUmtOeUp2Q1BUZnBVc2I5VFRUdnhYa21rb2UxLUlFTGgwSkhGdWlscUxMMkg4QktVcVRKZjFVbHBxSXZLR21fWjdyTEhFN1k2VlN4eE9ZNnZxeE12cXJncUdBX3NvVXFQdXhub1dvMmVrOEtjajcyV29GUEVMdTJpRUgyWFpUaVlFQS1GMDllTTJKOFNFcEZwR21pX3VfdGVsQWVGV2lkRlJDVkFsWWNDVC1yc3k4cVN10gHuAUFVX3lxTE81Sm5WbktpSnZsYi1KdkU0VGJ6LUNERmxKTjludG1fdE56dE54ZGpNbktWX0RSUm00a3k0SGg1dy1yaTZlNFpLVXRQdUs3SFQzRzNjU0I0ZVR1bjczcmlkVlh1T1lGMzhrcTY1NEZodnBiR0NfWm8wRFpsbFRiMDlLeVZxWWZweGNDWlIxRG9mZDkyZ3hHVHFBY1ozQ3ROa215ZncwcERIQmU1eXJ0UW5jNGc2NWlFUHQwQnloNUZBQU9rS2RzYmp5ZmI1TXF3RER0VzBEc1NpQklpV0owSVdPR1F4ckJlMFJSbTBlSVE?oc=5",
+      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-11T02:34:49.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "e7816d7d",
+      "title": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUm5jcVhPeUFXb0d5YjAtQ0dUWGJIbW41UFBsQUFiLUw5SjFwVDdtblVuMkRqcTFSWF9VQ1BHTlRxWHJZSEdseFhvYXo3VjBlTWg1MHdGbTNoWmtrSzc0b0oxLXVISGZmVjRvUFdmelJMOFl2R1o1bmR1c0pCTlU0SEQ1S1cwSEprZWNRZlFOaHFyanZWSzNSY1JSWVNlbzhXV0IzWjNYTHlLVk5qZU9rUnMxYXI3Z1dhRHRZdkVNdG95OGFMTmR1TU8xRW84UzJJeHNIZlIzN0ZPX2s?oc=5",
+      "description": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-10T14:39:52.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "60297805",
+      "title": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzJuYkQta2pXaFUwUHkxQzRWS0M3TE03N3FnR3ZfYnl1bGFFNXkyeDdSTXdFVHNPS0VYWndRbmZYc1c4VFB4OTJncVBTcFYxSGlpbmRVdldzUFlDR0t1TzhrZUxWd1hKTUg2ZG1lemNWNi0tblV6Y2tKcW05aUNXa1FETmJqOWNVcFdzQmFnek1kQURwUjZxaDBPU0Jyb2hBc3RMTkdMeHFKamdHWVhzeU1VY2U3ekdhUlBqeDZaMzJ6WmFG?oc=5",
+      "description": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-10T10:49:54.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "c57096be",
       "title": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3E3b0dYcnVLcXdIZEZtd09FNEZMbVpBX20zb29SdFY3ZnRKRGtLTWJ3WVJkRzk2UGJub1ZsY3BybnRrTjA0dWF1UDhxM29OYThYZ2ZzRHh5MlNDQTJGVnNHY1lENDEyVUVoOTVCX3hWb3kzUVlTckpmWkVMcWtDa3RMaGRYQ3pRZHVSVTd6SkpNSWZZa042NkFEX3U?oc=5",
@@ -197,21 +267,91 @@
       "stream": "reit"
     },
     {
-      "id": "cd852b46",
-      "title": "Kotak eyes ₹4,500 crore fundraise to deepen bets on India's real estate market - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEg1TklXTjlkeGdvVkszcVBOV1BSNmRsZzRmV0F4cFQ2cFpTV2ppbG5XUnFla2gtcndXQVhmV2xlSHpSeUdTZEFxVWVBUWxRb2N5ZkY5QXBVUkJYTm0yeXdNU2xfZkFOOGhra1dfR09UZU1vWEV6c3pBUW45YmYxa05oeGhMS0hhT0VrVVpWbl9NSlM3S0NOYUpIOTlPamtWTERLcjVFZnhZR0t5WUVhSFQ0VlZMTWJzZS13Z2tpU2xFaWwtTTJ0T0FjazEwZlpjU0I5OGJNNXZ1QWc4dU53RTZGamhnSmdWeW1CMGNjeGRPaWRsRTdvUnhUWXFLUdIBgwJBVV95cUxQc0hJTGRKVnpTX2tpN2oxdlFpRzF6Nm8wZi1OX2l6TDctcE91U0NxcWZEb1ljZ2s1X1g0MXQxaXYxVm4zNGJyaFY3bExUUUhPNFNXSzNSaHZxWVNieHJJeUE5TkQ2RHZEVkhPallrZDZsaVNwVVpRQ0xYSDlLb1JhbnhjMUxzZzlxdmtpSjI5Z1llTlVlLXlMLTlQVFppWVh6NDRWcHBMOVVONFBhbldNcnl3VGR3a1pVRXFtYk9aSzJMVGtjRDRZNU00bFlSd0ZCT1lETGlOSE5fVFZjMjc3cTBKTEozWWN0NXVnRXVBTi0ycXJZb2o3aUtTVU1qV2JudUN3?oc=5",
-      "description": "Kotak eyes ₹4,500 crore fundraise to deepen bets on India's real estate market &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-09T00:54:48.000Z",
-      "city": "India",
-      "category": "Capital & lending",
+      "id": "6fa95779",
+      "title": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUV3T1VTSVhucmZtNmlBYUtrTlFRZTZXcjVBUkFiTkxHTUZvUldnREE1c1QybW9ldy0tNGdENWp2X25seGRReFYyU1JjSkNlVTlGWGpLc0l0c2Rqb0RjNXUzVXdoMmprMDhoUW0tOV9qSl9oRERTM1h2Snk3bjVlQTJoMk9FMDdFOHkxVXVpMjExeTg3cGNzYzBQd3ZJbFRROGR0Y2pHSUUtaGNrZFdQXzlNZURWT1JhVy1uQ01aLXRqVUtYdUc4cl9iX0ZwMk9leEFBYUpWd2hkWnRs?oc=5",
+      "description": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-09T09:46:24.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "funds"
+      "stream": "projects"
     }
   ],
   "items": [
+    {
+      "id": "4f9c62d4",
+      "title": "India’s rich pivot to real estate after stock returns falter - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlrZFZINjNPeTRYcVNOeXpOSnNoNmlVQW5WUlo3ODQ4bUFaaVp0Yl9IV1Z3ZHc0MWdZVUc2WHphdG40ZDBOSXdHTGpEMnFrQU55eUlsOE5pQ0ktWm41MzFPRk9XRkFzSllVRVNxbFhrczFqZXBNVU5SX0k1c1YwYnJfR182WUdMU0t6TXNmWGM1M2tVek5nTmdCbXM?oc=5",
+      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Business Times",
+      "source": "The Business Times",
+      "publishedAt": "2026-11-11T07:14:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "da59dfb7",
+      "title": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund - FinanceAsia",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0I4QVBtQUtJREVqUzlJZmZYWlhkejRWaUdJZ3Y5emJFak9KUjlTdEEzV19maDRyWXFfVmdjak9GajFMeWVRNnk4eEgwQ1Atc2tldHlWZ19vUzZFaFdadU9FMGxmYjJ0TWFEdVBpZWZCQndEaEgzVnFiemRrX1E4XzJCWE80cWdtU3JKRFltLTdqeHgyOFVpXzZ0QmRDZ21vQ01tZzU4VlI4YzQ?oc=5",
+      "description": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund &nbsp;&nbsp; FinanceAsia",
+      "source": "FinanceAsia",
+      "publishedAt": "2026-11-11T02:56:17.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "1b5830a",
+      "title": "India’s rich pivot to real estate after stock returns falter - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWmprNHhKc0NkYUJfcE1mTUp4bjNHUVpLV3ltRnhVbTZtd0VpT0tiUDZWV3ZjX2hsUmtOeUp2Q1BUZnBVc2I5VFRUdnhYa21rb2UxLUlFTGgwSkhGdWlscUxMMkg4QktVcVRKZjFVbHBxSXZLR21fWjdyTEhFN1k2VlN4eE9ZNnZxeE12cXJncUdBX3NvVXFQdXhub1dvMmVrOEtjajcyV29GUEVMdTJpRUgyWFpUaVlFQS1GMDllTTJKOFNFcEZwR21pX3VfdGVsQWVGV2lkRlJDVkFsWWNDVC1yc3k4cVN10gHuAUFVX3lxTE81Sm5WbktpSnZsYi1KdkU0VGJ6LUNERmxKTjludG1fdE56dE54ZGpNbktWX0RSUm00a3k0SGg1dy1yaTZlNFpLVXRQdUs3SFQzRzNjU0I0ZVR1bjczcmlkVlh1T1lGMzhrcTY1NEZodnBiR0NfWm8wRFpsbFRiMDlLeVZxWWZweGNDWlIxRG9mZDkyZ3hHVHFBY1ozQ3ROa215ZncwcERIQmU1eXJ0UW5jNGc2NWlFUHQwQnloNUZBQU9rS2RzYmp5ZmI1TXF3RER0VzBEc1NpQklpV0owSVdPR1F4ckJlMFJSbTBlSVE?oc=5",
+      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-11T02:34:49.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "e7816d7d",
+      "title": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUm5jcVhPeUFXb0d5YjAtQ0dUWGJIbW41UFBsQUFiLUw5SjFwVDdtblVuMkRqcTFSWF9VQ1BHTlRxWHJZSEdseFhvYXo3VjBlTWg1MHdGbTNoWmtrSzc0b0oxLXVISGZmVjRvUFdmelJMOFl2R1o1bmR1c0pCTlU0SEQ1S1cwSEprZWNRZlFOaHFyanZWSzNSY1JSWVNlbzhXV0IzWjNYTHlLVk5qZU9rUnMxYXI3Z1dhRHRZdkVNdG95OGFMTmR1TU8xRW84UzJJeHNIZlIzN0ZPX2s?oc=5",
+      "description": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-10T14:39:52.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "60297805",
+      "title": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzJuYkQta2pXaFUwUHkxQzRWS0M3TE03N3FnR3ZfYnl1bGFFNXkyeDdSTXdFVHNPS0VYWndRbmZYc1c4VFB4OTJncVBTcFYxSGlpbmRVdldzUFlDR0t1TzhrZUxWd1hKTUg2ZG1lemNWNi0tblV6Y2tKcW05aUNXa1FETmJqOWNVcFdzQmFnek1kQURwUjZxaDBPU0Jyb2hBc3RMTkdMeHFKamdHWVhzeU1VY2U3ekdhUlBqeDZaMzJ6WmFG?oc=5",
+      "description": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-10T10:49:54.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "c57096be",
       "title": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... - Yahoo Finance",
@@ -227,6 +367,20 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
+    },
+    {
+      "id": "6fa95779",
+      "title": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUV3T1VTSVhucmZtNmlBYUtrTlFRZTZXcjVBUkFiTkxHTUZvUldnREE1c1QybW9ldy0tNGdENWp2X25seGRReFYyU1JjSkNlVTlGWGpLc0l0c2Rqb0RjNXUzVXdoMmprMDhoUW0tOV9qSl9oRERTM1h2Snk3bjVlQTJoMk9FMDdFOHkxVXVpMjExeTg3cGNzYzBQd3ZJbFRROGR0Y2pHSUUtaGNrZFdQXzlNZURWT1JhVy1uQ01aLXRqVUtYdUc4cl9iX0ZwMk9leEFBYUpWd2hkWnRs?oc=5",
+      "description": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-09T09:46:24.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "cd852b46",
@@ -2818,96 +2972,6 @@
         "Nexus Select Trust"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "a789c813",
-      "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTkNQUkxLLUpqOGNnSEs2QjExVWJQcWM3Zk1mRTNNeWl3dFEzYXY2X3J6dExzUU0tWmU0NDcyYjNHSWxGVHNoMVlLRTdQbUNtYlVsSzBCMG1KMkFjS0IyX0tQaDlMMHZZNmd5dC05Z3RHa3FIZTdpMjM2SGVhX0lUbEtXMHRXY3k0SGxzZldjbjNuZE9ES3hqMlZCS1JaQ2UzMGpmVTdYVEFFYWVXdFlvZkFhZnJZV1FEOWl1TktMZG5NNlgxMGRIalRBbHNyc3M4c2pidk9yejFCTGpyMEZ5ZThyY2HSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
-      "description": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-12T08:10:12.000Z",
-      "city": "Chennai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "156b2c96",
-      "title": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaEVqQTlfcFQwWnZwNnJ0Q2JYLXRlNkt1cWJqNVdIRXgtdHItMXpYaVVIeXRqRzJaVDFPMDJnMmw0b2tLbThuOW9UVlBoemRncmc4SG5RTVJhaFBXaWx5X0oyMmN6OGJubkU3QmtsSnZiVmsweWlCc3dYaG43clhUSzM5eFBRREo5WkZmbWhhcFdpdkU5ZGJjUkYwd1BEYVJNTlJ2UlU2dTg3c3dFOW5KWGM1NDRHVWFSRU5GUVY5dGVXR0Vsek5QamJMbkljd3N4T0xla0FOWU1nVk1HVHVFMThWUWRDdnItMmfSAeoBQVVfeXFMTWhFakE5X3BUMFp2cDZydENiWC10ZTZLdXFiajVXSEV4LXRyLTF6WGlVSHl0akcyWlQxTzAyZzJsNG9rS204bjlvVFZQaHpkZ3JnOEhuUU1SYWhQV2lseV9KMjJjejhibm5FN0JrbEp2YlZrMHlpQnN3WGhuN3JYVEszOXhQUURKOVpGZm1oYXBXaXZFOWRiY1JGMHdQRGFSTU5SdlJVNnU4N3N3RTluSlhjNTQ0R1VhUkVORlFWOXRlV0dFbHpOUGpiTG5JY3dzeE9MZWtBTllNZ1ZNR1R1RTE4VlFkQ3ZyLTJn?oc=5",
-      "description": "BNP Paribas leases 5 lakh sq ft at Mindspace REIT’s One Radial in Chennai for 10 years | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-12T08:10:12.000Z",
-      "city": "Chennai",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "f613c5b2",
-      "title": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaENIM2NzNU1vd2xvUjlnUUMtdjJfQWN6VDlOcENyWnZMUTNpSlp2Y242Mlk2S3VYNEhlSksta2xOVUVYeG50ZDh1TFBYOEU2TXA2WGhZbm8wUVVmTkpxc21mRk5MNnhUN1hVWWFPUFlpYlJuYUxUcW5xNjFOLTNtNmpGYW45M24xY0dINXhkSHp5cFBOU3FNWFFsWC1PSU1XRGR4bGVra1NPRHQxUWttQ1pLUFdMZTRHVUNKOFBPYlNDOHBVVmZlTERmeUdtdw?oc=5",
-      "description": "Star Housing Finance Seeks RBI Approval for Additional Non-Executive Directors &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-11T22:09:29.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "c05d10d8",
-      "title": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSjMxTzVBRy1Qa0cyYk8yQkVOV01XbXZvV2F0WXdlZ1g1N0d2YldwLWNPRVNraTV2a0dSMDUwSEo5bFNuQUoyc2F3LWktcFZLa2QyYzhFZDduRkc5VEJnaXBaY0ZZNGwzRTFRZDhYSHZQUFZqWXRrV2V3WFVycTkyUUFxYVpmbEl2NTcwNmhEY1B6U1N1NzFfXzZjQUhCcUx3Z3d0SlRuVTUtdEEzc2hEajNfOUVfQ0xkTFQ2YkZkUXNsbEJDbS1FRlJPR3pfVXBfSEFEWERfVUNJaVdha05hYVh30gHqAUFVX3lxTFBRMm1OVDZOUkVLMmwtcy0xNkhmMElMWndfQWpkQVRkNHJVMXJ0a2tUaGRTQmtEdnNQY2hLNzZsOFlVMU9QYTBqbXpyb25sdWtXVVZQZHBFUXcyMFhnZ3hYYkJnS0Zib1RvU0FBNWM4cmhuZnJqdEpwcXFVS2FzVHk1b1ZrMnV2RndQM0VkS1BlT2NSVUFHYTBjOGlJVVRrZ2JDVEo5dk1JM01JZEl5NWFZcllZOHluQ0Z0NXhNbUJ6ak5oT2lLUndmRi12U0dGaHZaWjV5Vl92UjRLamtDaFEzSmpBazk1TTVxdw?oc=5",
-      "description": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD &nbsp;&nbsp; NDTV Profit",
-      "source": "NDTV Profit",
-      "publishedAt": "2026-10-11T14:23:38.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Brigade Enterprises"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "668fb7b7",
-      "title": "Brigade Enterprises Aims 21% Rise In Fy27 Pre-Sales On Strong Housing Demand: MD - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUTJtTlQ2TlJFSzJsLXMtMTZIZjBJTFp3X0FqZEFUZDRyVTFydGtrVGhkU0JrRHZzUGNoSzc2bDhZVTFPUGEwam16cm9ubHVrV1VWUGRwRVF3MjBYZ2d4WGJCZ0tGYm9Ub1NBQTVjOHJobmZyanRKcHFxVUthc1R5NW9WazJ1dkZ3UDNFZEtQZU9jUlVBR2EwYzhpSVVUa2diQ1RKOXZNSTNNSWRJeTVhWXJZWTh5bkNGdDV4TW1CempOaE9pS1J3ZkYtdlNHRmh2Wlo1eVZfdlI0S2prQ2hRM0pqQWs5NU01cXfSAeoBQVVfeXFMUFEybU5UNk5SRUsybC1zLTE2SGYwSUxad19BamRBVGQ0clUxcnRra1RoZFNCa0R2c1BjaEs3Nmw4WVUxT1BhMGptenJvbmx1a1dVVlBkcEVRdzIwWGdneFhiQmdLRmJvVG9TQUE1YzhyaG5mcmp0SnBxcVVLYXNUeTVvVmsydXZGd1AzRWRLUGVPY1JVQUdhMGM4aUlVVGtnYkNUSjl2TUkzTUlkSXk1YVlyWVk4eW5DRnQ1eE1tQnpqTmhPaUtSd2ZGLXZTR0ZodlpaNXlWX3ZSNEtqa0NoUTNKakFrOTVNNXF3?oc=5",
-      "description": "Brigade Enterprises Aims 21% Rise In Fy27 Pre-Sales On Strong Housing Demand: MD &nbsp;&nbsp; NDTV Profit",
-      "source": "NDTV Profit",
-      "publishedAt": "2026-10-11T14:23:38.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Brigade Enterprises"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "8a3853a8",
-      "title": "Casagrand launches 98-unit premium residential project in Adyar, Chennai - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnF6bUFjdUpTbGhvbjF5MlFrTTJXOXg2TkJLM0NOSnk5eTZCd1NPLV9vM1RweFQ0cW9kMTlvSnJQcjg3RzJMbW5aOGc5R2VwbGZ1aFl1WnNQQ3d2WGstMVFDdUlZdXJEcEhUUDVLVURtWDBLZTdWQWxiTWFwSmNYcU5TNmx5dkthQVNQM1llWXZpcmU3NXRtc2I3OWJSSzVpRjBFa2ZBanlMb3BjTnltYlFMNzA0anQ5T2h5WDM5Z2g?oc=5",
-      "description": "Casagrand launches 98-unit premium residential project in Adyar, Chennai &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-11T13:34:05.000Z",
-      "city": "Chennai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Casagrand"
-      ],
-      "stream": "projects"
     }
   ]
 }
