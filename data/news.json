@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:43:10.402Z",
+  "generatedAt": "2026-11-12T10:03:42.979Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
   "itemCount": 184,
@@ -16,7 +16,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -176,17 +176,17 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 8
+      "items": 7
     }
   ],
   "todayItems": [
     {
-      "id": "4f9c62d4",
-      "title": "India’s rich pivot to real estate after stock returns falter - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFlrZFZINjNPeTRYcVNOeXpOSnNoNmlVQW5WUlo3ODQ4bUFaaVp0Yl9IV1Z3ZHc0MWdZVUc2WHphdG40ZDBOSXdHTGpEMnFrQU55eUlsOE5pQ0ktWm41MzFPRk9XRkFzSllVRVNxbFhrczFqZXBNVU5SX0k1c1YwYnJfR182WUdMU0t6TXNmWGM1M2tVek5nTmdCbXM?oc=5",
-      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Business Times",
-      "source": "The Business Times",
-      "publishedAt": "2026-11-11T07:14:00.000Z",
+      "id": "6831afbb",
+      "title": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHBEUVZrSW1Mall5d1RLMEQ4Z1hEdUNFWHJDMUo2Q0x0azU4Q1hLTkN5SGpqTmhpU2ZtTFE5ZXR1OGlpYi14b0htRDFsVXVOUHBvWWtZYWdmQWZCVlJSNlJSWThxZXN1Tk5LaW1TQTUxR21sZ2g5NGl6NFRPOVNlQ2ltQl81WEFrQy1CQlo0aFRETlk2MC11dnNLcFlFakFYVk1XTlVwckFqbUZRZEpnWWpzdjlWTks1ZFNQWWJPdGs2aVFzZjFGMXItQ3VOcUtjWE1YWmFqdlhoWTZHSzNxdXBR?oc=5",
+      "description": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T06:11:33.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -195,18 +195,46 @@
       "stream": "reit"
     },
     {
-      "id": "da59dfb7",
-      "title": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund - FinanceAsia",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa0I4QVBtQUtJREVqUzlJZmZYWlhkejRWaUdJZ3Y5emJFak9KUjlTdEEzV19maDRyWXFfVmdjak9GajFMeWVRNnk4eEgwQ1Atc2tldHlWZ19vUzZFaFdadU9FMGxmYjJ0TWFEdVBpZWZCQndEaEgzVnFiemRrX1E4XzJCWE80cWdtU3JKRFltLTdqeHgyOFVpXzZ0QmRDZ21vQ01tZzU4VlI4YzQ?oc=5",
-      "description": "Sumitomo Mitsui Trust Bank invests in PE Indian real estate fund &nbsp;&nbsp; FinanceAsia",
-      "source": "FinanceAsia",
-      "publishedAt": "2026-11-11T02:56:17.000Z",
+      "id": "6144efc",
+      "title": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFpaclVfN0kwbkl6aVc5bEtURHVUTlNTUGF5cVVrUHVQcjNocDhELVhBQmJzQ0VRS28xZ1BkS1BvZ2NrWE1nYVVabVJ1X29nZm5qZU5PekFRYUZDUmxJTzMzRDcwZ2lpQ1JlNVQ4eVhoTDdWRHR4UGtqbUx5SXliMmdwU0RqOUlITnZfSHNQVHhOZ1RqMklaV1JITTl2ekROMklxRjkyR2FIT2c2bzQ1SG0ySFJFbWw1?oc=5",
+      "description": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T03:16:46.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "fb938414",
+      "title": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXZ3QVpkUFd3MmFmZ2dTSzRQOHF1U0I4VGxaenpwT1dtQV9MblF4UDROVERiUlEyQTF3RzNZUlJpQkJpNm53ZF9heldYQ3BpRElHLTl2YU02di0zbmRqUnh2LS1KSDBzYXFSZUdlWlJxczRoU0laUDJEZEx2REo4V0VzMlhZUEdJNmwtR1hRZEtGQm56WEJSVlZkRGNVWmNFdTZBbkI4dG52VTdrR2NBaTl3M2htOFRRdWNhOG9lM21sWktuclMwbnNjNWd1cGdM?oc=5",
+      "description": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-11T14:54:11.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "79bd0aff",
+      "title": "Bengaluru remains third-largest land market as developers turn to JDAs - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0tUQ2duX1JTZGdVak12azM2WjQyYTBlbGx5T2ZhaDEwZkJrQnNfZmQ5dWJnRXUwSHRoQm8tZnFENENOWlotZkdjY05UZzZOTmlVUURubTNSOURoQTZ2anFnRWZaajJRaHQwQmdMTlBfMF90VC1hdG84eGZBaDdyWWN5UldENVJOU0EwbDRtSmpXSGZYRTczUVp4ZTJfd0hiNU1SRkNrcGNOeEF1b3AxRGxubnA3Nmc?oc=5",
+      "description": "Bengaluru remains third-largest land market as developers turn to JDAs &nbsp;&nbsp; Deccan Herald",
+      "source": "Deccan Herald",
+      "publishedAt": "2026-11-11T11:22:18.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
     },
     {
       "id": "1b5830a",
@@ -249,39 +277,65 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "c57096be",
-      "title": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3E3b0dYcnVLcXdIZEZtd09FNEZMbVpBX20zb29SdFY3ZnRKRGtLTWJ3WVJkRzk2UGJub1ZsY3BybnRrTjA0dWF1UDhxM29OYThYZ2ZzRHh5MlNDQTJGVnNHY1lENDEyVUVoOTVCX3hWb3kzUVlTckpmWkVMcWtDa3RMaGRYQ3pRZHVSVTd6SkpNSWZZa042NkFEX3U?oc=5",
-      "description": "Brookfield India Real Estate Trust (BOM:543261) Q2 2027 Earnings Call Highlights: NOI Jumps 51% ... &nbsp;&nbsp; Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "2026-11-10T09:03:58.000Z",
+      "id": "6831afbb",
+      "title": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHBEUVZrSW1Mall5d1RLMEQ4Z1hEdUNFWHJDMUo2Q0x0azU4Q1hLTkN5SGpqTmhpU2ZtTFE5ZXR1OGlpYi14b0htRDFsVXVOUHBvWWtZYWdmQWZCVlJSNlJSWThxZXN1Tk5LaW1TQTUxR21sZ2g5NGl6NFRPOVNlQ2ltQl81WEFrQy1CQlo0aFRETlk2MC11dnNLcFlFakFYVk1XTlVwckFqbUZRZEpnWWpzdjlWTks1ZFNQWWJPdGs2aVFzZjFGMXItQ3VOcUtjWE1YWmFqdlhoWTZHSzNxdXBR?oc=5",
+      "description": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T06:11:33.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
+      "entities": [],
       "stream": "reit"
     },
     {
-      "id": "6fa95779",
-      "title": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcUV3T1VTSVhucmZtNmlBYUtrTlFRZTZXcjVBUkFiTkxHTUZvUldnREE1c1QybW9ldy0tNGdENWp2X25seGRReFYyU1JjSkNlVTlGWGpLc0l0c2Rqb0RjNXUzVXdoMmprMDhoUW0tOV9qSl9oRERTM1h2Snk3bjVlQTJoMk9FMDdFOHkxVXVpMjExeTg3cGNzYzBQd3ZJbFRROGR0Y2pHSUUtaGNrZFdQXzlNZURWT1JhVy1uQ01aLXRqVUtYdUc4cl9iX0ZwMk9leEFBYUpWd2hkWnRs?oc=5",
-      "description": "Meghna Realty unveils nature-inspired luxury housing portfolio worth INR 800 crore in Mumbai &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-11-09T09:46:24.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
+      "id": "6144efc",
+      "title": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFpaclVfN0kwbkl6aVc5bEtURHVUTlNTUGF5cVVrUHVQcjNocDhELVhBQmJzQ0VRS28xZ1BkS1BvZ2NrWE1nYVVabVJ1X29nZm5qZU5PekFRYUZDUmxJTzMzRDcwZ2lpQ1JlNVQ4eVhoTDdWRHR4UGtqbUx5SXliMmdwU0RqOUlITnZfSHNQVHhOZ1RqMklaV1JITTl2ekROMklxRjkyR2FIT2c2bzQ1SG0ySFJFbWw1?oc=5",
+      "description": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T03:16:46.000Z",
+      "city": "India",
+      "category": "Capital & lending",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
-    }
-  ],
-  "items": [
+      "stream": "funds"
+    },
+    {
+      "id": "fb938414",
+      "title": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXZ3QVpkUFd3MmFmZ2dTSzRQOHF1U0I4VGxaenpwT1dtQV9MblF4UDROVERiUlEyQTF3RzNZUlJpQkJpNm53ZF9heldYQ3BpRElHLTl2YU02di0zbmRqUnh2LS1KSDBzYXFSZUdlWlJxczRoU0laUDJEZEx2REo4V0VzMlhZUEdJNmwtR1hRZEtGQm56WEJSVlZkRGNVWmNFdTZBbkI4dG52VTdrR2NBaTl3M2htOFRRdWNhOG9lM21sWktuclMwbnNjNWd1cGdM?oc=5",
+      "description": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-11T14:54:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "79bd0aff",
+      "title": "Bengaluru remains third-largest land market as developers turn to JDAs - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0tUQ2duX1JTZGdVak12azM2WjQyYTBlbGx5T2ZhaDEwZkJrQnNfZmQ5dWJnRXUwSHRoQm8tZnFENENOWlotZkdjY05UZzZOTmlVUURubTNSOURoQTZ2anFnRWZaajJRaHQwQmdMTlBfMF90VC1hdG84eGZBaDdyWWN5UldENVJOU0EwbDRtSmpXSGZYRTczUVp4ZTJfd0hiNU1SRkNrcGNOeEF1b3AxRGxubnA3Nmc?oc=5",
+      "description": "Bengaluru remains third-largest land market as developers turn to JDAs &nbsp;&nbsp; Deccan Herald",
+      "source": "Deccan Herald",
+      "publishedAt": "2026-11-11T11:22:18.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "4f9c62d4",
       "title": "India’s rich pivot to real estate after stock returns falter - The Business Times",
@@ -411,6 +465,20 @@
         "Blackstone Real Estate"
       ],
       "stream": "reit"
+    },
+    {
+      "id": "a7cb0b21",
+      "title": "BMC Receives 97 Registrations Under Mumbai OC Amnesty Scheme - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGxia24xS3JTWEYwUlV0MzlKOFFvbDdPeDVzQnJ6eVN2enRUS0pVQ2VwbUVZV1FJeHQxdlNrdkEwcWoyLUw2bklHU2RpNXE2RTRFYmNFbDU4cm43c0hnTDY4X3pJaGxjTGoyTVFkcW5hRlNlc05la3dvd1VFNU44TktOMkxyR0dmRnNDaVYyTDVRYlZMUFB4bEtIVzkxTG5QWk04?oc=5",
+      "description": "BMC Receives 97 Registrations Under Mumbai OC Amnesty Scheme &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-07T08:00:00.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "6f005495",
@@ -2899,78 +2967,6 @@
       "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "67939df5",
-      "title": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMFFVWUdfYlZJWkV6V1lBSHUweEh1cEZsbUkwWGdXNExJM1JJV3Q0dFlTT1lybHEyT2VTSjE2Zk91cTRzUWJoM3ZvTU1Fc2lfQ3BvVXZoZXgxbWJQWFZoUVJmYjJ3Z3NZdVN4dmFvUVVmVE5SSzZnRHU5NmM4a0VCSXdEOXJQQ3puVWI3Q2luOXVNVlNxRWh5cHpBNGJOcFB0dFRZa21qMXZmTE9ucU52RDVuNGIzaXZjYzhxS1gxN3NMekZnXy1fTEpzR0ZyS3pDSUJlRzA0UUlUN2hS0gHiAUFVX3lxTE4yNDExb25nNXVKeFZCam1ZaDFKME94REx1Z2h1cERYNGc1NE5FTkFka3NzWktLQmZKaldXdTF1N0pYTjJHSFktc1VwM2xjZ2JVcW5JRHRoMVJvbTN2aUNEVDFXcmtfWHFFV2RuUkd4MkhwdDN6eGQxWkxZZW5XOGZwcEVIRUpTdWxVZG4zZWdmVENJa1NkRXVaS1BsdUZ2a3h1UndHbTRTS2FnU1ZoUGVSeTVORElTTmdKYjZCZEV1ZXE1MmNuZ1gwYkhIT1ZHZnJWQ0hCMDlkbnpJTkRnZXNDbVE?oc=5",
-      "description": "Adani begins construction of 10,432 Dharavi rehabilitation homes in Mumbai &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-13T07:34:00.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "9c4fda4c",
-      "title": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVhoaGFUVDQ4VXlUOE5WU0ZkdVQ3cWZyUnNPZHVvRkRyc1JOQ3pER3ROVFQ3TEtPYktTNHJLbGJPVlQzOXU2SHFWY0k4MlNnTC0wRXNBTXYxOTY4eWp1QTB2Q3pzelR4S1lSTVJZSU9xUmZvQjg4dkh4TzRIc3hndmhMU1h2U2RFSW1pNkFEb3htSmdSWXdwb1d3dHpNUEFUQzRQb2pyNDVHd1U5bWduM2N1ZXBWRnJidG1qeHNJTmI?oc=5",
-      "description": "Indian REITs Poised for Double-Digit Returns; Mindspace Emerges Top Pick &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-13T03:14:21.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "5de8549e",
-      "title": "Anshul Singhal launches Vantrock Real Assets with ~INR 4,200 (~USD 434 million) Crore Gross Development Value - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYjZZUzBtczVjelZZc25SbkFVSzlCZ3lGR3dXR1VVOEF3NUVtY1JOcWFSRkp6bkFYMnhZNDdzcXJZVGZucXFkUHE5WHByWW9iWmluYlhmZVliQWR5SDZUMU9WVFNTdGVnMUpud0RaUXRjUkl2TmdIcERzUW93clRucDB6MTVwU2VnNFE2U0NQWlNmLVdCYU9pRk1OVWdzc3JKMnRwOFB3ODFEem45SzREWGp0RE5tdW5IcTlvdXR3a2lQeXFDR0xfcldVdWVXeVhMOWFlbG9RbTdaeFVGTWhlYTlB?oc=5",
-      "description": "Anshul Singhal launches Vantrock Real Assets with ~INR 4,200 (~USD 434 million) Crore Gross Development Value &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-12T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "dc52b0de",
-      "title": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnRRb3VuTzl6OTdhLTk2c0dIOEcyVUtjN1lvR0d1N3JOejBfOE5oV1N1QUExNm90U1BrTndvT0I1OXpHZV9kWU90SXc5bzNJZ1lXNzVkVVRkeFNNZHBIdnh5ZWFVWlZBdDJDb1Ztb0lfX1lwaFprN2NHTHpGSmFLSDlORzFyX2sxVXNpYVYydlF1S0w4N2EyOENfbzB6Y2JIU2tVU0lIbDVNREp3cXZEWHBLN2kzOGRRSVJ4R2JFS3RXemxrSWtER3o2dVJLNzjSAdQBQVVfeXFMUFFuRnlBZkQzYjV4RTUyMFcxTGZiUG8xVTIybkE5a1F3OENqY1huQjZzUTUxMFhUU1Y2MHYxQm8yTHdoVFp0OW8ydF9CUWg4SmJFeEdlYzFkbkFzWE9RazBVTHRpWWhLS1ZrTW9IMU5TMzdkTXRvT3BCXzhnZXF6QVBmSE43bXZKWnllZ25iem90NkFmTE5JVTJhZ2xwak9aS1hxWU45VmdZOGo3MlQySmppTDN2TlhTNjBZc1BJTWdFdi1XVzVtdElLN2dCQnExZXZZU2k?oc=5",
-      "description": "Bajaj Alts raises ₹950 crore in initial close of maiden real estate fund &nbsp;&nbsp; CNBC TV18",
-      "source": "CNBC TV18",
-      "publishedAt": "2026-10-12T11:56:27.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "c8ceb4a3",
-      "title": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOEk1LVllam1MdFVwdl9XQjZtTE5iNzRPdnFtYmdRa0taYlhyaUMtaEpyQkMtdFJkX0xaclV4RURjdzk4WFI2Z0h5S3BQVVo0b2k1MVBvZGVwNlk4WDBuN3lrNVRNZm05ZGNXekt3VkMxSzctWDB5a3VmYml4REtvYTZfcUFVWGZCQjRLZlBYWEVGdjN3dUtHd09acFlsQjhYSzJLd3NQZnZBcHAtZXdicUxpQ01YVE00OGdZ?oc=5",
-      "description": "Nexus Select Trust Appoints Siddharth Nawal as MD and CEO-Designate &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-12T10:22:25.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Nexus Select Trust"
-      ],
       "stream": "reit"
     }
   ]
