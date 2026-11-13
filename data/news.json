@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T10:03:42.979Z",
+  "generatedAt": "2026-11-13T09:50:43.565Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 184,
-  "todayCount": 7,
+  "itemCount": 182,
+  "todayCount": 5,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -11,6 +11,61 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 0
     },
     {
@@ -76,7 +131,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -121,65 +176,128 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 7
+      "items": 5
     }
   ],
   "todayItems": [
+    {
+      "id": "a03bffd8",
+      "title": "Tamil Nadu CM approves ₹1,401 crore housing project to build 6,157 tenements in Chennai - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMU5aVFJybElzRzJXbjNpYVFWcDlKZmk5ZmRFUkduSmZCYU0zbUZNQUtzUTNudU5FTjY5V2pMUVpjaDFyV01wdHlDM3hyQTlvRGdhQW1yUGxaS2VGbDJLbVdMQjJkOEtBQTFqYjJFT3pQdG5sQ19UYl85aUl2dVNyZDBtci1OVUZHMFdyNDNQMWVZNmMzMHdncDBhdXQtbC05VXpuVDY1bDhiV0laQllDSkt4TkJpUnZJRzhPZW0wQlJKM1AtdnVZTmt4ZlgwRU1NSlFOaVlwTUpSR2d0TzZxOXlXOURPWWJ6dDVCN2EyeHLSAfABQVVfeXFMTjFOWlRScmxJc0cyV24zaWFRVnA5SmZpOWZkRVJHbkpmQmFNM21GTUFLc1EzbnVORU42OVdqTFFaY2gxcldNcHR5QzN4ckE5b0RnYUFtclBsWktlRmwyS21XTEIyZDhLQUExamIyRU96UHRubENfVGJfOWlJdnVTcmQwbXItTlVGRzBXcjQzUDFlWTZjMzB3Z3AwYXV0LWwtOVV6blQ2NWw4YldJWkJZQ0pLeE5CaVJ2SUc4T2VtMEJSSjNQLXZ1WU5reGZYMEVNTUpRTmlZcE1KUkdndE82cTl5VzlET1lienQ1QjdhMnhy?oc=5",
+      "description": "Tamil Nadu CM approves ₹1,401 crore housing project to build 6,157 tenements in Chennai &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-13T03:24:17.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "d521ca1d",
+      "title": "Earnings call transcript: Flagship Communities REIT Q3 2026 revenue misses By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2YzVmxLN3ppQUMzZWVDNkxRT1FMVXFXelFZajY4UF9JaldpUGVFMWdJc3Jza1pDS3plajU1SU9OeVBXNk1Lcy1MV1lSZTZpckxYbjhtSklHNEs5X2xKUEZpMW1yV0tjbkRhV3h4bHlyZDByaERFaHF2RjFsWmtPU1Z3aHlSNjQxLW5LYWNEV2VRMk15dDFxaW44QXZ4UTFaZXM2cmdYYW91WUVWcnBwVk53bldlM1JaOVBkTkFXRXZ5M3lyMnBSVGc0Tmk0VGM?oc=5",
+      "description": "Earnings call transcript: Flagship Communities REIT Q3 2026 revenue misses By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T14:49:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f5580f88",
+      "title": "Blackstone Seeks $3B for Real Estate Secondaries Fund and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGVsdXpTVkZMaFYtME5ZZWFrelp6Z0EtMTdGaUxSSlpQS2p3WUtfRWpJWi1tR0tpV3EtNkVlMmo0Zk5yeDBLYWZJNlg3bUFZMXhNMGFLTXhWTGlTMmJvak5CTmVsMElHNVlsSmk1T19sVWdpV3N2Nk1hNlQ1dzdMWmRSY2JDajJzTzlxcG1GcmZUbjdrRHJ5Y2UtSkV0ZmFMY1pQZW5CQ25oMEtsQmNFQXZzY3dxTzgwbjRxaXRqSC11OGw5TXB3Yk92UHg0U2ZPZVE?oc=5",
+      "description": "Blackstone Seeks $3B for Real Estate Secondaries Fund and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-12T13:35:04.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "fb938414",
+      "title": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXZ3QVpkUFd3MmFmZ2dTSzRQOHF1U0I4VGxaenpwT1dtQV9MblF4UDROVERiUlEyQTF3RzNZUlJpQkJpNm53ZF9heldYQ3BpRElHLTl2YU02di0zbmRqUnh2LS1KSDBzYXFSZUdlWlJxczRoU0laUDJEZEx2REo4V0VzMlhZUEdJNmwtR1hRZEtGQm56WEJSVlZkRGNVWmNFdTZBbkI4dG52VTdrR2NBaTl3M2htOFRRdWNhOG9lM21sWktuclMwbnNjNWd1cGdM?oc=5",
+      "description": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-11T14:54:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "33715640",
+      "title": "Bengaluru remains third-largest land market as developers turn to JDAs - Deccan Herald",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0ZGeHlNelBteEFSTHNXU3FNNVFhSnhtSEhNajdVTUJVeWVyZWx3LTZlTEtnRXdnM25JLUZyclZfMXpaVjhhZko4bmxlekVTNXVxMmxQY0t3eFJjMGtUZ2JBN3hQaWVLQjBxLTBXWlVYaFZGSUxNMWdLa2hqM2FFZURuSGpKZ2lxTnBlQjNIVTJoVlZqY19FSlF2a3RpWG1kdEdCWmtEM3FORjRYRTAzR2k5WkxqcWEzWjRxQlNBSHQxME5n?oc=5",
+      "description": "Bengaluru remains third-largest land market as developers turn to JDAs &nbsp;&nbsp; Deccan Herald",
+      "source": "Deccan Herald",
+      "publishedAt": "2026-11-11T11:22:18.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    }
+  ],
+  "items": [
+    {
+      "id": "a03bffd8",
+      "title": "Tamil Nadu CM approves ₹1,401 crore housing project to build 6,157 tenements in Chennai - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMU5aVFJybElzRzJXbjNpYVFWcDlKZmk5ZmRFUkduSmZCYU0zbUZNQUtzUTNudU5FTjY5V2pMUVpjaDFyV01wdHlDM3hyQTlvRGdhQW1yUGxaS2VGbDJLbVdMQjJkOEtBQTFqYjJFT3pQdG5sQ19UYl85aUl2dVNyZDBtci1OVUZHMFdyNDNQMWVZNmMzMHdncDBhdXQtbC05VXpuVDY1bDhiV0laQllDSkt4TkJpUnZJRzhPZW0wQlJKM1AtdnVZTmt4ZlgwRU1NSlFOaVlwTUpSR2d0TzZxOXlXOURPWWJ6dDVCN2EyeHLSAfABQVVfeXFMTjFOWlRScmxJc0cyV24zaWFRVnA5SmZpOWZkRVJHbkpmQmFNM21GTUFLc1EzbnVORU42OVdqTFFaY2gxcldNcHR5QzN4ckE5b0RnYUFtclBsWktlRmwyS21XTEIyZDhLQUExamIyRU96UHRubENfVGJfOWlJdnVTcmQwbXItTlVGRzBXcjQzUDFlWTZjMzB3Z3AwYXV0LWwtOVV6blQ2NWw4YldJWkJZQ0pLeE5CaVJ2SUc4T2VtMEJSSjNQLXZ1WU5reGZYMEVNTUpRTmlZcE1KUkdndE82cTl5VzlET1lienQ1QjdhMnhy?oc=5",
+      "description": "Tamil Nadu CM approves ₹1,401 crore housing project to build 6,157 tenements in Chennai &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-13T03:24:17.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "d521ca1d",
+      "title": "Earnings call transcript: Flagship Communities REIT Q3 2026 revenue misses By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2YzVmxLN3ppQUMzZWVDNkxRT1FMVXFXelFZajY4UF9JaldpUGVFMWdJc3Jza1pDS3plajU1SU9OeVBXNk1Lcy1MV1lSZTZpckxYbjhtSklHNEs5X2xKUEZpMW1yV0tjbkRhV3h4bHlyZDByaERFaHF2RjFsWmtPU1Z3aHlSNjQxLW5LYWNEV2VRMk15dDFxaW44QXZ4UTFaZXM2cmdYYW91WUVWcnBwVk53bldlM1JaOVBkTkFXRXZ5M3lyMnBSVGc0Tmk0VGM?oc=5",
+      "description": "Earnings call transcript: Flagship Communities REIT Q3 2026 revenue misses By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-12T14:49:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f5580f88",
+      "title": "Blackstone Seeks $3B for Real Estate Secondaries Fund and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUGVsdXpTVkZMaFYtME5ZZWFrelp6Z0EtMTdGaUxSSlpQS2p3WUtfRWpJWi1tR0tpV3EtNkVlMmo0Zk5yeDBLYWZJNlg3bUFZMXhNMGFLTXhWTGlTMmJvak5CTmVsMElHNVlsSmk1T19sVWdpV3N2Nk1hNlQ1dzdMWmRSY2JDajJzTzlxcG1GcmZUbjdrRHJ5Y2UtSkV0ZmFMY1pQZW5CQ25oMEtsQmNFQXZzY3dxTzgwbjRxaXRqSC11OGw5TXB3Yk92UHg0U2ZPZVE?oc=5",
+      "description": "Blackstone Seeks $3B for Real Estate Secondaries Fund and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-12T13:35:04.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "6831afbb",
       "title": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com - Investing.com India",
@@ -237,95 +355,9 @@
       "stream": "land"
     },
     {
-      "id": "1b5830a",
-      "title": "India’s rich pivot to real estate after stock returns falter - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWmprNHhKc0NkYUJfcE1mTUp4bjNHUVpLV3ltRnhVbTZtd0VpT0tiUDZWV3ZjX2hsUmtOeUp2Q1BUZnBVc2I5VFRUdnhYa21rb2UxLUlFTGgwSkhGdWlscUxMMkg4QktVcVRKZjFVbHBxSXZLR21fWjdyTEhFN1k2VlN4eE9ZNnZxeE12cXJncUdBX3NvVXFQdXhub1dvMmVrOEtjajcyV29GUEVMdTJpRUgyWFpUaVlFQS1GMDllTTJKOFNFcEZwR21pX3VfdGVsQWVGV2lkRlJDVkFsWWNDVC1yc3k4cVN10gHuAUFVX3lxTE81Sm5WbktpSnZsYi1KdkU0VGJ6LUNERmxKTjludG1fdE56dE54ZGpNbktWX0RSUm00a3k0SGg1dy1yaTZlNFpLVXRQdUs3SFQzRzNjU0I0ZVR1bjczcmlkVlh1T1lGMzhrcTY1NEZodnBiR0NfWm8wRFpsbFRiMDlLeVZxWWZweGNDWlIxRG9mZDkyZ3hHVHFBY1ozQ3ROa215ZncwcERIQmU1eXJ0UW5jNGc2NWlFUHQwQnloNUZBQU9rS2RzYmp5ZmI1TXF3RER0VzBEc1NpQklpV0owSVdPR1F4ckJlMFJSbTBlSVE?oc=5",
-      "description": "India’s rich pivot to real estate after stock returns falter &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-11T02:34:49.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "e7816d7d",
-      "title": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUm5jcVhPeUFXb0d5YjAtQ0dUWGJIbW41UFBsQUFiLUw5SjFwVDdtblVuMkRqcTFSWF9VQ1BHTlRxWHJZSEdseFhvYXo3VjBlTWg1MHdGbTNoWmtrSzc0b0oxLXVISGZmVjRvUFdmelJMOFl2R1o1bmR1c0pCTlU0SEQ1S1cwSEprZWNRZlFOaHFyanZWSzNSY1JSWVNlbzhXV0IzWjNYTHlLVk5qZU9rUnMxYXI3Z1dhRHRZdkVNdG95OGFMTmR1TU8xRW84UzJJeHNIZlIzN0ZPX2s?oc=5",
-      "description": "Earnings call transcript: CT REIT posts Q3 2026 revenue beat as growth stays steady By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-10T14:39:52.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "60297805",
-      "title": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzJuYkQta2pXaFUwUHkxQzRWS0M3TE03N3FnR3ZfYnl1bGFFNXkyeDdSTXdFVHNPS0VYWndRbmZYc1c4VFB4OTJncVBTcFYxSGlpbmRVdldzUFlDR0t1TzhrZUxWd1hKTUg2ZG1lemNWNi0tblV6Y2tKcW05aUNXa1FETmJqOWNVcFdzQmFnek1kQURwUjZxaDBPU0Jyb2hBc3RMTkdMeHFKamdHWVhzeU1VY2U3ekdhUlBqeDZaMzJ6WmFG?oc=5",
-      "description": "Hamborner REIT Q3 2026 slides: guidance raised despite FFO decline By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-10T10:49:54.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    }
-  ],
-  "items": [
-    {
-      "id": "6831afbb",
-      "title": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHBEUVZrSW1Mall5d1RLMEQ4Z1hEdUNFWHJDMUo2Q0x0azU4Q1hLTkN5SGpqTmhpU2ZtTFE5ZXR1OGlpYi14b0htRDFsVXVOUHBvWWtZYWdmQWZCVlJSNlJSWThxZXN1Tk5LaW1TQTUxR21sZ2g5NGl6NFRPOVNlQ2ltQl81WEFrQy1CQlo0aFRETlk2MC11dnNLcFlFakFYVk1XTlVwckFqbUZRZEpnWWpzdjlWTks1ZFNQWWJPdGs2aVFzZjFGMXItQ3VOcUtjWE1YWmFqdlhoWTZHSzNxdXBR?oc=5",
-      "description": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-12T06:11:33.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "6144efc",
-      "title": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFpaclVfN0kwbkl6aVc5bEtURHVUTlNTUGF5cVVrUHVQcjNocDhELVhBQmJzQ0VRS28xZ1BkS1BvZ2NrWE1nYVVabVJ1X29nZm5qZU5PekFRYUZDUmxJTzMzRDcwZ2lpQ1JlNVQ4eVhoTDdWRHR4UGtqbUx5SXliMmdwU0RqOUlITnZfSHNQVHhOZ1RqMklaV1JITTl2ekROMklxRjkyR2FIT2c2bzQ1SG0ySFJFbWw1?oc=5",
-      "description": "Form 4 THIRDLINE REAL ESTATE INCOME FUND For: 11 November By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-12T03:16:46.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "fb938414",
-      "title": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXZ3QVpkUFd3MmFmZ2dTSzRQOHF1U0I4VGxaenpwT1dtQV9MblF4UDROVERiUlEyQTF3RzNZUlJpQkJpNm53ZF9heldYQ3BpRElHLTl2YU02di0zbmRqUnh2LS1KSDBzYXFSZUdlWlJxczRoU0laUDJEZEx2REo4V0VzMlhZUEdJNmwtR1hRZEtGQm56WEJSVlZkRGNVWmNFdTZBbkI4dG52VTdrR2NBaTl3M2htOFRRdWNhOG9lM21sWktuclMwbnNjNWd1cGdM?oc=5",
-      "description": "Earnings call transcript: BTB Real Estate Q3 2026 results show mixed trends By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-11T14:54:11.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "79bd0aff",
+      "id": "33715640",
       "title": "Bengaluru remains third-largest land market as developers turn to JDAs - Deccan Herald",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0tUQ2duX1JTZGdVak12azM2WjQyYTBlbGx5T2ZhaDEwZkJrQnNfZmQ5dWJnRXUwSHRoQm8tZnFENENOWlotZkdjY05UZzZOTmlVUURubTNSOURoQTZ2anFnRWZaajJRaHQwQmdMTlBfMF90VC1hdG84eGZBaDdyWWN5UldENVJOU0EwbDRtSmpXSGZYRTczUVp4ZTJfd0hiNU1SRkNrcGNOeEF1b3AxRGxubnA3Nmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0ZGeHlNelBteEFSTHNXU3FNNVFhSnhtSEhNajdVTUJVeWVyZWx3LTZlTEtnRXdnM25JLUZyclZfMXpaVjhhZko4bmxlekVTNXVxMmxQY0t3eFJjMGtUZ2JBN3hQaWVLQjBxLTBXWlVYaFZGSUxNMWdLa2hqM2FFZURuSGpKZ2lxTnBlQjNIVTJoVlZqY19FSlF2a3RpWG1kdEdCWmtEM3FORjRYRTAzR2k5WkxqcWEzWjRxQlNBSHQxME5n?oc=5",
       "description": "Bengaluru remains third-largest land market as developers turn to JDAs &nbsp;&nbsp; Deccan Herald",
       "source": "Deccan Herald",
       "publishedAt": "2026-11-11T11:22:18.000Z",
@@ -391,6 +423,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "c20388c4",
+      "title": "Rohan Corporation enters Bengaluru real estate market with new office on Cunningham Road - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeW9HRlB2cXcyamZwZGc0RENPSGRwNVY0aW5lQ3FOaVB6ZHJpWGpSeVJPc01hZjJVS2xQQTRMMHdfcERCU3JIM3BLTEMyaW8yVHJ4MndhdHpNVERQd1F5Q0RkVDg1bGFWYnlpU2tvTVp2STZET0hoN2Z6aGMyRUhTRkdxckZxeUpHZGp6d2FMdlNmWmhPWmU1bVQzbkRxXzMxMWc4VllvUndVVHV3d1k0eUhWT1U1ZHdKdDNPZG9qMU1IcTRvUExtZ3BXeVJHLUVnZHZQZzN5Yw?oc=5",
+      "description": "Rohan Corporation enters Bengaluru real estate market with new office on Cunningham Road &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-10T11:47:38.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "60297805",
@@ -2862,112 +2908,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
-    {
-      "id": "bf2c2920",
-      "title": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report - Zee Business",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLZm1HMVZrY19PZFVHQk1Rc1M0ZW5ISWIzZVBYM1l2QWItY3BteHRXS0phQVBsYUdBSUlCRng2TFB1WEQwVkdzRFBHTUxlcTlFWk9jQUoxcXJGaGlSekZyeWd2MEx1Q2Q1dVBjQTYtRzVaWWRGdTAxaExQd0NuVEdLOFZiX0dheHF0Z2duSmFocjdBeWZWME5Mc19iTVZZc1ZOSlNSLUIzOXRDdGtaeDZ1eTNmeExpOWQwOXJJUVNnRU1QcUxNdS1EbnFRUQ?oc=5",
-      "description": "Indian real estate draws $85.5 billion in institutional investments since 2011: Report &nbsp;&nbsp; Zee Business",
-      "source": "Zee Business",
-      "publishedAt": "2026-10-14T09:46:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "7277a351",
-      "title": "BNP Paribas Leases 500,000 Sq Ft at Mindspace REIT’s One Radial - Construction World India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcG1QSmY1LThGLXNXR2tFSnJnSUxyeVFPTWZoUG5xc2lmWmh4dVdYSHY1algwNlIxOWRaa3RJbUIyTm5zamdLbEFfbGYwTmtOSGY5NTBlbU5wUHY4b2RacElNLXJNQThRRWU5ZXFNN28xMlk1WUVibzBJQUdXSmF6Ri1senFuTFVhanVzUV9NTVdSQm1qR0t5NFZfcFp1eExuTnYxZXpNa2Fpbmk3a3ZrOWtUQUEwQlAxYVlHMzgtakxXT1ExTFc2VHFDU0czWmtDMlBuZTFGdGpJUQ?oc=5",
-      "description": "BNP Paribas Leases 500,000 Sq Ft at Mindspace REIT’s One Radial &nbsp;&nbsp; Construction World India",
-      "source": "Construction World India",
-      "publishedAt": "2026-10-14T06:50:22.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b64e03f0",
-      "title": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4b9IBywFBVV95cUxOSEFlWUo5em5nVjdmb0dUcnkyQVdpb0xsdTBxQXZMVk9fM2hBTnpnOHpQNThDMnBMdnFKeWMzRTl0SGlZOUVrN3pCbEg3U0l0b0YweXRINXlqQUFvY2NKbkJxNFBmTXdyNHJscmxFbXN2anAzdFZ0SGFVMHdXZzhUT2JNNXZWZFBLV3lwZDNmdnNjUHlobjNEU29VLXZtNkpnYkRpYXJOQ1JpZkFrTnhjRkJsQXFqSFlscjB6X21aaVVyQlozREdjX1g4bw?oc=5",
-      "description": "Prestige Estates' pre-sales rise 20% to ₹7,225 crore in Q2 FY27 &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-14T04:48:53.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "60efcc79",
-      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWI2ZGZ6cmFYZVBYcXMzZVJSWUtNQkwtU1Fqd1ZtNlpqbkstYVg5TUJCSHVQTUhsSTd0T0lJdGVPNTdzRnVXMnJzenRaQTYwQThkeDd3Y1NMVVNlLURGRWgtdDg3Z2xkSG0zSGZpX3Zpa3ZuSXdMNHBEdzhBQnJiZ0EzYl90cVFLbUJSVUc2NTY1WURpejhlMzVOZ3NGZEVEN2NyeFNfdWsxRldpTEZkMm9fUWNMMThsUkFFalNWV3dzZDkzbFctYUZHWDVhQ09SM25CalA0Z0RRQ25yWlB2ZlF4WUZXdkl0eW0wb2RFb1DSAfABQVVfeXFMTmFiNmRmenJhWGVQWHFzM2VSUllLTUJMLVNRandWbTZaam5LLWFYOU1CQkh1UE1IbEk3dE9JSXRlTzU3c0Z1VzJyc3p0WkE2MEE4ZHg3d2NTTFVTZS1ERkVoLXQ4N2dsZEhtM0hmaV92aWt2bkl3TDRwRHc4QUJyYmdBM2JfdHFRS21CUlVHNjU2NVlEaXo4ZTM1TmdzRmRFRDdjcnhTX3VrMUZXaUxGZDJvX1FjTDE4bFJBRWpTVld3c2Q5M2xXLWFGR1g1YUNPUjNuQmpQNGdEUUNuclpQdmZReFlGV3ZJdHltMG9kRW9Q?oc=5",
-      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-14T03:30:28.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "negative",
-      "priority": "watch",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "f2db4caf",
-      "title": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMTEtd1VWTGwyMEFwcEdad3pLZlZISmY3Nk5kUXBQd1B2VnVGZEF3Yl94eVYyQkNZeWhkZExQN29HRDRUUjdzQzI2YlNKZjFndllsUDNUY2J4b0dJeVNjTnRycm9BUS1Ralc4TWZhS1U0ZU9ZRm9feHpYY2NuTG5wcm9MU2d3SFFQbE9acTVFbzVGd21PQjdMMFpIaDFNY045OTVfVXN5amk5anZidlRqLXFTNFRxb0FrWlFfcW9nRjYzTDlEc2wtUk00R2xHMF9yZElWMUR5LUpwRk45Vnl5b2xZckpUZ0ktemJB0gHwAUFVX3lxTE5hYjZkZnpyYVhlUFhxczNlUlJZS01CTC1TUWp3Vm02WmpuSy1hWDlNQkJIdVBNSGxJN3RPSUl0ZU81N3NGdVcycnN6dFpBNjBBOGR4N3djU0xVU2UtREZFaC10ODdnbGRIbTNIZmlfdmlrdm5Jd0w0cER3OEFCcmJnQTNiX3RxUUttQlJVRzY1NjVZRGl6OGUzNU5nc0ZkRUQ3Y3J4U191azFGV2lMRmQyb19RY0wxOGxSQUVqU1ZXd3NkOTNsVy1hRkdYNWFDT1IzbkJqUDRnRFFDbnJaUHZmUXhZRld2SXR5bTBvZEVvUA?oc=5",
-      "description": "Blackstone-backed AirTrunk delays Singapore REIT IPO amid AI stock selloff: Sources &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-14T03:30:28.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "negative",
-      "priority": "watch",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "e4ad7277",
-      "title": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWVhZjR3UFpqbFNOaHJ6S1hOWXBsNGEwMjVEdUlVYjIxVUNVb1Z2Mlk5VVJKNHpCR2J0dWhlYWQwNmMwRkY0NDRZQVJhSjRGVklNX2NsSWMyY3h0VUtRQWxVbVM4dzhiRVdyQ3ppSjdGUnhBdnVROGdQZEdjOFFKYjZCaEZaSW5aVmd5MXB5T0NMb0NCZjV0VFhpNmkyMnd3UHpabWNxb0h1cE5NOWIyQWRuUQ?oc=5",
-      "description": "Blackstone Targets $100 Billion in India, Eyes Growth in Real Estate &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-13T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "8108cb38",
-      "title": "Indian Real Estate Attracts USD 85.5 Bn in Institutional Investments Over 16 Years - Vestian - Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTnNhOUtwXy03NWh5dHI4OGx3ZXJZWkF1MkVZQ2V4MDQyWmtNV2FmREVNbmhFVzlSc1hsV0dsT3IwMUJDZzRLcDJDSGkxNFJWa29ySWJORnlSMHBwQkRtb3hrRldSWS1LM1lPTUxTRzZ4cWVfelRmanVTNktPME90dTZneE5NZldXbkRMQktVTEkyX2dMM1Jka3d4aUQtYVdkSnFtV1JUQ3RmdFhHak1fX1gzandXSlBLN2RIaTg5NW8wbFlqX0dMdEFHRDRuN0NIeFplOQ?oc=5",
-      "description": "Indian Real Estate Attracts USD 85.5 Bn in Institutional Investments Over 16 Years - Vestian &nbsp;&nbsp; Realty Today",
-      "source": "Realty Today",
-      "publishedAt": "2026-10-13T18:30:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ]
 }
