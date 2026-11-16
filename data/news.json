@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-15T09:44:34.569Z",
+  "generatedAt": "2026-11-16T10:00:13.295Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 168,
+  "itemCount": 167,
   "todayCount": 2,
   "streamCount": 34,
   "successfulStreams": 34,
@@ -41,12 +41,72 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 0
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -116,100 +176,68 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 5
+      "items": 3
     }
   ],
   "todayItems": [
     {
-      "id": "61eed40c",
-      "title": "BM Property: Devanahalli plots draw buyers seeking bigger, better spaces - Bangalore Mirror",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajJNVjVIVHAzU0pRLXRVTDVibllvdWlyVE4yZnE3c3AzN3pwQ3BERFJPUjNQLTU4QTl5R2FrU3hpZWxITUZRUXFpRVJQOEY1d1BidkdjMGFpdHpJalN0MlE5NlpZM2NhREQ2Q3g3RG9DMHlGX2FJdXFzbUhmY2M3ckZCNDNiUkJJNExid3ZLOGlldDczRGdyddIBngFBVV95cUxOcGlQVVBfT0FIZk5nNV90QXZiRzFPcXJ5c2FWR1VzbGFOemlGYlpnams2clNjZ0pTWE04eXpFckxuaW1DdEJpSlBWXzVHOHhMcHhibUNLblhLMEJXUjUxMXFFYlhHNzd4MFdYTmMyVUlyaW1UM0pEc1k2N3pwYTBiMVFCbkQ0eENDeUR6d0xYWFVRVnFiNnRXaFAxSmtYQQ?oc=5",
-      "description": "BM Property: Devanahalli plots draw buyers seeking bigger, better spaces &nbsp;&nbsp; Bangalore Mirror",
-      "source": "Bangalore Mirror",
-      "publishedAt": "2026-11-14T00:35:00.000Z",
-      "city": "Bengaluru",
+      "id": "ba9d245",
+      "title": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVN5cER4TE02ZkphMTFOMmZab0Jrc1ZNNHU5QTB2WWJOU2ozcTNEX2U0ZklTZjlwRDNhWkFqSmV0NHhhVFBnNFhtc0pxdEFEMHlubTAxbmExTHp6b1BYWnJiYmVKYkItVW1qVmlzaXIxWFUwM2M4bXJQRnIzaG50TFNua0Njckt4dmRJakdheVVCZEhvcTZjQWFwM2JXSkpfcDVLODJDVFlpblNXbmk3VGxaTF9kYlpVdGIxN0tTSDRoMjQ?oc=5",
+      "description": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-15T20:46:41.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "69d9de2d",
+      "title": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREh0WmdNZTE2YmFRb1FZaHA5RU1xNi14MnRiNEo3VmNTYnAzV0xvdFJ3YkI5TnZHTWd2NXR3ZWdDa21NeERZN0lHV0VJRENWeEVrTkZkOHUyeklWbWJPREdsLUFfY1BLWGRfWlBmYjFaQjNoNFdsNW1fY0FYZXU0ZU0wd0VfcllkSjJ3b2I2cWRwcG1lWElyRjdhWUh2dm5UR3p5b0RMTjdfaVdseTdsc3J1eE5uNDZnS2ozUGZEbTBNMXRvV1g2MEd3bjFRZVZJYUNKNkhobGJFUms?oc=5",
+      "description": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-15T10:00:11.000Z",
+      "city": "Hyderabad",
       "category": "Projects & launches",
-      "tone": "neutral",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    }
+  ],
+  "items": [
+    {
+      "id": "ba9d245",
+      "title": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVN5cER4TE02ZkphMTFOMmZab0Jrc1ZNNHU5QTB2WWJOU2ozcTNEX2U0ZklTZjlwRDNhWkFqSmV0NHhhVFBnNFhtc0pxdEFEMHlubTAxbmExTHp6b1BYWnJiYmVKYkItVW1qVmlzaXIxWFUwM2M4bXJQRnIzaG50TFNua0Njckt4dmRJakdheVVCZEhvcTZjQWFwM2JXSkpfcDVLODJDVFlpblNXbmk3VGxaTF9kYlpVdGIxN0tTSDRoMjQ?oc=5",
+      "description": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-15T20:46:41.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "69d9de2d",
+      "title": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREh0WmdNZTE2YmFRb1FZaHA5RU1xNi14MnRiNEo3VmNTYnAzV0xvdFJ3YkI5TnZHTWd2NXR3ZWdDa21NeERZN0lHV0VJRENWeEVrTkZkOHUyeklWbWJPREdsLUFfY1BLWGRfWlBmYjFaQjNoNFdsNW1fY0FYZXU0ZU0wd0VfcllkSjJ3b2I2cWRwcG1lWElyRjdhWUh2dm5UR3p5b0RMTjdfaVdseTdsc3J1eE5uNDZnS2ozUGZEbTBNMXRvV1g2MEd3bjFRZVZJYUNKNkhobGJFUms?oc=5",
+      "description": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-15T10:00:11.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
       "stream": "projects"
     },
-    {
-      "id": "5c40141b",
-      "title": "Earnings call transcript: Choice Properties posts solid Q3 2026 growth By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRTg0ZTBXbXdnTkJ3NVBYbDhZYVlrWVhCY0poX3h0R0hYMTdiLS1EX25VZ21zR01BNnNQTnNvZWszMnFELXJLYWlObjRINDRQdVE2RThteHRDZno4QndzWXRmb3VocGpXOEdOT0lZOW1EUmZIb3FRZHZYcGpmVFZ4OTl5U2kzb1pFR0lIVnBOQ1hLWHVhQWw3c3FGeFFfNC16eUxZRzdnUFQ1UjhMS0NndDdicEtXYjRnWlRWX2ZscDN1Vi1XVmpuTWln?oc=5",
-      "description": "Earnings call transcript: Choice Properties posts solid Q3 2026 growth By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-13T15:54:36.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    }
-  ],
-  "items": [
     {
       "id": "61eed40c",
       "title": "BM Property: Devanahalli plots draw buyers seeking bigger, better spaces - Bangalore Mirror",
@@ -407,6 +435,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "94da0db7",
+      "title": "Godrej Properties plans INR 32,000 crore worth of residential launches in H2 FY27 - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTjBISHgzNGhpOEdKTjZrRGQ0R3BIbGhnUjMxT1VRZ0cwUjJBNjlxZ3JOMW9nS0x0cklROHdsSDBLR1BrSldmODFyQXloTkhwZGQ4VF9rVmxPZlJlS1hmTUVRV2M5VHNyMXI2RUVLMGNiNExLRE1ONVlmbTNmVmQ2RGZuR29HQWxVaVVJOFFXbkZ4YTl0ejZqMERKb0R0WWxZUW1pUkJUSzRwN216aU5ZbGQ1dVdWWm5IUjVUeXJZM0ZyS1dyMnpOUmpaYVlwdw?oc=5",
+      "description": "Godrej Properties plans INR 32,000 crore worth of residential launches in H2 FY27 &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-10T16:03:41.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Godrej Properties"
+      ],
+      "stream": "projects"
     },
     {
       "id": "e7816d7d",
@@ -2595,66 +2639,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
-    },
-    {
-      "id": "80de2507",
-      "title": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUdIB2gFBVV95cUxOUjRCQUQ2akxSNHVaVVJYUFNLZFpoTDNNZkJqbnFxUy1RUGZ4RGtCWlFQdkZNVnNaQnpQV1NBNV9Za1B1S0hPZjRTZzltZEg2VzZxdXN3Z3lwdVBJN0lyeTNVV1htdUVXMnVBb0l3VzBnSnBrZjBhZEg2NlVWS3NSeG5UeEVVYkR3LVlyT2dwNVNUNkVXSTMxLXBKME00VHNpMXEwVUttTnJSZ3dyVEF2YVhLQ0hPaE4ySmUzOGVIVDZpbWk4SF90aXRkdDdIRVdmTml5NHlkdHZjUQ?oc=5",
-      "description": "HC orders BMC to pay ₹1,062 crore more for Oshiwara land acquisition | Mumbai news &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-17T02:19:10.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "ba2c0ef",
-      "title": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land - Free Press Journal",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV3I3Y0J1bmdpdEhTM2M2N2JZWXVObjF6NldGcE12NzlrcUJfU2lkNXV6Z2xrbUN2ckVEd0M3c19fQ1hQMTdISklaRzQ3eWZNRlJJSWZ5X0VQd3hpX1RTaGhjN0JCWmJOWkRSU0g4RjFteFZXcjNITmVtUnBYc3V1bmFQbTdRRzhPQkd4RFVCQzg3NzMzRU5xR0RtUWkwUkhmc0stdU5rcl9kUjFHWlc2UEx6NDM2LUJHa2J5d1JlaVo4TXNhWExIN0hsWEVUdzMzMDYwbl94czNNWFEwNy130gHfAUFVX3lxTFBXcjdjQnVuZ2l0SFMzYzY3YllZdU5uMXo2V0ZwTXY3OWtxQl9TaWQ1dXpnbGttQ3ZyRUR3QzdzX19DWFAxN0hKSVpHNDd5Zk1GUklJZnlfRVB3eGlfVFNoaGM3QkJaYk5aRFJTSDhGMW14VldyM0hOZW1ScFhzdXVuYVBtN1FHOE9CR3hEVUJDODc3MzNFTnFHRG1RaTBSSGZzSy11TmtyX2RSMUdaVzZQTHo0MzYtQkdrYnl3UmVpWjhNc2FYTEg3SGxYRVR3MzMwNjBuX3hzM01YUTA3LXc?oc=5",
-      "description": "Bombay HC Directs BMC To Pay ₹1,061.92 Crore Enhanced Compensation To Developer For Oshiwara-Ambivali Land &nbsp;&nbsp; Free Press Journal",
-      "source": "Free Press Journal",
-      "publishedAt": "2026-10-16T19:54:18.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "5b56f94b",
-      "title": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDVHVzNQY1BPMzJBaXhaSXdDR21lZGFxMW1RdndQcU1jeE5YZFFpc19FNVpVYTlQNloyZUhnUlJZUjVTY0RKcE1leEtpalpQejYydkJuSW5sdjcyVnZVRGJDS3NuSnhqbjhtS1Z2T2hzNkZVdU54ZF9RSDhXajloWkRxNUYyTG1ybm90OTBPc1JyYUYtQkF5cEtQU2VpWlNaS3h6YXYzQWFMMEVYaGhHWldabkM?oc=5",
-      "description": "Embassy Office Parks REIT Completes Redemption of ₹1,100 Crore Non-Convertible Debentures &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-16T16:13:05.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "23fc185c",
-      "title": "Embassy Office Parks REIT completes full redemption of ₹1,100 crore NCDs - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNm9uWWdPN00xWE1aczYwb3U1Wkp2MGppb2M0YXRESjF4alZCamtzQlBFM2NIV1dWLUVsWXlVa2ljLXBwR0lKOFJGMHNFSlRTa3dnZHJUNDQ3QzgwYVZMbVg3a1NqUWZORnpHdmJJSE5qNm5TeGhCWWhYdjRNdl9kYW1BWkZZQVZwSnZVNkdsajZRQ185SGVJbnMyaGV2MURZVDU4Z0g1d1hhdlhlT1FLZFBYNTRsY1JVU0Q3V2FtTQ?oc=5",
-      "description": "Embassy Office Parks REIT completes full redemption of ₹1,100 crore NCDs &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-16T15:54:27.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "reit"
     }
   ]
 }
