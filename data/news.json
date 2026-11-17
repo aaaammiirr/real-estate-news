@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T10:00:13.295Z",
+  "generatedAt": "2026-11-17T10:57:26.951Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 167,
-  "todayCount": 2,
+  "itemCount": 173,
+  "todayCount": 5,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -101,7 +101,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -156,7 +156,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -176,10 +176,70 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 3
+      "items": 7
     }
   ],
   "todayItems": [
+    {
+      "id": "f6f40ad2",
+      "title": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1BQNE1CNGZSd3R6UEl6YUxDcU9YclVzWUtuOV92VV9lcDYzOEt2QzJNUXdLaVVnNWM0YkgxaDFiTGNUcExPRXBjXzRwLTVxY0E1NDJ0dGxicWlvNkhfcDlUZTcxM2tMZmxHemR5d2FuNUUxQng2OWQ5N21YdWY2NUQ1M1NySmhBOS1xVHNUVGU4dmNyUXYtMmRmcWhUUk0ybUh4SUVUQ2ZzTG41TlQ0ckc3bEpESmhmZFQwSGtDTnFqWktIRk14Q3pEWS12eUZ1dHhKQTlCV0NvQmFKQ2cyS3pjWWtyRGxyc0E2a1lOR1NMUkNpSnfSAfYBQVVfeXFMTzdQUDRNQjRmUnd0elBJemFMQ3FPWHJVc1lLbjlfdlVfZXA2MzhLdkMyTVF3S2lVZzVjNGJIMWgxYkxjVHBMT0VwY180cC01cWNBNTQydHRsYnFpbzZIX3A5VGU3MTNrTGZsR3pkeXdhbjVFMUJ4NjlkOTdtWHVmNjVENTNTckpoQTktcVRzVFRlOHZjclF2LTJkZnFoVFJNMm1IeElFVENmc0xuNU5UNHJHN2xKREpoZmRUMEhrQ05xalpLSEZNeEN6RFktdnlGdXR4SkE5QldDb0JhSkNnMkt6Y1lrckRscnNBNmtZTkdTTFJDaUp3?oc=5",
+      "description": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-17T04:35:26.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "2a59e563",
+      "title": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUdIB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
+      "description": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-17T03:12:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "281ce22a",
+      "title": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRua1dMUHRXWmhNTHFRLUNQMEZsODQ3OXBiZER1MGxycXU3S1hZUldvZWt3MzI4b2o0aXRrMGU5eW5RUG4zUzRHSmZneGVHRW5LZlduVDlWWVZsdDRDdVNaUDc1U0lEQnJESjd1UDNOeXNYclVIODduX3lmYVFZNmNVT1VjRWw4aVdLN0RsSS1DVHdsVkM3bU9GbHFiUzBTRnlFOXdkaWkyd3lQZUd5S29zUXlST1ZGUlVWQ2MxNXdpZElaUGNxNmoxZw?oc=5",
+      "description": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-16T23:58:58.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "968bc314",
+      "title": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmRnWGh5eFFmbW5neExjMUlvUFZ1Y0l0a3M0SjZESTdyRGFZWTdwRnA5V1RzQVBsZEFrNHg0NFFTTW9nSGNrQnhqcnEzVEsySjZUVGtQVEc1S2FsQVFBTnRiUi0zTGJmeGVjVlZTMGc4YlVVSTliZG9LY3kwVnJ6Xzg2V2dQSG5xcGR4U3dsSWROdzhFUTFtOWVHR2ViMEtDbVZMTGY5dVg?oc=5",
+      "description": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-16T04:55:46.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "ba9d245",
       "title": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition - The Realty Today",
@@ -188,20 +248,6 @@
       "source": "The Realty Today",
       "publishedAt": "2026-11-15T20:46:41.000Z",
       "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "69d9de2d",
-      "title": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREh0WmdNZTE2YmFRb1FZaHA5RU1xNi14MnRiNEo3VmNTYnAzV0xvdFJ3YkI5TnZHTWd2NXR3ZWdDa21NeERZN0lHV0VJRENWeEVrTkZkOHUyeklWbWJPREdsLUFfY1BLWGRfWlBmYjFaQjNoNFdsNW1fY0FYZXU0ZU0wd0VfcllkSjJ3b2I2cWRwcG1lWElyRjdhWUh2dm5UR3p5b0RMTjdfaVdseTdsc3J1eE5uNDZnS2ozUGZEbTBNMXRvV1g2MEd3bjFRZVZJYUNKNkhobGJFUms?oc=5",
-      "description": "ASBL named top residential real estate developer in Hyderabad at Times Business Awards 2026 &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-11-15T10:00:11.000Z",
-      "city": "Hyderabad",
       "category": "Projects & launches",
       "tone": "positive",
       "priority": "normal",
@@ -210,6 +256,66 @@
     }
   ],
   "items": [
+    {
+      "id": "f6f40ad2",
+      "title": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1BQNE1CNGZSd3R6UEl6YUxDcU9YclVzWUtuOV92VV9lcDYzOEt2QzJNUXdLaVVnNWM0YkgxaDFiTGNUcExPRXBjXzRwLTVxY0E1NDJ0dGxicWlvNkhfcDlUZTcxM2tMZmxHemR5d2FuNUUxQng2OWQ5N21YdWY2NUQ1M1NySmhBOS1xVHNUVGU4dmNyUXYtMmRmcWhUUk0ybUh4SUVUQ2ZzTG41TlQ0ckc3bEpESmhmZFQwSGtDTnFqWktIRk14Q3pEWS12eUZ1dHhKQTlCV0NvQmFKQ2cyS3pjWWtyRGxyc0E2a1lOR1NMUkNpSnfSAfYBQVVfeXFMTzdQUDRNQjRmUnd0elBJemFMQ3FPWHJVc1lLbjlfdlVfZXA2MzhLdkMyTVF3S2lVZzVjNGJIMWgxYkxjVHBMT0VwY180cC01cWNBNTQydHRsYnFpbzZIX3A5VGU3MTNrTGZsR3pkeXdhbjVFMUJ4NjlkOTdtWHVmNjVENTNTckpoQTktcVRzVFRlOHZjclF2LTJkZnFoVFJNMm1IeElFVENmc0xuNU5UNHJHN2xKREpoZmRUMEhrQ05xalpLSEZNeEN6RFktdnlGdXR4SkE5QldDb0JhSkNnMkt6Y1lrckRscnNBNmtZTkdTTFJDaUp3?oc=5",
+      "description": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-17T04:35:26.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "2a59e563",
+      "title": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUdIB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
+      "description": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-17T03:12:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "281ce22a",
+      "title": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRua1dMUHRXWmhNTHFRLUNQMEZsODQ3OXBiZER1MGxycXU3S1hZUldvZWt3MzI4b2o0aXRrMGU5eW5RUG4zUzRHSmZneGVHRW5LZlduVDlWWVZsdDRDdVNaUDc1U0lEQnJESjd1UDNOeXNYclVIODduX3lmYVFZNmNVT1VjRWw4aVdLN0RsSS1DVHdsVkM3bU9GbHFiUzBTRnlFOXdkaWkyd3lQZUd5S29zUXlST1ZGUlVWQ2MxNXdpZElaUGNxNmoxZw?oc=5",
+      "description": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-16T23:58:58.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "968bc314",
+      "title": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmRnWGh5eFFmbW5neExjMUlvUFZ1Y0l0a3M0SjZESTdyRGFZWTdwRnA5V1RzQVBsZEFrNHg0NFFTTW9nSGNrQnhqcnEzVEsySjZUVGtQVEc1S2FsQVFBTnRiUi0zTGJmeGVjVlZTMGc4YlVVSTliZG9LY3kwVnJ6Xzg2V2dQSG5xcGR4U3dsSWROdzhFUTFtOWVHR2ViMEtDbVZMTGY5dVg?oc=5",
+      "description": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-16T04:55:46.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
+      "stream": "reit"
+    },
     {
       "id": "ba9d245",
       "title": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition - The Realty Today",
@@ -251,6 +357,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "a34efcd2",
+      "title": "Choice Properties Q3 2026 slides: solid growth, strong occupancy By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ255ZzhBWUh4NUtGeXFqNWRWU05NNS0xZTdkNWItM2VJSURqd09vM0x1cHdTa0o4UkxnSWgwTWdkNDZVeGlidTNsdGlxR1NBSld4YnFIcERKT1FLakZ1ZklYSW5HMWJobDNtNmtNNjQyYXpFZHgwYUh3NkJ1Y1EyWHZPUFI5UHA0UXd1c2VUOXdOemtuc3ozdkJYa2Q1c0xUVW9uNFlBVlFqTllhOEN6RFBtUWNpYXp3cS1SQmdmZWw?oc=5",
+      "description": "Choice Properties Q3 2026 slides: solid growth, strong occupancy By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-13T16:04:36.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "5c40141b",
@@ -311,6 +431,22 @@
       "stream": "reit"
     },
     {
+      "id": "610641c7",
+      "title": "Brookfield India Real Estate Trust (NSEI:BIRET) Stock Forecast & Analyst Predictions - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHNsQUV0dVZXRy10bnRHTVFBMUM0bkZEUGVBaXEzWHdPZ25sbUtFSXk4aEZyTFV6anhkby1QalUzaFl3dlh0UW16TkFaclNrQWJZS2duVGJtX0p3TE5Lek43eVNmTVM1RGtBQjFfRDlVZGVYU3ZRaEhwUG4zV2hiSmtkaUdGNV9pUEZLLWM1N25xcDB4bllPUkVrNW8tMVZRSVFKZg?oc=5",
+      "description": "Brookfield India Real Estate Trust (NSEI:BIRET) Stock Forecast & Analyst Predictions &nbsp;&nbsp; Simply Wall St",
+      "source": "Simply Wall St",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brookfield India Real Estate Trust"
+      ],
+      "stream": "reit"
+    },
+    {
       "id": "6831afbb",
       "title": "Earnings call transcript: Stonepeak European Real Estate Trust lifts 2026 guidance in Q3 By Investing.com - Investing.com India",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSHBEUVZrSW1Mall5d1RLMEQ4Z1hEdUNFWHJDMUo2Q0x0azU4Q1hLTkN5SGpqTmhpU2ZtTFE5ZXR1OGlpYi14b0htRDFsVXVOUHBvWWtZYWdmQWZCVlJSNlJSWThxZXN1Tk5LaW1TQTUxR21sZ2g5NGl6NFRPOVNlQ2ltQl81WEFrQy1CQlo0aFRETlk2MC11dnNLcFlFakFYVk1XTlVwckFqbUZRZEpnWWpzdjlWTks1ZFNQWWJPdGs2aVFzZjFGMXItQ3VOcUtjWE1YWmFqdlhoWTZHSzNxdXBR?oc=5",
@@ -365,6 +501,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "20abe05c",
+      "title": "BMC, SRA Dispute Over Redevelopment Approvals on Non-Slum Plots in Mumbai - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDVRZ0haVUVjVVV5YmliWHByY0lmTkx1Z0VCdWpuQXQtN3Bnblo4WXV1dE03R0tiQ2MtVjlGY2EzakdZMF9LRmlJNWxkSWhJclhrZzJmanZvV1hnSHZaZGs3ZWEtRXQxa0JldkRPUm9XeU5ycm9hVC13Zm9SWHJ1Vlp1SVMxbldXdmp3dGwxZkZvc2RKeGEybm9mNmtLTXlOSXI1V2ZmMTJuTkpuZmc?oc=5",
+      "description": "BMC, SRA Dispute Over Redevelopment Approvals on Non-Slum Plots in Mumbai &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-11T12:03:02.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "79bd0aff",
@@ -2625,20 +2775,6 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "32fe76bd",
-      "title": "Assetz adds 10-acre residential project in North Bengaluru - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnZJUnNjQlU4WEo4dGhZU0JtQnUtb092M3dJZjFxQng2UmR6bGZsMGdrcVh3MVdxbzVoQVF0UkhLel9kQndEem51eDU3Z3VKMVFSdmVhS2E4LU1ieUZSUk41Sm9tRUZ2Mk5OQkZfYTNudDFJZEw3OVdzZERjN0RnVU16S3BVM09xZ0FLdlNIWTRyNV9pdXREUWdZUGpZekdRdHExSzNseVJsTmZ4eUYw?oc=5",
-      "description": "Assetz adds 10-acre residential project in North Bengaluru &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-18T00:33:28.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
     }
   ]
 }
