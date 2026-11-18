@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T10:57:26.951Z",
+  "generatedAt": "2026-11-18T10:29:11.999Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 173,
-  "todayCount": 5,
+  "itemCount": 176,
+  "todayCount": 9,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
@@ -71,11 +71,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -101,12 +96,17 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 0
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -131,12 +131,12 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 3
     },
     {
       "label": "undefined · undefined",
@@ -181,6 +181,248 @@
   ],
   "todayItems": [
     {
+      "id": "62f5ba92",
+      "title": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URGJPLUpYdmkyZDdoQTBzbUdGQTkxUTNIdnhDbzhYVktScmY5S1gzT2hRSGE3YXZkVHVFSHVCYm5GUDJSVXpxQUdyY2E0NUh1Z18xUW11Q25CbkdBbGM5eVJVellyV1BWbFgtU1liZnROSTU5TU53?oc=5",
+      "description": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-18T06:27:08.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "56f3be0f",
+      "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYkJMbVpuSGNvSHJKSzk3V0lBMTJGVUhSMGgyTjhQX2Ffb2txYklka2VOSll5WVJTRHpkY0JEaGU2c1I2V0hHZER6cm8xTVlmQjl3ZFp6dkE4WXpYcXdmd1pla2ZYMmZMQXcwZFk3UzY0NFV3aXl6NTZaRk1kYUxBUFNSTVZFb3BaLUg0X0R5dzdIc05kLU1tZnVnTDVxZFRyN2RuMTVGWnVXVnJucHc4ems1Y3FveV9jZGw3dlVPdHJkNEI2MmJXdnRvSDVhQnpxZDNCY2hsbnNvNEpUN1JHRlUwLUpJWXVB0gHuAUFVX3lxTE1MY2hGWF95UkI2SXFGdmRHR0pBazFCOGxvY2N2ZllfODBJRnZBdl95c1BlbjJsc2hMQUhPX0lzZm1HaWYzSWNwSm84Uy1qUmtyVDU1bGZtVVN1bWZpN01YWTl6OTlSM01fMUU1OUlPcS1xMWIySzBUSUNYQ1J4YlRuNFhhY3JPQzdDT1U1aVlSRHlOVVd0dS1ReXJaZWsxSDEtMUFMOHVHZXMwQVN0Rm44SlVNaGh2TDlBQWw3NkR0d1VGUWJRUjhzSXAwLXNrcjVRVERVeks1TUhXYXdkZ0o5Yk80UVZtbmZ4ZktqYkE?oc=5",
+      "description": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-18T03:49:10.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "304d0718",
+      "title": "Raheja arm inks deal for 165-acre realty project - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHBfOG1VemFKZFRTcEwtbEtpakFxSXFjRW8zakpSMG9rVm0yT0ZRNUxITVdUNGJVaEN3VHpBMTg2d1pud25paVo2TlpoNzlyTm0tZFhGSXZRZVRWLVJNdmRNajdhZ0w3RWllOGdhR01sWjZIeWhFNjVyZG5hUV9rcHBreFBYU0IyYW1xSE4zQjRvRk5OZzBvZ3ZzWjFUbEVmTkc1RHU1VdIBrgFBVV95cUxPcWprTkh5N1N0SWNDWTluVVRPVWxPaDU1Z3AxdDVPaHJNM3pnakFMcDZyYU1wQTRGVVkyY21jdElSN1RVSE94Zk90RXVNNGhDeHdjTElyMjRPMU1HRmFWdEJrRmR5RF9VRGZBdURBWFlUUi1tOFpRdmJYLV9CLXJlbHByUXN1SHNsbUI3TlFaT1FvR09OSlVoajlXb0tsUWlRYlNSRG1GWlV1V21rX3c?oc=5",
+      "description": "Raheja arm inks deal for 165-acre realty project &nbsp;&nbsp; The Financial Express",
+      "source": "The Financial Express",
+      "publishedAt": "2026-11-18T00:13:57.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "fdbe089b",
+      "title": "Signature Global enters Mumbai market with 475-acre land buy in Raigad - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTNGMnlwUE40ZDBlckNmV1JzYnNCaTNUZUdnMm1ETXgzdXdvcVFKSVdrYXE3ZlVsVDRxaHJtZ0wteXl5RUhwLWNvdXdxbDE3VTVWMUk4OWZ1Qjg0bVBabWJtMWVmWWdlcXQwcmNkVi1wYTBfa2M2akVubUowQkx0NHFWeWxDQlpOMWcwUnhad1RLaGVfckRCTmRZTkdKUDFpUGhWTk5TN0tOVDFMRU9za1R5SzdONHVOdUlXLUw0ZUVRd0IwNVZvU1dENDRIX2lXd2psUWJB0gHbAUFVX3lxTE8wVDVfenV6Mjd4Z0h4SDJnTDRJRjNLRTA5MWkxZTFrUVJ0SzdUTVN4VmZGRnYwVUc5aEVhMzFDY2szTll2NlEyZ2hndnRYSUszRjB4MlRYNHlwcVZfczdxSDl5OWJ4c0lPQ1lrWXg4MGt5Zy1FejR4TXJnQTAxZWJaeThZWGl5Z1c4VDVkWDdpaXVPcVBOTlRWbk1UR0U3SnRwSDRpVFc1U1JIYmdUR1ZvblR5WjBFT2pUWURDY3lRYjJ3YTB4ckJtams4b1REWkM4RmZtZ0QxbnZhaw?oc=5",
+      "description": "Signature Global enters Mumbai market with 475-acre land buy in Raigad &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-17T19:17:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "87047c4b",
+      "title": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFE1V3pqM1hyRG54QWhrTGhIV2tIc3dDNTl5bVdOQWNYZWJxRHpEZkpaVkZrTzlWWU1XT3dSZ2xKdFB1UWtXWU9GdGdSMVZSNXVJVUlmaEVkTEpFeUZmb2w5UmNoUEpQS1QxYU0zQk5Vd1lzenBIWGJPMDZWU3BzN2F0dkltTHdmaXMyOTVOdnZCaWxYNWJIWWJBTzZmdWtpZmdYcXlfMkFtclQzZ0MyNGhlbURmVlZBT05Mag?oc=5",
+      "description": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-17T13:10:44.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "84040723",
+      "title": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdm9IOHpsMlNWUkVRTXFoY0Znc1FXX3N0ZkphbUlwcE9lSlgzSHdSUkhMcDN2d2EwWUQ3d0xVeXlVV21Tbm1vNG5OUmR1LUtjZC1EVzBFV1dGVVdPS3hXakN3ZzR4S1pLQlg5REU2ak95eVBuRFpkSTJOaDFPTzV4MHllOHBPemVhYl9FYmpPdFBLTHlPcTExTWpnelJDekwwZEhoUGEwZTF3ZklIdTNpLVBsYVBTRVhYMGRyV2M0bmF6YS1xc1lYSzFR?oc=5",
+      "description": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-17T12:29:57.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "fb234996",
+      "title": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL0gGAAkFVX3lxTE93REE5aTl2VDZhcFNfTFZRd3Q2ZzMtcVY4Ukc0blRjTF9ydFh6MFN4OGppVDdmTEhydGdZTHZkd2Mxb2pHaUo0YjEzblFXMTYtWHllcVRCZks0V1ZHaHoxT1hKYU1CVzlENld3RWNjUk1oLXNFRUF4M28zYV9rRFRIWnZBcUUybHVjVFhWWUMyN2o4RUp2WkJudF9oTTM2VENhdUZXMm1MM1RILXZWdjdVdFVDVGRVOXZEVWhMYWMxMENPenBnbTVaSlVjVmhEaTgyZkNIRW9Ra2lGanR3NHkwSDBHS2c0NVdzQ0tUV2NpdlUyQ0JJZ0UwXzFCR2NlOUs?oc=5",
+      "description": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-17T10:48:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "ae98502e",
+      "title": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3h5ZVlYZjFGS0dLQ1RaS2Q3QURvalNDYUZmaS1oN3BiN3pvMUFxMElXZzZyb3hpb0w4aERZaXZNaGhQdzk2RXlCTndPVnpTeW1TSnFYajZaLTBTeldLLV9XbU5kRDZOeGJpelNmRDNUZEotMTc0T0ltMEZIU1BwNHlCQ3JRSWlXVFoyTHVuMXFVM3RPOVMwdGZJXzZHTHpPSmRsV1R1bGdKR2R3SU84aU1IU1dodGNmSHNXX2pueHo0VE9KREVBMVQ4a3ZkclFPUE9WT9IB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
+      "description": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-17T03:12:11.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "281ce22a",
+      "title": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRua1dMUHRXWmhNTHFRLUNQMEZsODQ3OXBiZER1MGxycXU3S1hZUldvZWt3MzI4b2o0aXRrMGU5eW5RUG4zUzRHSmZneGVHRW5LZlduVDlWWVZsdDRDdVNaUDc1U0lEQnJESjd1UDNOeXNYclVIODduX3lmYVFZNmNVT1VjRWw4aVdLN0RsSS1DVHdsVkM3bU9GbHFiUzBTRnlFOXdkaWkyd3lQZUd5S29zUXlST1ZGUlVWQ2MxNXdpZElaUGNxNmoxZw?oc=5",
+      "description": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-16T23:58:58.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    }
+  ],
+  "items": [
+    {
+      "id": "62f5ba92",
+      "title": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URGJPLUpYdmkyZDdoQTBzbUdGQTkxUTNIdnhDbzhYVktScmY5S1gzT2hRSGE3YXZkVHVFSHVCYm5GUDJSVXpxQUdyY2E0NUh1Z18xUW11Q25CbkdBbGM5eVJVellyV1BWbFgtU1liZnROSTU5TU53?oc=5",
+      "description": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-18T06:27:08.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "56f3be0f",
+      "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYkJMbVpuSGNvSHJKSzk3V0lBMTJGVUhSMGgyTjhQX2Ffb2txYklka2VOSll5WVJTRHpkY0JEaGU2c1I2V0hHZER6cm8xTVlmQjl3ZFp6dkE4WXpYcXdmd1pla2ZYMmZMQXcwZFk3UzY0NFV3aXl6NTZaRk1kYUxBUFNSTVZFb3BaLUg0X0R5dzdIc05kLU1tZnVnTDVxZFRyN2RuMTVGWnVXVnJucHc4ems1Y3FveV9jZGw3dlVPdHJkNEI2MmJXdnRvSDVhQnpxZDNCY2hsbnNvNEpUN1JHRlUwLUpJWXVB0gHuAUFVX3lxTE1MY2hGWF95UkI2SXFGdmRHR0pBazFCOGxvY2N2ZllfODBJRnZBdl95c1BlbjJsc2hMQUhPX0lzZm1HaWYzSWNwSm84Uy1qUmtyVDU1bGZtVVN1bWZpN01YWTl6OTlSM01fMUU1OUlPcS1xMWIySzBUSUNYQ1J4YlRuNFhhY3JPQzdDT1U1aVlSRHlOVVd0dS1ReXJaZWsxSDEtMUFMOHVHZXMwQVN0Rm44SlVNaGh2TDlBQWw3NkR0d1VGUWJRUjhzSXAwLXNrcjVRVERVeks1TUhXYXdkZ0o5Yk80UVZtbmZ4ZktqYkE?oc=5",
+      "description": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-18T03:49:10.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "304d0718",
+      "title": "Raheja arm inks deal for 165-acre realty project - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHBfOG1VemFKZFRTcEwtbEtpakFxSXFjRW8zakpSMG9rVm0yT0ZRNUxITVdUNGJVaEN3VHpBMTg2d1pud25paVo2TlpoNzlyTm0tZFhGSXZRZVRWLVJNdmRNajdhZ0w3RWllOGdhR01sWjZIeWhFNjVyZG5hUV9rcHBreFBYU0IyYW1xSE4zQjRvRk5OZzBvZ3ZzWjFUbEVmTkc1RHU1VdIBrgFBVV95cUxPcWprTkh5N1N0SWNDWTluVVRPVWxPaDU1Z3AxdDVPaHJNM3pnakFMcDZyYU1wQTRGVVkyY21jdElSN1RVSE94Zk90RXVNNGhDeHdjTElyMjRPMU1HRmFWdEJrRmR5RF9VRGZBdURBWFlUUi1tOFpRdmJYLV9CLXJlbHByUXN1SHNsbUI3TlFaT1FvR09OSlVoajlXb0tsUWlRYlNSRG1GWlV1V21rX3c?oc=5",
+      "description": "Raheja arm inks deal for 165-acre realty project &nbsp;&nbsp; The Financial Express",
+      "source": "The Financial Express",
+      "publishedAt": "2026-11-18T00:13:57.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "fdbe089b",
+      "title": "Signature Global enters Mumbai market with 475-acre land buy in Raigad - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTNGMnlwUE40ZDBlckNmV1JzYnNCaTNUZUdnMm1ETXgzdXdvcVFKSVdrYXE3ZlVsVDRxaHJtZ0wteXl5RUhwLWNvdXdxbDE3VTVWMUk4OWZ1Qjg0bVBabWJtMWVmWWdlcXQwcmNkVi1wYTBfa2M2akVubUowQkx0NHFWeWxDQlpOMWcwUnhad1RLaGVfckRCTmRZTkdKUDFpUGhWTk5TN0tOVDFMRU9za1R5SzdONHVOdUlXLUw0ZUVRd0IwNVZvU1dENDRIX2lXd2psUWJB0gHbAUFVX3lxTE8wVDVfenV6Mjd4Z0h4SDJnTDRJRjNLRTA5MWkxZTFrUVJ0SzdUTVN4VmZGRnYwVUc5aEVhMzFDY2szTll2NlEyZ2hndnRYSUszRjB4MlRYNHlwcVZfczdxSDl5OWJ4c0lPQ1lrWXg4MGt5Zy1FejR4TXJnQTAxZWJaeThZWGl5Z1c4VDVkWDdpaXVPcVBOTlRWbk1UR0U3SnRwSDRpVFc1U1JIYmdUR1ZvblR5WjBFT2pUWURDY3lRYjJ3YTB4ckJtams4b1REWkM4RmZtZ0QxbnZhaw?oc=5",
+      "description": "Signature Global enters Mumbai market with 475-acre land buy in Raigad &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-17T19:17:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "87047c4b",
+      "title": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFE1V3pqM1hyRG54QWhrTGhIV2tIc3dDNTl5bVdOQWNYZWJxRHpEZkpaVkZrTzlWWU1XT3dSZ2xKdFB1UWtXWU9GdGdSMVZSNXVJVUlmaEVkTEpFeUZmb2w5UmNoUEpQS1QxYU0zQk5Vd1lzenBIWGJPMDZWU3BzN2F0dkltTHdmaXMyOTVOdnZCaWxYNWJIWWJBTzZmdWtpZmdYcXlfMkFtclQzZ0MyNGhlbURmVlZBT05Mag?oc=5",
+      "description": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-17T13:10:44.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Prestige Estates Projects"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "84040723",
+      "title": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdm9IOHpsMlNWUkVRTXFoY0Znc1FXX3N0ZkphbUlwcE9lSlgzSHdSUkhMcDN2d2EwWUQ3d0xVeXlVV21Tbm1vNG5OUmR1LUtjZC1EVzBFV1dGVVdPS3hXakN3ZzR4S1pLQlg5REU2ak95eVBuRFpkSTJOaDFPTzV4MHllOHBPemVhYl9FYmpPdFBLTHlPcTExTWpnelJDekwwZEhoUGEwZTF3ZklIdTNpLVBsYVBTRVhYMGRyV2M0bmF6YS1xc1lYSzFR?oc=5",
+      "description": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-17T12:29:57.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "fb234996",
+      "title": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL0gGAAkFVX3lxTE93REE5aTl2VDZhcFNfTFZRd3Q2ZzMtcVY4Ukc0blRjTF9ydFh6MFN4OGppVDdmTEhydGdZTHZkd2Mxb2pHaUo0YjEzblFXMTYtWHllcVRCZks0V1ZHaHoxT1hKYU1CVzlENld3RWNjUk1oLXNFRUF4M28zYV9rRFRIWnZBcUUybHVjVFhWWUMyN2o4RUp2WkJudF9oTTM2VENhdUZXMm1MM1RILXZWdjdVdFVDVGRVOXZEVWhMYWMxMENPenBnbTVaSlVjVmhEaTgyZkNIRW9Ra2lGanR3NHkwSDBHS2c0NVdzQ0tUV2NpdlUyQ0JJZ0UwXzFCR2NlOUs?oc=5",
+      "description": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-17T10:48:00.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "land"
+    },
+    {
       "id": "f6f40ad2",
       "title": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1BQNE1CNGZSd3R6UEl6YUxDcU9YclVzWUtuOV92VV9lcDYzOEt2QzJNUXdLaVVnNWM0YkgxaDFiTGNUcExPRXBjXzRwLTVxY0E1NDJ0dGxicWlvNkhfcDlUZTcxM2tMZmxHemR5d2FuNUUxQng2OWQ5N21YdWY2NUQ1M1NySmhBOS1xVHNUVGU4dmNyUXYtMmRmcWhUUk0ybUh4SUVUQ2ZzTG41TlQ0ckc3bEpESmhmZFQwSGtDTnFqWktIRk14Q3pEWS12eUZ1dHhKQTlCV0NvQmFKQ2cyS3pjWWtyRGxyc0E2a1lOR1NMUkNpSnfSAfYBQVVfeXFMTzdQUDRNQjRmUnd0elBJemFMQ3FPWHJVc1lLbjlfdlVfZXA2MzhLdkMyTVF3S2lVZzVjNGJIMWgxYkxjVHBMT0VwY180cC01cWNBNTQydHRsYnFpbzZIX3A5VGU3MTNrTGZsR3pkeXdhbjVFMUJ4NjlkOTdtWHVmNjVENTNTckpoQTktcVRzVFRlOHZjclF2LTJkZnFoVFJNMm1IeElFVENmc0xuNU5UNHJHN2xKREpoZmRUMEhrQ05xalpLSEZNeEN6RFktdnlGdXR4SkE5QldDb0JhSkNnMkt6Y1lrckRscnNBNmtZTkdTTFJDaUp3?oc=5",
@@ -211,71 +453,9 @@
       "stream": "reit"
     },
     {
-      "id": "281ce22a",
-      "title": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRua1dMUHRXWmhNTHFRLUNQMEZsODQ3OXBiZER1MGxycXU3S1hZUldvZWt3MzI4b2o0aXRrMGU5eW5RUG4zUzRHSmZneGVHRW5LZlduVDlWWVZsdDRDdVNaUDc1U0lEQnJESjd1UDNOeXNYclVIODduX3lmYVFZNmNVT1VjRWw4aVdLN0RsSS1DVHdsVkM3bU9GbHFiUzBTRnlFOXdkaWkyd3lQZUd5S29zUXlST1ZGUlVWQ2MxNXdpZElaUGNxNmoxZw?oc=5",
-      "description": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-16T23:58:58.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "968bc314",
-      "title": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObmRnWGh5eFFmbW5neExjMUlvUFZ1Y0l0a3M0SjZESTdyRGFZWTdwRnA5V1RzQVBsZEFrNHg0NFFTTW9nSGNrQnhqcnEzVEsySjZUVGtQVEc1S2FsQVFBTnRiUi0zTGJmeGVjVlZTMGc4YlVVSTliZG9LY3kwVnJ6Xzg2V2dQSG5xcGR4U3dsSWROdzhFUTFtOWVHR2ViMEtDbVZMTGY5dVg?oc=5",
-      "description": "Blackstone’s AirTrunk Signs MOU for $11B India Data Centres and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-11-16T04:55:46.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "ba9d245",
-      "title": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWVN5cER4TE02ZkphMTFOMmZab0Jrc1ZNNHU5QTB2WWJOU2ozcTNEX2U0ZklTZjlwRDNhWkFqSmV0NHhhVFBnNFhtc0pxdEFEMHlubTAxbmExTHp6b1BYWnJiYmVKYkItVW1qVmlzaXIxWFUwM2M4bXJQRnIzaG50TFNua0Njckt4dmRJakdheVVCZEhvcTZjQWFwM2JXSkpfcDVLODJDVFlpblNXbmk3VGxaTF9kYlpVdGIxN0tTSDRoMjQ?oc=5",
-      "description": "PMC Fast-Tracks Holkarwadi Town Planning Process for Pune Ring Road Land Acquisition &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-15T20:46:41.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    }
-  ],
-  "items": [
-    {
-      "id": "f6f40ad2",
-      "title": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN1BQNE1CNGZSd3R6UEl6YUxDcU9YclVzWUtuOV92VV9lcDYzOEt2QzJNUXdLaVVnNWM0YkgxaDFiTGNUcExPRXBjXzRwLTVxY0E1NDJ0dGxicWlvNkhfcDlUZTcxM2tMZmxHemR5d2FuNUUxQng2OWQ5N21YdWY2NUQ1M1NySmhBOS1xVHNUVGU4dmNyUXYtMmRmcWhUUk0ybUh4SUVUQ2ZzTG41TlQ0ckc3bEpESmhmZFQwSGtDTnFqWktIRk14Q3pEWS12eUZ1dHhKQTlCV0NvQmFKQ2cyS3pjWWtyRGxyc0E2a1lOR1NMUkNpSnfSAfYBQVVfeXFMTzdQUDRNQjRmUnd0elBJemFMQ3FPWHJVc1lLbjlfdlVfZXA2MzhLdkMyTVF3S2lVZzVjNGJIMWgxYkxjVHBMT0VwY180cC01cWNBNTQydHRsYnFpbzZIX3A5VGU3MTNrTGZsR3pkeXdhbjVFMUJ4NjlkOTdtWHVmNjVENTNTckpoQTktcVRzVFRlOHZjclF2LTJkZnFoVFJNMm1IeElFVENmc0xuNU5UNHJHN2xKREpoZmRUMEhrQ05xalpLSEZNeEN6RFktdnlGdXR4SkE5QldDb0JhSkNnMkt6Y1lrckRscnNBNmtZTkdTTFJDaUp3?oc=5",
-      "description": "Prestige Estates plans ₹45,000 crore project launches across six markets over the next two years | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-11-17T04:35:26.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "2a59e563",
+      "id": "ae98502e",
       "title": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUdIB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3h5ZVlYZjFGS0dLQ1RaS2Q3QURvalNDYUZmaS1oN3BiN3pvMUFxMElXZzZyb3hpb0w4aERZaXZNaGhQdzk2RXlCTndPVnpTeW1TSnFYajZaLTBTeldLLV9XbU5kRDZOeGJpelNmRDNUZEotMTc0T0ltMEZIU1BwNHlCQ3JRSWlXVFoyTHVuMXFVM3RPOVMwdGZJXzZHTHpPSmRsV1R1bGdKR2R3SU84aU1IU1dodGNmSHNXX2pueHo0VE9KREVBMVQ4a3ZkclFPUE9WT9IB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
       "description": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News &nbsp;&nbsp; Hindustan Times",
       "source": "Hindustan Times",
       "publishedAt": "2026-11-17T03:12:11.000Z",
@@ -2703,78 +2883,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
-    {
-      "id": "70ad54b4",
-      "title": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers - The Siasat Daily",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3B6WF82SmkxM29kekhBWHBrbVZCS05qQ1hkdEJwNVZKYnMyOTUzakNCdXZpR0c2V2d5bTZtdXhiZkdmUk55ZHZVakkzQms2R3MzRC1PVFpGeUlyY0N1RHpLT0NNMENEd05La3g3OUJRYURtU2hsZzd4SUYyWEVLVXRfSXBaeW00YmlSQ3RCMUpub2NKQzh0TGxsZEFqeHPSAaQBQVVfeXFMT09qZmY4MFRSNDVDUzZndjM0cEtMWjUxZjRPQ0lzTXNfRGpYODB3ZmNxSVU3TDVKZzdtdnNmTTJQZnpsb0Y2Q3RiSVFHUU5feGdZdEZUWVlyV2k2eG5qbjJ6VzRXd1E0RzlITXlOT2FhOGRjX2RQbkQyQXpJMHpmUi1xaHlIRUJzNVd6akNGMFQwSFpNZmIzMjNmMU5XR1ptVDBZdFA?oc=5",
-      "description": "Hyderabad developer ordered to refund Rs 10.95 lakh to plot buyers &nbsp;&nbsp; The Siasat Daily",
-      "source": "The Siasat Daily",
-      "publishedAt": "2026-10-19T08:43:43.000Z",
-      "city": "Hyderabad",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
-    },
-    {
-      "id": "1a91d48b",
-      "title": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India - SMEStreet",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVM0dnBub09XeGlmWUlQREp2LVNaVm1zWDFpalNIQzNPYk83LUJDMUxXYl80RzRkSkxROXpFUHY5ZTFZRExRd0FEbVNvZTZwSWpzX2xFTHFHR1NQZno2TURBdXdSbFBTNmczVGxpdERnRG5YZGY5VzgtTm1xUE5QMlNmU1hLS1ZJTzRFLUpSak9pVmtkVzRrUlhOSFg2eGNQQ1NlZGZ1cDJXSURVemx1Qmw2ZnQyZ1dPa0hYLU1fbXjSAcABQVVfeXFMT0lTNHZwbm9PV3hpZllJUERKdi1TWlZtc1gxaWpTSEMzT2JPNy1CQzFMV2JfNEc0ZEpMUTl6RVB2OWUxWURMUXdBRG1Tb2U2cElqc19sRUxxR0dTUGZ6Nk1EQXV3UmxQUzZnM1RsaXREZ0RuWGRmOVc4LU5tcVBOUDJTZlNYS0tWSU80RS1KUmpPaVZrZFc0a1JYTkhYNnhjUENTZWRmdXAyV0lEVXpsdUJsNmZ0MmdXT2tIWC1NX214?oc=5",
-      "description": "PE Investment in Indian Real Estate Stands at USD 1.3 Billion in Q3 2026: Savills India &nbsp;&nbsp; SMEStreet",
-      "source": "SMEStreet",
-      "publishedAt": "2026-10-19T04:59:49.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "8b50838c",
-      "title": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai - Construction Week India",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzhZT2luWFpUekhfNU9LVFp5SktvTExxT19BRE1rMDZsZERYX2pqVThHcWpaTGU2TzdJcGExLXpzV1ZiaW9sRjRXNG9qdjJGUUVZR2tTS0VlaUZaMlFadVpKZlZ0RlBaYWVTZVdhbkJ5T1dOMHF2dWV0djRUTm5ZV2lISXYzeGN4aWU3M0FfY1JPTUU0QjJaaUlEZHlBTWVleTltWG5HWmV5VW1UNDBUVmZ5TlZlcDlWaWc?oc=5",
-      "description": "Siddha Group unveils final tower at Siddha Sky in Wadala, Mumbai &nbsp;&nbsp; Construction Week India",
-      "source": "Construction Week India",
-      "publishedAt": "2026-10-19T04:10:00.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "544f6758",
-      "title": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbzNHM2wwbVVjNFBzRXFQeTdQYlFiaTBkVHJMd2k4bGR5dHdsbm5MRjVyLXlTeFVFUUp0cTFFM3RNVFlvOURPUjEyNXhIa0lZdHBFQXRPUE9JZnd5dmhrOFEtMVdsdTJOR3MyZ2JvQVdMN20yVUNRSHpRcDItdTRoaW5xS2pwMjZTTm5taTVCVFpJZEZ2eVBoamdjWW1JTUlSN0NNWjFXTmNuS0Rzcm1kc1h6ZERMQ1NRM3VJVGNnTFpJUjZaQ2NKRTcydkE3TVdqb0pIZjJJSFNJeFB1?oc=5",
-      "description": "Sameera Group enters industrial and logistics real estate with 450,000 sq ft Chennai project &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-18T16:32:15.000Z",
-      "city": "Chennai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "63f89e9b",
-      "title": "Brookfield India REIT approves schemes to set off accumulated losses - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY0ptUzd3UXl5eThWaFZDUFpjV3NBVkNMUVQwNXRwLTM3U1lnYmZFcG11ZE5iNktYNW5GeDBBVlFJTEUxcFhGVmVaWnBtRTRTc1gxemtCZ3dwZ2d4NTQ0aWFZU09aaDlxWDRzcHBGVkFiZW1BNElmUzh2U1V3QUN2R1YycHN6Qm1JV25rNWVZX3hDMkFjanRGWXR1c2hkN295YTJYMkUySW0yU3BrLTBCUVdOdXZCY1VFRURLdEdLMTA?oc=5",
-      "description": "Brookfield India REIT approves schemes to set off accumulated losses &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-18T11:23:19.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
     }
   ]
 }
