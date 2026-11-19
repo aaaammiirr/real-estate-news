@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T10:29:11.999Z",
+  "generatedAt": "2026-11-19T10:36:23.296Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 176,
-  "todayCount": 9,
+  "itemCount": 178,
+  "todayCount": 11,
   "streamCount": 34,
-  "successfulStreams": 34,
+  "successfulStreams": 32,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -16,6 +16,62 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -30,6 +86,12 @@
     },
     {
       "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "label": "undefined · undefined",
       "status": "ok",
       "items": 0
     },
@@ -37,66 +99,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -131,7 +133,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -156,11 +158,6 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
       "items": 0
     },
     {
@@ -176,11 +173,58 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 7
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 8
     }
   ],
   "todayItems": [
     {
+      "id": "64251c9b",
+      "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSdIBhwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSQ?oc=5",
+      "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-19T09:03:28.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "94dbc394",
+      "title": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHRzUTJDR0dGMXJDbVA1Z1hMYjE5NW1TUzNMWDNVQmpvTC1rSGxFY0xDSEhvZGVLVzEzWVYwR2tGLWp6VnlfT0EwNTc5YnJNeVViUktBRGtqQUlWaHNHWnB5ckpraUNXLTMteHROSGJBZ05DQW9DTmJRTUwwenUyMUNmT3cxZzQ1ajkzMUtTZlFrdnMtUUU5RWFoYUlfMjlVNkNpZ3RfWQ?oc=5",
+      "description": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders &nbsp;&nbsp; HDFC Sky",
+      "source": "HDFC Sky",
+      "publishedAt": "2026-11-19T08:56:41.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "afa42be5",
+      "title": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM180aVUwX01wb1hNR1FTNTN5S1NKc201djVibU1JZ29pbUxQcjhhR25GcjdvMHE5alg1SXZOeHFQcmdEdkhwVGxVS2xva3g1NlpTOE1OQ3ZWeEN1a1dHQlgyQ3YyOXFzUGVDcTdlRmh6Z3VJTXdTbTZveUZoT1BoQWh0QlZDUVVTcHpyMVVFd1MyRlR1QmphcEwxTkY5dGlBUURIUDFyZVlVWnE3VkdLbVpGNnVHanZvTVRMM3E5SXI4c3o3SnNrUzNpOA?oc=5",
+      "description": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-18T14:38:56.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "62f5ba92",
       "title": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URGJPLUpYdmkyZDdoQTBzbUdGQTkxUTNIdnhDbzhYVktScmY5S1gzT2hRSGE3YXZkVHVFSHVCYm5GUDJSVXpxQUdyY2E0NUh1Z18xUW11Q25CbkdBbGM5eVJVellyV1BWbFgtU1liZnROSTU5TU53?oc=5",
@@ -188,6 +232,20 @@
       "source": "Pune Mirror",
       "publishedAt": "2026-11-18T06:27:08.000Z",
       "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "58bc8367",
+      "title": "Godrej Property Penalised, From Haryana In North To Chennai In South - www.inventiva.co.in",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNidU1salhvQ19LTEgxX1VkU2dPVVdvSlF1YTlQamlNYTY1SnllaFQzX0pCdkcydEJhdUFPMGdFMFdGZlVGdDh0NWZrY3lJR2dZTmo2Y1lSWk5DbWdhYXVVaHlSdkE4U3VnaHNaN3IyM2wtblV3eGtfV1BrLWlxb2J3YUJ1dmh1VWZXTjgyMFJzZWNmTGxKa1pnYWpza1o2dk95UXpn?oc=5",
+      "description": "Godrej Property Penalised, From Haryana In North To Chennai In South &nbsp;&nbsp; www.inventiva.co.in",
+      "source": "www.inventiva.co.in",
+      "publishedAt": "2026-11-18T04:38:43.000Z",
+      "city": "Chennai",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -271,12 +329,12 @@
       "stream": "projects"
     },
     {
-      "id": "fb234996",
+      "id": "6574fe9b",
       "title": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL0gGAAkFVX3lxTE93REE5aTl2VDZhcFNfTFZRd3Q2ZzMtcVY4Ukc0blRjTF9ydFh6MFN4OGppVDdmTEhydGdZTHZkd2Mxb2pHaUo0YjEzblFXMTYtWHllcVRCZks0V1ZHaHoxT1hKYU1CVzlENld3RWNjUk1oLXNFRUF4M28zYV9rRFRIWnZBcUUybHVjVFhWWUMyN2o4RUp2WkJudF9oTTM2VENhdUZXMm1MM1RILXZWdjdVdFVDVGRVOXZEVWhMYWMxMENPenBnbTVaSlVjVmhEaTgyZkNIRW9Ra2lGanR3NHkwSDBHS2c0NVdzQ0tUV2NpdlUyQ0JJZ0UwXzFCR2NlOUs?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb2E0WkZQRFgtT0xGVjZRaFFEdmVZNENJUTJsQ2dMUnlLZnNrZU5TYm5PbEtGeDFNZjUzc0FWbFM2aG8tLXJvMlF1dGFLcDA4V1ZranB5NG15VGhZQ1BJb0owdlgwcXFFZ092WjdMcVVJS0ZhbkZrTkR0dlAxWkIzYS1CbldvU2RoRUVwSVdrWnNxc2t4M1BwZUR0NjhaaHBkTEJzOTVidDFHLUdDSDBUUGtIYjZWb1VJSkZUM1pFNkdEMmJTVmRPd1hGOExQazRJRXJXV3lLQnN1Z1NCVEtLd3dlbVhURy1KV3lYUlVmRU9FLUs4VHZkbG9ZWdIBgAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL?oc=5",
       "description": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land &nbsp;&nbsp; The Economic Times",
       "source": "The Economic Times",
-      "publishedAt": "2026-11-17T10:48:00.000Z",
+      "publishedAt": "2026-11-17T10:48:40.000Z",
       "city": "Mumbai",
       "category": "Land & acquisitions",
       "tone": "neutral",
@@ -285,38 +343,52 @@
         "K Raheja Corp"
       ],
       "stream": "land"
-    },
-    {
-      "id": "ae98502e",
-      "title": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3h5ZVlYZjFGS0dLQ1RaS2Q3QURvalNDYUZmaS1oN3BiN3pvMUFxMElXZzZyb3hpb0w4aERZaXZNaGhQdzk2RXlCTndPVnpTeW1TSnFYajZaLTBTeldLLV9XbU5kRDZOeGJpelNmRDNUZEotMTc0T0ltMEZIU1BwNHlCQ3JRSWlXVFoyTHVuMXFVM3RPOVMwdGZJXzZHTHpPSmRsV1R1bGdKR2R3SU84aU1IU1dodGNmSHNXX2pueHo0VE9KREVBMVQ4a3ZkclFPUE9WT9IB2gFBVV95cUxQRThDR0pwdDNTZWtWbWVIOEl2SHdjRFRFSW9ibnZNYlVFVzBveU9rZGtjQjRlNURESjZQSHA4Y1hvUVZxNnVBVTBZX0EtRXZIcGNMM2huWXlzXzZYbzNDcGZtaHU0TUlVNjFNRUxXTFJhSjJmenR2bUNCekxhX1pNUnhSU2FnalZsRzlIWUJsUWRud0l5YWFMWnZneEtsaFNkZkgtdlJBQ1o1RzgxcVNJejczWUlGMEdhNnRQQVVDTzJ5T0h2LW80VUdLWU8zUlVYZEE0STFXN0FaUQ?oc=5",
-      "description": "Beyond bricks and mortar: Is India's real estate investment mindset changing? | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-11-17T03:12:11.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "281ce22a",
-      "title": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWnRua1dMUHRXWmhNTHFRLUNQMEZsODQ3OXBiZER1MGxycXU3S1hZUldvZWt3MzI4b2o0aXRrMGU5eW5RUG4zUzRHSmZneGVHRW5LZlduVDlWWVZsdDRDdVNaUDc1U0lEQnJESjd1UDNOeXNYclVIODduX3lmYVFZNmNVT1VjRWw4aVdLN0RsSS1DVHdsVkM3bU9GbHFiUzBTRnlFOXdkaWkyd3lQZUd5S29zUXlST1ZGUlVWQ2MxNXdpZElaUGNxNmoxZw?oc=5",
-      "description": "Earnings call transcript: H&R REIT Q3 2026 results hit by valuation cuts By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-16T23:58:58.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ],
   "items": [
     {
+      "id": "64251c9b",
+      "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSdIBhwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSQ?oc=5",
+      "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-19T09:03:28.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "94dbc394",
+      "title": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHRzUTJDR0dGMXJDbVA1Z1hMYjE5NW1TUzNMWDNVQmpvTC1rSGxFY0xDSEhvZGVLVzEzWVYwR2tGLWp6VnlfT0EwNTc5YnJNeVViUktBRGtqQUlWaHNHWnB5ckpraUNXLTMteHROSGJBZ05DQW9DTmJRTUwwenUyMUNmT3cxZzQ1ajkzMUtTZlFrdnMtUUU5RWFoYUlfMjlVNkNpZ3RfWQ?oc=5",
+      "description": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders &nbsp;&nbsp; HDFC Sky",
+      "source": "HDFC Sky",
+      "publishedAt": "2026-11-19T08:56:41.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "afa42be5",
+      "title": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM180aVUwX01wb1hNR1FTNTN5S1NKc201djVibU1JZ29pbUxQcjhhR25GcjdvMHE5alg1SXZOeHFQcmdEdkhwVGxVS2xva3g1NlpTOE1OQ3ZWeEN1a1dHQlgyQ3YyOXFzUGVDcTdlRmh6Z3VJTXdTbTZveUZoT1BoQWh0QlZDUVVTcHpyMVVFd1MyRlR1QmphcEwxTkY5dGlBUURIUDFyZVlVWnE3VkdLbVpGNnVHanZvTVRMM3E5SXI4c3o3SnNrUzNpOA?oc=5",
+      "description": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-18T14:38:56.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "62f5ba92",
       "title": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URGJPLUpYdmkyZDdoQTBzbUdGQTkxUTNIdnhDbzhYVktScmY5S1gzT2hRSGE3YXZkVHVFSHVCYm5GUDJSVXpxQUdyY2E0NUh1Z18xUW11Q25CbkdBbGM5eVJVellyV1BWbFgtU1liZnROSTU5TU53?oc=5",
@@ -324,6 +396,20 @@
       "source": "Pune Mirror",
       "publishedAt": "2026-11-18T06:27:08.000Z",
       "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "58bc8367",
+      "title": "Godrej Property Penalised, From Haryana In North To Chennai In South - www.inventiva.co.in",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNidU1salhvQ19LTEgxX1VkU2dPVVdvSlF1YTlQamlNYTY1SnllaFQzX0pCdkcydEJhdUFPMGdFMFdGZlVGdDh0NWZrY3lJR2dZTmo2Y1lSWk5DbWdhYXVVaHlSdkE4U3VnaHNaN3IyM2wtblV3eGtfV1BrLWlxb2J3YUJ1dmh1VWZXTjgyMFJzZWNmTGxKa1pnYWpza1o2dk95UXpn?oc=5",
+      "description": "Godrej Property Penalised, From Haryana In North To Chennai In South &nbsp;&nbsp; www.inventiva.co.in",
+      "source": "www.inventiva.co.in",
+      "publishedAt": "2026-11-18T04:38:43.000Z",
+      "city": "Chennai",
       "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
@@ -405,6 +491,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
+    },
+    {
+      "id": "6574fe9b",
+      "title": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb2E0WkZQRFgtT0xGVjZRaFFEdmVZNENJUTJsQ2dMUnlLZnNrZU5TYm5PbEtGeDFNZjUzc0FWbFM2aG8tLXJvMlF1dGFLcDA4V1ZranB5NG15VGhZQ1BJb0owdlgwcXFFZ092WjdMcVVJS0ZhbkZrTkR0dlAxWkIzYS1CbldvU2RoRUVwSVdrWnNxc2t4M1BwZUR0NjhaaHBkTEJzOTVidDFHLUdDSDBUUGtIYjZWb1VJSkZUM1pFNkdEMmJTVmRPd1hGOExQazRJRXJXV3lLQnN1Z1NCVEtLd3dlbVhURy1KV3lYUlVmRU9FLUs4VHZkbG9ZWdIBgAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL?oc=5",
+      "description": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-17T10:48:40.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "land"
     },
     {
       "id": "fb234996",
@@ -478,6 +580,22 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "88a83fde",
+      "title": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSU9wNHZHdlZmbmFLbVJSc2RJc204MUswQklIWlVzVFl0dFVVZUhKV2tfN2V1eEpYTU5OZGg3RUt4enNlTldVY1Noa3N1aXpmY3pUdy05dV9Na3NvRzAwUklfN3VMMkhXTXQ3QWRGMzAxd21wb2Q5a1FIeldqV0VRRGxRVksyWTVqRWJhTm5ic25QNUE4N0U4QkUzTXFVU3JsTWxLZlU1M2FVNXFqT3VpcFU0LWF6SUMydk9mVFB3UFZxMVRaWDRHSlRVbWp1amhpYi1Sd0N6TklHU21ZaUh2UkktS1hQTVRBM0FDMtIB8gFBVV95cUxQODZmMjJEUi1Xc0d0M3VPQk81cXZyMmdSU3d4bUYtbUItZkdEenZuZWR3UnFnM2NxZFdua2VEa0tHWTU4blcxaFNRV2ZKdS0tY3JvaVExYVpNQWFyTnlWbVlnam9mUUxBcm9yWHBqRkdRY3NyMXVqZ2FLRVY4N1U1dFJJTTYwd3RCM3UzOXF0VUpaTnVoXzFjaEFFaXU0STN0YXA1cTc3dk5JbE5xdktORG9HdU5TbEtsV2RBSVYzWnl6Z0JfTEtqbFFYRDVYV0tlU3NBeDY3RUdJZjZId2pJdlNMVGdmNW9GWGt6cmpoUmVHUQ?oc=5",
+      "description": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-16T13:04:02.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Blackstone Real Estate"
+      ],
       "stream": "reit"
     },
     {
@@ -2825,64 +2943,6 @@
         "Prestige Estates Projects"
       ],
       "stream": "projects"
-    },
-    {
-      "id": "ff6e28f0",
-      "title": "Thane–Belapur: The Next Big Business Destination - Realty Plus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalBrbXVUWmZkWlZTY1ViNHBidXhlQnd3cE5LVzA3Zm02RWt5SGNyOW05WXVPWFA5UU43NVJjbHRDdkdVdEcwNnNMR3lSRDlLR2FLMFFzTHdtaHc5Zzh2ZFRoQmRzWTMwV2c3X2t6OThOMnFVUmtjVm00RHJjRDd0Vk5qQjl6TThvU3l1UnhWUTY1VmxSZDNwZERVV1ltSkU?oc=5",
-      "description": "Thane–Belapur: The Next Big Business Destination &nbsp;&nbsp; Realty Plus Magazine",
-      "source": "Realty Plus Magazine",
-      "publishedAt": "2026-10-20T03:24:26.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "6d0cc2a9",
-      "title": "Brookfield India Real Estate Trust (NSEI:BIRET) - Stock Analysis - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLW9CeUNKWGdzbVRVTGtUUGltZzY1Yi1XQnZ0U0ZXRWpVTnFWS2dzeE1lZEJLMjNwU0RldWJsY0p1dmNJb1VwM2xsWXlWcnZzYXdWemNnNy1oOHlqQ1FfdTBVeGZXNEZncjBhWkVLSjFPZDBZS2Z6VjdXTnNPVzRVa0N2VFJ2bzRvV05PQTRONzFpeWM1dmY5M0ZxVQ?oc=5",
-      "description": "Brookfield India Real Estate Trust (NSEI:BIRET) - Stock Analysis &nbsp;&nbsp; Simply Wall Street",
-      "source": "Simply Wall Street",
-      "publishedAt": "2026-10-19T12:37:32.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "c5dfd38b",
-      "title": "Kohinoor Group Pune Review 2026: PTM Builder Audit, Projects, RERA & Delivery - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSW1mQk9BS3Boa3NtRjhkSmN1cWc4aWZ4NEZpWWdvMjZfUDFNaURneURVd0JMaV82cktDUUZmUHFJZGxCSm5yT3l5d0ExcUR2U1FJNHRIYmpqcFBXS2FEcThwbXlzbUt5b05TYUx3OS1HbmNXNDBTM2QxdE96eHN6M2xhUlNwMm0xOElXSXZ6WjNDOFJUMXFseHFueGlvWGdXQjRzZS1fSWg3Y1llcTM5NHdNS1kxbE1f?oc=5",
-      "description": "Kohinoor Group Pune Review 2026: PTM Builder Audit, Projects, RERA & Delivery &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-19T11:50:42.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "7e6b6a07",
-      "title": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained - Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMVJnYV9GU2NiTjlzcEEtU1l5d2pncEE3bWtXM2daaFRyaGl0QWpDenBBMHJydzczYXd6RE03UFZDUDcxc2tlbU1kcUV1OUZGUG9reDlCQnJ4d0VEcEpSTXcwQmplcXpSY0NWWHhBLWNzUGRkd3k3Z2tmNU03WHM3N21vYlR3Y001QXQ4d0VQTWZpWE5YMUFoc0ZsNW4wU3M5NGc4RDJCN09NTjVkRHppbW51OFlCUUVaWXVESkpHakJWbTU1UjdvVg?oc=5",
-      "description": "B-Right RealEstate Mumbai Redevelopment and Project Pipeline Explained &nbsp;&nbsp; Kalkine India",
-      "source": "Kalkine India",
-      "publishedAt": "2026-10-19T10:32:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
     }
   ]
 }
