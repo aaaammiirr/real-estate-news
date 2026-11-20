@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T10:36:23.296Z",
+  "generatedAt": "2026-11-20T10:17:33.646Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 178,
-  "todayCount": 11,
+  "itemCount": 185,
+  "todayCount": 7,
   "streamCount": 34,
-  "successfulStreams": 32,
+  "successfulStreams": 33,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -16,7 +16,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -42,6 +42,26 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
     },
     {
       "label": "undefined · undefined",
@@ -68,27 +88,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -133,7 +132,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -178,14 +177,106 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 8
+      "items": 6
     }
   ],
   "todayItems": [
     {
-      "id": "64251c9b",
+      "id": "ff81485e",
+      "title": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDJEN1N5TjhXZTlzaU93eDhnUUFpQlVZRDNqVDJCMWlPcGdxaXRiaUt4ZzZhVGtLSmY4bGoyZk9ITURDTW5TbzFPZ1NsWG5yT3p0OUszWGxSYlJGZVhTb2t4S2RzN0ktNm1kc21YUEZZNDVKdHR6VHJfc1F4bnZQektNLWhZQVZCR1FfZ2E1cFVMbTJnVVFDX3B4YnJYbUxIaFFSWnMzVXpPc3JsVmU4ZWI3SmpqMF9jVGg2ei1JYlNwWHZ0UU85TXVSYVMzbVhnUFJXRw?oc=5",
+      "description": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR &nbsp;&nbsp; Construction World",
+      "source": "Construction World",
+      "publishedAt": "2026-11-20T08:35:48.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "a7462c53",
+      "title": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4ddIB1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4dQ?oc=5",
+      "description": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches &nbsp;&nbsp; The Financial Express",
+      "source": "The Financial Express",
+      "publishedAt": "2026-11-20T02:47:29.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Godrej Properties"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "ac0d9fb6",
+      "title": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHZmZWE0SXZ1akVXUEwyZnp4WUN4RDFXWUMxYUI1UWVRQ1lYVUlTN3lHUGRYa3g5VXplalFWQkc3czlNTUdIdjZwekpVR1ZjUUtlaWpmWEp3bFVSX0Y0THdSM0lLRFZkLVJheDU5cXNlTjMzOU9YU204N08zSVBRdmJicEtYbjlHeDRqaUF6N05FYmE4SjJvbFRJYjdHVUE2RUlDcVVVOHBwWm1PYUhkVTF3MEE3OEpXa0ZWd3ZYVjNQY213SmZZ?oc=5",
+      "description": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-19T18:33:21.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "556128af",
+      "title": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3FzaGFRSUNuN01tWUg0MFJQdGFYX1RiY1FmaWdmMHZwQmk5OUx3T1h3NUVzbWpXbFlHN3J2OGJXY3FNSFZhNVF1dWdjSm42TWNXWjMyVEY4NnZaV3BKNWM4TlNORFJvMkdxVGg2SzZ4UlVNU002LUVIaGxreGpuYzE2OVhQdFhqdldEb2xoMWZXekdDbUlETU9HT2dUZmxmZWYyWXpVQm9VZnU2Z2VrSE9pd1NQdjN3SGhSSXNVX0hvU0hJMko1THF2dU0?oc=5",
+      "description": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-19T18:33:21.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "HDFC Capital Advisors"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "93562b04",
+      "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMU03V3lqZEItV3hCWWtDWHdwb2MwN2l1djRDWFBWSU5WR2M0NmVsZ3JVdjM2clBVb2VtM3dHdmFDcnliVnpYWnR1dG15Wmd0TFc4RVZtTVRkT21zT0p4OUY2dGFNZ3pXRUZTbVQ5dllWRWFYc2NGbWE4Q25SYlU2MFZjVkk4dEdOUkl3XzAtSm1uNWpLMmNScjlWVkFQM0xIM3VydnRiZDdvNW1yRm1haFlxcDhDcnRrTFNzUG9pQXFqcUlvUFpkNGdUZnR4SkQ3cm9iOWpPbjBLaGQ2c1BwMGMzNXJja3UyYVA4dlJ2VkRmWHdWak91MjZUOXJ4a0daTHZv0gGIAkFVX3lxTFBfQW5TZjlub3B2MjJsUjBoN0owazk3a0NMZTRoX0hMcWp1WjduaDQwNEtMOUJEYmpMbW5DcWQ4ZmExbXJoZ3lRcUxtQVk3NW1NSkhzR1ZjTmI2bVg1QTY4ZzBHZVdzODRkNUd5Z2ZfRW5iU1F3ZnB4a2RzVVg1RUlRNzJoMVVGX2VwQVZvVk83bHprdE94QjloejhYWnM2ZWdaZEd1TWljaW9nMl9tVTJMTmVuZlUzenZQZHp0MVNUb2RiNjZmWFd6ajM5eF9KdS1ONzNCNm5CcTlHb3JwTThzOFdLMDNkU3NmS2JNLVE4eW85bDJkdFVfWmM3QlhsbWg2VXVNdjlHRA?oc=5",
+      "description": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-19T15:57:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "7b483bba",
+      "title": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmVfSEEzY3ptMXFIblMtWkZxYm9URmJ0cDRfVUtmUnFLV2Rmd3R1VE5EVDh1VjgwSU9DTnVNVGdvOThTQUU3TjNoSTdOOU9XU29qal9veGNZVWplVUptZXZhUDlNSjZ4RUZoN0RXREhMMWxpbFhfWTQxa1FSa1dMS3d1b2lPMjk3MktqZHlUbnVhNm5CYTBfdUg4ek9FaFhfNUFhcWJ5T2ZZUENuWHBFRUViaEhfLUVUS1h3RmI0Mmp3Z09SbTctX0hqTWdrTXRQNnA2Y9IB2gFBVV95cUxOb1EtVU4tRGtGQ2NkeUtadWtralpEUzRNMmtVS1V1bWM4eHF0TWtSU0s2U0VwbHc3SWR6RkpoLTRYc0ZDSk5FY3A2UU9QSkpnOGxJVU5Sbzh4Uy1sY2l0NVNxbEFRdXJIaXRiTUNtS2wtbDl5endXcWlRQ3lJSEZpZndyU18zbUtqUHpqMVBsa1hNcUR2a3NWbms0THhvWDZOOExDSWZnbUNEd1VacHo1VktncFhIX3I5TlZOMC1WMjVmYmlxMzNwWmN2MkdXY0k3M21WejAxazVCZw?oc=5",
+      "description": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-19T10:48:33.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f4d51aa9",
       "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSdIBhwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ19Lc0o1Y3ZBeTJ2ZkR2dXRxdU5jeUZSTUtlRnpnR180THREUFVrdmx3Z0VlbDVOUmFPczNhNThkanltMFpTYnhHWE83UVJGaUw2eHdyV0syNVVnQ3VVV3NZZ0VGQzVRa3NlLXZHNE1pMTl2NFVfYzJ6NVg1dDZvVHhZNlFIVkdEcFpuOEc3MFdmem5RaXFhYkQ5a21hY0ZWWG5XWTd4UWNacU1KRjQ2Y0hPWE9qT1BHMldjR3lqeUpUeXVDYkRjQ0p1S3I4VFNGRGJMQUJTWXh5UXlxRHF1ZWtKMHBFNml6UjhaMk1FMU92Qkc0RVR1VzNZY2xKZngyZkHSAYcCQVVfeXFMTVRZSDUzS2QyTTJHTklEWlk1bmxuQUZ1YnpjMGdmYUtVWUNjYTd0VWlQcmVUYklxd25YU1lsSkFfN05pZmpVTl9IWXlMVV9nRTRjNHJlZ3djWVNKR0RNV2NKYy1fMy1BdTRlZ3NLbkQ1OGdiMzV1Q2dmc1lqNzM2Y000WDFacUs0cGtqQmx0TDlFckR2TjRTVFVKX1gwVVBhTUFYbU14TmR3Qk1hME1Lbm82QW04X3RMNVpaOHFIVUJzLXhUTGRsUl8yblNUWEtzcTY3d0c0dFd5ZGtVSngzVDBXcU9IUnNfa09yTmprcExQM0IxNm03eFdLbWtFZHJybDFiQ2pUMEk?oc=5",
       "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
       "source": "Hindustan Times",
       "publishedAt": "2026-11-19T09:03:28.000Z",
@@ -195,161 +286,119 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
-    {
-      "id": "94dbc394",
-      "title": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders - HDFC Sky",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHRzUTJDR0dGMXJDbVA1Z1hMYjE5NW1TUzNMWDNVQmpvTC1rSGxFY0xDSEhvZGVLVzEzWVYwR2tGLWp6VnlfT0EwNTc5YnJNeVViUktBRGtqQUlWaHNHWnB5ckpraUNXLTMteHROSGJBZ05DQW9DTmJRTUwwenUyMUNmT3cxZzQ1ajkzMUtTZlFrdnMtUUU5RWFoYUlfMjlVNkNpZ3RfWQ?oc=5",
-      "description": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders &nbsp;&nbsp; HDFC Sky",
-      "source": "HDFC Sky",
-      "publishedAt": "2026-11-19T08:56:41.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "afa42be5",
-      "title": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM180aVUwX01wb1hNR1FTNTN5S1NKc201djVibU1JZ29pbUxQcjhhR25GcjdvMHE5alg1SXZOeHFQcmdEdkhwVGxVS2xva3g1NlpTOE1OQ3ZWeEN1a1dHQlgyQ3YyOXFzUGVDcTdlRmh6Z3VJTXdTbTZveUZoT1BoQWh0QlZDUVVTcHpyMVVFd1MyRlR1QmphcEwxTkY5dGlBUURIUDFyZVlVWnE3VkdLbVpGNnVHanZvTVRMM3E5SXI4c3o3SnNrUzNpOA?oc=5",
-      "description": "Earnings call transcript: Canadian Net REIT posts steady q3 2026 growth By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-18T14:38:56.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "62f5ba92",
-      "title": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URGJPLUpYdmkyZDdoQTBzbUdGQTkxUTNIdnhDbzhYVktScmY5S1gzT2hRSGE3YXZkVHVFSHVCYm5GUDJSVXpxQUdyY2E0NUh1Z18xUW11Q25CbkdBbGM5eVJVellyV1BWbFgtU1liZnROSTU5TU53?oc=5",
-      "description": "Baner Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-18T06:27:08.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "58bc8367",
-      "title": "Godrej Property Penalised, From Haryana In North To Chennai In South - www.inventiva.co.in",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNidU1salhvQ19LTEgxX1VkU2dPVVdvSlF1YTlQamlNYTY1SnllaFQzX0pCdkcydEJhdUFPMGdFMFdGZlVGdDh0NWZrY3lJR2dZTmo2Y1lSWk5DbWdhYXVVaHlSdkE4U3VnaHNaN3IyM2wtblV3eGtfV1BrLWlxb2J3YUJ1dmh1VWZXTjgyMFJzZWNmTGxKa1pnYWpza1o2dk95UXpn?oc=5",
-      "description": "Godrej Property Penalised, From Haryana In North To Chennai In South &nbsp;&nbsp; www.inventiva.co.in",
-      "source": "www.inventiva.co.in",
-      "publishedAt": "2026-11-18T04:38:43.000Z",
-      "city": "Chennai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "56f3be0f",
-      "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYkJMbVpuSGNvSHJKSzk3V0lBMTJGVUhSMGgyTjhQX2Ffb2txYklka2VOSll5WVJTRHpkY0JEaGU2c1I2V0hHZER6cm8xTVlmQjl3ZFp6dkE4WXpYcXdmd1pla2ZYMmZMQXcwZFk3UzY0NFV3aXl6NTZaRk1kYUxBUFNSTVZFb3BaLUg0X0R5dzdIc05kLU1tZnVnTDVxZFRyN2RuMTVGWnVXVnJucHc4ems1Y3FveV9jZGw3dlVPdHJkNEI2MmJXdnRvSDVhQnpxZDNCY2hsbnNvNEpUN1JHRlUwLUpJWXVB0gHuAUFVX3lxTE1MY2hGWF95UkI2SXFGdmRHR0pBazFCOGxvY2N2ZllfODBJRnZBdl95c1BlbjJsc2hMQUhPX0lzZm1HaWYzSWNwSm84Uy1qUmtyVDU1bGZtVVN1bWZpN01YWTl6OTlSM01fMUU1OUlPcS1xMWIySzBUSUNYQ1J4YlRuNFhhY3JPQzdDT1U1aVlSRHlOVVd0dS1ReXJaZWsxSDEtMUFMOHVHZXMwQVN0Rm44SlVNaGh2TDlBQWw3NkR0d1VGUWJRUjhzSXAwLXNrcjVRVERVeks1TUhXYXdkZ0o5Yk80UVZtbmZ4ZktqYkE?oc=5",
-      "description": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-11-18T03:49:10.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "K Raheja Corp"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "304d0718",
-      "title": "Raheja arm inks deal for 165-acre realty project - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHBfOG1VemFKZFRTcEwtbEtpakFxSXFjRW8zakpSMG9rVm0yT0ZRNUxITVdUNGJVaEN3VHpBMTg2d1pud25paVo2TlpoNzlyTm0tZFhGSXZRZVRWLVJNdmRNajdhZ0w3RWllOGdhR01sWjZIeWhFNjVyZG5hUV9rcHBreFBYU0IyYW1xSE4zQjRvRk5OZzBvZ3ZzWjFUbEVmTkc1RHU1VdIBrgFBVV95cUxPcWprTkh5N1N0SWNDWTluVVRPVWxPaDU1Z3AxdDVPaHJNM3pnakFMcDZyYU1wQTRGVVkyY21jdElSN1RVSE94Zk90RXVNNGhDeHdjTElyMjRPMU1HRmFWdEJrRmR5RF9VRGZBdURBWFlUUi1tOFpRdmJYLV9CLXJlbHByUXN1SHNsbUI3TlFaT1FvR09OSlVoajlXb0tsUWlRYlNSRG1GWlV1V21rX3c?oc=5",
-      "description": "Raheja arm inks deal for 165-acre realty project &nbsp;&nbsp; The Financial Express",
-      "source": "The Financial Express",
-      "publishedAt": "2026-11-18T00:13:57.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "K Raheja Corp"
-      ],
-      "stream": "land"
-    },
-    {
-      "id": "fdbe089b",
-      "title": "Signature Global enters Mumbai market with 475-acre land buy in Raigad - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTNGMnlwUE40ZDBlckNmV1JzYnNCaTNUZUdnMm1ETXgzdXdvcVFKSVdrYXE3ZlVsVDRxaHJtZ0wteXl5RUhwLWNvdXdxbDE3VTVWMUk4OWZ1Qjg0bVBabWJtMWVmWWdlcXQwcmNkVi1wYTBfa2M2akVubUowQkx0NHFWeWxDQlpOMWcwUnhad1RLaGVfckRCTmRZTkdKUDFpUGhWTk5TN0tOVDFMRU9za1R5SzdONHVOdUlXLUw0ZUVRd0IwNVZvU1dENDRIX2lXd2psUWJB0gHbAUFVX3lxTE8wVDVfenV6Mjd4Z0h4SDJnTDRJRjNLRTA5MWkxZTFrUVJ0SzdUTVN4VmZGRnYwVUc5aEVhMzFDY2szTll2NlEyZ2hndnRYSUszRjB4MlRYNHlwcVZfczdxSDl5OWJ4c0lPQ1lrWXg4MGt5Zy1FejR4TXJnQTAxZWJaeThZWGl5Z1c4VDVkWDdpaXVPcVBOTlRWbk1UR0U3SnRwSDRpVFc1U1JIYmdUR1ZvblR5WjBFT2pUWURDY3lRYjJ3YTB4ckJtams4b1REWkM4RmZtZ0QxbnZhaw?oc=5",
-      "description": "Signature Global enters Mumbai market with 475-acre land buy in Raigad &nbsp;&nbsp; Business Standard",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-17T19:17:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "87047c4b",
-      "title": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaFE1V3pqM1hyRG54QWhrTGhIV2tIc3dDNTl5bVdOQWNYZWJxRHpEZkpaVkZrTzlWWU1XT3dSZ2xKdFB1UWtXWU9GdGdSMVZSNXVJVUlmaEVkTEpFeUZmb2w5UmNoUEpQS1QxYU0zQk5Vd1lzenBIWGJPMDZWU3BzN2F0dkltTHdmaXMyOTVOdnZCaWxYNWJIWWJBTzZmdWtpZmdYcXlfMkFtclQzZ0MyNGhlbURmVlZBT05Mag?oc=5",
-      "description": "Prestige Estates Plans Rs. 45,000 Crore in Project Launches Across Six Markets &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-17T13:10:44.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "84040723",
-      "title": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdm9IOHpsMlNWUkVRTXFoY0Znc1FXX3N0ZkphbUlwcE9lSlgzSHdSUkhMcDN2d2EwWUQ3d0xVeXlVV21Tbm1vNG5OUmR1LUtjZC1EVzBFV1dGVVdPS3hXakN3ZzR4S1pLQlg5REU2ak95eVBuRFpkSTJOaDFPTzV4MHllOHBPemVhYl9FYmpPdFBLTHlPcTExTWpnelJDekwwZEhoUGEwZTF3ZklIdTNpLVBsYVBTRVhYMGRyV2M0bmF6YS1xc1lYSzFR?oc=5",
-      "description": "Meesho CEO Vidit Aatrey Buys Bengaluru Villa Plots From Byju's Family for Rs. 83.81 Crore &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-17T12:29:57.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "6574fe9b",
-      "title": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNb2E0WkZQRFgtT0xGVjZRaFFEdmVZNENJUTJsQ2dMUnlLZnNrZU5TYm5PbEtGeDFNZjUzc0FWbFM2aG8tLXJvMlF1dGFLcDA4V1ZranB5NG15VGhZQ1BJb0owdlgwcXFFZ092WjdMcVVJS0ZhbkZrTkR0dlAxWkIzYS1CbldvU2RoRUVwSVdrWnNxc2t4M1BwZUR0NjhaaHBkTEJzOTVidDFHLUdDSDBUUGtIYjZWb1VJSkZUM1pFNkdEMmJTVmRPd1hGOExQazRJRXJXV3lLQnN1Z1NCVEtLd3dlbVhURy1KV3lYUlVmRU9FLUs4VHZkbG9ZWdIBgAJBVV95cUxPd0RBOWk5dlQ2YXBTX0xWUXd0NmczLXFWOFJHNG5UY0xfcnRYejBTeDhqaVQ3ZkxIcnRnWUx2ZHdjMW9qR2lKNGIxM25RVzE2LVh5ZXFUQmZLNFdWR2h6MU9YSmFNQlc5RDZXd0VjY1JNaC1zRUVBeDNvM2Ffa0RUSFp2QXFFMmx1Y1RYVllDMjdqOEVKdlpCbnRfaE0zNlRDYXVGVzJtTDNUSC12VnY3VXRVQ1RkVTl2RFVoTGFjMTBDT3pwZ201WkpVY1ZoRGk4MmZDSEVvUWtpRmp0dzR5MEgwR0tnNDVXc0NLVFdjaXZVMkNCSWdFMF8xQkdjZTlL?oc=5",
-      "description": "K Raheja Corp inks Rs 956 crore development deal for 165-acre Panvel land &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-17T10:48:40.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "K Raheja Corp"
-      ],
-      "stream": "land"
     }
   ],
   "items": [
     {
+      "id": "ff81485e",
+      "title": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDJEN1N5TjhXZTlzaU93eDhnUUFpQlVZRDNqVDJCMWlPcGdxaXRiaUt4ZzZhVGtLSmY4bGoyZk9ITURDTW5TbzFPZ1NsWG5yT3p0OUszWGxSYlJGZVhTb2t4S2RzN0ktNm1kc21YUEZZNDVKdHR6VHJfc1F4bnZQektNLWhZQVZCR1FfZ2E1cFVMbTJnVVFDX3B4YnJYbUxIaFFSWnMzVXpPc3JsVmU4ZWI3SmpqMF9jVGg2ei1JYlNwWHZ0UU85TXVSYVMzbVhnUFJXRw?oc=5",
+      "description": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR &nbsp;&nbsp; Construction World",
+      "source": "Construction World",
+      "publishedAt": "2026-11-20T08:35:48.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
+      "stream": "reit"
+    },
+    {
+      "id": "a7462c53",
+      "title": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4ddIB1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4dQ?oc=5",
+      "description": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches &nbsp;&nbsp; The Financial Express",
+      "source": "The Financial Express",
+      "publishedAt": "2026-11-20T02:47:29.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Godrej Properties"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "ac0d9fb6",
+      "title": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHZmZWE0SXZ1akVXUEwyZnp4WUN4RDFXWUMxYUI1UWVRQ1lYVUlTN3lHUGRYa3g5VXplalFWQkc3czlNTUdIdjZwekpVR1ZjUUtlaWpmWEp3bFVSX0Y0THdSM0lLRFZkLVJheDU5cXNlTjMzOU9YU204N08zSVBRdmJicEtYbjlHeDRqaUF6N05FYmE4SjJvbFRJYjdHVUE2RUlDcVVVOHBwWm1PYUhkVTF3MEE3OEpXa0ZWd3ZYVjNQY213SmZZ?oc=5",
+      "description": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-19T18:33:21.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Embassy Developments"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "556128af",
+      "title": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3FzaGFRSUNuN01tWUg0MFJQdGFYX1RiY1FmaWdmMHZwQmk5OUx3T1h3NUVzbWpXbFlHN3J2OGJXY3FNSFZhNVF1dWdjSm42TWNXWjMyVEY4NnZaV3BKNWM4TlNORFJvMkdxVGg2SzZ4UlVNU002LUVIaGxreGpuYzE2OVhQdFhqdldEb2xoMWZXekdDbUlETU9HT2dUZmxmZWYyWXpVQm9VZnU2Z2VrSE9pd1NQdjN3SGhSSXNVX0hvU0hJMko1THF2dU0?oc=5",
+      "description": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-19T18:33:21.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "HDFC Capital Advisors"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "93562b04",
+      "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMU03V3lqZEItV3hCWWtDWHdwb2MwN2l1djRDWFBWSU5WR2M0NmVsZ3JVdjM2clBVb2VtM3dHdmFDcnliVnpYWnR1dG15Wmd0TFc4RVZtTVRkT21zT0p4OUY2dGFNZ3pXRUZTbVQ5dllWRWFYc2NGbWE4Q25SYlU2MFZjVkk4dEdOUkl3XzAtSm1uNWpLMmNScjlWVkFQM0xIM3VydnRiZDdvNW1yRm1haFlxcDhDcnRrTFNzUG9pQXFqcUlvUFpkNGdUZnR4SkQ3cm9iOWpPbjBLaGQ2c1BwMGMzNXJja3UyYVA4dlJ2VkRmWHdWak91MjZUOXJ4a0daTHZv0gGIAkFVX3lxTFBfQW5TZjlub3B2MjJsUjBoN0owazk3a0NMZTRoX0hMcWp1WjduaDQwNEtMOUJEYmpMbW5DcWQ4ZmExbXJoZ3lRcUxtQVk3NW1NSkhzR1ZjTmI2bVg1QTY4ZzBHZVdzODRkNUd5Z2ZfRW5iU1F3ZnB4a2RzVVg1RUlRNzJoMVVGX2VwQVZvVk83bHprdE94QjloejhYWnM2ZWdaZEd1TWljaW9nMl9tVTJMTmVuZlUzenZQZHp0MVNUb2RiNjZmWFd6ajM5eF9KdS1ONzNCNm5CcTlHb3JwTThzOFdLMDNkU3NmS2JNLVE4eW85bDJkdFVfWmM3QlhsbWg2VXVNdjlHRA?oc=5",
+      "description": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-19T15:57:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "7b483bba",
+      "title": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmVfSEEzY3ptMXFIblMtWkZxYm9URmJ0cDRfVUtmUnFLV2Rmd3R1VE5EVDh1VjgwSU9DTnVNVGdvOThTQUU3TjNoSTdOOU9XU29qal9veGNZVWplVUptZXZhUDlNSjZ4RUZoN0RXREhMMWxpbFhfWTQxa1FSa1dMS3d1b2lPMjk3MktqZHlUbnVhNm5CYTBfdUg4ek9FaFhfNUFhcWJ5T2ZZUENuWHBFRUViaEhfLUVUS1h3RmI0Mmp3Z09SbTctX0hqTWdrTXRQNnA2Y9IB2gFBVV95cUxOb1EtVU4tRGtGQ2NkeUtadWtralpEUzRNMmtVS1V1bWM4eHF0TWtSU0s2U0VwbHc3SWR6RkpoLTRYc0ZDSk5FY3A2UU9QSkpnOGxJVU5Sbzh4Uy1sY2l0NVNxbEFRdXJIaXRiTUNtS2wtbDl5endXcWlRQ3lJSEZpZndyU18zbUtqUHpqMVBsa1hNcUR2a3NWbms0THhvWDZOOExDSWZnbUNEd1VacHo1VktncFhIX3I5TlZOMC1WMjVmYmlxMzNwWmN2MkdXY0k3M21WejAxazVCZw?oc=5",
+      "description": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-19T10:48:33.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
       "id": "64251c9b",
       "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSdIBhwJBVV95cUxNVFlINTNLZDJNMkdOSURaWTVubG5BRnViemMwZ2ZhS1VZQ2NhN3RVaVByZVRiSXF3blhTWWxKQV83TmlmalVOX0hZeUxVX2dFNGM0cmVnd2NZU0pHRE1XY0pjLV8zLUF1NGVnc0tuRDU4Z2IzNXVDZ2ZzWWo3MzZjTTRYMVpxSzRwa2pCbHRMOUVyRHZONFNUVUpfWDBVUGFNQVhtTXhOZHdCTWEwTUtubzZBbThfdEw1Wlo4cUhVQnMteFRMZGxSXzJuU1RYS3NxNjd3RzR0V3lka1VKeDNUMFdxT0hSc19rT3JOamtwTFAzQjE2bTd4V0tta0VkcnJsMWJDalQwSQ?oc=5",
+      "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-11-19T09:03:28.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "f4d51aa9",
+      "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ19Lc0o1Y3ZBeTJ2ZkR2dXRxdU5jeUZSTUtlRnpnR180THREUFVrdmx3Z0VlbDVOUmFPczNhNThkanltMFpTYnhHWE83UVJGaUw2eHdyV0syNVVnQ3VVV3NZZ0VGQzVRa3NlLXZHNE1pMTl2NFVfYzJ6NVg1dDZvVHhZNlFIVkdEcFpuOEc3MFdmem5RaXFhYkQ5a21hY0ZWWG5XWTd4UWNacU1KRjQ2Y0hPWE9qT1BHMldjR3lqeUpUeXVDYkRjQ0p1S3I4VFNGRGJMQUJTWXh5UXlxRHF1ZWtKMHBFNml6UjhaMk1FMU92Qkc0RVR1VzNZY2xKZngyZkHSAYcCQVVfeXFMTVRZSDUzS2QyTTJHTklEWlk1bmxuQUZ1YnpjMGdmYUtVWUNjYTd0VWlQcmVUYklxd25YU1lsSkFfN05pZmpVTl9IWXlMVV9nRTRjNHJlZ3djWVNKR0RNV2NKYy1fMy1BdTRlZ3NLbkQ1OGdiMzV1Q2dmc1lqNzM2Y000WDFacUs0cGtqQmx0TDlFckR2TjRTVFVKX1gwVVBhTUFYbU14TmR3Qk1hME1Lbm82QW04X3RMNVpaOHFIVUJzLXhUTGRsUl8yblNUWEtzcTY3d0c0dFd5ZGtVSngzVDBXcU9IUnNfa09yTmprcExQM0IxNm03eFdLbWtFZHJybDFiQ2pUMEk?oc=5",
       "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
       "source": "Hindustan Times",
       "publishedAt": "2026-11-19T09:03:28.000Z",
@@ -461,6 +510,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
+    },
+    {
+      "id": "5b48f05a",
+      "title": "SEBI’s Depository Receipts Framework For REITs And InvITs: A New Route For International Capital Into Indian Real Estate - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOaVItX0FnRVBnTzRhbS1SbDFUUDNKQloxTEZZRklCRGJLRW9WRHZ5S3d0OXVISWZ1T19iTHIxU0hVeFItYUFJVVFYNVNidFpJWDRCTVpsUy1IQW1uYk1nckJCZTJsaE81X05wX01ib3hFSFoyWWFxc3A0LVE1QkhkVTZFbW5QX1JQeHVSZExPRU1MV2RRQ0VEQ1pDT0Q5M1hCS3l6LWR4ZGYtNHNOeGZiSnhDTERHUGhUdk5welQ3N3hIZU9nanNLdXhIR2xkX25ua244QmFkQ1NvZDNzU3FabTRtVWQyd0dDR0t2Z2xTdms2M1pBRkV2YjIxZmk4elFBdkVSd0libFBwMkh5b2Jz?oc=5",
+      "description": "SEBI’s Depository Receipts Framework For REITs And InvITs: A New Route For International Capital Into Indian Real Estate &nbsp;&nbsp; Legal 500",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-17T15:23:04.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "87047c4b",
@@ -581,6 +644,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "e6817efa",
+      "title": "Bengaluru Villa Plots: Rs 83.8 Crore Deal Explained - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3U1WDN4d2Joc0V1RDZFRVUtSmRMNGZIMUs4d3dtTWJXcGdVN2d1cWJHd3U4YkE3SWg1UFE4N0R1UmxLajV1cm9OekZycjR2b2FkZFhMZkJqV2IxVldZMGo3WldLeElQTElrVkxkR1NMeUJ2d3dMT05lczNUdlRNR0ljclcweXdqajdnSzd1V0dWQkVPQTdlVURB?oc=5",
+      "description": "Bengaluru Villa Plots: Rs 83.8 Crore Deal Explained &nbsp;&nbsp; Urban Acres",
+      "source": "Urban Acres",
+      "publishedAt": "2026-11-16T15:40:39.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
     },
     {
       "id": "88a83fde",
@@ -2911,38 +2988,6 @@
         "Brookfield India Real Estate Trust"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "5faf5645",
-      "title": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHVzdExkMWZJeVNlSVR4RzViSXpSeVNYZlVpbEktUEVqZVRqMnYwX1BMYlVrTDJzZHlCVzd6LVhhNGFsTmtfMktLb3NsZkhMWGhBaEM3MU41b1J2R2VpLXZJM2FLZlBna0dOZlE1OFVXOXR4WHU4RVpJU2hsdmd6YUhudGh6ZHI5alRyMFY4REFOSGRGTjAzMERiVU1CRFZMNmxsQUR3aEg5NzFoVWhUeDlBNzNZX2tMRmZvMmhrOXVYbFAtNFVZaEpMYnVQN1Q3TEtpUzY2QXhqdXlwVnpwV1I2YzZWVTlK?oc=5",
-      "description": "Brookfield India REIT Reports No Deviation in Fund Utilisation Across Four Placements for Q4FY26 &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-21T01:42:02.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "1a821193",
-      "title": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 - India Business Trade",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc0Jid092Qk03ckNncUVQbGU4dC1zVHhPdE13MUNyRmxMTXRYdVZ3TDBMRHhzQjhOSlZobV9pZUFySGlPR0hfZEZ0WHFSRzFuS3otRGZ3SWdvTVk2bW1hTUlVTE5ialZDUUM0VkphWkNldEIxR2R1aERUTDJsbTJrQkpUZ0xnVDFmVUVSelVqbW9CWmpobW52eVVkUWhUb3ZxdDRJamlTdGpYUkZUdzEwbXNqal9zMnIwY0tWOVdn?oc=5",
-      "description": "Prestige Estates Plans ₹40,000 Crore Residential Launches in Second Half of FY27 &nbsp;&nbsp; India Business Trade",
-      "source": "India Business Trade",
-      "publishedAt": "2026-10-20T19:06:27.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Prestige Estates Projects"
-      ],
-      "stream": "projects"
     }
   ]
 }
