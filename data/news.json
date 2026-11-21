@@ -1,13 +1,18 @@
 {
-  "generatedAt": "2026-11-20T10:17:33.646Z",
+  "generatedAt": "2026-11-21T10:01:51.076Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 185,
-  "todayCount": 7,
+  "itemCount": 179,
+  "todayCount": 5,
   "streamCount": 34,
-  "successfulStreams": 33,
+  "successfulStreams": 27,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
     {
       "label": "undefined · undefined",
       "status": "ok",
@@ -15,8 +20,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -27,16 +33,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -45,13 +41,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -96,18 +88,29 @@
     },
     {
       "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
       "status": "ok",
       "items": 1
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 2
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
+      "items": 1
     },
     {
       "label": "undefined · undefined",
@@ -131,8 +134,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -151,8 +155,15 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -172,22 +183,31 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 6
+      "items": 5
     }
   ],
   "todayItems": [
+    {
+      "id": "c4def5e0",
+      "title": "BM Property: Harohalli enters race for Bengaluru’s second airport - Bangalore Mirror",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZHbTRiSUVESGFFZjEyd1dLOVl6QkFtZllEdW91RVB1TEJYRlBtYkVZRHRKV1A4bDlNdWlwbHZ4S3NuRF9adURnNXBBNWd1ZVJJXzJNTHpCMXUyLXRhYWtta0VLR3RKN0dLcTQ5QnAxMVljQlhmaGwzcjQtYnQwMnkzcHkzcDZvY1NQNldpV0FiLUFTUVJlZXVsYS01dmk4d09tMVdNRF9XU1V1LTJfVDVGZFItd3p3UmNfV25hU1QtbTVHQk5hVTJYWXF3SUdsOUh4a2FISEl0WDc5ZGfSAeMBQVVfeXFMUGxHQ1N3Uk9UUU9rSjVDVUlOekZpV2FfaVFZVXdubUR2bjNiVWQ0Rk1nUjFGWTlZdXljWmJqYmhNel9mT3hOcFBKUWtzMlpyNURlN0VqR1NSVDFISklMYldRZnVGV1h2bFEwT2xseUtJOURUbUVpTHQ2eERBUHNPNjQzVV9nR0ZCWE1zMFhYXzhGcHV4NF9Ia2FLSXJyMGNxMHNNZWJjTjdvQ2ZHN0NuVVl3LWhDMTlnOXgtSGRLS20wd3NHRldWMXE2d3pGYnJtdGlOX2o3Z2FpNXpTS2w1QTJUR00?oc=5",
+      "description": "BM Property: Harohalli enters race for Bengaluru’s second airport &nbsp;&nbsp; Bangalore Mirror",
+      "source": "Bangalore Mirror",
+      "publishedAt": "2026-11-21T00:30:00.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "ff81485e",
       "title": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR - Construction World",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDJEN1N5TjhXZTlzaU93eDhnUUFpQlVZRDNqVDJCMWlPcGdxaXRiaUt4ZzZhVGtLSmY4bGoyZk9ITURDTW5TbzFPZ1NsWG5yT3p0OUszWGxSYlJGZVhTb2t4S2RzN0ktNm1kc21YUEZZNDVKdHR6VHJfc1F4bnZQektNLWhZQVZCR1FfZ2E1cFVMbTJnVVFDX3B4YnJYbUxIaFFSWnMzVXpPc3JsVmU4ZWI3SmpqMF9jVGg2ei1JYlNwWHZ0UU85TXVSYVMzbVhnUFJXRw?oc=5",
       "description": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR &nbsp;&nbsp; Construction World",
       "source": "Construction World",
-      "publishedAt": "2026-11-20T08:35:48.000Z",
+      "publishedAt": "2026-11-20T12:32:02.000Z",
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
@@ -198,19 +218,17 @@
       "stream": "reit"
     },
     {
-      "id": "a7462c53",
-      "title": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4ddIB1AFBVV95cUxPUUpnbEdvRjFPLWNVVTNWcWdSMmw5akFya1YweWJPUllDMXNJSkhwZi1ESkFRSlRnb01qN3hlM1lLN2VjVThZLUhWWld1eUw2dC13YVJxazdSN05Ga0lhdTF1YklYd0hvSmcycWluRjhEQXQ5RU1pVFoweHItWXdpd1QyUEtMbjFyYmdEYk5aMXlBcGlLMkgwV3RsaVNLNXZNaUhNZkg1T3NUdVFweDhpXzJaQ0dITE8xLTM5QVFMd1BPSkduSGdnR1BrRkVjeGp1RlA4dQ?oc=5",
-      "description": "Godrej Properties to Prestige: Nomura’s 6 real estate picks ahead of ₹20,000 cr launches &nbsp;&nbsp; The Financial Express",
-      "source": "The Financial Express",
-      "publishedAt": "2026-11-20T02:47:29.000Z",
-      "city": "Mumbai",
+      "id": "c14db137",
+      "title": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUhrN1IyamVRRHA0TU0ta0hKMGl5R244dWJPak96M2FfMW16N1Q2eFNpdVVTYVBHNENwQlNKU0tHRHVHTEFPemxNNTl1NGhuekZNbnQzS0VzVTZVNHZrQjJWWUNZNTdmNkdsM3BaTFJ5OV8xR2JsVVFfS0hBMFBPcFpWVldPM2VHSnFhUUFMZXprTnh5dGJrVzVZQVRWMHo5cjNzR3hWWGV6SE9hMmRKLXZfS21jVU81a19rRzVrVUNEU3RWYlEwMzJRSVVURWJiU29pck1vSHZRejR0b2c0cEZlZndWOVpnLUV3ejVWbHZmWTdpZ21QN0dyTHFtTkVTVmlEMWFMR3hTTkxiZ1VmT2tKLVRoQVNfdXc?oc=5",
+      "description": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-20T11:48:06.000Z",
+      "city": "Bengaluru",
       "category": "Projects & launches",
       "tone": "positive",
       "priority": "normal",
-      "entities": [
-        "Godrej Properties"
-      ],
+      "entities": [],
       "stream": "projects"
     },
     {
@@ -230,36 +248,6 @@
       "stream": "projects"
     },
     {
-      "id": "556128af",
-      "title": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3FzaGFRSUNuN01tWUg0MFJQdGFYX1RiY1FmaWdmMHZwQmk5OUx3T1h3NUVzbWpXbFlHN3J2OGJXY3FNSFZhNVF1dWdjSm42TWNXWjMyVEY4NnZaV3BKNWM4TlNORFJvMkdxVGg2SzZ4UlVNU002LUVIaGxreGpuYzE2OVhQdFhqdldEb2xoMWZXekdDbUlETU9HT2dUZmxmZWYyWXpVQm9VZnU2Z2VrSE9pd1NQdjN3SGhSSXNVX0hvU0hJMko1THF2dU0?oc=5",
-      "description": "Pecan Realty, HDFC Capital Partner to Develop ₹1,000 Crore Mixed-Use Project in Andheri East &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-19T18:33:21.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "HDFC Capital Advisors"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "93562b04",
-      "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOMU03V3lqZEItV3hCWWtDWHdwb2MwN2l1djRDWFBWSU5WR2M0NmVsZ3JVdjM2clBVb2VtM3dHdmFDcnliVnpYWnR1dG15Wmd0TFc4RVZtTVRkT21zT0p4OUY2dGFNZ3pXRUZTbVQ5dllWRWFYc2NGbWE4Q25SYlU2MFZjVkk4dEdOUkl3XzAtSm1uNWpLMmNScjlWVkFQM0xIM3VydnRiZDdvNW1yRm1haFlxcDhDcnRrTFNzUG9pQXFqcUlvUFpkNGdUZnR4SkQ3cm9iOWpPbjBLaGQ2c1BwMGMzNXJja3UyYVA4dlJ2VkRmWHdWak91MjZUOXJ4a0daTHZv0gGIAkFVX3lxTFBfQW5TZjlub3B2MjJsUjBoN0owazk3a0NMZTRoX0hMcWp1WjduaDQwNEtMOUJEYmpMbW5DcWQ4ZmExbXJoZ3lRcUxtQVk3NW1NSkhzR1ZjTmI2bVg1QTY4ZzBHZVdzODRkNUd5Z2ZfRW5iU1F3ZnB4a2RzVVg1RUlRNzJoMVVGX2VwQVZvVk83bHprdE94QjloejhYWnM2ZWdaZEd1TWljaW9nMl9tVTJMTmVuZlUzenZQZHp0MVNUb2RiNjZmWFd6ajM5eF9KdS1ONzNCNm5CcTlHb3JwTThzOFdLMDNkU3NmS2JNLVE4eW85bDJkdFVfWmM3QlhsbWg2VXVNdjlHRA?oc=5",
-      "description": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-19T15:57:34.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
       "id": "7b483bba",
       "title": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmVfSEEzY3ptMXFIblMtWkZxYm9URmJ0cDRfVUtmUnFLV2Rmd3R1VE5EVDh1VjgwSU9DTnVNVGdvOThTQUU3TjNoSTdOOU9XU29qal9veGNZVWplVUptZXZhUDlNSjZ4RUZoN0RXREhMMWxpbFhfWTQxa1FSa1dMS3d1b2lPMjk3MktqZHlUbnVhNm5CYTBfdUg4ek9FaFhfNUFhcWJ5T2ZZUENuWHBFRUViaEhfLUVUS1h3RmI0Mmp3Z09SbTctX0hqTWdrTXRQNnA2Y9IB2gFBVV95cUxOb1EtVU4tRGtGQ2NkeUtadWtralpEUzRNMmtVS1V1bWM4eHF0TWtSU0s2U0VwbHc3SWR6RkpoLTRYc0ZDSk5FY3A2UU9QSkpnOGxJVU5Sbzh4Uy1sY2l0NVNxbEFRdXJIaXRiTUNtS2wtbDl5endXcWlRQ3lJSEZpZndyU18zbUtqUHpqMVBsa1hNcUR2a3NWbms0THhvWDZOOExDSWZnbUNEd1VacHo1VktncFhIX3I5TlZOMC1WMjVmYmlxMzNwWmN2MkdXY0k3M21WejAxazVCZw?oc=5",
@@ -272,23 +260,37 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    },
-    {
-      "id": "f4d51aa9",
-      "title": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ19Lc0o1Y3ZBeTJ2ZkR2dXRxdU5jeUZSTUtlRnpnR180THREUFVrdmx3Z0VlbDVOUmFPczNhNThkanltMFpTYnhHWE83UVJGaUw2eHdyV0syNVVnQ3VVV3NZZ0VGQzVRa3NlLXZHNE1pMTl2NFVfYzJ6NVg1dDZvVHhZNlFIVkdEcFpuOEc3MFdmem5RaXFhYkQ5a21hY0ZWWG5XWTd4UWNacU1KRjQ2Y0hPWE9qT1BHMldjR3lqeUpUeXVDYkRjQ0p1S3I4VFNGRGJMQUJTWXh5UXlxRHF1ZWtKMHBFNml6UjhaMk1FMU92Qkc0RVR1VzNZY2xKZngyZkHSAYcCQVVfeXFMTVRZSDUzS2QyTTJHTklEWlk1bmxuQUZ1YnpjMGdmYUtVWUNjYTd0VWlQcmVUYklxd25YU1lsSkFfN05pZmpVTl9IWXlMVV9nRTRjNHJlZ3djWVNKR0RNV2NKYy1fMy1BdTRlZ3NLbkQ1OGdiMzV1Q2dmc1lqNzM2Y000WDFacUs0cGtqQmx0TDlFckR2TjRTVFVKX1gwVVBhTUFYbU14TmR3Qk1hME1Lbm82QW04X3RMNVpaOHFIVUJzLXhUTGRsUl8yblNUWEtzcTY3d0c0dFd5ZGtVSngzVDBXcU9IUnNfa09yTmprcExQM0IxNm03eFdLbWtFZHJybDFiQ2pUMEk?oc=5",
-      "description": "Six listed REITs distribute over ₹3,234 crore to 5.25 lakh unitholders in Q2 FY27: Indian REITs Association | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-11-19T09:03:28.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "c4def5e0",
+      "title": "BM Property: Harohalli enters race for Bengaluru’s second airport - Bangalore Mirror",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZHbTRiSUVESGFFZjEyd1dLOVl6QkFtZllEdW91RVB1TEJYRlBtYkVZRHRKV1A4bDlNdWlwbHZ4S3NuRF9adURnNXBBNWd1ZVJJXzJNTHpCMXUyLXRhYWtta0VLR3RKN0dLcTQ5QnAxMVljQlhmaGwzcjQtYnQwMnkzcHkzcDZvY1NQNldpV0FiLUFTUVJlZXVsYS01dmk4d09tMVdNRF9XU1V1LTJfVDVGZFItd3p3UmNfV25hU1QtbTVHQk5hVTJYWXF3SUdsOUh4a2FISEl0WDc5ZGfSAeMBQVVfeXFMUGxHQ1N3Uk9UUU9rSjVDVUlOekZpV2FfaVFZVXdubUR2bjNiVWQ0Rk1nUjFGWTlZdXljWmJqYmhNel9mT3hOcFBKUWtzMlpyNURlN0VqR1NSVDFISklMYldRZnVGV1h2bFEwT2xseUtJOURUbUVpTHQ2eERBUHNPNjQzVV9nR0ZCWE1zMFhYXzhGcHV4NF9Ia2FLSXJyMGNxMHNNZWJjTjdvQ2ZHN0NuVVl3LWhDMTlnOXgtSGRLS20wd3NHRldWMXE2d3pGYnJtdGlOX2o3Z2FpNXpTS2w1QTJUR00?oc=5",
+      "description": "BM Property: Harohalli enters race for Bengaluru’s second airport &nbsp;&nbsp; Bangalore Mirror",
+      "source": "Bangalore Mirror",
+      "publishedAt": "2026-11-21T00:30:00.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "c14db137",
+      "title": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUhrN1IyamVRRHA0TU0ta0hKMGl5R244dWJPak96M2FfMW16N1Q2eFNpdVVTYVBHNENwQlNKU0tHRHVHTEFPemxNNTl1NGhuekZNbnQzS0VzVTZVNHZrQjJWWUNZNTdmNkdsM3BaTFJ5OV8xR2JsVVFfS0hBMFBPcFpWVldPM2VHSnFhUUFMZXprTnh5dGJrVzVZQVRWMHo5cjNzR3hWWGV6SE9hMmRKLXZfS21jVU81a19rRzVrVUNEU3RWYlEwMzJRSVVURWJiU29pck1vSHZRejR0b2c0cEZlZndWOVpnLUV3ejVWbHZmWTdpZ21QN0dyTHFtTkVTVmlEMWFMR3hTTkxiZ1VmT2tKLVRoQVNfdXc?oc=5",
+      "description": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-20T11:48:06.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
     {
       "id": "ff81485e",
       "title": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR - Construction World",
@@ -2874,120 +2876,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
-    },
-    {
-      "id": "8579c131",
-      "title": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTlFZVm9ad2txR0EyNW85UGNxMi1tUnNZNUVfeFRXSk4tQXhaRmdDdERCMllLYk45VnpHTVI3LVR2N2tYYTVUeGxONF9mdEg1Q0RKa05kNEpvbV9qWEw0dVR4Tkt1NjUzbHVseTNXb1N6Vl9ZNWZrdV9aaHZQbVJnbmJaaXZQcnh6Z1p5U05pSXZYZFBXMHZPWnM3LUM2bkh4Zk9Mc1JHVEg1dmtEX3hRX1hobXcxcWdTS0JXeW1uY05NV2I1Y2kxa1dXenVIMUEzZ0NlbEZlVHlvWElHQnVjWHFEeWU0bVNSa2U4NkpxbV95RTZhQ3Mw0gH8AUFVX3lxTE42T19hTlk3SzdjVWZwTDBBQXQ4d3NQNDlBY3dqR0xfN1lUWmV3LVNfU1RyMnZXdGx6a3phaTZPSUFIUVRyWE9tXzZmeFA1a2FxWENtczJ1NU5zTUZmanJTS2tURGhrcy1nY2hTaHhVbnJWUi1vbXljOE54ejhYYWJIeU15Z1pGQ1ZXRkJoTlJKZ1J3NVZPcHJyR0w5VjVBRXVuQXpmWl9QdnFKX3lZY3FodExWZ0FjQ2N3Q2FWTGhrVW5JZllTNkZEUFBsM0V1dW9YLUg1eTFVYXRxa3I1cFRXT3YzejlZb0xDRS1GS1o2TnJpWDRoeGcxOEY5dg?oc=5",
-      "description": "India's consumption story has a real estate angle: How shopping malls are becoming an investment theme | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-22T09:53:24.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "123d1cbe",
-      "title": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSHRSUzlxa2Q1WjRLa3dia2JIZm1PRmtTdWt2bElKNEhhU21rd292ZlJLMkZ6NU92NF9HVW45OUw0anFIbXVGYkVLWnQ5NWsyMUFpaHZQdjNwRmltb28yekhTWmljdEo2aEVvX0tPNlNwbUUwcTNEejFwUUppR0NpMThSZFdYUTY5aHRVYVRTb0o5djV3SWMxOWVqYnhGSVBtXzgwd0RjemVRUU5xeW1kZm55ZjNPV1NFRVB5MmRhN3RTd0hEOVRxcWRiZTd6anJRUnRSVjU2N2RfejdNNUxfZ0JrNGg0OVJkdk5HanRqcm8wdEdxY1doWS1wQdIBgAJBVV95cUxObjFLbE1TdEg1UndHUVNRZUZhVzlNQ3FGY29iX0lSYy1YNzFROHlWSWd6R0dJVF92RFRxa0gzaWxVcUNubHMydzAwU3RsZ2pSTkM5XzhjRm1YSmNSNmNEUTNndFNuR094YXRhbXVmX0ZjcDNvdzZPUDMxY1VsbG9QX2RuRTNkYTM5N3NJOW4wWjMxR1pTOGZkR3ktWDlwT0NBTEExN1duYWF2aUR5a1VPR1JmWklVQm93ZmVDa2VPYWtJM09SY0tFV2Y0VUxaYUJnV3hSRVJ1bVRYWkE1aWZUNjFlb0s0dWdjZlR4Zm5aUmZPR2JXVy1sc3EwVDhmLXlK?oc=5",
-      "description": "From global capability centres to office demand: What India's commercial real estate boom means for REITs | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-22T09:50:24.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "1b0ac533",
-      "title": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map - https://www.fintechbiznews.com/",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcHhNcjQ1RnFZYWQtaVI4ZnZZeW4ySUp5ZHdkd1cwLUp1eU9EVjNGbkpfR296VjZWdVJlZzE5b1YxT0laN1pJVkV4cEpxQjdPRFZpZk1uaFFSdHNTTXhkWWtCd3pEUVQySmt3aG9rZ0M4NmRKdUpqSjFyQ1UxSmRoRXR0TkdYZDYtbEtDYUtVU3JwUi1sOGpBTkRmMVhpZFIyQkJ5WFo2ZG1yX0VNbTZERnBaai1xdnRvLUE?oc=5",
-      "description": "Data Centres & Domestic Funds Redraw India's Real Estate Investment Map &nbsp;&nbsp; https://www.fintechbiznews.com/",
-      "source": "https://www.fintechbiznews.com/",
-      "publishedAt": "2026-10-22T09:48:29.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "810c5180",
-      "title": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVVNaR1NHQy03QU9fOC1ocnAxX3pkemlVUVVjME90YUtoUWtKT2hrUl9oUVNRNHMzNEFJX2sxcWhwX1lTVXZ3VVJtb0NSQUpZSkFjejZYcWt2aS1Edjc4RFRzV3ZIeFpuaWlhZ3ZBX3NqLW1lcE54RnIxS3lsZ2FIeXE3MmhXRW1rbURhVVVXdzQ0aXNocGhWaG83RWthRnVwVFNoSnhtMEtMOXBBODFONTRlQWdzdVdiTUVZX3JaRFZwbUFyRFl0djVXX3JxeTN3TjR2R0JYZk1NRGY0SXJGRzhIcG1CTTTSAewBQVVfeXFMTjBUZVRjYzA4Rm1mMV9fd0dhOTc0ODBPTHlEX0pZTE1sWTdQeVEySjRfcjFDUFF1R3NYdGdObU4ycDJ5X3AtZzdJc2F2RkdJT1B3YWJnUkRwN1ZxcXhvYlpwYVVOWUsyM0h6a2l4ZHZMNU5hVVR5VGZQcVBkS3ZESDRhSW9GTEpKei1NelhCLVJKV2pWcUdONHVtMkJDMm1YN190Zi1CRUk4VlllTVZXVEdpTERKOWpFUC1zM1BRdUVCQmYySUNrQ2VCY3RPWmJsc0hyRmhJZTFmdEIzcnc5MzEyTTBFWTdFSm9TS2w?oc=5",
-      "description": "Beyond gold and property: Could REITs find a place in India's festive investment portfolio? | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-22T09:44:20.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "552c199e",
-      "title": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report - Menafn",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS1ByOXdPbV93dngzVUlqalpoUGNPSVczbklvb1ZBOVQ3YnZyNHBiQjJrRkdKNzJKWjlnNENwQW1TNER3RmgyZF9RU1BXeVNqaEVJeExnUjlPcEV4Sm9TclZ6a2phaVRTS3kxN2VfX3gxaDh1dm9jdkZsMWZlRi1oRTVib2hGal9VMlFvRVNNWHBZRjVmdVFQbHZ5SnZ6NlZZblhhQ1hUdDBTMEhQYkN4UExudmhyV2tnOEE?oc=5",
-      "description": "India Real Estate PE Investment Hits $6.1 Bn In 9 Months, Data Centres Attract 40 Pc: Report &nbsp;&nbsp; Menafn",
-      "source": "Menafn",
-      "publishedAt": "2026-10-22T08:30:50.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "c4795f6e",
-      "title": "Sunteck Realty Issues ₹70 Crore Commercial Paper - Sahi",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtTzRlRXBhTGF0cXlRQUhmOTRfTzZhc216WTZhZk1SMm14SEV4X2lxWE93SjNCY1prS3BhZmJMZXlkcE54UHd6bUQ4ZFp5dW55SnluQXY0Yl9mY2ZtNF9GQTVqeS1CZDRwT2Z2dl92TS1OTXZ6YzZCaXVQd3c4QQ?oc=5",
-      "description": "Sunteck Realty Issues ₹70 Crore Commercial Paper &nbsp;&nbsp; Sahi",
-      "source": "Sahi",
-      "publishedAt": "2026-10-21T15:14:02.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "49cc4045",
-      "title": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUJDLUU4a2tHeGlNNUFxRkhwRk1tMWpLQzlFcDI2NHVFdEMzaGhmR2FxTjdFX0kyRGRkUTgyYjU4LUk5bFI0VWcyOXR3VkxTODlnd0xXaTdHb2xqZGItek90ZWRRbnlfalFydjY4X3Q4RjNJZFJERW8xemV3VUVscDgxMTJ0NHQxdjZRdGxwbmRRZHY1RnYyeHFXNFBKLXBIcUJfQ3BsSjZoc0plYXdvbGF5R2FEMVVtWTVMNE9IZXFLNVJrT0hBZWJOMnRPV3U2emdj?oc=5",
-      "description": "Earnings call transcript: Agree Realty beats Q3 2026 estimates as shares slip &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-21T14:19:16.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "d107f2bc",
-      "title": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZUVWcyNVAzaXpZUm91U3JhOVpsSTJBN1dwQXVsZVpVdmtBQndOdGFhTUVJNklsMzlKZnc4QkdxRmRsXzhjM0dTWUNBaFhnWWRJamVHUHNUVTF3dEJMb3k0OUVOTWJua09OYnFjamE5OHBqa0lGZ3FvMTA5VUhKSmU0aGdtdkdxR29HamtONlVXMGM5TnRqbTc0bFNHR2hoMWhlRGpZQzJiTDBqdmFVYmprYWk1VmNT?oc=5",
-      "description": "Brookfield India REIT sponsor group holds 19.37% units in Q2FY27 &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-21T12:28:25.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
     }
   ]
 }
