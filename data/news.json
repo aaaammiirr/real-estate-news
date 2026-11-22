@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T10:01:51.076Z",
+  "generatedAt": "2026-11-22T10:03:37.672Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
   "itemCount": 179,
-  "todayCount": 5,
+  "todayCount": 7,
   "streamCount": 34,
-  "successfulStreams": 27,
+  "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -20,77 +20,8 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
@@ -134,9 +65,73 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
     },
     {
       "label": "undefined · undefined",
@@ -155,18 +150,6 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
       "status": "ok",
       "items": 0
     },
@@ -183,23 +166,47 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 10
     }
   ],
   "todayItems": [
     {
-      "id": "c4def5e0",
-      "title": "BM Property: Harohalli enters race for Bengaluru’s second airport - Bangalore Mirror",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZHbTRiSUVESGFFZjEyd1dLOVl6QkFtZllEdW91RVB1TEJYRlBtYkVZRHRKV1A4bDlNdWlwbHZ4S3NuRF9adURnNXBBNWd1ZVJJXzJNTHpCMXUyLXRhYWtta0VLR3RKN0dLcTQ5QnAxMVljQlhmaGwzcjQtYnQwMnkzcHkzcDZvY1NQNldpV0FiLUFTUVJlZXVsYS01dmk4d09tMVdNRF9XU1V1LTJfVDVGZFItd3p3UmNfV25hU1QtbTVHQk5hVTJYWXF3SUdsOUh4a2FISEl0WDc5ZGfSAeMBQVVfeXFMUGxHQ1N3Uk9UUU9rSjVDVUlOekZpV2FfaVFZVXdubUR2bjNiVWQ0Rk1nUjFGWTlZdXljWmJqYmhNel9mT3hOcFBKUWtzMlpyNURlN0VqR1NSVDFISklMYldRZnVGV1h2bFEwT2xseUtJOURUbUVpTHQ2eERBUHNPNjQzVV9nR0ZCWE1zMFhYXzhGcHV4NF9Ia2FLSXJyMGNxMHNNZWJjTjdvQ2ZHN0NuVVl3LWhDMTlnOXgtSGRLS20wd3NHRldWMXE2d3pGYnJtdGlOX2o3Z2FpNXpTS2w1QTJUR00?oc=5",
-      "description": "BM Property: Harohalli enters race for Bengaluru’s second airport &nbsp;&nbsp; Bangalore Mirror",
-      "source": "Bangalore Mirror",
-      "publishedAt": "2026-11-21T00:30:00.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
+      "id": "919cf862",
+      "title": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW1ZOV9mWjVCTXdXTDdOemc1Q2dEYmZkUXlsMFUwSW5KTUJrYjMwTk5BWmtfd0pYLWh3N3JCTHFPTWJGVTR5WlFzVUFPTTlrc3hfQlI0X3J6M2ZuNElEcFA2LVFKZFRTS2tRR0lSaFJHaGpWRnFGWWZEdTR5dEpWVVh4QTMwWFR6U2ZObk5Ldm1wUk94MEhMb1d6YS12Yjh6YWVlbFJwVndrZXplVlNFWjZkZw?oc=5",
+      "description": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-21T23:00:06.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "land"
+      "stream": "projects"
+    },
+    {
+      "id": "12def0f3",
+      "title": "MAK Projects Launches \"MAK Fern,\" a 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad - India Education Diary",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX01rN0NyZlRvTnM1YmVjTHBwSHpOdGVqdlg3cXBjNUxfLWMxUDFiZko5MWk1NVRtR2VYUjl3cmg4UFJwXzg3eTFzNVRkdkpQVHZaMUMtUlpRc2l1ZHhxM1puNzlwM1JtUHNEWTJlbzFKRlVrLWlUQkhlemhWRlpqd19PZjduLUZONl9TRWpIeXVKLXh3OGZUdVNTcjd2ejFRVFNLOFJSdFpUZU9IOUIzVlNvdFZDeDE2Nng4Mnk2dUJxQkdI?oc=5",
+      "description": "MAK Projects Launches \"MAK Fern,\" a 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad &nbsp;&nbsp; India Education Diary",
+      "source": "India Education Diary",
+      "publishedAt": "2026-11-21T11:18:31.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "ff81485e",
@@ -207,7 +214,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRDJEN1N5TjhXZTlzaU93eDhnUUFpQlVZRDNqVDJCMWlPcGdxaXRiaUt4ZzZhVGtLSmY4bGoyZk9ITURDTW5TbzFPZ1NsWG5yT3p0OUszWGxSYlJGZVhTb2t4S2RzN0ktNm1kc21YUEZZNDVKdHR6VHJfc1F4bnZQektNLWhZQVZCR1FfZ2E1cFVMbTJnVVFDX3B4YnJYbUxIaFFSWnMzVXpPc3JsVmU4ZWI3SmpqMF9jVGg2ei1JYlNwWHZ0UU85TXVSYVMzbVhnUFJXRw?oc=5",
       "description": "K Raheja Corp to Develop 165-Acre Township in Mumbai MMR &nbsp;&nbsp; Construction World",
       "source": "Construction World",
-      "publishedAt": "2026-11-20T12:32:02.000Z",
+      "publishedAt": "2026-11-21T07:09:32.000Z",
       "city": "Mumbai",
       "category": "Market & policy",
       "tone": "neutral",
@@ -218,51 +225,19 @@
       "stream": "reit"
     },
     {
-      "id": "c14db137",
-      "title": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUhrN1IyamVRRHA0TU0ta0hKMGl5R244dWJPak96M2FfMW16N1Q2eFNpdVVTYVBHNENwQlNKU0tHRHVHTEFPemxNNTl1NGhuekZNbnQzS0VzVTZVNHZrQjJWWUNZNTdmNkdsM3BaTFJ5OV8xR2JsVVFfS0hBMFBPcFpWVldPM2VHSnFhUUFMZXprTnh5dGJrVzVZQVRWMHo5cjNzR3hWWGV6SE9hMmRKLXZfS21jVU81a19rRzVrVUNEU3RWYlEwMzJRSVVURWJiU29pck1vSHZRejR0b2c0cEZlZndWOVpnLUV3ejVWbHZmWTdpZ21QN0dyTHFtTkVTVmlEMWFMR3hTTkxiZ1VmT2tKLVRoQVNfdXc?oc=5",
-      "description": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-20T11:48:06.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "ac0d9fb6",
-      "title": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHZmZWE0SXZ1akVXUEwyZnp4WUN4RDFXWUMxYUI1UWVRQ1lYVUlTN3lHUGRYa3g5VXplalFWQkc3czlNTUdIdjZwekpVR1ZjUUtlaWpmWEp3bFVSX0Y0THdSM0lLRFZkLVJheDU5cXNlTjMzOU9YU204N08zSVBRdmJicEtYbjlHeDRqaUF6N05FYmE4SjJvbFRJYjdHVUE2RUlDcVVVOHBwWm1PYUhkVTF3MEE3OEpXa0ZWd3ZYVjNQY213SmZZ?oc=5",
-      "description": "Embassy Developments Launches 59 Ultra-Luxury Residences at Embassy ONE in Bengaluru &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-19T18:33:21.000Z",
-      "city": "Bengaluru",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [
-        "Embassy Developments"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "7b483bba",
-      "title": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmVfSEEzY3ptMXFIblMtWkZxYm9URmJ0cDRfVUtmUnFLV2Rmd3R1VE5EVDh1VjgwSU9DTnVNVGdvOThTQUU3TjNoSTdOOU9XU29qal9veGNZVWplVUptZXZhUDlNSjZ4RUZoN0RXREhMMWxpbFhfWTQxa1FSa1dMS3d1b2lPMjk3MktqZHlUbnVhNm5CYTBfdUg4ek9FaFhfNUFhcWJ5T2ZZUENuWHBFRUViaEhfLUVUS1h3RmI0Mmp3Z09SbTctX0hqTWdrTXRQNnA2Y9IB2gFBVV95cUxOb1EtVU4tRGtGQ2NkeUtadWtralpEUzRNMmtVS1V1bWM4eHF0TWtSU0s2U0VwbHc3SWR6RkpoLTRYc0ZDSk5FY3A2UU9QSkpnOGxJVU5Sbzh4Uy1sY2l0NVNxbEFRdXJIaXRiTUNtS2wtbDl5endXcWlRQ3lJSEZpZndyU18zbUtqUHpqMVBsa1hNcUR2a3NWbms0THhvWDZOOExDSWZnbUNEd1VacHo1VktncFhIX3I5TlZOMC1WMjVmYmlxMzNwWmN2MkdXY0k3M21WejAxazVCZw?oc=5",
-      "description": "Beyond office towers: Are malls and warehouses India's next REIT opportunity? | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-11-19T10:48:33.000Z",
+      "id": "ff7ae4f0",
+      "title": "Embassy REIT Q2FY27 Results: Record ₹7.07 payout; FY27 guidance held - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU1kWml5XzU4RV8zRExFTmZ5aDRWSjdUd2xfOXVlRTBIcU9lRFl5RWdWNnNmSjFKV3JfS01nZG9FbGZBRWRUUGNxRXVfOTE0RXNlMnNaZ2lSa1FNT18wMEowR1hnZXZUWkQwYUlybDNrRS1pd19oWTE4bjVFZ3IwcVk0TlVRZnkwMlc5SzlucF9tWFFabjlkcXhzcFFIY0xGNUlQV1pXWUZ0RTM1UGhDbkVyNFhhQXBpTzJzVVBUbmQ?oc=5",
+      "description": "Embassy REIT Q2FY27 Results: Record ₹7.07 payout; FY27 guidance held &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-21T02:00:51.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
-    }
-  ],
-  "items": [
+    },
     {
       "id": "c4def5e0",
       "title": "BM Property: Harohalli enters race for Bengaluru’s second airport - Bangalore Mirror",
@@ -285,6 +260,106 @@
       "source": "The Realty Today",
       "publishedAt": "2026-11-20T11:48:06.000Z",
       "city": "Bengaluru",
+      "category": "Approvals & regulation",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
+    {
+      "id": "1f0a31f3",
+      "title": "Sunteck Realty Launches Sunteck Belvedere Park: Its Second Premium Luxury Development in Mira Road - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2gyRjZlNll5X0hQUzBWU3FXSUhJQzN1NVA3S3ZaMUQzRzZHcGFpcDdQV2NTTWxDTlowVS1jamdOZ0tLaTdRdkNiZ0dWREYwMjg1Q1JhSkgzWU9lY0d4WmJkeUU5ZXQzZTluRG1mNlpFRElwOFA3V2xES3VwWm5fQVRqUDFyb1E3ZmZrc1ZzeGNUVTlqV3J2NTNMQ2VYM24zRlFMOE82a2s0Ri1yT3d1MmwtU3hubE5yU1ZaUUNGYmQ1bW1LZlp3OUF5MmVnVTg?oc=5",
+      "description": "Sunteck Realty Launches Sunteck Belvedere Park: Its Second Premium Luxury Development in Mira Road &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-20T11:41:32.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    }
+  ],
+  "items": [
+    {
+      "id": "919cf862",
+      "title": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW1ZOV9mWjVCTXdXTDdOemc1Q2dEYmZkUXlsMFUwSW5KTUJrYjMwTk5BWmtfd0pYLWh3N3JCTHFPTWJGVTR5WlFzVUFPTTlrc3hfQlI0X3J6M2ZuNElEcFA2LVFKZFRTS2tRR0lSaFJHaGpWRnFGWWZEdTR5dEpWVVh4QTMwWFR6U2ZObk5Ldm1wUk94MEhMb1d6YS12Yjh6YWVlbFJwVndrZXplVlNFWjZkZw?oc=5",
+      "description": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-21T23:00:06.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "12def0f3",
+      "title": "MAK Projects Launches \"MAK Fern,\" a 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad - India Education Diary",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX01rN0NyZlRvTnM1YmVjTHBwSHpOdGVqdlg3cXBjNUxfLWMxUDFiZko5MWk1NVRtR2VYUjl3cmg4UFJwXzg3eTFzNVRkdkpQVHZaMUMtUlpRc2l1ZHhxM1puNzlwM1JtUHNEWTJlbzFKRlVrLWlUQkhlemhWRlpqd19PZjduLUZONl9TRWpIeXVKLXh3OGZUdVNTcjd2ejFRVFNLOFJSdFpUZU9IOUIzVlNvdFZDeDE2Nng4Mnk2dUJxQkdI?oc=5",
+      "description": "MAK Projects Launches \"MAK Fern,\" a 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad &nbsp;&nbsp; India Education Diary",
+      "source": "India Education Diary",
+      "publishedAt": "2026-11-21T11:18:31.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "ff7ae4f0",
+      "title": "Embassy REIT Q2FY27 Results: Record ₹7.07 payout; FY27 guidance held - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU1kWml5XzU4RV8zRExFTmZ5aDRWSjdUd2xfOXVlRTBIcU9lRFl5RWdWNnNmSjFKV3JfS01nZG9FbGZBRWRUUGNxRXVfOTE0RXNlMnNaZ2lSa1FNT18wMEowR1hnZXZUWkQwYUlybDNrRS1pd19oWTE4bjVFZ3IwcVk0TlVRZnkwMlc5SzlucF9tWFFabjlkcXhzcFFIY0xGNUlQV1pXWUZ0RTM1UGhDbkVyNFhhQXBpTzJzVVBUbmQ?oc=5",
+      "description": "Embassy REIT Q2FY27 Results: Record ₹7.07 payout; FY27 guidance held &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-21T02:00:51.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "c4def5e0",
+      "title": "BM Property: Harohalli enters race for Bengaluru’s second airport - Bangalore Mirror",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZHbTRiSUVESGFFZjEyd1dLOVl6QkFtZllEdW91RVB1TEJYRlBtYkVZRHRKV1A4bDlNdWlwbHZ4S3NuRF9adURnNXBBNWd1ZVJJXzJNTHpCMXUyLXRhYWtta0VLR3RKN0dLcTQ5QnAxMVljQlhmaGwzcjQtYnQwMnkzcHkzcDZvY1NQNldpV0FiLUFTUVJlZXVsYS01dmk4d09tMVdNRF9XU1V1LTJfVDVGZFItd3p3UmNfV25hU1QtbTVHQk5hVTJYWXF3SUdsOUh4a2FISEl0WDc5ZGfSAeMBQVVfeXFMUGxHQ1N3Uk9UUU9rSjVDVUlOekZpV2FfaVFZVXdubUR2bjNiVWQ0Rk1nUjFGWTlZdXljWmJqYmhNel9mT3hOcFBKUWtzMlpyNURlN0VqR1NSVDFISklMYldRZnVGV1h2bFEwT2xseUtJOURUbUVpTHQ2eERBUHNPNjQzVV9nR0ZCWE1zMFhYXzhGcHV4NF9Ia2FLSXJyMGNxMHNNZWJjTjdvQ2ZHN0NuVVl3LWhDMTlnOXgtSGRLS20wd3NHRldWMXE2d3pGYnJtdGlOX2o3Z2FpNXpTS2w1QTJUR00?oc=5",
+      "description": "BM Property: Harohalli enters race for Bengaluru’s second airport &nbsp;&nbsp; Bangalore Mirror",
+      "source": "Bangalore Mirror",
+      "publishedAt": "2026-11-21T00:30:00.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "c14db137",
+      "title": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUhrN1IyamVRRHA0TU0ta0hKMGl5R244dWJPak96M2FfMW16N1Q2eFNpdVVTYVBHNENwQlNKU0tHRHVHTEFPemxNNTl1NGhuekZNbnQzS0VzVTZVNHZrQjJWWUNZNTdmNkdsM3BaTFJ5OV8xR2JsVVFfS0hBMFBPcFpWVldPM2VHSnFhUUFMZXprTnh5dGJrVzVZQVRWMHo5cjNzR3hWWGV6SE9hMmRKLXZfS21jVU81a19rRzVrVUNEU3RWYlEwMzJRSVVURWJiU29pck1vSHZRejR0b2c0cEZlZndWOVpnLUV3ejVWbHZmWTdpZ21QN0dyTHFtTkVTVmlEMWFMR3hTTkxiZ1VmT2tKLVRoQVNfdXc?oc=5",
+      "description": "Reflecting Strong Demand for Villa-Plot Developments in Bengaluru, Address Maker’s Apollo Address Sells Over Two-Thirds of Inventory in Six Weeks of Launch &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-20T11:48:06.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "1f0a31f3",
+      "title": "Sunteck Realty Launches Sunteck Belvedere Park: Its Second Premium Luxury Development in Mira Road - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2gyRjZlNll5X0hQUzBWU3FXSUhJQzN1NVA3S3ZaMUQzRzZHcGFpcDdQV2NTTWxDTlowVS1jamdOZ0tLaTdRdkNiZ0dWREYwMjg1Q1JhSkgzWU9lY0d4WmJkeUU5ZXQzZTluRG1mNlpFRElwOFA3V2xES3VwWm5fQVRqUDFyb1E3ZmZrc1ZzeGNUVTlqV3J2NTNMQ2VYM24zRlFMOE82a2s0Ri1yT3d1MmwtU3hubE5yU1ZaUUNGYmQ1bW1LZlp3OUF5MmVnVTg?oc=5",
+      "description": "Sunteck Realty Launches Sunteck Belvedere Park: Its Second Premium Luxury Development in Mira Road &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-20T11:41:32.000Z",
+      "city": "Mumbai",
       "category": "Projects & launches",
       "tone": "positive",
       "priority": "normal",
@@ -322,6 +397,20 @@
         "Godrej Properties"
       ],
       "stream": "projects"
+    },
+    {
+      "id": "5ab3a0d1",
+      "title": "CapitaLand India Trust marks big sector wins; OUE REIT leads with shareholder returns - The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUmdfMlZuZWhETnRteTRwcEJQSTRlREVESVpxOFZERVNlTldTb2pEbnBiR0U3MTljNGNaRWw4Wi1DMHgzbTlvRWpubi13eFMzTnY3RE5vaGV6NWVBNVlZTHRIWXEtNXJ4WUZseUxOODBUR1ozVHAyRXVCT0x1VnlVZ0x3VDFHNzlsdU1Ld0hieHlkRlNjY3FQaHIzX1FPdXV0bmEwVFd5ZjVDR3l1Zi1DZ0poRWUxYVlsNk1KVGxMbXFxaV82U2wydkRUV0xEbWc?oc=5",
+      "description": "CapitaLand India Trust marks big sector wins; OUE REIT leads with shareholder returns &nbsp;&nbsp; The Edge Singapore",
+      "source": "The Edge Singapore",
+      "publishedAt": "2026-11-19T22:20:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     },
     {
       "id": "ac0d9fb6",
@@ -418,6 +507,20 @@
       "description": "Six Listed REIT Firms Distribute Rs 3,234 Cr in Q2 to Over 5.25 Lakh Unitholders &nbsp;&nbsp; HDFC Sky",
       "source": "HDFC Sky",
       "publishedAt": "2026-11-19T08:56:41.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "d19dff02",
+      "title": "American Healthcare REIT Stock: Trading, Earnings and Momentum - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbkxWNWk0TFZNSjY2c3hXTVlDYXFaY2pOYXFOWUVkMUR1d2Q3TzZHT0ZqLXpTSWxuRHdJU2dlcXV2WVNtTTQwcU9OTDBza2c1b3lPeVktNElnX3ZqY2R5YkFSZXR1aEdNOS01UVlrSzVWTllCNE04UlA4S3hYS2trOTRZQzlEdGx0TzVGMHRjUWktMWNQTDZnaU9ELTY3MGNXS2JsWk9OcndyUDllOEpSNVVxdUFmRU1hU0ZycEpqdVFZNWdhdnBhM010cVh2clBvV3VPdnEzY01QVUNVdHJpV1ZLcUVNLUVpU2M4LVI4WUM?oc=5",
+      "description": "American Healthcare REIT Stock: Trading, Earnings and Momentum &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-11-18T17:26:00.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
@@ -525,6 +628,22 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "a7c53c3b",
+      "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY25UeEJvZDNqV29BSzhVcGJCYUstVlo3RzlJQ2lCNEV1T3lyTDR1S3hqbWNqUHR2Y256UzUtNklwdVQ2MWZkTmJneHRUYTAzMVRaWTVLcnh3elFfanFibnNCR1RiWGhCbXpVNkthQXpLVmhxbVhVdzNmbXdENHIwbFlUNGVUUGNYTWdMSU9jY3c3bmR3bjRScTNDRjlUamppUWRNdksyX0xkc2NDNkRodjhZWWoxT0RhSkFyVWhiQ2dLUEU1eGs0SW5KekJlUVVsR2gxUF9sS0VHejJIQ3ZMUEtpWHFpQU5kNVpabnZVd0gtMTNnbEM2WWxPVGp6RHJVT29CbV9lc0Q2WWPSAZACQVVfeXFMUHpUZUp2dUNmbzlvMngyQkJ1NkdNajBDY29ZOV9kRUJlX3ZNazBzQkhKdURjbFRkYkJZTjVlQ0ZkZjJmWWNwZWtoazRGMlpIUG4yM2RTR3JsM0s2WWxJNEtCRDh0MlhfRnUyT2RjdnRBWlcxeFlNeXpvMG9DcmdXa1phUVNwQnhzd0VrLTMwdFhRUG9EUzNVUXRzbnBFalVuNGJkQ2tlUGZNbk55Mm1nejIwTHpJQXprU0llTy1wblZYZTQ2ZGtXalU0TnpzVDFhWVZmOGdoX085bDMzdDBnMXhGZXdwM3YyVHMzTnBqVjZMWHk4bmxEeS1aOWN3TWRGSEdwSHlNLUNiTkFqZDM3ZnI?oc=5",
+      "description": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-17T14:33:25.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "K Raheja Corp"
+      ],
       "stream": "reit"
     },
     {
@@ -2284,20 +2403,6 @@
       "stream": "reit"
     },
     {
-      "id": "ff7ae4f0",
-      "title": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU1kWml5XzU4RV8zRExFTmZ5aDRWSjdUd2xfOXVlRTBIcU9lRFl5RWdWNnNmSjFKV3JfS01nZG9FbGZBRWRUUGNxRXVfOTE0RXNlMnNaZ2lSa1FNT18wMEowR1hnZXZUWkQwYUlybDNrRS1pd19oWTE4bjVFZ3IwcVk0TlVRZnkwMlc5SzlucF9tWFFabjlkcXhzcFFIY0xGNUlQV1pXWUZ0RTM1UGhDbkVyNFhhQXBpTzJzVVBUbmQ?oc=5",
-      "description": "Embassy REIT declares ₹7.07/unit distribution; revenue up 15.8% YoY &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-28T12:14:01.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
       "id": "205d234c",
       "title": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis - Pune Mirror",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFyc1FIWUd5VWtZQnVFUEpqckQyTDlhTXd5UWpkT0t2VlFuZmt3SERvaHFlQTdWa0xudDUwbHRocHo0cnBFRDY5NW1MVUs1WnZrdXl5RGtPSjVYZXQ3NzE1aGdJcFJCS3F1akQwZGZvUlVVeWpTUlROUW9ORTdXb2wzZzNMMHJFb3FLNlpXWEZmTDYtazJHakdYTzRKelZHRVRxV21sdXA2Z21Ga05ZVWozb05INXgxTC1ScEp6QVhSdw?oc=5",
@@ -2784,92 +2889,6 @@
       "description": "Mahindra Lifespaces Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
       "source": "Pune Mirror",
       "publishedAt": "2026-10-23T10:12:04.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "a637ffa4",
-      "title": "Brookfield India Real Estate Trust Share Price Live Today - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMW9QVmpGUE5nUk9NV2M0enprTWpYZC1FWXRhVzl4SFNCNnhRNVpWaEpvRHRsdmVmYThVX2ZBX1lkcER1S05FUDJkMkpQb2Rvc0M3WEV4LXhpcnA3cS1NcXFHTFJDNjJSeVNmTklZLTBUM2EzelJiQmZHWWpxQVhwR0sxSGw3eXZRaC1mOEg1MWxPMmpL?oc=5",
-      "description": "Brookfield India Real Estate Trust Share Price Live Today &nbsp;&nbsp; CNBC TV18",
-      "source": "CNBC TV18",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "cfa283d6",
-      "title": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report - Menafn",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDIzVzlPdEZFcUlyLUJYdkpqMWJCX3o1Y0RfT0t6a1ZXRUItWFd3N2hWb1ZjV1ZKWi1ORXRla2tRNkMtenFCQ09rT20tNlhwck1XUlhYUHRvd2NwZnlTakNoeTRyaG93WUhoQVVxUVdXUDdlU2d2QXp5LUxMN0tIODA2S3pFU0dPd21yUHMwLVo3Q3hvTnI0OUF2dVZLd0dva1E?oc=5",
-      "description": "India's Real Estate Industry Likely To Touch $5.8 Trillion By 2047: Report &nbsp;&nbsp; Menafn",
-      "source": "Menafn",
-      "publishedAt": "2026-10-23T09:46:06.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "8da0e221",
-      "title": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages - Punekar News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTZfcWVTUVZKNkRkRzlLa3NBdUhudDRGV080S3FrblF0RURDMFRXT2Z3cDNfUmt4b2FOdVhKU05KWTNIRy1Rcm9PVTNxZ2J1TGhDSWJxWVhZTjNoQXhEV081eWRSaEdnaUhqRWgyN3pNYW1nRXFndXdERFR5VnZFTXdRQmNIcll4UVh4VDZOTjhEbkRiSllQN3NhenVKdU5tVk1IcXdGamtiUjRUVlEzMERfelBaLUU3WTdPTVdKQUdnNi1pS3c?oc=5",
-      "description": "CREDAI Pune Metro Seeks PMRDA's Retention as Planning Authority for Township Projects in 23 Villages &nbsp;&nbsp; Punekar News",
-      "source": "Punekar News",
-      "publishedAt": "2026-10-23T04:50:58.000Z",
-      "city": "Pune",
-      "category": "Approvals & regulation",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "policy"
-    },
-    {
-      "id": "63aa97b7",
-      "title": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGxXOEh3RlJoc180TUNSU0tTQ1pCM1hhNkZHc0JxdzM0OUpxem1XR0J3U0RTY29TbFB0WmlTNUx4RHN5c3hHbmk4UFpISzAtbjNaQmJ0cVVhalVqWTRYWUdBSzNzMkNEUVo4TjNlVk9Ba1RZVkliNEpQZzB5SlBBU1ZMWFhOVXFzTEZhSDRVSFFncnlFcS1KSy1jZGtuV3p2bWxqbUxKTEpseXNfSk5zN0h6TmdzSk9PS3liWG9TdDNldVNwMHAtYg?oc=5",
-      "description": "Essential Properties Q3 2026 slides show resilient REIT fundamentals By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-22T15:30:34.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "9fc64488",
-      "title": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM19VNEZGVDZMZXVvamZBbW51S2lEYzZKV01tUGR5Y1g5S3ZoYWtYU0dyYjA1amxwSUpzSldhVGc4N2tZWEVNcjNzaVhHU1FFUG9EYTlPTW1hUVRWblozTXFzd1AzRENyZTQwT2I0SFFoeUhRc01IYVMwNjFlT0FFTW1wNjNSeGJhcEVUSldkYTZMOV9zdk44NmxMS1dXMWRDN2I3cE51LXdRYTNXQ1ZOV1JfZzJ0REpxS1pWLWU2aVJvZlVkNFpCLWFTUHFTRllVU2lrUzdKYkk0Zzg?oc=5",
-      "description": "Earnings call transcript: Essential Properties Realty Trust tops revenue in Q3 2026 &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-10-22T15:20:15.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "f606e4b0",
-      "title": "Paranjape Schemes Pune: PTM Builder Audit 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVkZSWHlIZXdEcHdVNnc3QWwyNG04elAyenFmZmUta0dJSVVnTS04d2N5OXJTSjBXV3ExS0lIZzdsMWN3b2NjMlZOdXJybkJEQ3ZPdGFtcWgxeXdWNXVIaFZCVVdZMTN1SC01aHpDX2JidmdMUEhLQi1xell0VTdXa0ZkYVlZR19IczNsUXVWaTVvY0VUeXJkdTQyb0ZOSDM5QW9FTw?oc=5",
-      "description": "Paranjape Schemes Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-22T10:36:43.000Z",
       "city": "Pune",
       "category": "Projects & launches",
       "tone": "neutral",
