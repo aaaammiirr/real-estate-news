@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-23T11:00:09.506Z",
+  "generatedAt": "2026-11-24T12:47:56.385Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 174,
-  "todayCount": 2,
+  "itemCount": 175,
+  "todayCount": 3,
   "streamCount": 34,
-  "successfulStreams": 32,
+  "successfulStreams": 12,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -15,8 +15,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -25,8 +26,27 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -35,28 +55,21 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -65,43 +78,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 2
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -115,8 +94,15 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -125,38 +111,9 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -171,47 +128,166 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
       "status": "failed",
       "items": 0,
-      "error": "HTTP 429"
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 5
     }
   ],
   "todayItems": [
     {
-      "id": "31f7a6ef",
-      "title": "MAK Projects Launches “MAK Fern,” A 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad. - TRIPURA STAR NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1Q0TWtuZE9tUExvNkR4Y08wZ0s0RVVjbUthaDVzQlhoTFYtU2FWVTZia1ZFMTVyYXVuNzc0OGdoSGhyQU9tTmpRX0ZkbWo4M281U1ctNUpfdjBQZVp3VXZWTDhUMXo4RnhxRkVxZnY5Z2RnZ19VR3FqS2JycTR4dXF1ektZV3pad1ZDZ2pCYTY5SUkweDZhX3FTMGxkVXJOcDQyUmVkaHNka2J4SnAyenc4dlg5MHNzdzFrSXVtRzdMQkhPWFE?oc=5",
-      "description": "MAK Projects Launches “MAK Fern,” A 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad. &nbsp;&nbsp; TRIPURA STAR NEWS",
-      "source": "TRIPURA STAR NEWS",
-      "publishedAt": "2026-11-22T08:02:14.000Z",
-      "city": "Hyderabad",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "919cf862",
-      "title": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW1ZOV9mWjVCTXdXTDdOemc1Q2dEYmZkUXlsMFUwSW5KTUJrYjMwTk5BWmtfd0pYLWh3N3JCTHFPTWJGVTR5WlFzVUFPTTlrc3hfQlI0X3J6M2ZuNElEcFA2LVFKZFRTS2tRR0lSaFJHaGpWRnFGWWZEdTR5dEpWVVh4QTMwWFR6U2ZObk5Ldm1wUk94MEhMb1d6YS12Yjh6YWVlbFJwVndrZXplVlNFWjZkZw?oc=5",
-      "description": "Autodesk and Neilsoft to Establish BIM and Digital Twin Centre in Pune &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-21T23:00:06.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
+      "id": "4141f4d8",
+      "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFhSZ1VIb3VuRWI2dGRNYnQ0UlhQR1VqUXlpeFpOTXVUZU52ZDRqck4tazRsanFfaDM5RkpkampUTkpNVjNsXzd0aGliM3ZxOFVqVTNCNUNGNGNTNHJPREItSGxra3RUWThFTjU3N1hRRGpYZ0FiSXVZaEtLNG82NDdjNXdtd1FmSXE0V3owMERkZURic2ZCekExN0NIVndRQnlOcHREeHA0MkNRVC1CbEpjaEcxaWZJcmI2NW90ZzFGNFpNNTBxdFRoNkMtdHFmU2tJQnRB0gHbAUFVX3lxTE9sT29iWS1FNkphT1QxcTNNQ3A3VFZxVy1tc0pHdThhbFhCbm1yQ3owMFlNME5ybllOX0UyU2JOYjRMU2RiSHhuR19YR2l6RFNXMlZ2ekljYjdKblZ0TmgxRThlMjd6X2FIaFNWUjhJcHUzOThUVVhIWnF3blFWNi14MHptMVpfeXI2c0lYLUZlbkhyVUMzSjg3SWRKNVZ4MmNOOHRPTHhZWm1fNzNVME5lejJKR3BIYUNFSUk4Z09WdlU1aU9BRGJvdmF3ZGJOUW91NFZzdnBGY2Y3WQ?oc=5",
+      "description": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-24T10:44:19.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
+      "stream": "land"
+    },
+    {
+      "id": "d52551ba",
+      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - www.indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGFiQU85a0wzU01MX0I3VUFDV3hBajYyZk1OSzFHRWxUc3lIVEZOVW5kYTFsd3YyWjZNODlQOFVxMXVJSmdpLTMxUzJsYXprMGxIaDBUbWJ2NTQ1NnprV0Nla2RwSEM1N2RJeTJId1JmZzRBcjQtbHRtZm5nQXJPazlZVHFZRzdnRnR6RGRQTS00UHVOOGtSNDl3LS16MDNVeHZQS1FLWEJlOFNrNnNlRHk2ZEJyMlk4ZVNrUnFVYmI5bHAySk5DWg?oc=5",
+      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; www.indiagazette.com",
+      "source": "www.indiagazette.com",
+      "publishedAt": "2026-11-24T04:46:00.000Z",
+      "city": "India",
+      "category": "Company & leadership",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "companies"
+    },
+    {
+      "id": "81963de6",
+      "title": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzVGMGYtc0hKbERid2N2QXliVVJ6UlphUGVfLTkzRXNvdVdwX0ZrWlRUMTZxY1pDYzkyWF9hSEdQV1hkRTJCQy14WkVQcHRzM0xSalpuSlFkOU9iN3pUTjJ0UFVSUWNndVdYQ3I2YTF0VWM1djRiYWNfNjctWUIzTFF1M1lCMmV0RHBpNGJ1NXlkSVJxc3RfOGw5Qkl1X3QtRUlsMWRpV0xLSmtjNHV5MVpfVFRGcjZTQWZxa3lFMDUxOEFBZzdZc3RqaEFzMVdCdTVBTXp3VF81SXAxT1dN?oc=5",
+      "description": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) &nbsp;&nbsp; Legal 500",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-23T08:49:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "4141f4d8",
+      "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFhSZ1VIb3VuRWI2dGRNYnQ0UlhQR1VqUXlpeFpOTXVUZU52ZDRqck4tazRsanFfaDM5RkpkampUTkpNVjNsXzd0aGliM3ZxOFVqVTNCNUNGNGNTNHJPREItSGxra3RUWThFTjU3N1hRRGpYZ0FiSXVZaEtLNG82NDdjNXdtd1FmSXE0V3owMERkZURic2ZCekExN0NIVndRQnlOcHREeHA0MkNRVC1CbEpjaEcxaWZJcmI2NW90ZzFGNFpNNTBxdFRoNkMtdHFmU2tJQnRB0gHbAUFVX3lxTE9sT29iWS1FNkphT1QxcTNNQ3A3VFZxVy1tc0pHdThhbFhCbm1yQ3owMFlNME5ybllOX0UyU2JOYjRMU2RiSHhuR19YR2l6RFNXMlZ2ekljYjdKblZ0TmgxRThlMjd6X2FIaFNWUjhJcHUzOThUVVhIWnF3blFWNi14MHptMVpfeXI2c0lYLUZlbkhyVUMzSjg3SWRKNVZ4MmNOOHRPTHhZWm1fNzNVME5lejJKR3BIYUNFSUk4Z09WdlU1aU9BRGJvdmF3ZGJOUW91NFZzdnBGY2Y3WQ?oc=5",
+      "description": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project &nbsp;&nbsp; Business Standard",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-24T10:44:19.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "d52551ba",
+      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - www.indiagazette.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGFiQU85a0wzU01MX0I3VUFDV3hBajYyZk1OSzFHRWxUc3lIVEZOVW5kYTFsd3YyWjZNODlQOFVxMXVJSmdpLTMxUzJsYXprMGxIaDBUbWJ2NTQ1NnprV0Nla2RwSEM1N2RJeTJId1JmZzRBcjQtbHRtZm5nQXJPazlZVHFZRzdnRnR6RGRQTS00UHVOOGtSNDl3LS16MDNVeHZQS1FLWEJlOFNrNnNlRHk2ZEJyMlk4ZVNrUnFVYmI5bHAySk5DWg?oc=5",
+      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; www.indiagazette.com",
+      "source": "www.indiagazette.com",
+      "publishedAt": "2026-11-24T04:46:00.000Z",
+      "city": "India",
+      "category": "Company & leadership",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "companies"
+    },
+    {
+      "id": "81963de6",
+      "title": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzVGMGYtc0hKbERid2N2QXliVVJ6UlphUGVfLTkzRXNvdVdwX0ZrWlRUMTZxY1pDYzkyWF9hSEdQV1hkRTJCQy14WkVQcHRzM0xSalpuSlFkOU9iN3pUTjJ0UFVSUWNndVdYQ3I2YTF0VWM1djRiYWNfNjctWUIzTFF1M1lCMmV0RHBpNGJ1NXlkSVJxc3RfOGw5Qkl1X3QtRUlsMWRpV0xLSmtjNHV5MVpfVFRGcjZTQWZxa3lFMDUxOEFBZzdZc3RqaEFzMVdCdTVBTXp3VF81SXAxT1dN?oc=5",
+      "description": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) &nbsp;&nbsp; Legal 500",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-23T08:49:42.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "31f7a6ef",
       "title": "MAK Projects Launches “MAK Fern,” A 15-Acre Luxury Gated Villa Community Near Tukkuguda, Hyderabad. - TRIPURA STAR NEWS",
@@ -431,6 +507,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "74b7b1b1",
+      "title": "Brigade Enterprises launches first phase of 40-acre Brigade Autograph integrated project in East Bengaluru - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObHhkbUUxWlVuVzhxYkN6emROUV9ONy16RlRTdzh3YjhKNTdteGNNZnFxc0lodDBnbXV1U0QtVjljZ3lvMG9EbWVSemRnTnJtN0RhOFc3QXZvQXMwWE1RMG1aUGRXWFJQRWRuaC05UGtrY2YtZzFxTUZ2aEZLZnZFaWJ0Y3dtRWVZcFRuX0RpUVZsWjZ2NUlBRXp2ZTNlNEJUa2ZZVzhFWjA2Z2hXWkdzUG9UMkQyZEVfMEF3TENaMHhJVXNfMWdwZkMtMDhHZEVIWFJ2SUlpaWNLWm5oNklvMVZzd2JOd9IB6wFBVV95cUxQT05aZEFkYTJ2ODBkdjlxbFlGT2k2ZWgzRHZqd2JUSkdYZG16bjJfS3Jvc3c1X0JNOXVUSnRRbFVQNmZGa0NWZzEyYzdCbTlRdzh2UVNQZVhjR1doYmV2VzVZMy0zSGptZ1l1TF9WdDMtZUJlazdqNndUUEZkdHc5Q1huQnZXcElWYjJ2dFRUZDBVclJXNG1pU0tZbWVNank3aENZNm5kQlNxOXphaDNQa2VJMW42Q2NnRVZ0c19oR2tiR1g1cUQwWVc5M1Nka2hjUWtrQ2FHV2dfRW4xeWNhMzdjNTJqbXgxQkZV?oc=5",
+      "description": "Brigade Enterprises launches first phase of 40-acre Brigade Autograph integrated project in East Bengaluru &nbsp;&nbsp; CNBC TV18",
+      "source": "CNBC TV18",
+      "publishedAt": "2026-11-19T09:03:51.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "projects"
     },
     {
       "id": "64251c9b",
@@ -2712,50 +2804,6 @@
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "85808038",
-      "title": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report - BW Businessworld",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSzh4bHVjY0ZYWm1sUXN2LU9kVmVjZTVHdUtQckFpbEtBcS1OUTZqbUpDY1VhdDNUZ0JQZFlMZkdDdWVzUTFLdnNYenNmNEFUb0tEaHVQSndzMThOelZuNkVfU01hTUdPSnFsd2dvMDlQZXZfVHpTaHZtOTJyekhmcnM3VWxydkNmaFR2ODV6dGpzWGNfdEUxU3R2b04waUxDQlhoaGNJbXRyaU9qV3NWMFBOWG5mR0ZJNGdRQVp1dDk4ZjUx?oc=5",
-      "description": "Data Centres Overtake Offices In India’s Real Estate PE Investments In 2026: Report &nbsp;&nbsp; BW Businessworld",
-      "source": "BW Businessworld",
-      "publishedAt": "2026-10-25T08:19:34.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "1297e4f3",
-      "title": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkFCVlZOY1ItQ0RmWXhTb1NfQWVLSkc1TEJGTWhsVHNtbklteWFSYmJoR1ZUSFFtbHlsMzF0TFVsWkFTSWhiSEM5ZXFacHh1bm1WdVdKQTZfMng0QzNQTHU2cHRzeGRtenlYTGM2UzFoMG1jNUcxdHNVdVN1T1NhZlhpc2JXZktOSmRfMnZtYWdFZ0Z5RHBXQjgxV2YxRUNPbjM1WnRHOVRldTJLdGRxNXM4Vk1idEVXVWVGZzBEeFhraGs0WXk3QVdfSQ?oc=5",
-      "description": "PE investment in Indian real estate falls 33% QoQ to USD 1.3 billion in Q3 2026 &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-25T02:30:01.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "27734897",
-      "title": "Blackstone Real Estate AUM Falls 1.6% in Q3 as Asset Sales Outstrip Deployment - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMm9uVzR2NWpwRW1OZGdHMGw4dlBBLTJ3YkJfbTRVamgwVlNzb0o1WjRwd0ZPZ1lHUnpJcU1vOHR6cjNwdmloeHBqNEFobGVfY2d1c2lCV2tDd3ZmNkxMNDZhejdkdF9ldHpoS3FUNWEyYjY5SWpHZUNFdXpEb3RWak9mbm1rLXJtTENxZ2oyMTZjUFRz?oc=5",
-      "description": "Blackstone Real Estate AUM Falls 1.6% in Q3 as Asset Sales Outstrip Deployment &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-10-24T14:41:59.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Blackstone Real Estate"
-      ],
       "stream": "reit"
     }
   ]
