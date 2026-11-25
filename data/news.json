@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-24T12:47:56.385Z",
+  "generatedAt": "2026-11-25T11:33:32.427Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
   "itemCount": 175,
-  "todayCount": 3,
+  "todayCount": 7,
   "streamCount": 34,
-  "successfulStreams": 12,
+  "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -15,75 +15,6 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
       "status": "ok",
       "items": 1
     },
@@ -94,96 +25,8 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "failed",
-      "items": 0,
-      "error": "HTTP 503"
     },
     {
       "label": "undefined · undefined",
@@ -198,10 +41,187 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 5
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 3
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
     }
   ],
   "todayItems": [
+    {
+      "id": "8bdeef28",
+      "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeTFFYWVMUFZPcGlOTDNZYXI3OUFnLXJZc3pxd1VNNGJGMnV0RDhPN1pqZ29QVnNNVG5RUDFORC1qSTF0bXFFOUl3aXpCeGwwSWJneDVmNnBlSFladi0xdUREdk92LWFPaFk2MG5MNmZXQmd5Tm8taFNR?oc=5",
+      "description": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-25T05:55:19.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "48807c2e",
+      "title": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUJsMEFBOWtEc2RVX1QxZy1jOWdaRHJ5YzVkTnZZSTRIUmJwN0F4SW1MWlNGOVFsLWJXaGEtNkJuZjhIaEQ2cnN4SnRrdWdCb2RvWjFrMHE2ak15YWFsa1BDZElwcTlfVjdCbUJDUXktLXpmbkZrcVBfRjVRR3lDN2RLODVtX255XzJIMXFsQ3ZkUTAxWnJwS2ZyWHR3RnExNURrcDFhNnNNUVZvWUlVdE1VN3JQYmdIS0toazgxeXVweFh5ZUdlN2tqZEFfb2ZXWTVkczVCcm9Ba2tNUnJUeldQR1EzdjFacFNuajlzekFVeXNlZ0E?oc=5",
+      "description": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-24T18:50:07.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "7bfc8f5e",
+      "title": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmU5U3BEMXBnenRvZmhLMGdVVGlSZlI2MDdzdEVWTm94M0VFejhtbnczUE9sQmhuLVViZWxsaWp5TFd2MlNKM2V5aTd4YWJ3U2c3SG9EcHJXZFhmVDRqbDlDYi1KUlpENFNydGZOTmZidlhCVU9qV1R5d1FaczRmcUVXX1ZPOE5NTHFONjhteVl0djViUXhVTHhlSHJYcFVIclpzSFdDWGlRTTJXMXhzb0FJWGdybTlFUjllSFZ2RmNmVlhnOC1GTC1GajB1UExnTW15bQ?oc=5",
+      "description": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-24T10:48:07.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
     {
       "id": "4141f4d8",
       "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project - Business Standard",
@@ -217,11 +237,41 @@
       "stream": "land"
     },
     {
+      "id": "1f867b9a",
+      "title": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOb3MxeUVZbl9DM0Nfc3JRdHU4cDRITWRYd1RTVFoxdWtFNzhvaU1LVnBLOFl6VFNrV2tBTEVlNkUwQWZwRHFDbFcyOHNSa2syeDFMN0FyaFhzOUxuWHhtUXk4V0xpRE9zbFF1d3NTZjh2RnV5UWtTN0tONHhkTXl2LVRQTzdHZnlxZTNHV0t4R3hPajcwdXF2a3JubGdiZUdrYl9xaWpFOFRQaFBiQlRRVEhHVktseTAwcWJ0RmRrU2pISm1jX0pvMlZ1OWhqNXdnOE9HU25LT0QtdDYyYW9qb2I4SDk0dEdZZkVLRGhpZ2c0VGNnTTc2ZjdIUmtPakpMRjdpeHgyanJ2Vmp6UGNrTmRFN3VyREMwZ2xkamNDWUQydGdCMVlaOXFucVFmNGl3UmpLS2dlNllGYXRnZzIxX2QyTUVhQmVUT2x6UDhxSWUtdHppMzF6dHlMZUPSAZgCQVVfeXFMTmh0Z2F3VzB0VVRja2V5czZyNmFFOVFnUEQ5Wk5GVldEUHdJMlBhMFEwbV80c3J2VTMyQ3NLQVpEanFHSmxMS01WeWp1RFg2QW5OeUJXYmRHQzJyZmtvYkJjd3lpWkI4Q3ByRlA3ajkzSmRELWI3a01iVjBPU19kSnZjRFZlSkJpckZBQWNsd09saXk0WGd3b1phSGJVa3V1VkRNXzZrMGtmYUNISVVfLTNzSnRoUllJZTNqMlJuY0lLWU1FY1Ztbzd6cUExdEU1ZUY3Y0t0cW41Nno0RndPQS1XQVFldHVrNWZRQ1h5c1hPQ2k4UVUzbF9ucnJFNEJxWDNqQXN1bXlHekNDY1o5aWV6TndCbTFSWQ?oc=5",
+      "description": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-24T09:27:53.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "dbf62d93",
+      "title": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSXZndlRLdmUwaF9US1VFUmNyVDR6bTNEZnpyaHhXU0kza1p2Y2xUSURybzdIN1ZIb19MR3AxbzJHUlNQMG80ZFpsNVNfNTRQS0M3VXNxcGU1RDk0SjdLbFQ4Qm5qWGFZRU9J?oc=5",
+      "description": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-24T05:58:12.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
       "id": "d52551ba",
-      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - www.indiagazette.com",
+      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - https://www.indiagazette.com/",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGFiQU85a0wzU01MX0I3VUFDV3hBajYyZk1OSzFHRWxUc3lIVEZOVW5kYTFsd3YyWjZNODlQOFVxMXVJSmdpLTMxUzJsYXprMGxIaDBUbWJ2NTQ1NnprV0Nla2RwSEM1N2RJeTJId1JmZzRBcjQtbHRtZm5nQXJPazlZVHFZRzdnRnR6RGRQTS00UHVOOGtSNDl3LS16MDNVeHZQS1FLWEJlOFNrNnNlRHk2ZEJyMlk4ZVNrUnFVYmI5bHAySk5DWg?oc=5",
-      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; www.indiagazette.com",
-      "source": "www.indiagazette.com",
+      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; https://www.indiagazette.com/",
+      "source": "https://www.indiagazette.com/",
       "publishedAt": "2026-11-24T04:46:00.000Z",
       "city": "India",
       "category": "Company & leadership",
@@ -229,23 +279,51 @@
       "priority": "normal",
       "entities": [],
       "stream": "companies"
-    },
-    {
-      "id": "81963de6",
-      "title": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) - Legal 500",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzVGMGYtc0hKbERid2N2QXliVVJ6UlphUGVfLTkzRXNvdVdwX0ZrWlRUMTZxY1pDYzkyWF9hSEdQV1hkRTJCQy14WkVQcHRzM0xSalpuSlFkOU9iN3pUTjJ0UFVSUWNndVdYQ3I2YTF0VWM1djRiYWNfNjctWUIzTFF1M1lCMmV0RHBpNGJ1NXlkSVJxc3RfOGw5Qkl1X3QtRUlsMWRpV0xLSmtjNHV5MVpfVFRGcjZTQWZxa3lFMDUxOEFBZzdZc3RqaEFzMVdCdTVBTXp3VF81SXAxT1dN?oc=5",
-      "description": "SM-REITs Explained: SEBI Rules, Fractional Real Estate & Investor Protection (Video) &nbsp;&nbsp; Legal 500",
-      "source": "Legal 500",
-      "publishedAt": "2026-11-23T08:49:42.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ],
   "items": [
+    {
+      "id": "8bdeef28",
+      "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeTFFYWVMUFZPcGlOTDNZYXI3OUFnLXJZc3pxd1VNNGJGMnV0RDhPN1pqZ29QVnNNVG5RUDFORC1qSTF0bXFFOUl3aXpCeGwwSWJneDVmNnBlSFladi0xdUREdk92LWFPaFk2MG5MNmZXQmd5Tm8taFNR?oc=5",
+      "description": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-25T05:55:19.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "48807c2e",
+      "title": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUJsMEFBOWtEc2RVX1QxZy1jOWdaRHJ5YzVkTnZZSTRIUmJwN0F4SW1MWlNGOVFsLWJXaGEtNkJuZjhIaEQ2cnN4SnRrdWdCb2RvWjFrMHE2ak15YWFsa1BDZElwcTlfVjdCbUJDUXktLXpmbkZrcVBfRjVRR3lDN2RLODVtX255XzJIMXFsQ3ZkUTAxWnJwS2ZyWHR3RnExNURrcDFhNnNNUVZvWUlVdE1VN3JQYmdIS0toazgxeXVweFh5ZUdlN2tqZEFfb2ZXWTVkczVCcm9Ba2tNUnJUeldQR1EzdjFacFNuajlzekFVeXNlZ0E?oc=5",
+      "description": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-24T18:50:07.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "7bfc8f5e",
+      "title": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmU5U3BEMXBnenRvZmhLMGdVVGlSZlI2MDdzdEVWTm94M0VFejhtbnczUE9sQmhuLVViZWxsaWp5TFd2MlNKM2V5aTd4YWJ3U2c3SG9EcHJXZFhmVDRqbDlDYi1KUlpENFNydGZOTmZidlhCVU9qV1R5d1FaczRmcUVXX1ZPOE5NTHFONjhteVl0djViUXhVTHhlSHJYcFVIclpzSFdDWGlRTTJXMXhzb0FJWGdybTlFUjllSFZ2RmNmVlhnOC1GTC1GajB1UExnTW15bQ?oc=5",
+      "description": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-24T10:48:07.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
     {
       "id": "4141f4d8",
       "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project - Business Standard",
@@ -261,11 +339,41 @@
       "stream": "land"
     },
     {
+      "id": "1f867b9a",
+      "title": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOb3MxeUVZbl9DM0Nfc3JRdHU4cDRITWRYd1RTVFoxdWtFNzhvaU1LVnBLOFl6VFNrV2tBTEVlNkUwQWZwRHFDbFcyOHNSa2syeDFMN0FyaFhzOUxuWHhtUXk4V0xpRE9zbFF1d3NTZjh2RnV5UWtTN0tONHhkTXl2LVRQTzdHZnlxZTNHV0t4R3hPajcwdXF2a3JubGdiZUdrYl9xaWpFOFRQaFBiQlRRVEhHVktseTAwcWJ0RmRrU2pISm1jX0pvMlZ1OWhqNXdnOE9HU25LT0QtdDYyYW9qb2I4SDk0dEdZZkVLRGhpZ2c0VGNnTTc2ZjdIUmtPakpMRjdpeHgyanJ2Vmp6UGNrTmRFN3VyREMwZ2xkamNDWUQydGdCMVlaOXFucVFmNGl3UmpLS2dlNllGYXRnZzIxX2QyTUVhQmVUT2x6UDhxSWUtdHppMzF6dHlMZUPSAZgCQVVfeXFMTmh0Z2F3VzB0VVRja2V5czZyNmFFOVFnUEQ5Wk5GVldEUHdJMlBhMFEwbV80c3J2VTMyQ3NLQVpEanFHSmxMS01WeWp1RFg2QW5OeUJXYmRHQzJyZmtvYkJjd3lpWkI4Q3ByRlA3ajkzSmRELWI3a01iVjBPU19kSnZjRFZlSkJpckZBQWNsd09saXk0WGd3b1phSGJVa3V1VkRNXzZrMGtmYUNISVVfLTNzSnRoUllJZTNqMlJuY0lLWU1FY1Ztbzd6cUExdEU1ZUY3Y0t0cW41Nno0RndPQS1XQVFldHVrNWZRQ1h5c1hPQ2k4UVUzbF9ucnJFNEJxWDNqQXN1bXlHekNDY1o5aWV6TndCbTFSWQ?oc=5",
+      "description": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-24T09:27:53.000Z",
+      "city": "Mumbai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "Lodha Developers"
+      ],
+      "stream": "land"
+    },
+    {
+      "id": "dbf62d93",
+      "title": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSXZndlRLdmUwaF9US1VFUmNyVDR6bTNEZnpyaHhXU0kza1p2Y2xUSURybzdIN1ZIb19MR3AxbzJHUlNQMG80ZFpsNVNfNTRQS0M3VXNxcGU1RDk0SjdLbFQ4Qm5qWGFZRU9J?oc=5",
+      "description": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-24T05:58:12.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
       "id": "d52551ba",
-      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - www.indiagazette.com",
+      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - https://www.indiagazette.com/",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGFiQU85a0wzU01MX0I3VUFDV3hBajYyZk1OSzFHRWxUc3lIVEZOVW5kYTFsd3YyWjZNODlQOFVxMXVJSmdpLTMxUzJsYXprMGxIaDBUbWJ2NTQ1NnprV0Nla2RwSEM1N2RJeTJId1JmZzRBcjQtbHRtZm5nQXJPazlZVHFZRzdnRnR6RGRQTS00UHVOOGtSNDl3LS16MDNVeHZQS1FLWEJlOFNrNnNlRHk2ZEJyMlk4ZVNrUnFVYmI5bHAySk5DWg?oc=5",
-      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; www.indiagazette.com",
-      "source": "www.indiagazette.com",
+      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; https://www.indiagazette.com/",
+      "source": "https://www.indiagazette.com/",
       "publishedAt": "2026-11-24T04:46:00.000Z",
       "city": "India",
       "category": "Company & leadership",
@@ -2735,76 +2843,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "projects"
-    },
-    {
-      "id": "a1831464",
-      "title": "Shapoorji Pallonji Pune Review 2026: PTM Builder Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjlQR0NuOU56bXVmOXR4Y3BqTlJtLVRiVFJfLVVxMmFMVS02MzB4eWcxR3k5dDBYR3ZJLVJuUDJIQnkyQUctR3FfdlRSSUlUZ29kWXVhLVdZUVprR2QweVRXT3JCTlFna1gwejd3b3ZmTGRvS0NHT3NKeThfLTdiQ0ltTkxtbk9Vc3NSODFDZXMydnlFTnVnUWNDbTdHUmVfUWVabEo4c1hrTUhHdE45cW82TXZ3bGRMVFBHSjNn?oc=5",
-      "description": "Shapoorji Pallonji Pune Review 2026: PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-26T11:06:37.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "4484425c",
-      "title": "Aditya Birla Real Estate to develop INR 1,650 crore Hinjewadi housing project in Pune - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWNMaGlVRFNpRFQyNVBoN1ZhUDZYNjJXQlNqUVlDTU1mNkRQSW4xbkRBWXVwNDZUMWNLS0VTX2V3RFIzSGtZaUNRYUNRTzBPUXBQNHRrZHo5bHpGRlZsWFZ6d2RZR19HTk50clhaVERLUDhmSV9Jc1FOcV92a3dPQXQzLWpJVlU1U2htQXdlbjJZcXFtVFB1OGNQeGljZDgzNGRvWGF4aDZHV2MtRjRfdUpHTzhhb0hfVEVrb245bzlSekVMZW1NaTk0VkpFWng3OTJn?oc=5",
-      "description": "Aditya Birla Real Estate to develop INR 1,650 crore Hinjewadi housing project in Pune &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-26T11:00:13.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "a7e17c2b",
-      "title": "Kalpataru Limited Pune: PTM Builder Audit 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVXhDTkhWaGJncXM1Q1BLelJDMXY5ejZaZWpIb0g5MEEwX2cxNERzSnBROFdvNTZna1FaUk54Z3VscHYwbUlxYlpWYjJwNGs3dl9EVmtTZzhaMlRaR19ULUdiRFhlRFAyUTA0UjMtRk95SzdkM3EwSDZILWRvRG1xQVgyMTNsSjJhR1pQSjNoYmFtWkxoVmpVa2kyc2ZXcU5YVFlWTU1WbVctX1BBaEN1MXZoQkFGZldCMVBEZk5iVVVLZ3dX?oc=5",
-      "description": "Kalpataru Limited Pune: PTM Builder Audit 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-26T10:42:09.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "4516dfb9",
-      "title": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eNIB7AFBVV95cUxOa2FrZmN6UzJrcE14dU1xcEplU25xelZQekE2UGNWbmNfMTU0aU1iSU5hWmxNSlFxdEtDUkFEWS0zTElTQWVwcVBreDdnWW95cFJqT2trVUUxS2poai11NkctY1dXUUI4b3NCbzBjaFU1NFNoYkRpQjlEaU9yVjRzbW8ybG9uZk9xam1Wc3BnZWpqTWxhbFlRd252RWlCdWJIajYzUDI5aVNpVFBPeUFVekJsMnNESVN0NEcyWVVZY3VPVHg1NXFGMGRyckdQWlhTd3JLOVJTMzRlOUladTlRSFdMQlZxYzI5ZmZ6eA?oc=5",
-      "description": "Shree Naman Group acquires JW Marriott Bengaluru, Crowne Plaza Pune for ₹1,800 crore &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-26T10:13:37.000Z",
-      "city": "Bengaluru",
-      "category": "Land & acquisitions",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "38dc3fd1",
-      "title": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN - Cushman & Wakefield",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFRHdWlGZS00S002cTlHNDBVNEFvVHVQcUZfUGpLLWdnZGViMENxQ3BzcFFLTjFpcUZTRlA5NWRWV0RGNHlreVRoOGtoMWxFMVh4TnV3aFdJamx4WVJna0piQXctRHJFa0UwUnlNd0JneDgzNUVpSGFNUno4RDg0WFFfUlRvLXJRb1JPSC1EcnhBS2RidEZONU9zcWc5dnVicVlyVQ?oc=5",
-      "description": "Connected Intelligence: the Next Chapter of India's Construction Industry | IN &nbsp;&nbsp; Cushman & Wakefield",
-      "source": "Cushman & Wakefield",
-      "publishedAt": "2026-10-26T07:03:18.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
     }
   ]
 }
