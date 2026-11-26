@@ -1,103 +1,13 @@
 {
-  "generatedAt": "2026-11-25T11:33:32.427Z",
+  "generatedAt": "2026-11-26T11:16:40.569Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 175,
-  "todayCount": 7,
+  "itemCount": 180,
+  "todayCount": 11,
   "streamCount": 34,
   "successfulStreams": 34,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
     {
       "label": "undefined · undefined",
       "status": "ok",
@@ -126,6 +36,66 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 0
     },
     {
@@ -161,6 +131,36 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 6
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 1
     },
     {
@@ -176,10 +176,282 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 4
+      "items": 9
     }
   ],
   "todayItems": [
+    {
+      "id": "2b85ad7e",
+      "title": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR2dJdzZmZllDVjJKUzhleVdEeDl0ZHBDd3Y1Y1Q2QnNFRW1kZGkzNENiV01Fck9Ebnh1bThiOGhDQ19JYnZiSm9DeEFrRU9NNzZzTVR6ZHBKMUVLMnZNZDhRZVcwWDJ4djJmMng3UEpmT1U3dk5icWIyb3JGVkVHV0xNNG5ETlhRS1RfRXI3ZWxVS3hoNWZTOXp2Z3BBaGE0dGFyNHVCSUlWRzVQMVRzZzJjTUg0QmJ2b2JtTG1aeGgtMHUxemdHbEtVeW9QWEtNR1BiOC0yY3pJZllYTUZz?oc=5",
+      "description": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-26T10:09:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "7868ab9b",
+      "title": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjBkUjlXZ09jZHNWTFY2YkRGbEx4SlowWDJhUUpkWU44NXFDYkFiNDgzWXFiUi1ldGRSMU8wMWJ3X3ZrN21XbFJ2NTlyYU9LVThlZzhzQU1yZWM4NjBQaWJqNjNSQm1yZ0ticnk3MUNTZHFIOTBBN0dqV0preXl6SUN6V003SXZ0TzlNU3RuUWp1OGwzeXlLZGtJTXpqX09ZemFUZWtxV2pDMjJCOXJCcQ?oc=5",
+      "description": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-26T06:54:03.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "c68ca0c2",
+      "title": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 - AP7AM",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2E3WmxobUUtNkNxZ0hLS2tCRFp1Z2JsMERFMG9GSVJiSlEzX1kyZE1JS3NZQ2JITlJlUFY3VEo5N3Awd29jQ2E2cEl1RkJ1eHhGc19URHpvdndmVlJFTTFOajcwajBsTE1kQ2V5MndRMXRBbjFLWUVyRU4tX1g5U0h5T1JSdDg4U3NIanF4eFEzQzBiVmtZZTNyUjVYYVF3aUlzTUgyS3RMcEZt0gGyAUFVX3lxTE1VVWp6WVM3YmpYRmlTcTZNbG1yaDloMC0xcmM1NklYRllJQjNJaGtmaWJ5bVRNd0ZLU2JfVFhaMXFHbHk5NXpwazB0STYtcG5GUHgzZXJ0S1VmUjE4OVpIQVV3VEtWWkhEbkNCZzVsTmRONnNsaFl4UDkwemhTSmpYRlhuMzBfUDZqM0phSVA3SlRjNWdKaDRvZnhWcmJGT0JVb21IdExRZjVtUVFteERicWc?oc=5",
+      "description": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 &nbsp;&nbsp; AP7AM",
+      "source": "AP7AM",
+      "publishedAt": "2026-11-26T01:13:02.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Aparna Constructions"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "91d49018",
+      "title": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital - Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFlpUXFGNDJ3ZVY2SVhoUVgwTDU3OU5qTWhBdVhuUWlaRHRDZlZDYXQ0aDJFdzJRVFhJWU9fT2dla0M2NFhCTkZEMEU2UTk0MndQbGxzMFJubXZMT3RhZnhaVWJ2X3RxTUdxZDNabnhYNGRnM3JHZm9hN2Z0Uk53ZHFrY3lubFlzOUQ3TVRkSHh2bG5leENLRHlMNGt0c0ljcERaLUZMZnFSZEpoS3M2a0Nn?oc=5",
+      "description": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital &nbsp;&nbsp; Mjengo Hub",
+      "source": "Mjengo Hub",
+      "publishedAt": "2026-11-25T18:29:50.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "d84f120b",
+      "title": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2xTTWRYbkM2dFo3aUFoNVpxZkVMS3BGbFI4N0NXbmhleUhYc2g1SmlfdGZHdW9yYkNfejJlS3VmUU9vWEN1bHdKclFrandCTHJSc0lPOXUyVl9QOGlCY3p0S0w5aWNPbzVDYUotaFR6YWFIc2JveGtrU2Z4M3dsUF9iUGdCcnFHVmozaDl2d1NZcmJKY1E3ODQxSFJZdFZKcWROTTBGZmVJMm5LSDBDZXN2WmJHSk5iOU9GVXRoU0x2eDg4YjNmdTR4YTF3eVhLUV9TcDJn?oc=5",
+      "description": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-25T12:53:41.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b79c0d2c",
+      "title": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjJzSG96U1d3d3h6RXd6ZkVXWGJ5a2FtclU5X0hScWw3cFplQ05JeXRrM29Idk5uM00wbDBYN1EzNU9FWkFKVEFlREpmdXYtbGEwWnA1YS12TFhZeDZkUjVQSUJvUF83WjV5UUQ3TVpjbnNzaTVLc2lndThXMlgyR1hUd2p4dWh6Zm9GYU1iT3JKY2draW0zVW91LXMtY0VrVzFOblR3QXE0bnJrNkVZWk1CbDdHOXZpOG9XZ1hNODRzYXhVa0NWd3FoUlg2M0hmb3B2R2V2RE96TGtEcHV0TWZKem82WldFSnFSTjRuSERMdHZTQUhTRk5WUUExWnlSQ0dEaTNJblJTQUdCTzZFNFJIQVk5bmYwcjhRS1FycEpyZw?oc=5",
+      "description": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-25T12:42:46.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "4ad42888",
+      "title": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1l1NWJTRV9tME1rODh5SnNzOS0tS2J5OEtCNTVmc21QMElWdi1OZkE4ZmlUdEVac1JGUWU0aW1oUUZxZV9EMkVIQ2ktYVBGNU0xaUVsbG1nUGhOcUVXTXR1dFpQSHNmZGFleTNpXzVKNTdFeGxNLU5jSVFQMUM5N2tBekRyeGpramRscWgyX1FXQlBQcFd4cjZ0d1ZTRkNaOUtTWGFRLXR1TExEbU5KS2dHQWZ5aFN6TktGV2FkdF9Qc2JZTkRnLWdwNzFFX1htZGZ4dtIB2gFBVV95cUxNUlBVT2pZYjR6MHFqXzhSc0w0YzhJaTlPZEx4SGFTT2VMNHV6MlJKakJUSEcyUGJhSjVBQUlhVTZzXy14UkVudllDZndVOUh0c0NJTjVxN0lSbktwRU1IN2p1SkllTzB6a1B1MWp6ckFLUU05OTM1Vko3R1VNb2M4YjlHTWw2MkNBekI5M0t6Tk9rY0txQ2gzbEU4QzRJMTNCZ2dIZ2dDMWJoQ09WNGhiTnZtVkYxMWg4aWwzUmNXTEZHcXJjMVVWNHFTN3h1M0RMNmxvcXdOVmd2QQ?oc=5",
+      "description": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA &nbsp;&nbsp; Lokmat Times",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-11-25T10:32:41.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b8e618f9",
+      "title": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEl4dEstdm44Y0lqSkpnS3FOZ0ZlWk5CRjN3eGhmOHFMQXZ5T0FnN0pCQ1RCOGxnY055RHcyWHpvWmtfcHRXdG1PZm9QUXNRRzlsd0V2a0lYYlRCbm5kU1oxdmNGUFRkcUljYmtuYWtLU0dhcjdreVhEbTlHZHU5Vm1xbmd2UklNWWwyMzhjUzhpUzQ0b2xmSVZDUjZIN0l1SGt5MjB0TnpWaFJPbDFYTk9kbmo0NGp3ejlHVTk3cUlWRG1jN21ianZsc1kxT3h0SmJIT2hUS1piWExC?oc=5",
+      "description": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA &nbsp;&nbsp; ANI News",
+      "source": "ANI News",
+      "publishedAt": "2026-11-25T10:14:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "8bdeef28",
+      "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeTFFYWVMUFZPcGlOTDNZYXI3OUFnLXJZc3pxd1VNNGJGMnV0RDhPN1pqZ29QVnNNVG5RUDFORC1qSTF0bXFFOUl3aXpCeGwwSWJneDVmNnBlSFladi0xdUREdk92LWFPaFk2MG5MNmZXQmd5Tm8taFNR?oc=5",
+      "description": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-25T05:55:19.000Z",
+      "city": "Pune",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "48807c2e",
+      "title": "Alternative Real Estate Investments: The Growing Role of Private Capital in India - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUJsMEFBOWtEc2RVX1QxZy1jOWdaRHJ5YzVkTnZZSTRIUmJwN0F4SW1MWlNGOVFsLWJXaGEtNkJuZjhIaEQ2cnN4SnRrdWdCb2RvWjFrMHE2ak15YWFsa1BDZElwcTlfVjdCbUJDUXktLXpmbkZrcVBfRjVRR3lDN2RLODVtX255XzJIMXFsQ3ZkUTAxWnJwS2ZyWHR3RnExNURrcDFhNnNNUVZvWUlVdE1VN3JQYmdIS0toazgxeXVweFh5ZUdlN2tqZEFfb2ZXWTVkczVCcm9Ba2tNUnJUeldQR1EzdjFacFNuajlzekFVeXNlZ0E?oc=5",
+      "description": "Alternative Real Estate Investments: The Growing Role of Private Capital in India &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-24T18:50:07.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "7675b882",
+      "title": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZFTml6dXVaU0NwRDhWamxlQkJIbWNzVFR0c3pxNWwwMm1KcS1OVDhicndCX2FTY3hxNm1DbVZYWXpZUXYxVkRSMFQ5QjQyOXRBRVFVQ21zNHFfSTd6QUpHTWI0UFNUcmlxdUotZkRmYXFDQ0ROd3lkUmZ2UG9ORUhlTng3MGFfeDdIdVlraC1pX3JDQ2t5bGpNLXUzTHVETkpJNFlzTXhkQQ?oc=5",
+      "description": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-24T11:50:07.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    }
+  ],
+  "items": [
+    {
+      "id": "2b85ad7e",
+      "title": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR2dJdzZmZllDVjJKUzhleVdEeDl0ZHBDd3Y1Y1Q2QnNFRW1kZGkzNENiV01Fck9Ebnh1bThiOGhDQ19JYnZiSm9DeEFrRU9NNzZzTVR6ZHBKMUVLMnZNZDhRZVcwWDJ4djJmMng3UEpmT1U3dk5icWIyb3JGVkVHV0xNNG5ETlhRS1RfRXI3ZWxVS3hoNWZTOXp2Z3BBaGE0dGFyNHVCSUlWRzVQMVRzZzJjTUg0QmJ2b2JtTG1aeGgtMHUxemdHbEtVeW9QWEtNR1BiOC0yY3pJZllYTUZz?oc=5",
+      "description": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-26T10:09:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "7868ab9b",
+      "title": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjBkUjlXZ09jZHNWTFY2YkRGbEx4SlowWDJhUUpkWU44NXFDYkFiNDgzWXFiUi1ldGRSMU8wMWJ3X3ZrN21XbFJ2NTlyYU9LVThlZzhzQU1yZWM4NjBQaWJqNjNSQm1yZ0ticnk3MUNTZHFIOTBBN0dqV0preXl6SUN6V003SXZ0TzlNU3RuUWp1OGwzeXlLZGtJTXpqX09ZemFUZWtxV2pDMjJCOXJCcQ?oc=5",
+      "description": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-26T06:54:03.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "c68ca0c2",
+      "title": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 - AP7AM",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2E3WmxobUUtNkNxZ0hLS2tCRFp1Z2JsMERFMG9GSVJiSlEzX1kyZE1JS3NZQ2JITlJlUFY3VEo5N3Awd29jQ2E2cEl1RkJ1eHhGc19URHpvdndmVlJFTTFOajcwajBsTE1kQ2V5MndRMXRBbjFLWUVyRU4tX1g5U0h5T1JSdDg4U3NIanF4eFEzQzBiVmtZZTNyUjVYYVF3aUlzTUgyS3RMcEZt0gGyAUFVX3lxTE1VVWp6WVM3YmpYRmlTcTZNbG1yaDloMC0xcmM1NklYRllJQjNJaGtmaWJ5bVRNd0ZLU2JfVFhaMXFHbHk5NXpwazB0STYtcG5GUHgzZXJ0S1VmUjE4OVpIQVV3VEtWWkhEbkNCZzVsTmRONnNsaFl4UDkwemhTSmpYRlhuMzBfUDZqM0phSVA3SlRjNWdKaDRvZnhWcmJGT0JVb21IdExRZjVtUVFteERicWc?oc=5",
+      "description": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 &nbsp;&nbsp; AP7AM",
+      "source": "AP7AM",
+      "publishedAt": "2026-11-26T01:13:02.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Aparna Constructions"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "91d49018",
+      "title": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital - Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFlpUXFGNDJ3ZVY2SVhoUVgwTDU3OU5qTWhBdVhuUWlaRHRDZlZDYXQ0aDJFdzJRVFhJWU9fT2dla0M2NFhCTkZEMEU2UTk0MndQbGxzMFJubXZMT3RhZnhaVWJ2X3RxTUdxZDNabnhYNGRnM3JHZm9hN2Z0Uk53ZHFrY3lubFlzOUQ3TVRkSHh2bG5leENLRHlMNGt0c0ljcERaLUZMZnFSZEpoS3M2a0Nn?oc=5",
+      "description": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital &nbsp;&nbsp; Mjengo Hub",
+      "source": "Mjengo Hub",
+      "publishedAt": "2026-11-25T18:29:50.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "d84f120b",
+      "title": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2xTTWRYbkM2dFo3aUFoNVpxZkVMS3BGbFI4N0NXbmhleUhYc2g1SmlfdGZHdW9yYkNfejJlS3VmUU9vWEN1bHdKclFrandCTHJSc0lPOXUyVl9QOGlCY3p0S0w5aWNPbzVDYUotaFR6YWFIc2JveGtrU2Z4M3dsUF9iUGdCcnFHVmozaDl2d1NZcmJKY1E3ODQxSFJZdFZKcWROTTBGZmVJMm5LSDBDZXN2WmJHSk5iOU9GVXRoU0x2eDg4YjNmdTR4YTF3eVhLUV9TcDJn?oc=5",
+      "description": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-25T12:53:41.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b79c0d2c",
+      "title": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjJzSG96U1d3d3h6RXd6ZkVXWGJ5a2FtclU5X0hScWw3cFplQ05JeXRrM29Idk5uM00wbDBYN1EzNU9FWkFKVEFlREpmdXYtbGEwWnA1YS12TFhZeDZkUjVQSUJvUF83WjV5UUQ3TVpjbnNzaTVLc2lndThXMlgyR1hUd2p4dWh6Zm9GYU1iT3JKY2draW0zVW91LXMtY0VrVzFOblR3QXE0bnJrNkVZWk1CbDdHOXZpOG9XZ1hNODRzYXhVa0NWd3FoUlg2M0hmb3B2R2V2RE96TGtEcHV0TWZKem82WldFSnFSTjRuSERMdHZTQUhTRk5WUUExWnlSQ0dEaTNJblJTQUdCTzZFNFJIQVk5bmYwcjhRS1FycEpyZw?oc=5",
+      "description": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-25T12:42:46.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "4ad42888",
+      "title": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA - Lokmat Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1l1NWJTRV9tME1rODh5SnNzOS0tS2J5OEtCNTVmc21QMElWdi1OZkE4ZmlUdEVac1JGUWU0aW1oUUZxZV9EMkVIQ2ktYVBGNU0xaUVsbG1nUGhOcUVXTXR1dFpQSHNmZGFleTNpXzVKNTdFeGxNLU5jSVFQMUM5N2tBekRyeGpramRscWgyX1FXQlBQcFd4cjZ0d1ZTRkNaOUtTWGFRLXR1TExEbU5KS2dHQWZ5aFN6TktGV2FkdF9Qc2JZTkRnLWdwNzFFX1htZGZ4dtIB2gFBVV95cUxNUlBVT2pZYjR6MHFqXzhSc0w0YzhJaTlPZEx4SGFTT2VMNHV6MlJKakJUSEcyUGJhSjVBQUlhVTZzXy14UkVudllDZndVOUh0c0NJTjVxN0lSbktwRU1IN2p1SkllTzB6a1B1MWp6ckFLUU05OTM1Vko3R1VNb2M4YjlHTWw2MkNBekI5M0t6Tk9rY0txQ2gzbEU4QzRJMTNCZ2dIZ2dDMWJoQ09WNGhiTnZtVkYxMWg4aWwzUmNXTEZHcXJjMVVWNHFTN3h1M0RMNmxvcXdOVmd2QQ?oc=5",
+      "description": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA &nbsp;&nbsp; Lokmat Times",
+      "source": "Lokmat Times",
+      "publishedAt": "2026-11-25T10:32:41.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b8e618f9",
+      "title": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEl4dEstdm44Y0lqSkpnS3FOZ0ZlWk5CRjN3eGhmOHFMQXZ5T0FnN0pCQ1RCOGxnY055RHcyWHpvWmtfcHRXdG1PZm9QUXNRRzlsd0V2a0lYYlRCbm5kU1oxdmNGUFRkcUljYmtuYWtLU0dhcjdreVhEbTlHZHU5Vm1xbmd2UklNWWwyMzhjUzhpUzQ0b2xmSVZDUjZIN0l1SGt5MjB0TnpWaFJPbDFYTk9kbmo0NGp3ejlHVTk3cUlWRG1jN21ianZsc1kxT3h0SmJIT2hUS1piWExC?oc=5",
+      "description": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA &nbsp;&nbsp; ANI News",
+      "source": "ANI News",
+      "publishedAt": "2026-11-25T10:14:00.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
     {
       "id": "8bdeef28",
       "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
@@ -209,106 +481,34 @@
       "stream": "funds"
     },
     {
-      "id": "7bfc8f5e",
-      "title": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUmU5U3BEMXBnenRvZmhLMGdVVGlSZlI2MDdzdEVWTm94M0VFejhtbnczUE9sQmhuLVViZWxsaWp5TFd2MlNKM2V5aTd4YWJ3U2c3SG9EcHJXZFhmVDRqbDlDYi1KUlpENFNydGZOTmZidlhCVU9qV1R5d1FaczRmcUVXX1ZPOE5NTHFONjhteVl0djViUXhVTHhlSHJYcFVIclpzSFdDWGlRTTJXMXhzb0FJWGdybTlFUjllSFZ2RmNmVlhnOC1GTC1GajB1UExnTW15bQ?oc=5",
-      "description": "Indian Singer Sonu Nigam Purchases Commercial Property in Mumbai for Rs. 31.47 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-24T10:48:07.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
+      "id": "7675b882",
+      "title": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit - Multibagg AI",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZFTml6dXVaU0NwRDhWamxlQkJIbWNzVFR0c3pxNWwwMm1KcS1OVDhicndCX2FTY3hxNm1DbVZYWXpZUXYxVkRSMFQ5QjQyOXRBRVFVQ21zNHFfSTd6QUpHTWI0UFNUcmlxdUotZkRmYXFDQ0ROd3lkUmZ2UG9ORUhlTng3MGFfeDdIdVlraC1pX3JDQ2t5bGpNLXUzTHVETkpJNFlzTXhkQQ?oc=5",
+      "description": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit &nbsp;&nbsp; Multibagg AI",
+      "source": "Multibagg AI",
+      "publishedAt": "2026-11-24T11:50:07.000Z",
+      "city": "India",
+      "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
-      "stream": "projects"
+      "stream": "reit"
     },
     {
-      "id": "4141f4d8",
-      "title": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONFhSZ1VIb3VuRWI2dGRNYnQ0UlhQR1VqUXlpeFpOTXVUZU52ZDRqck4tazRsanFfaDM5RkpkampUTkpNVjNsXzd0aGliM3ZxOFVqVTNCNUNGNGNTNHJPREItSGxra3RUWThFTjU3N1hRRGpYZ0FiSXVZaEtLNG82NDdjNXdtd1FmSXE0V3owMERkZURic2ZCekExN0NIVndRQnlOcHREeHA0MkNRVC1CbEpjaEcxaWZJcmI2NW90ZzFGNFpNNTBxdFRoNkMtdHFmU2tJQnRB0gHbAUFVX3lxTE9sT29iWS1FNkphT1QxcTNNQ3A3VFZxVy1tc0pHdThhbFhCbm1yQ3owMFlNME5ybllOX0UyU2JOYjRMU2RiSHhuR19YR2l6RFNXMlZ2ekljYjdKblZ0TmgxRThlMjd6X2FIaFNWUjhJcHUzOThUVVhIWnF3blFWNi14MHptMVpfeXI2c0lYLUZlbkhyVUMzSjg3SWRKNVZ4MmNOOHRPTHhZWm1fNzNVME5lejJKR3BIYUNFSUk4Z09WdlU1aU9BRGJvdmF3ZGJOUW91NFZzdnBGY2Y3WQ?oc=5",
-      "description": "MP Developers buys iconic Pilot Theatre in Chennai, plans ₹200 cr project &nbsp;&nbsp; Business Standard",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-24T10:44:19.000Z",
-      "city": "Chennai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "1f867b9a",
-      "title": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOb3MxeUVZbl9DM0Nfc3JRdHU4cDRITWRYd1RTVFoxdWtFNzhvaU1LVnBLOFl6VFNrV2tBTEVlNkUwQWZwRHFDbFcyOHNSa2syeDFMN0FyaFhzOUxuWHhtUXk4V0xpRE9zbFF1d3NTZjh2RnV5UWtTN0tONHhkTXl2LVRQTzdHZnlxZTNHV0t4R3hPajcwdXF2a3JubGdiZUdrYl9xaWpFOFRQaFBiQlRRVEhHVktseTAwcWJ0RmRrU2pISm1jX0pvMlZ1OWhqNXdnOE9HU25LT0QtdDYyYW9qb2I4SDk0dEdZZkVLRGhpZ2c0VGNnTTc2ZjdIUmtPakpMRjdpeHgyanJ2Vmp6UGNrTmRFN3VyREMwZ2xkamNDWUQydGdCMVlaOXFucVFmNGl3UmpLS2dlNllGYXRnZzIxX2QyTUVhQmVUT2x6UDhxSWUtdHppMzF6dHlMZUPSAZgCQVVfeXFMTmh0Z2F3VzB0VVRja2V5czZyNmFFOVFnUEQ5Wk5GVldEUHdJMlBhMFEwbV80c3J2VTMyQ3NLQVpEanFHSmxMS01WeWp1RFg2QW5OeUJXYmRHQzJyZmtvYkJjd3lpWkI4Q3ByRlA3ajkzSmRELWI3a01iVjBPU19kSnZjRFZlSkJpckZBQWNsd09saXk0WGd3b1phSGJVa3V1VkRNXzZrMGtmYUNISVVfLTNzSnRoUllJZTNqMlJuY0lLWU1FY1Ztbzd6cUExdEU1ZUY3Y0t0cW41Nno0RndPQS1XQVFldHVrNWZRQ1h5c1hPQ2k4UVUzbF9ucnJFNEJxWDNqQXN1bXlHekNDY1o5aWV6TndCbTFSWQ?oc=5",
-      "description": "Lodha Developers sitting on inventory worth Rs 2 lakh cr, to invest less on land acquisition &nbsp;&nbsp; The Economic Times",
-      "source": "The Economic Times",
-      "publishedAt": "2026-11-24T09:27:53.000Z",
+      "id": "3d48a85e",
+      "title": "Lodha Developers cuts land buying as pipeline expands - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR1BRZUlUdGxlS1dNOGZPNFgwakczU3cyOWZGb0JOaXphYlN4WEU2TmtmWUx4QTRuTnBwSWRxSUx2WVZDNF9KMUVHMVdLbEoya3pKZ1lWQ2FiZk1TX3Y0ZG81SUpwWEd4a0V6MFJqV21FQ25KeTg5dzFjSk1UdEgtRFhwbEVUYkpEbTBaUHpIejhfcFBOdUhvckV3WjF5b3ppOVFLeHp3?oc=5",
+      "description": "Lodha Developers cuts land buying as pipeline expands &nbsp;&nbsp; Urban Acres",
+      "source": "Urban Acres",
+      "publishedAt": "2026-11-24T10:53:37.000Z",
       "city": "Mumbai",
       "category": "Land & acquisitions",
-      "tone": "positive",
+      "tone": "neutral",
       "priority": "normal",
       "entities": [
         "Lodha Developers"
       ],
       "stream": "land"
-    },
-    {
-      "id": "dbf62d93",
-      "title": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DSXZndlRLdmUwaF9US1VFUmNyVDR6bTNEZnpyaHhXU0kza1p2Y2xUSURybzdIN1ZIb19MR3AxbzJHUlNQMG80ZFpsNVNfNTRQS0M3VXNxcGU1RDk0SjdLbFQ4Qm5qWGFZRU9J?oc=5",
-      "description": "Aundh Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-24T05:58:12.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "d52551ba",
-      "title": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices - https://www.indiagazette.com/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGFiQU85a0wzU01MX0I3VUFDV3hBajYyZk1OSzFHRWxUc3lIVEZOVW5kYTFsd3YyWjZNODlQOFVxMXVJSmdpLTMxUzJsYXprMGxIaDBUbWJ2NTQ1NnprV0Nla2RwSEM1N2RJeTJId1JmZzRBcjQtbHRtZm5nQXJPazlZVHFZRzdnRnR6RGRQTS00UHVOOGtSNDl3LS16MDNVeHZQS1FLWEJlOFNrNnNlRHk2ZEJyMlk4ZVNrUnFVYmI5bHAySk5DWg?oc=5",
-      "description": "NAREP Real Estate Summit 2026 to Convene India's Leading Regulatory and Industry Voices &nbsp;&nbsp; https://www.indiagazette.com/",
-      "source": "https://www.indiagazette.com/",
-      "publishedAt": "2026-11-24T04:46:00.000Z",
-      "city": "India",
-      "category": "Company & leadership",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "companies"
-    }
-  ],
-  "items": [
-    {
-      "id": "8bdeef28",
-      "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeTFFYWVMUFZPcGlOTDNZYXI3OUFnLXJZc3pxd1VNNGJGMnV0RDhPN1pqZ29QVnNNVG5RUDFORC1qSTF0bXFFOUl3aXpCeGwwSWJneDVmNnBlSFladi0xdUREdk92LWFPaFk2MG5MNmZXQmd5Tm8taFNR?oc=5",
-      "description": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-25T05:55:19.000Z",
-      "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "48807c2e",
-      "title": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUJsMEFBOWtEc2RVX1QxZy1jOWdaRHJ5YzVkTnZZSTRIUmJwN0F4SW1MWlNGOVFsLWJXaGEtNkJuZjhIaEQ2cnN4SnRrdWdCb2RvWjFrMHE2ak15YWFsa1BDZElwcTlfVjdCbUJDUXktLXpmbkZrcVBfRjVRR3lDN2RLODVtX255XzJIMXFsQ3ZkUTAxWnJwS2ZyWHR3RnExNURrcDFhNnNNUVZvWUlVdE1VN3JQYmdIS0toazgxeXVweFh5ZUdlN2tqZEFfb2ZXWTVkczVCcm9Ba2tNUnJUeldQR1EzdjFacFNuajlzekFVeXNlZ0E?oc=5",
-      "description": "The Rise of Alternative Real Estate Investments: Why Private Capital Is Becoming Important for India's Property Market? &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-24T18:50:07.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
     },
     {
       "id": "7bfc8f5e",
@@ -395,6 +595,20 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "8c9ee8b8",
+      "title": "Cityscape India to make debut in Mumbai in April 2027, targeting luxury property investors - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORXplclRGRzdjOXctdHoyVkx0YTNRWWxSNFlJbjE0TVpZa0lUbEZySzR3ZnNsNVMxX0xCMmFBWGlLcFVQSWVWcmgzejVSYzhkUjJOU3ZwRjBZQ0JjRkFkQm1KUDY3SWtJT19LNmhJbG4wRUowSkwzeE4tWmFTaWdzVmFkTGJfeFRTZ2Y1QVZKRXlidkdBTFk1VndBUmp2b1pKbHJQVFB6bnNzQnJ5SGdkT1I0bzFYb3lSMWFZYm83LTZHbWM3QkpwN2YwOVViVHlkTW1KQWZsakQ?oc=5",
+      "description": "Cityscape India to make debut in Mumbai in April 2027, targeting luxury property investors &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-22T09:30:18.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     },
     {
       "id": "31f7a6ef",
@@ -2759,90 +2973,6 @@
       "priority": "normal",
       "entities": [],
       "stream": "land"
-    },
-    {
-      "id": "69147750",
-      "title": "Duville Estates Pune Review 2026: A PTM Builder Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX05DRGExczBXX2VIcGJiQkZpVUpBdW9LQmx1Mk45ZTJ1ZUFaZmtSS3Y2QmtrMXVSb2lVd1RRSXUtdzUxZ1licU51X003OU1DRmtJQWlVR2ZJOGxtajQ0QUdZbU1NaVJfcEtEZ1ZvVktVQzBOZGprR1FxRDA4Q1BrUWlseEFxbnBDY1pBa1RMSXhZS0JIbXNSSnNOTW1IQVBVTjU4aGpiRi1lbEptN29qS3FzYV90Ymh2ZlpUQQ?oc=5",
-      "description": "Duville Estates Pune Review 2026: A PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-27T11:05:35.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "40dbf740",
-      "title": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQakdxRkVtcmp2UXZ6V1l3UEp0WkNCUzV6bE5ySFdkWTZPTERucUozeXJkZlFnNVU1Vi1hU1ZwVlNOY1cwRVc2TWxFYkZtR0lFZ19LTkZ1ZVoweDRKUnh5RTktM2FvNXFzU2RIUGg4OHluVThlSlk2eWFhNUNUTmJtcW1seGJ3VmtxeHBuWXNTb0l3ZWFpM1Z4ZkREbkMxb19Za09nZzRPdExWZzdKSFZyZUdIQkRVNVpMTWtwRzRlenlQSHVyYU9KZ3A3eHU3dFV4ZnYwbGNlWXRxUEJUb3fSAd4BQVVfeXFMUGpHcUZFbXJqdlF2eldZd1BKdFpDQlM1emxOckhXZFk2T0xEbnFKM3lyZGZRZzVVNVYtYVNWcFZTTmNXMEVXNk1sRWJGbUdJRWdfS05GdWVaMHg0SlJ4eUU5LTNhbzVxc1NkSFBoODh5blU4ZUpZNnlhYTVDVE5ibXFtbHhid1ZrcXhwbllzU29Jd2VhaTNWeGZERG5DMW9fWWtPZ2c0T3RMVmc3SkhWcmVHSEJEVTVaTE1rcEc0ZXp5UEh1cmFPSmdwN3h1N3RVeGZ2MGxjZVl0cVBCVG93?oc=5",
-      "description": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-27T08:37:36.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "e4b77200",
-      "title": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects - ET Realty",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFFQbWx5U0JzYXR0WjVuOUNubG9FSDltOEhubGNBd2d5eUtyNVh1YXE4TUc4ZTNVTmVfSElnc29iT253RFZHSWpSQ2EyMmFGcm8wdzZUUG9TcjJRREpZZXZWX2Z5T3R6WGpmMy00S0FwRER0c3ZWRXQxNnFVaEFFMGxSd2pJRnhYc21xaEEySkNQOTR2VE54emhIUmNNYlJBUFEtdmRWRlpDVVZibXBZNXBSbmZsSXVYLWZYQk8td1NsbkxGcDN6d2RMMlhoVkZEa1J6MmtmQ2jSAd4BQVVfeXFMUGpHcUZFbXJqdlF2eldZd1BKdFpDQlM1emxOckhXZFk2T0xEbnFKM3lyZGZRZzVVNVYtYVNWcFZTTmNXMEVXNk1sRWJGbUdJRWdfS05GdWVaMHg0SlJ4eUU5LTNhbzVxc1NkSFBoODh5blU4ZUpZNnlhYTVDVE5ibXFtbHhid1ZrcXhwbllzU29Jd2VhaTNWeGZERG5DMW9fWWtPZ2c0T3RMVmc3SkhWcmVHSEJEVTVaTE1rcEc0ZXp5UEh1cmFPSmdwN3h1N3RVeGZ2MGxjZVl0cVBCVG93?oc=5",
-      "description": "Platinum Corp to invest ₹260 crore across four Mumbai residential projects &nbsp;&nbsp; ET Realty",
-      "source": "ET Realty",
-      "publishedAt": "2026-10-27T08:37:36.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "ce50f338",
-      "title": "India Commercial Real Estate Market Size, Share Report 2035 - Market Research Future",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNazhxMmlMYk1TN1hSUXI5RHhEeC1vVTdfUm5hNk1XNS1KV2ZmajYtZGFyaGdmTUtpZ2wtTndNT3pWbWoydXZEUjdNdDUwdERTbndPckpyZEZqUXIyNUlLaGVPSjBnRVVXV3VZXzJTUEJZTUlwcVJBX2VseHdJMGZYUzVNNEdMYXZWU0dIN0M1WQ?oc=5",
-      "description": "India Commercial Real Estate Market Size, Share Report 2035 &nbsp;&nbsp; Market Research Future",
-      "source": "Market Research Future",
-      "publishedAt": "2026-10-27T07:00:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "df526055",
-      "title": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUppbWJVSlhSOFdZQ3FVakp3Zk9raUt5ZXhUV2pnaUlwcXFmUXVsNHh0SEZUWGpZQ1pkRXN2UFNEMy1oYTVJQy1HbWkxcWstRTBtMUFwd042TDl5MHoyM3MwcHo1VDBOd1Q0WGdhdFFWcXpLSllXVHAzZWpxaWpqRkZzV015ckRIb3lvYXpCUEVNTVpjTDBjNEFzUW9aWHNzMXhwNDIyc2FiNDFGMTVZNnlLb0s2N3hLRi1EVEZtYXFNOWlLdkE?oc=5",
-      "description": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-27T05:31:18.000Z",
-      "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "8be83988",
-      "title": "Marvel Realtors Pune Review 2026 | PTM Builder Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2l5Vkp1blpKVDBUX1NQcW50UmtOeklaTHFIQ3FFbFFXMGl2Uzk2MmV4WThzNzVZLUpyaEw0VEZkakt3THFxTXg2OWJaeVRCeExXNlNOTmlVdHpDSHFjR055WDRSSFhTUmx6SHFpX25hT2kwMjBwWF80VElMUVZWRGdNUEItNXJ6RWFtMHkxVEVpRkhxb05SemhPb2gwWWpQTFZfdjFUYjhjZ2xkV1dXdUlpcHhkTXJ1SnZmZWlQRmFsa01NaElTQmdZTUs?oc=5",
-      "description": "Marvel Realtors Pune Review 2026 | PTM Builder Audit &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-26T11:45:01.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
     }
   ]
 }
