@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-26T11:16:40.569Z",
+  "generatedAt": "2026-11-27T11:11:09.837Z",
   "timezone": "Asia/Kolkata",
   "provider": "Google News RSS public search feeds",
-  "itemCount": 180,
-  "todayCount": 11,
+  "itemCount": 179,
+  "todayCount": 18,
   "streamCount": 34,
-  "successfulStreams": 34,
+  "successfulStreams": 32,
   "note": "Public web news discovery, not a complete record of all online or offline information. Tone and priority are keyword triage labels, not verified conclusions. Review original sources.",
   "streams": [
     {
@@ -16,7 +16,7 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 1
+      "items": 2
     },
     {
       "label": "undefined · undefined",
@@ -71,7 +71,68 @@
     {
       "label": "undefined · undefined",
       "status": "ok",
+      "items": 2
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 7
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
       "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 4
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 1
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 0
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "label": "undefined · undefined",
+      "status": "ok",
+      "items": 5
     },
     {
       "label": "undefined · undefined",
@@ -97,41 +158,6 @@
       "label": "undefined · undefined",
       "status": "ok",
       "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 3
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 6
     },
     {
       "label": "undefined · undefined",
@@ -145,163 +171,123 @@
     },
     {
       "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
+      "status": "failed",
+      "items": 0,
+      "error": "HTTP 429"
     },
     {
       "label": "undefined · undefined",
       "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 0
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 1
-    },
-    {
-      "label": "undefined · undefined",
-      "status": "ok",
-      "items": 9
+      "items": 8
     }
   ],
   "todayItems": [
     {
-      "id": "2b85ad7e",
-      "title": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com - Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR2dJdzZmZllDVjJKUzhleVdEeDl0ZHBDd3Y1Y1Q2QnNFRW1kZGkzNENiV01Fck9Ebnh1bThiOGhDQ19JYnZiSm9DeEFrRU9NNzZzTVR6ZHBKMUVLMnZNZDhRZVcwWDJ4djJmMng3UEpmT1U3dk5icWIyb3JGVkVHV0xNNG5ETlhRS1RfRXI3ZWxVS3hoNWZTOXp2Z3BBaGE0dGFyNHVCSUlWRzVQMVRzZzJjTUg0QmJ2b2JtTG1aeGgtMHUxemdHbEtVeW9QWEtNR1BiOC0yY3pJZllYTUZz?oc=5",
-      "description": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com &nbsp;&nbsp; Investing.com India",
-      "source": "Investing.com India",
-      "publishedAt": "2026-11-26T10:09:34.000Z",
+      "id": "9618292a",
+      "title": "Rs 500 Crore AIF to Fund Indian Housing Projects - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWo2NXZsby03RDg4eFhmVDktTEl0WGlzZ2JCdENKeEhuYkctRUZNa0g2UjRScTl0WWRIbFlHU2VvMEcyV1R5RFZDUkJzZDFRYmVzR19DMVFzUU1penIxcGJHN3BYbDdBTHVOTFJ1SXh4dkNseE5Rc2VFQ28xVHZnVkhEV004V2NOSWl1MVgyaDZPZkJUWU9wZE1GYTYycmxnVjhnZlhoemtuUQ?oc=5",
+      "description": "Rs 500 Crore AIF to Fund Indian Housing Projects &nbsp;&nbsp; Urban Acres",
+      "source": "Urban Acres",
+      "publishedAt": "2026-11-27T11:05:12.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "38653050",
+      "title": "SEBI Introduces Amendments To InvIT And REIT Regulations, 2014 - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3JZd1N5cTdkSEVFTXl2MnBTajdHbmVsZDlYZElvVXdWQWJKcXZXZW4xUUNwY1dOdkEtUUJOM2RDcUNxT2hJck9CYVV0NGFUNlQ4QWpfUjlTc2RXSGJBeGJrTVVpdG5pWGFqUGtUQ2NMVkxqX0x1THV3eWx5THNLZUVucEVxeUltM0dyVXdfN3BNcnl4aGJOZjVET1VacWQyN2dKdHdRRFlxbEI5Y1lnRnVtOEJsYVgtZnhNbERObnJ0ck0?oc=5",
+      "description": "SEBI Introduces Amendments To InvIT And REIT Regulations, 2014 &nbsp;&nbsp; Legal 500",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-27T08:22:33.000Z",
       "city": "India",
       "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b36a8e7f",
+      "title": "Navin’s Enters Plotted Development with Navin’s ARC in Chennai - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWjNpSV9kcnQ1aHIxR1ZzVDlCcGNFa2psUFhiOUZTNXIzWFlfbE5PMjJ5V290cW1jblJITmp1V0xEZVRTQnhTTlRXQVp2YW9Qb2NZWUhGdVVQSzB1dE8xbnYycTFPMzBaX2xVRG5scTI1cVZLdDVENUZhOU5NTGRjMjIyZjJHcUxWWFFqMWNpT3Q2eE91aFNlc2FWeVpyajVmUW8tcFpzdGdTZ0lKRTZObmRxT251Z1JlaGxIMnVaUmZhb0owS2pEdEwxcDRBOGRIREo3R3VBMXIyVE1QenhDajV3?oc=5",
+      "description": "Navin’s Enters Plotted Development with Navin’s ARC in Chennai &nbsp;&nbsp; Construction World",
+      "source": "Construction World",
+      "publishedAt": "2026-11-27T08:02:31.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "f189a819",
+      "title": "Mundhwa Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnZNS2gtZTZkemlGTi1HSmhUdVJCQXh1bXZtSkF4azk2a1hObVQ3bmRKXzJXQThSenI1QWZuVl9hdEhYSUNXN21DQWZJdWJULXpBekJoNzIxamhpUmZYRU52NGlrbWVad1FGb3Bna1pWLU8wNDhsMWtzcjF2Qk1zemFScFRWUy1jS1dxSXNiX3c5eWx3RXhBNHlLODRwbS1xNU1qQVFHUmxDbGoyOEpJ?oc=5",
+      "description": "Mundhwa Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-27T06:48:37.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "98f5839e",
+      "title": "Ashiana-Arihant JV acquires 9.57-acre Chennai land; Concorde signs North Bengaluru JDA - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHFEMmVwS3RiZVNuVFJfLVNVLTM1OTBqMWVIS1Y3WWEzbFNkUlpLdDJNTnkwVjUtd1p0dnNEZGkwOTQxT2RLaGttUzJqdXhZc2lrendHeU1KcWYtUU9hQU1qNGtmVTl0cGNyczZBeXVrYWppdV9QemtXZXRRX0pwQ2FkSWROVFhKZmZLUDd1a1hlUzF6QVJTazRtdHk3VjlCcHV0T2RWbTdPdnVzeWNZU0RBbElzS29RQWd4UjlqODhsUURSMURfdXJEdENHUG0zeHh4VjU1bk05MnJXRVJuN3AzeFB4VlJBam9ST1FB0gHuAUFVX3lxTE1kcUQyZXBLdGJlU25UUl8tU1UtMzU5MGoxZUhLVjdZYTNsU2RSWkt0Mk1OeTBWNS13WnR2c0RkaTA5NDFPZEtoa21TMmp1eFlzaWt6d0d5TUpxZi1RT2FBTWo0a2ZVOXRwY3JzNkF5dWthaml1X1B6a1dldFFfSnBDYWRJZE5UWEpmZktQN3VrWGVTMXpBUlNrNG10eTdWOUJwdXRPZFZtN092dXN5Y1lTREFsSXNLb1FBZ3hSOWo4OGxRRFIxRF91ckR0Q0dQbTN4eHhWNTVuTTkycldFUm43cDN4UHhWUkFqb1JPUUE?oc=5",
+      "description": "Ashiana-Arihant JV acquires 9.57-acre Chennai land; Concorde signs North Bengaluru JDA &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-27T03:38:41.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "7868ab9b",
-      "title": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjBkUjlXZ09jZHNWTFY2YkRGbEx4SlowWDJhUUpkWU44NXFDYkFiNDgzWXFiUi1ldGRSMU8wMWJ3X3ZrN21XbFJ2NTlyYU9LVThlZzhzQU1yZWM4NjBQaWJqNjNSQm1yZ0ticnk3MUNTZHFIOTBBN0dqV0preXl6SUN6V003SXZ0TzlNU3RuUWp1OGwzeXlLZGtJTXpqX09ZemFUZWtxV2pDMjJCOXJCcQ?oc=5",
-      "description": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-26T06:54:03.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
       "stream": "projects"
     },
     {
-      "id": "c68ca0c2",
-      "title": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 - AP7AM",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2E3WmxobUUtNkNxZ0hLS2tCRFp1Z2JsMERFMG9GSVJiSlEzX1kyZE1JS3NZQ2JITlJlUFY3VEo5N3Awd29jQ2E2cEl1RkJ1eHhGc19URHpvdndmVlJFTTFOajcwajBsTE1kQ2V5MndRMXRBbjFLWUVyRU4tX1g5U0h5T1JSdDg4U3NIanF4eFEzQzBiVmtZZTNyUjVYYVF3aUlzTUgyS3RMcEZt0gGyAUFVX3lxTE1VVWp6WVM3YmpYRmlTcTZNbG1yaDloMC0xcmM1NklYRllJQjNJaGtmaWJ5bVRNd0ZLU2JfVFhaMXFHbHk5NXpwazB0STYtcG5GUHgzZXJ0S1VmUjE4OVpIQVV3VEtWWkhEbkNCZzVsTmRONnNsaFl4UDkwemhTSmpYRlhuMzBfUDZqM0phSVA3SlRjNWdKaDRvZnhWcmJGT0JVb21IdExRZjVtUVFteERicWc?oc=5",
-      "description": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 &nbsp;&nbsp; AP7AM",
-      "source": "AP7AM",
-      "publishedAt": "2026-11-26T01:13:02.000Z",
-      "city": "Hyderabad",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Aparna Constructions"
-      ],
-      "stream": "projects"
-    },
-    {
-      "id": "91d49018",
-      "title": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital - Mjengo Hub",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFlpUXFGNDJ3ZVY2SVhoUVgwTDU3OU5qTWhBdVhuUWlaRHRDZlZDYXQ0aDJFdzJRVFhJWU9fT2dla0M2NFhCTkZEMEU2UTk0MndQbGxzMFJubXZMT3RhZnhaVWJ2X3RxTUdxZDNabnhYNGRnM3JHZm9hN2Z0Uk53ZHFrY3lubFlzOUQ3TVRkSHh2bG5leENLRHlMNGt0c0ljcERaLUZMZnFSZEpoS3M2a0Nn?oc=5",
-      "description": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital &nbsp;&nbsp; Mjengo Hub",
-      "source": "Mjengo Hub",
-      "publishedAt": "2026-11-25T18:29:50.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
+      "id": "5c61c372",
+      "title": "Ashiana Housing JV Acquires 9.57-Acre Chennai Land For ₹1,100-Crore Senior Living Project - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkFnblhWSFdyTGJIUDBDdGZmcTBGNTR0UVh1R291LXZTMWNfZmd6c3pUVGtQd1ZheHRHOWtKcVQxS3pzRS13Rk55R0xtSFFSSHBhRDZjeUcwM2Fxc09YSURkQXVPVmhoY0Z3U0ZXSkpDVVQwYXYyUzV2SldvbmZySmRVY2QxdWtFMU9wYS1qSHdvaUpKWkpLRWNtOHkzcTFVZjd2RFlaOGNtUDNsdGtDeFRtenc?oc=5",
+      "description": "Ashiana Housing JV Acquires 9.57-Acre Chennai Land For ₹1,100-Crore Senior Living Project &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-11-27T03:33:28.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
+      "stream": "land"
     },
     {
-      "id": "d84f120b",
-      "title": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines - Mingtiandi",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2xTTWRYbkM2dFo3aUFoNVpxZkVMS3BGbFI4N0NXbmhleUhYc2g1SmlfdGZHdW9yYkNfejJlS3VmUU9vWEN1bHdKclFrandCTHJSc0lPOXUyVl9QOGlCY3p0S0w5aWNPbzVDYUotaFR6YWFIc2JveGtrU2Z4M3dsUF9iUGdCcnFHVmozaDl2d1NZcmJKY1E3ODQxSFJZdFZKcWROTTBGZmVJMm5LSDBDZXN2WmJHSk5iOU9GVXRoU0x2eDg4YjNmdTR4YTF3eVhLUV9TcDJn?oc=5",
-      "description": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
-      "source": "Mingtiandi",
-      "publishedAt": "2026-11-25T12:53:41.000Z",
-      "city": "Mumbai",
-      "category": "Market & policy",
-      "tone": "neutral",
+      "id": "1eb2205",
+      "title": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd3g0MTMxWWRybnV4MWdlVnJVdWxRLTdHRzV1OGtrYkZ1SzQ5ZFNGV1NZSzdoT3ZIYkMwRUQwWGFFSW9weFQxZnQ2ai16QUxZWmZOdzVtYkREcTFWbnNGeXNQMTBnZHFsUldJZWk2ODdyd0x0QTJGRnlBS2M3T2ZVM0RzYm5zQTBKN3g1NlVsQUxseEFGbk1OMnJISnJnVC1iZFZjeTNfcXJKR1d0Rm5xVW5EM1BQSnF6a3dWb05KUThLbXlPaDZFSGlrQVZLd1laeDMwZVd3SzVZbTRKdEFGNWR4c1M1NFhQRnlPS0c1X043NWNJWDRFby1hR1VzQ0lyRFY4LXl5djhFekhtSC13R3JhSnVkOWlUSDhV0gGgAkFVX3lxTE9OdmJ5eUhSdkt6OTVvUU5ucUhEV09SZ28xc210Ql83Zk9TbE5JbVYzbDdhNl9xbklyNmhMUzd4cmdSTzFsVy1yby1MclJsLWJmWlJ4dE9SM05aYlJkMDR1YU4wbDhxVm4zdmtCb2xvbzNrSVFMZGkwdTVMQ3R3dDl3ZGxHUEpWckNXYjNmY2laZEk0YU5KNUdnSExWdG5oVDU0OW5HYWdRaFQwQVJqc0kzR3g2WDN3TVNTRmFpU190QVNKeTRUQXBTdEFmT2ZrVDkwNTBvbHExdFZoVkxBZWJDSEdXczl2eTNQWXVlYnhZZTUtdG9md2RZTTF3UElTZDFwN3hsU2d6bUpGMmw3SUNZTlhlU0ZEXzRJRmJnc2ZiUg?oc=5",
+      "description": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-26T15:51:45.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "reit"
+      "stream": "land"
     },
     {
-      "id": "b79c0d2c",
-      "title": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjJzSG96U1d3d3h6RXd6ZkVXWGJ5a2FtclU5X0hScWw3cFplQ05JeXRrM29Idk5uM00wbDBYN1EzNU9FWkFKVEFlREpmdXYtbGEwWnA1YS12TFhZeDZkUjVQSUJvUF83WjV5UUQ3TVpjbnNzaTVLc2lndThXMlgyR1hUd2p4dWh6Zm9GYU1iT3JKY2draW0zVW91LXMtY0VrVzFOblR3QXE0bnJrNkVZWk1CbDdHOXZpOG9XZ1hNODRzYXhVa0NWd3FoUlg2M0hmb3B2R2V2RE96TGtEcHV0TWZKem82WldFSnFSTjRuSERMdHZTQUhTRk5WUUExWnlSQ0dEaTNJblJTQUdCTzZFNFJIQVk5bmYwcjhRS1FycEpyZw?oc=5",
-      "description": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-25T12:42:46.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "4ad42888",
-      "title": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA - Lokmat Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1l1NWJTRV9tME1rODh5SnNzOS0tS2J5OEtCNTVmc21QMElWdi1OZkE4ZmlUdEVac1JGUWU0aW1oUUZxZV9EMkVIQ2ktYVBGNU0xaUVsbG1nUGhOcUVXTXR1dFpQSHNmZGFleTNpXzVKNTdFeGxNLU5jSVFQMUM5N2tBekRyeGpramRscWgyX1FXQlBQcFd4cjZ0d1ZTRkNaOUtTWGFRLXR1TExEbU5KS2dHQWZ5aFN6TktGV2FkdF9Qc2JZTkRnLWdwNzFFX1htZGZ4dtIB2gFBVV95cUxNUlBVT2pZYjR6MHFqXzhSc0w0YzhJaTlPZEx4SGFTT2VMNHV6MlJKakJUSEcyUGJhSjVBQUlhVTZzXy14UkVudllDZndVOUh0c0NJTjVxN0lSbktwRU1IN2p1SkllTzB6a1B1MWp6ckFLUU05OTM1Vko3R1VNb2M4YjlHTWw2MkNBekI5M0t6Tk9rY0txQ2gzbEU4QzRJMTNCZ2dIZ2dDMWJoQ09WNGhiTnZtVkYxMWg4aWwzUmNXTEZHcXJjMVVWNHFTN3h1M0RMNmxvcXdOVmd2QQ?oc=5",
-      "description": "Global Capability Centres to Fuel Nearly Half of India's Office Space Demand by 2027-28: ICRA &nbsp;&nbsp; Lokmat Times",
-      "source": "Lokmat Times",
-      "publishedAt": "2026-11-25T10:32:41.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "b8e618f9",
-      "title": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMEl4dEstdm44Y0lqSkpnS3FOZ0ZlWk5CRjN3eGhmOHFMQXZ5T0FnN0pCQ1RCOGxnY055RHcyWHpvWmtfcHRXdG1PZm9QUXNRRzlsd0V2a0lYYlRCbm5kU1oxdmNGUFRkcUljYmtuYWtLU0dhcjdreVhEbTlHZHU5Vm1xbmd2UklNWWwyMzhjUzhpUzQ0b2xmSVZDUjZIN0l1SGt5MjB0TnpWaFJPbDFYTk9kbmo0NGp3ejlHVTk3cUlWRG1jN21ianZsc1kxT3h0SmJIT2hUS1piWExC?oc=5",
-      "description": "GCCs to drive nearly half of India's office space demand in 2027-28 as occupancy nears 90%: ICRA &nbsp;&nbsp; ANI News",
-      "source": "ANI News",
-      "publishedAt": "2026-11-25T10:14:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "8bdeef28",
-      "title": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DeTFFYWVMUFZPcGlOTDNZYXI3OUFnLXJZc3pxd1VNNGJGMnV0RDhPN1pqZ29QVnNNVG5RUDFORC1qSTF0bXFFOUl3aXpCeGwwSWJneDVmNnBlSFladi0xdUREdk92LWFPaFk2MG5MNmZXQmd5Tm8taFNR?oc=5",
-      "description": "Bavdhan Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-11-25T05:55:19.000Z",
-      "city": "Pune",
+      "id": "1b9b5a67",
+      "title": "Ashiana Housing JV Buys Chennai Land for Senior Living Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZjTE9wS3J6a1M1cExSVmpiNnNnR09CUmRLX3FLdGVMU0dLeGpGaElaOHJudTAwSGx0a2plUW5jUmpnN2xvX050YXRHY09zNjRNSTcxYWEtTmRzNkV6SHF5bF9HbWxXdGtlS2VocDRMcDRPWTJILVRsemRVaklDNUV1Tnc3NFdaV3RSeklhV3hNN0Npc0NlSXVxdVd0U1Vqb28xWFhZM0NmS2NzcWFTVm5sSDg0bFN5QlHSAboBQVVfeXFMTUw2Y0xPcEtyemtTNXBMUlZqYjZzZ0dPQlJkS19xS3RlTFNHS3hqRmhJWjhybnUwMEhsdGtqZVFuY1JqZzdsb19OdGF0R2NPczY0TUk3MWFhLU5kczZFekhxeWxfR21sV3RrZUtlaHA0THA0T1kySC1UbHpkVWpJQzVFdU53NzRXWld0UnpJYVd4TTdDaXNDZUl1cXVXdFNVam9vMVhYWTNDZktjc3FhU1ZubEg4NGxTeUJR?oc=5",
+      "description": "Ashiana Housing JV Buys Chennai Land for Senior Living Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-26T12:52:44.000Z",
+      "city": "Chennai",
       "category": "Land & acquisitions",
       "tone": "neutral",
       "priority": "normal",
@@ -309,35 +295,303 @@
       "stream": "land"
     },
     {
-      "id": "48807c2e",
-      "title": "Alternative Real Estate Investments: The Growing Role of Private Capital in India - The Realty Today",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUJsMEFBOWtEc2RVX1QxZy1jOWdaRHJ5YzVkTnZZSTRIUmJwN0F4SW1MWlNGOVFsLWJXaGEtNkJuZjhIaEQ2cnN4SnRrdWdCb2RvWjFrMHE2ak15YWFsa1BDZElwcTlfVjdCbUJDUXktLXpmbkZrcVBfRjVRR3lDN2RLODVtX255XzJIMXFsQ3ZkUTAxWnJwS2ZyWHR3RnExNURrcDFhNnNNUVZvWUlVdE1VN3JQYmdIS0toazgxeXVweFh5ZUdlN2tqZEFfb2ZXWTVkczVCcm9Ba2tNUnJUeldQR1EzdjFacFNuajlzekFVeXNlZ0E?oc=5",
-      "description": "Alternative Real Estate Investments: The Growing Role of Private Capital in India &nbsp;&nbsp; The Realty Today",
-      "source": "The Realty Today",
-      "publishedAt": "2026-11-24T18:50:07.000Z",
-      "city": "India",
-      "category": "Capital & lending",
+      "id": "e2fae38",
+      "title": "Ashiana Housing JV Acquires 9.57 Acres In Chennai For ₹1,100-Crore Senior Living Project - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNmQS0tUkF5blhOanRSelVuYnZNQU1MTDN5R0lrYTVsQVJUZFdUeG1ZeXhEWlR4OXkwWGNpc1hjbVRKSzhDb1Jfa0tyYzlobU5Cd200MEJ6SlYtTEY3MWlENTVUaFZmUE83RWYwS0JRdXU2NXR2dGp2dzNpV3VMcmZMUy1Sa2FhRHpfVXZOQWlSRHQ4NEFlZHhwX01MMXZoWHlHQU53eGR0djhta1l3OW9yWQ?oc=5",
+      "description": "Ashiana Housing JV Acquires 9.57 Acres In Chennai For ₹1,100-Crore Senior Living Project &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-11-26T12:21:27.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
       "tone": "positive",
       "priority": "normal",
       "entities": [],
-      "stream": "funds"
+      "stream": "land"
     },
     {
-      "id": "7675b882",
-      "title": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit - Multibagg AI",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZFTml6dXVaU0NwRDhWamxlQkJIbWNzVFR0c3pxNWwwMm1KcS1OVDhicndCX2FTY3hxNm1DbVZYWXpZUXYxVkRSMFQ5QjQyOXRBRVFVQ21zNHFfSTd6QUpHTWI0UFNUcmlxdUotZkRmYXFDQ0ROd3lkUmZ2UG9ORUhlTng3MGFfeDdIdVlraC1pX3JDQ2t5bGpNLXUzTHVETkpJNFlzTXhkQQ?oc=5",
-      "description": "Nisus sees Rs 30,000-40,000 crore AUM through land and UAE credit &nbsp;&nbsp; Multibagg AI",
-      "source": "Multibagg AI",
-      "publishedAt": "2026-11-24T11:50:07.000Z",
+      "id": "5ea9cd17",
+      "title": "Ashiana Housing JV acquires land in Chennai for ₹1,100 crore project - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3dLVXRNUGw4MGJ0RUs1VFlLSjdyQzU4Wnh3NGFCenBGbXpIWUJQaWYxT3dpbHVHczRlUXVfMlk3RmJCbEJCekpIRXplRVMyRDZ2a0ZYZVlKc0ZDanhMT3JybVRvWG9qZkRnb3FqTFA0M181VUNKeW5UdVBBVnZ5RXhUQ0k1LUwxZGZxYzhZdmxGNUxTNnRiZ1lFTGtidFA3TjR2T1g4dWo1eFpueU1fQzU2YW5RLVRs?oc=5",
+      "description": "Ashiana Housing JV acquires land in Chennai for ₹1,100 crore project &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-26T12:03:09.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "4c6ecf2e",
+      "title": "Ashiana Housing Chennai Land Acquisition Senior Living Project - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFhHX2p3VVhQaExhTWdReXNZZ0p4TzhBQ1M2NHkxU2lMV25PR0lVSmNPU21rZ3BtZjZzaFpSOVdBSV9BV1N6S2huMVo1OExXR0hFWlc5ZEdCMW1DSDlPRTJUU3RzV1RhVlVDTjRRY3lPdkVOY0R0ZmhMbGtBTjd1RFRoLVYwd2J2LVJ6Wi1DWDBsVEhmRVhWZUFYMWpwVnFfS2U5Vll6dVh4SU9PS2luUUY2a3l4Y3FxbEJLa3ItNEUzOVNjQ1VtN05nazU?oc=5",
+      "description": "Ashiana Housing Chennai Land Acquisition Senior Living Project &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-11-26T11:55:00.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "2b85ad7e",
+      "title": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR2dJdzZmZllDVjJKUzhleVdEeDl0ZHBDd3Y1Y1Q2QnNFRW1kZGkzNENiV01Fck9Ebnh1bThiOGhDQ19JYnZiSm9DeEFrRU9NNzZzTVR6ZHBKMUVLMnZNZDhRZVcwWDJ4djJmMng3UEpmT1U3dk5icWIyb3JGVkVHV0xNNG5ETlhRS1RfRXI3ZWxVS3hoNWZTOXp2Z3BBaGE0dGFyNHVCSUlWRzVQMVRzZzJjTUg0QmJ2b2JtTG1aeGgtMHUxemdHbEtVeW9QWEtNR1BiOC0yY3pJZllYTUZz?oc=5",
+      "description": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com &nbsp;&nbsp; Investing.com India",
+      "source": "Investing.com India",
+      "publishedAt": "2026-11-26T10:09:34.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "7868ab9b",
+      "title": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRjBkUjlXZ09jZHNWTFY2YkRGbEx4SlowWDJhUUpkWU44NXFDYkFiNDgzWXFiUi1ldGRSMU8wMWJ3X3ZrN21XbFJ2NTlyYU9LVThlZzhzQU1yZWM4NjBQaWJqNjNSQm1yZ0ticnk3MUNTZHFIOTBBN0dqV0preXl6SUN6V003SXZ0TzlNU3RuUWp1OGwzeXlLZGtJTXpqX09ZemFUZWtxV2pDMjJCOXJCcQ?oc=5",
+      "description": "Punawale Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-26T06:54:03.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "c68ca0c2",
+      "title": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 - AP7AM",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2E3WmxobUUtNkNxZ0hLS2tCRFp1Z2JsMERFMG9GSVJiSlEzX1kyZE1JS3NZQ2JITlJlUFY3VEo5N3Awd29jQ2E2cEl1RkJ1eHhGc19URHpvdndmVlJFTTFOajcwajBsTE1kQ2V5MndRMXRBbjFLWUVyRU4tX1g5U0h5T1JSdDg4U3NIanF4eFEzQzBiVmtZZTNyUjVYYVF3aUlzTUgyS3RMcEZt0gGyAUFVX3lxTE1VVWp6WVM3YmpYRmlTcTZNbG1yaDloMC0xcmM1NklYRllJQjNJaGtmaWJ5bVRNd0ZLU2JfVFhaMXFHbHk5NXpwazB0STYtcG5GUHgzZXJ0S1VmUjE4OVpIQVV3VEtWWkhEbkNCZzVsTmRONnNsaFl4UDkwemhTSmpYRlhuMzBfUDZqM0phSVA3SlRjNWdKaDRvZnhWcmJGT0JVb21IdExRZjVtUVFteERicWc?oc=5",
+      "description": "Aparna Constructions targets 100 million sq ft residential portfolio by 2030 &nbsp;&nbsp; AP7AM",
+      "source": "AP7AM",
+      "publishedAt": "2026-11-26T01:13:02.000Z",
+      "city": "Hyderabad",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Aparna Constructions"
+      ],
+      "stream": "projects"
+    },
+    {
+      "id": "58bc8367",
+      "title": "Godrej Property Penalised, From Haryana In North To Chennai In South - Inventiva",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFNidU1salhvQ19LTEgxX1VkU2dPVVdvSlF1YTlQamlNYTY1SnllaFQzX0pCdkcydEJhdUFPMGdFMFdGZlVGdDh0NWZrY3lJR2dZTmo2Y1lSWk5DbWdhYXVVaHlSdkE4U3VnaHNaN3IyM2wtblV3eGtfV1BrLWlxb2J3YUJ1dmh1VWZXTjgyMFJzZWNmTGxKa1pnYWpza1o2dk95UXpn?oc=5",
+      "description": "Godrej Property Penalised, From Haryana In North To Chennai In South &nbsp;&nbsp; Inventiva",
+      "source": "Inventiva",
+      "publishedAt": "2026-11-25T21:14:58.000Z",
+      "city": "Chennai",
+      "category": "Approvals & regulation",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "policy"
+    },
+    {
+      "id": "91d49018",
+      "title": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital - Mjengo Hub",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSFlpUXFGNDJ3ZVY2SVhoUVgwTDU3OU5qTWhBdVhuUWlaRHRDZlZDYXQ0aDJFdzJRVFhJWU9fT2dla0M2NFhCTkZEMEU2UTk0MndQbGxzMFJubXZMT3RhZnhaVWJ2X3RxTUdxZDNabnhYNGRnM3JHZm9hN2Z0Uk53ZHFrY3lubFlzOUQ3TVRkSHh2bG5leENLRHlMNGt0c0ljcERaLUZMZnFSZEpoS3M2a0Nn?oc=5",
+      "description": "National Infrastructure Fund explores NSE D-REIT vehicle for local capital &nbsp;&nbsp; Mjengo Hub",
+      "source": "Mjengo Hub",
+      "publishedAt": "2026-11-25T18:29:50.000Z",
       "city": "India",
       "category": "Market & policy",
       "tone": "neutral",
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "d84f120b",
+      "title": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines - Mingtiandi",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU2xTTWRYbkM2dFo3aUFoNVpxZkVMS3BGbFI4N0NXbmhleUhYc2g1SmlfdGZHdW9yYkNfejJlS3VmUU9vWEN1bHdKclFrandCTHJSc0lPOXUyVl9QOGlCY3p0S0w5aWNPbzVDYUotaFR6YWFIc2JveGtrU2Z4M3dsUF9iUGdCcnFHVmozaDl2d1NZcmJKY1E3ODQxSFJZdFZKcWROTTBGZmVJMm5LSDBDZXN2WmJHSk5iOU9GVXRoU0x2eDg4YjNmdTR4YTF3eVhLUV9TcDJn?oc=5",
+      "description": "Mori Trust Joins $22M Mumbai Housing Deal in India Debut and More APAC Real Estate Headlines &nbsp;&nbsp; Mingtiandi",
+      "source": "Mingtiandi",
+      "publishedAt": "2026-11-25T12:53:41.000Z",
+      "city": "Mumbai",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b79c0d2c",
+      "title": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards - The Realty Today",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNUjJzSG96U1d3d3h6RXd6ZkVXWGJ5a2FtclU5X0hScWw3cFplQ05JeXRrM29Idk5uM00wbDBYN1EzNU9FWkFKVEFlREpmdXYtbGEwWnA1YS12TFhZeDZkUjVQSUJvUF83WjV5UUQ3TVpjbnNzaTVLc2lndThXMlgyR1hUd2p4dWh6Zm9GYU1iT3JKY2draW0zVW91LXMtY0VrVzFOblR3QXE0bnJrNkVZWk1CbDdHOXZpOG9XZ1hNODRzYXhVa0NWd3FoUlg2M0hmb3B2R2V2RE96TGtEcHV0TWZKem82WldFSnFSTjRuSERMdHZTQUhTRk5WUUExWnlSQ0dEaTNJblJTQUdCTzZFNFJIQVk5bmYwcjhRS1FycEpyZw?oc=5",
+      "description": "Indian Singer and Music Producer Pritam Chakraborty Along With His Mother Anuradha Chakraborty Sell an Apartment in Mumbai for Rs. 2.30 Crore: Square Yards &nbsp;&nbsp; The Realty Today",
+      "source": "The Realty Today",
+      "publishedAt": "2026-11-25T12:42:46.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
     }
   ],
   "items": [
+    {
+      "id": "9618292a",
+      "title": "Rs 500 Crore AIF to Fund Indian Housing Projects - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWo2NXZsby03RDg4eFhmVDktTEl0WGlzZ2JCdENKeEhuYkctRUZNa0g2UjRScTl0WWRIbFlHU2VvMEcyV1R5RFZDUkJzZDFRYmVzR19DMVFzUU1penIxcGJHN3BYbDdBTHVOTFJ1SXh4dkNseE5Rc2VFQ28xVHZnVkhEV004V2NOSWl1MVgyaDZPZkJUWU9wZE1GYTYycmxnVjhnZlhoemtuUQ?oc=5",
+      "description": "Rs 500 Crore AIF to Fund Indian Housing Projects &nbsp;&nbsp; Urban Acres",
+      "source": "Urban Acres",
+      "publishedAt": "2026-11-27T11:05:12.000Z",
+      "city": "India",
+      "category": "Capital & lending",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "funds"
+    },
+    {
+      "id": "38653050",
+      "title": "SEBI Introduces Amendments To InvIT And REIT Regulations, 2014 - Legal 500",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3JZd1N5cTdkSEVFTXl2MnBTajdHbmVsZDlYZElvVXdWQWJKcXZXZW4xUUNwY1dOdkEtUUJOM2RDcUNxT2hJck9CYVV0NGFUNlQ4QWpfUjlTc2RXSGJBeGJrTVVpdG5pWGFqUGtUQ2NMVkxqX0x1THV3eWx5THNLZUVucEVxeUltM0dyVXdfN3BNcnl4aGJOZjVET1VacWQyN2dKdHdRRFlxbEI5Y1lnRnVtOEJsYVgtZnhNbERObnJ0ck0?oc=5",
+      "description": "SEBI Introduces Amendments To InvIT And REIT Regulations, 2014 &nbsp;&nbsp; Legal 500",
+      "source": "Legal 500",
+      "publishedAt": "2026-11-27T08:22:33.000Z",
+      "city": "India",
+      "category": "Market & policy",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "reit"
+    },
+    {
+      "id": "b36a8e7f",
+      "title": "Navin’s Enters Plotted Development with Navin’s ARC in Chennai - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWjNpSV9kcnQ1aHIxR1ZzVDlCcGNFa2psUFhiOUZTNXIzWFlfbE5PMjJ5V290cW1jblJITmp1V0xEZVRTQnhTTlRXQVp2YW9Qb2NZWUhGdVVQSzB1dE8xbnYycTFPMzBaX2xVRG5scTI1cVZLdDVENUZhOU5NTGRjMjIyZjJHcUxWWFFqMWNpT3Q2eE91aFNlc2FWeVpyajVmUW8tcFpzdGdTZ0lKRTZObmRxT251Z1JlaGxIMnVaUmZhb0owS2pEdEwxcDRBOGRIREo3R3VBMXIyVE1QenhDajV3?oc=5",
+      "description": "Navin’s Enters Plotted Development with Navin’s ARC in Chennai &nbsp;&nbsp; Construction World",
+      "source": "Construction World",
+      "publishedAt": "2026-11-27T08:02:31.000Z",
+      "city": "Chennai",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "f189a819",
+      "title": "Mundhwa Pune: Locality Guide, Property Prices & Connectivity 2026 - Pune Mirror",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbnZNS2gtZTZkemlGTi1HSmhUdVJCQXh1bXZtSkF4azk2a1hObVQ3bmRKXzJXQThSenI1QWZuVl9hdEhYSUNXN21DQWZJdWJULXpBekJoNzIxamhpUmZYRU52NGlrbWVad1FGb3Bna1pWLU8wNDhsMWtzcjF2Qk1zemFScFRWUy1jS1dxSXNiX3c5eWx3RXhBNHlLODRwbS1xNU1qQVFHUmxDbGoyOEpJ?oc=5",
+      "description": "Mundhwa Pune: Locality Guide, Property Prices & Connectivity 2026 &nbsp;&nbsp; Pune Mirror",
+      "source": "Pune Mirror",
+      "publishedAt": "2026-11-27T06:48:37.000Z",
+      "city": "Pune",
+      "category": "Projects & launches",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "98f5839e",
+      "title": "Ashiana-Arihant JV acquires 9.57-acre Chennai land; Concorde signs North Bengaluru JDA - ET Realty",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZHFEMmVwS3RiZVNuVFJfLVNVLTM1OTBqMWVIS1Y3WWEzbFNkUlpLdDJNTnkwVjUtd1p0dnNEZGkwOTQxT2RLaGttUzJqdXhZc2lrendHeU1KcWYtUU9hQU1qNGtmVTl0cGNyczZBeXVrYWppdV9QemtXZXRRX0pwQ2FkSWROVFhKZmZLUDd1a1hlUzF6QVJTazRtdHk3VjlCcHV0T2RWbTdPdnVzeWNZU0RBbElzS29RQWd4UjlqODhsUURSMURfdXJEdENHUG0zeHh4VjU1bk05MnJXRVJuN3AzeFB4VlJBam9ST1FB0gHuAUFVX3lxTE1kcUQyZXBLdGJlU25UUl8tU1UtMzU5MGoxZUhLVjdZYTNsU2RSWkt0Mk1OeTBWNS13WnR2c0RkaTA5NDFPZEtoa21TMmp1eFlzaWt6d0d5TUpxZi1RT2FBTWo0a2ZVOXRwY3JzNkF5dWthaml1X1B6a1dldFFfSnBDYWRJZE5UWEpmZktQN3VrWGVTMXpBUlNrNG10eTdWOUJwdXRPZFZtN092dXN5Y1lTREFsSXNLb1FBZ3hSOWo4OGxRRFIxRF91ckR0Q0dQbTN4eHhWNTVuTTkycldFUm43cDN4UHhWUkFqb1JPUUE?oc=5",
+      "description": "Ashiana-Arihant JV acquires 9.57-acre Chennai land; Concorde signs North Bengaluru JDA &nbsp;&nbsp; ET Realty",
+      "source": "ET Realty",
+      "publishedAt": "2026-11-27T03:38:41.000Z",
+      "city": "Bengaluru",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "5c61c372",
+      "title": "Ashiana Housing JV Acquires 9.57-Acre Chennai Land For ₹1,100-Crore Senior Living Project - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkFnblhWSFdyTGJIUDBDdGZmcTBGNTR0UVh1R291LXZTMWNfZmd6c3pUVGtQd1ZheHRHOWtKcVQxS3pzRS13Rk55R0xtSFFSSHBhRDZjeUcwM2Fxc09YSURkQXVPVmhoY0Z3U0ZXSkpDVVQwYXYyUzV2SldvbmZySmRVY2QxdWtFMU9wYS1qSHdvaUpKWkpLRWNtOHkzcTFVZjd2RFlaOGNtUDNsdGtDeFRtenc?oc=5",
+      "description": "Ashiana Housing JV Acquires 9.57-Acre Chennai Land For ₹1,100-Crore Senior Living Project &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-11-27T03:33:28.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "1eb2205",
+      "title": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPd3g0MTMxWWRybnV4MWdlVnJVdWxRLTdHRzV1OGtrYkZ1SzQ5ZFNGV1NZSzdoT3ZIYkMwRUQwWGFFSW9weFQxZnQ2ai16QUxZWmZOdzVtYkREcTFWbnNGeXNQMTBnZHFsUldJZWk2ODdyd0x0QTJGRnlBS2M3T2ZVM0RzYm5zQTBKN3g1NlVsQUxseEFGbk1OMnJISnJnVC1iZFZjeTNfcXJKR1d0Rm5xVW5EM1BQSnF6a3dWb05KUThLbXlPaDZFSGlrQVZLd1laeDMwZVd3SzVZbTRKdEFGNWR4c1M1NFhQRnlPS0c1X043NWNJWDRFby1hR1VzQ0lyRFY4LXl5djhFekhtSC13R3JhSnVkOWlUSDhV0gGgAkFVX3lxTE9OdmJ5eUhSdkt6OTVvUU5ucUhEV09SZ28xc210Ql83Zk9TbE5JbVYzbDdhNl9xbklyNmhMUzd4cmdSTzFsVy1yby1MclJsLWJmWlJ4dE9SM05aYlJkMDR1YU4wbDhxVm4zdmtCb2xvbzNrSVFMZGkwdTVMQ3R3dDl3ZGxHUEpWckNXYjNmY2laZEk0YU5KNUdnSExWdG5oVDU0OW5HYWdRaFQwQVJqc0kzR3g2WDN3TVNTRmFpU190QVNKeTRUQXBTdEFmT2ZrVDkwNTBvbHExdFZoVkxBZWJDSEdXczl2eTNQWXVlYnhZZTUtdG9md2RZTTF3UElTZDFwN3hsU2d6bUpGMmw3SUNZTlhlU0ZEXzRJRmJnc2ZiUg?oc=5",
+      "description": "Ashiana Housing JV buys 10-acre land in Chennai for senior living project, eyes Rs 1,100 cr revenue &nbsp;&nbsp; The Economic Times",
+      "source": "The Economic Times",
+      "publishedAt": "2026-11-26T15:51:45.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "1b9b5a67",
+      "title": "Ashiana Housing JV Buys Chennai Land for Senior Living Project - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDZjTE9wS3J6a1M1cExSVmpiNnNnR09CUmRLX3FLdGVMU0dLeGpGaElaOHJudTAwSGx0a2plUW5jUmpnN2xvX050YXRHY09zNjRNSTcxYWEtTmRzNkV6SHF5bF9HbWxXdGtlS2VocDRMcDRPWTJILVRsemRVaklDNUV1Tnc3NFdaV3RSeklhV3hNN0Npc0NlSXVxdVd0U1Vqb28xWFhZM0NmS2NzcWFTVm5sSDg0bFN5QlHSAboBQVVfeXFMTUw2Y0xPcEtyemtTNXBMUlZqYjZzZ0dPQlJkS19xS3RlTFNHS3hqRmhJWjhybnUwMEhsdGtqZVFuY1JqZzdsb19OdGF0R2NPczY0TUk3MWFhLU5kczZFekhxeWxfR21sV3RrZUtlaHA0THA0T1kySC1UbHpkVWpJQzVFdU53NzRXWld0UnpJYVd4TTdDaXNDZUl1cXVXdFNVam9vMVhYWTNDZktjc3FhU1ZubEg4NGxTeUJR?oc=5",
+      "description": "Ashiana Housing JV Buys Chennai Land for Senior Living Project &nbsp;&nbsp; Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "publishedAt": "2026-11-26T12:52:44.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "e2fae38",
+      "title": "Ashiana Housing JV Acquires 9.57 Acres In Chennai For ₹1,100-Crore Senior Living Project - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNmQS0tUkF5blhOanRSelVuYnZNQU1MTDN5R0lrYTVsQVJUZFdUeG1ZeXhEWlR4OXkwWGNpc1hjbVRKSzhDb1Jfa0tyYzlobU5Cd200MEJ6SlYtTEY3MWlENTVUaFZmUE83RWYwS0JRdXU2NXR2dGp2dzNpV3VMcmZMUy1Sa2FhRHpfVXZOQWlSRHQ4NEFlZHhwX01MMXZoWHlHQU53eGR0djhta1l3OW9yWQ?oc=5",
+      "description": "Ashiana Housing JV Acquires 9.57 Acres In Chennai For ₹1,100-Crore Senior Living Project &nbsp;&nbsp; Sahi",
+      "source": "Sahi",
+      "publishedAt": "2026-11-26T12:21:27.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "5ea9cd17",
+      "title": "Ashiana Housing JV acquires land in Chennai for ₹1,100 crore project - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3dLVXRNUGw4MGJ0RUs1VFlLSjdyQzU4Wnh3NGFCenBGbXpIWUJQaWYxT3dpbHVHczRlUXVfMlk3RmJCbEJCekpIRXplRVMyRDZ2a0ZYZVlKc0ZDanhMT3JybVRvWG9qZkRnb3FqTFA0M181VUNKeW5UdVBBVnZ5RXhUQ0k1LUwxZGZxYzhZdmxGNUxTNnRiZ1lFTGtidFA3TjR2T1g4dWo1eFpueU1fQzU2YW5RLVRs?oc=5",
+      "description": "Ashiana Housing JV acquires land in Chennai for ₹1,100 crore project &nbsp;&nbsp; scanx.trade",
+      "source": "scanx.trade",
+      "publishedAt": "2026-11-26T12:03:09.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
+    {
+      "id": "4c6ecf2e",
+      "title": "Ashiana Housing Chennai Land Acquisition Senior Living Project - Kalkine India",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFhHX2p3VVhQaExhTWdReXNZZ0p4TzhBQ1M2NHkxU2lMV25PR0lVSmNPU21rZ3BtZjZzaFpSOVdBSV9BV1N6S2huMVo1OExXR0hFWlc5ZEdCMW1DSDlPRTJUU3RzV1RhVlVDTjRRY3lPdkVOY0R0ZmhMbGtBTjd1RFRoLVYwd2J2LVJ6Wi1DWDBsVEhmRVhWZUFYMWpwVnFfS2U5Vll6dVh4SU9PS2luUUY2a3l4Y3FxbEJLa3ItNEUzOVNjQ1VtN05nazU?oc=5",
+      "description": "Ashiana Housing Chennai Land Acquisition Senior Living Project &nbsp;&nbsp; Kalkine India",
+      "source": "Kalkine India",
+      "publishedAt": "2026-11-26T11:55:00.000Z",
+      "city": "Chennai",
+      "category": "Land & acquisitions",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [],
+      "stream": "land"
+    },
     {
       "id": "2b85ad7e",
       "title": "Earnings call transcript: Schroder Real Estate Investment Trust H1 2026 gains on scale By Investing.com - Investing.com India",
@@ -451,6 +705,22 @@
       "priority": "normal",
       "entities": [],
       "stream": "reit"
+    },
+    {
+      "id": "9ff46623",
+      "title": "Brigade Enterprises shares gain up to 7% as real estate developer sells homes worth Rs 1,600 crore in Bengaluru - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDU1QmZUSHk0U3R6b0NHa0k5TG5tY2NOeEY4OHcwY1MxV2hMcFNFZnhBTFNFbnlvZTdiTzZNWm1hWVVBVmY3aGVoOHY1eXF2SHlYSXlDclpMdzhObVZnRjQxVWFhcEFoa19ZSk9nZHhWbHM1Z0Z1WWRDVEJxWHlnV0EweW9KcUlncEpieW50cElWSm5XLXZmYWNVSl93ajdyeWFDUXB5MkZrUEdvTjBsVm9JNjlRVENXdWpKd3ppNU9VNjdnRkhNMmhSWHhDak51bWM3NWZ2VE9TSmVIYnhzckJfcF9NRlVqREk5TG1FWGR4WExZWXhDT2xDVF9UaHJacEVB?oc=5",
+      "description": "Brigade Enterprises shares gain up to 7% as real estate developer sells homes worth Rs 1,600 crore in Bengaluru &nbsp;&nbsp; TradingView",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T08:32:05.000Z",
+      "city": "Bengaluru",
+      "category": "Land & acquisitions",
+      "tone": "neutral",
+      "priority": "normal",
+      "entities": [
+        "Brigade Enterprises"
+      ],
+      "stream": "land"
     },
     {
       "id": "8bdeef28",
@@ -650,6 +920,22 @@
       "tone": "positive",
       "priority": "normal",
       "entities": [],
+      "stream": "projects"
+    },
+    {
+      "id": "e5518c98",
+      "title": "Pecan Realty and HDFC Capital launch commercial development platform with INR 1,000 crore Andheri project - Prop News Time",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUjI3eFg5azE5MzluaXlEZWI0TFpJUThmTDIwUjF5Z1FEcWFLdkh1S1hyZnUxazlrWTdNelVDVFpJQmJZMHp1MWdCSDY5OXdHTDducmJwd0Z6TVBNQWNuUDN0LWRyakxOZ1lUT0NDZU5DTmQ4cGtsdkdSVEotT2toS3h0NmJTWF9wM2thZEJFZzVtN1FMWllSQjdGaDVLa0Nic1k3Z0ZmN09RNnotTG9UdnRzbUdweUVtV2FtejVOZFpIY1JBZDhHMFFoSUU3TlV0MG1LemVfVzBheHJtRUhfNjZvNngtWlZkbm10UDlB?oc=5",
+      "description": "Pecan Realty and HDFC Capital launch commercial development platform with INR 1,000 crore Andheri project &nbsp;&nbsp; Prop News Time",
+      "source": "Prop News Time",
+      "publishedAt": "2026-11-21T10:03:48.000Z",
+      "city": "Mumbai",
+      "category": "Projects & launches",
+      "tone": "positive",
+      "priority": "normal",
+      "entities": [
+        "HDFC Capital Advisors"
+      ],
       "stream": "projects"
     },
     {
@@ -2775,204 +3061,6 @@
         "Embassy Developments"
       ],
       "stream": "reit"
-    },
-    {
-      "id": "205d234c",
-      "title": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFyc1FIWUd5VWtZQnVFUEpqckQyTDlhTXd5UWpkT0t2VlFuZmt3SERvaHFlQTdWa0xudDUwbHRocHo0cnBFRDY5NW1MVUs1WnZrdXl5RGtPSjVYZXQ3NzE1aGdJcFJCS3F1akQwZGZvUlVVeWpTUlROUW9ORTdXb2wzZzNMMHJFb3FLNlpXWEZmTDYtazJHakdYTzRKelZHRVRxV21sdXA2Z21Ga05ZVWozb05INXgxTC1ScEp6QVhSdw?oc=5",
-      "description": "Runwal Realty Pune Review 2026: PTM Builder Audit & RERA Analysis &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-28T07:52:05.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "6d47222c",
-      "title": "India real estate PE investments fall 31% to $1.66 billion in 9M 2026; domestic investors dominate - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZlo2MFFfYjMtUTA5UWxPZ2d3S0FXZlI0TXdPbzhMXzVncVlYRmhTdE95bUROa1B4eW5OZzFtc3Q2eXRCUEZTZXB2aktHQnMxY3FpWkJEVnpFWEZsaWF0d3hyRkstYUhYd3RfcVhpTFVzRGJ2aGJOSmpjUVdNMmhpVjRuTkhLNlhpVVRFbnE1V0gyVVJxbVRkVVF4VmFYd0FiaVlQLUtueGk5MVp5MUQ4djJSdE1UbS1WZVJ4eC1EdnpRTTJYWlNzdlVfc3I5Y1NfbE8wVnZQUENndw?oc=5",
-      "description": "India real estate PE investments fall 31% to $1.66 billion in 9M 2026; domestic investors dominate &nbsp;&nbsp; Fortune India",
-      "source": "Fortune India",
-      "publishedAt": "2026-10-28T07:46:29.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "dec180c6",
-      "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTUw2TWdVWVM2SmFfWWJFcWRGa2UwRk1BRXNHMEUyTkdOY2c1ZFptSEE4d2JyMnlmZGZxbndGaTVzSDM2MFpxVEtsZ2ZtVDhIay1TUm9NZVdqeUNDQmVNQ21TZkRJUTNudUppTVFvRXFPX2FGRmk2Y25fRFpUVEliNmZzU01rZE5kWU5YWlJ2dkIwQWtYa0VwUVljczl1UGc0ZmxRV1N3alhQN3NLcFFoX3l4a1lTT3pGdHFNQmRORWRzdw?oc=5",
-      "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-28T07:45:59.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "48ac6058",
-      "title": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit - Pune Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVVwTVdScVd2c0FVcENoMGpWOXBuVVdBblUtYkw5LTRzdDl0eVQzbXpJd2oyU2pxNnl6WVRPX01FM0t5eGQza3pWZXdObDAtclZNTnJBbTJpNWlSSnZjWnZrQ3Q3azdEQmZCQ0tKZlgwUkxqYnZxb1QwN1BPODdUNXZiY3V5Y3dwYTVFUEV3?oc=5",
-      "description": "Birla Estates Pune Review 2026: Birla Punya, Evam & RERA Audit &nbsp;&nbsp; Pune Mirror",
-      "source": "Pune Mirror",
-      "publishedAt": "2026-10-28T07:45:59.000Z",
-      "city": "Pune",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "ce857df9",
-      "title": "India Real Estate PE Investment Falls 31% in 2026 - Passionate In Marketing",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPN0FCYzRkWFg2VWpOa0psQ3lPWEp1ck9MWFpJOUJQTU1McEdnMnVycDFiT3k5WklBVVYxZWU1QXlRdWJVZmV5ajZVdkp5NUJJMGlvTmtXWkg5M3Fuc2JPM0Etb1B1UGJzODhlSkhqVks3WXJJaG1MYTRPYk9UeGE3QjhyOFplYnlwTmRlTzU5am04OVZob1pMWHcteUtwSFRkeFp6ODFWS2FDOEU0RjdOQ0d5a3hqYTlOamhvTjc3NmRCbUJ0dU9NblhRclllV1oyX09NYXp6RmZqWFJabjVvYjF0VQ?oc=5",
-      "description": "India Real Estate PE Investment Falls 31% in 2026 &nbsp;&nbsp; Passionate In Marketing",
-      "source": "Passionate In Marketing",
-      "publishedAt": "2026-10-28T07:37:41.000Z",
-      "city": "India",
-      "category": "Capital & lending",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "funds"
-    },
-    {
-      "id": "ed19d363",
-      "title": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt - Construction Week India",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0hZVm1NU2pJNDdnOW1WSzh2WFVPeXE5SzQtcVlNWGctUThDd3VvSEpZa0c5ZWtYZnAyeWN2UVJRc0JteVZLVTNlbXk5Z0twZFg0UDc0VFVBeldhcm1lTGxMcjYtYnRlZ3FGaktpRlFaSENNN1RyZjAyVEFRWG44cUZ3WThFU0duVDJzOVpOaHBsSjk4dzJJbTlBQ1hpUkxEMTQzYTZQX3h6ZFV1R1AwUVAyS1c?oc=5",
-      "description": "Platinum Corp. to develop 4 projects along Mumbai’s Coastal Road belt &nbsp;&nbsp; Construction Week India",
-      "source": "Construction Week India",
-      "publishedAt": "2026-10-28T06:28:39.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "52a61d08",
-      "title": "Brookfield India REIT retains GRESB 5-Star rating for fifth year - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUZ3b29oRzRJRThhN1lPQWVZcDdzVG5pWG5KMUlIVDFMdTlYdnlsVjdENlZIMnhFdXdSSUlQUmxLcktweldFYUUwdTVVY1pPTGlmejlpazlUc0puUy1BVWlEMzdkMDB0OVN5MWZ6aWo2N1lIeHY0RER5ckZjNXdYdkFZS1RkOUhWZTl4WlV3Y3RjQkV1ektnNUNnbDNMQ0VZMEhNbHFRTUpBSDI3ZEtGUzk3SXFtWVlh?oc=5",
-      "description": "Brookfield India REIT retains GRESB 5-Star rating for fifth year &nbsp;&nbsp; scanx.trade",
-      "source": "scanx.trade",
-      "publishedAt": "2026-10-28T06:26:55.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [
-        "Brookfield India Real Estate Trust"
-      ],
-      "stream": "reit"
-    },
-    {
-      "id": "bdfd8a8d",
-      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNFdzdUJTSE1zWkNEMy15LWI1MEN2SU95XzZoZUV4SmljdGRLYVFPSTVUNTdEcnVXR3p2UndROXhzUUF4dzY4MVBzWFdSUmlYTmt0Q0lZWGRTSDVnZ2p6TlQ4SHlTeWhtRVZmdE8wX050aXNCaTFPVjFBdVE1b3N3SHlQYTlKUVIxZjFZNWpoR1ZUQkFqN0dzdXpnN2hkdXoxV0dfeHZnRHU0amlnUGlMMG56Q3hpczk3NEFqOE1tNlA2U29rWmpkX05wN2VnWWRYT0xKVkVfb25Qck8yU0FBWkh2X1R6cjhGdkhDR2FlUHI?oc=5",
-      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Big News Network.com",
-      "source": "Big News Network.com",
-      "publishedAt": "2026-10-28T05:33:00.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "c2576e5e",
-      "title": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZ0phc1JrNU5hd2k3b0xURDZ5T1BCeC0wZFk3OXg1dVpVdmhCYVdoNGxJN0VMRXdEOGFPcEU4TEVzTktMZVc4LW1LYTZQU1JtOHRWSl9rbERtQUhON25RMjJZOU90MS1Mb3ZhcW9LeUF5NDV4THZrSUNaREdXS2RCRmhBcm1UN3JoeXFoQTdJXzlKWFY4N0c0UkZ5RlV5Vm1hN2xFZFlhQktSN0w4TkZzYlplU0RxbEVXc0kyMVMxaTByTlU1YjltWUtVeERHYkItWWNwbFlTRG9rbnhnVXlhR0VYSDFsWVlJUUFKQkNXcElKNG9fM2tpckpvNm5TUUpH0gGAAkFVX3lxTE9nSmFzUms1TmF3aTdvTFRENnlPUEJ4LTBkWTc5eDV1WlV2aEJhV2g0bEk3RUxFd0Q4YU9wRThMRXNOS0xlVzgtbUthNlBTUm04dFZKX2tsRG1BSE43blEyMlk5T3QxLUxvdmFxb0t5QXk0NXhMdmtJQ1pER1dLZEJGaEFybVQ3cmh5cWhBN0lfOUpYVjg3RzRSRnlGVXlWbWE3bEVkWWFCS1I3TDhORnNiWmVTRHFsRVdzSTIxUzFpMHJOVTViOW1ZS1V4REdiQi1ZY3BsWVNEb2tueGdVeWFHRVhIMWxZWUlRQUpCQ1dwSUo0b18za2lySm82blNRSkc?oc=5",
-      "description": "G Square Housing Announces the Plotted Development in Narpoli, Panvel, Mumbai 3.0, Marking Its Entry into Maharashtra &nbsp;&nbsp; Devdiscourse",
-      "source": "Devdiscourse",
-      "publishedAt": "2026-10-28T05:10:54.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "fc8af401",
-      "title": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion - Prop News Time",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXhqSWtncW9jVHRfenFFMS1DRDJia0pvTFpRb1pOU3VoOUhBdVplQXBWb19XSExMMFNubVU4RXc3U0lLeUpBb0JGQjBQVnRDTDFTVG5mYXZVYUloTWREUWtIRFhHVmJfQ1M3NUEzbzFjRWQxMkQybHlBVUNDMTFKNVZQYTJLQy1HblJwOG1sbWxldEhqUmNMLUprNmhGRDhyVHNhLXRLeEVSUXNxblprVHhYeWNNT1ZzbkJPR3d6czJnbncwUXc?oc=5",
-      "description": "Jupiter Life Line Hospitals agrees to buy land in Pune for INR 1.50 billion &nbsp;&nbsp; Prop News Time",
-      "source": "Prop News Time",
-      "publishedAt": "2026-10-28T03:57:12.000Z",
-      "city": "Pune",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
-    },
-    {
-      "id": "8ade1b1",
-      "title": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India - www.uniindia.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNW9WREhoVVltbGR4TU1uT1FGQktJVnk3aG01RGxMVHg4LW5vQmJYaFBmTlJkQko0VXk1MFZrTS1jVmtzR0tzaGRFaXJvMHU5RDIxckNtWHNqVElNWDlrVnZ4TDA2V2lJNW5TYld5TlEtd3JtX3d2X3ctbzlrVnBNZ2EwU0p0MzdPd20waURGTzJMOTNwMDY3VV83Q0dXRWN1VmI5TzlaUS1RU3AzQUpLZHh5UHg4V2RSampCVkhNSW5qZ0lEN25LNVhNdnVBZmJIcTh5ZDAtWW5CTV9VQWZ4a2l2b2xRNGFqeVdPTXdwZ0M?oc=5",
-      "description": "Embassy REIT Declares Highest-Ever Quarterly Di… | UNI India &nbsp;&nbsp; www.uniindia.com",
-      "source": "www.uniindia.com",
-      "publishedAt": "2026-10-28T01:44:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "cdb6aa4a",
-      "title": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUFBTzJIVG5CVUtSRjhueFdGTG5XYVBIUW9ZZ05CR1hoTDBIUFJmS1NTU3VSVzdGRWdjRS00MFRaa2JOZzhsVDJmQ21MaW84eG5kOHdnUUlNZUZGeDNWN043LWY0RnNOaUI4ZFZMWjZoaHFfZWMxMTkwaVNfdllyYWtjc1JLa2dpc2tnR1dHLWtaWmp1dEZkVkdKME9qdGlnTXYxeVZSTERFeExzSnF1QkVZdHpHXzJYbnc?oc=5",
-      "description": "CapitaLand India Trust Q3 net property income down 8% on rupee weakness &nbsp;&nbsp; The Business Times",
-      "source": "The Business Times",
-      "publishedAt": "2026-10-28T00:19:00.000Z",
-      "city": "India",
-      "category": "Market & policy",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "reit"
-    },
-    {
-      "id": "6fe9743d",
-      "title": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNNIBkwJBVV95cUxNUG5JaHQ0dFBIWDFVYzQwZmM4T2dVNk5qM0V0VHczWm1oY2lkUzEzYVRNSFFjbzhQSHB2WS1FZHYzQzNyRVlZWFVQX1luNFFlMmpOOURLdjRaYW1uZmk0eHJCTHM2bXVScG8yRFZINS0zeVo0WkNqZ1VxdmEyMHVJcGRHU2dXelNOcnpGRDM4WEtJTG9iaEYwcGZqbU81Y25DeUZBcE9GZF9IUTBvemJRbGRwWWwydlRTcWJGWThKWjNqUUhoZ1RwbXEzVE8zcXNSVFdmQjFzZkEyMkphazJ5RUtxcXNsQjR2NzRrS0ktS0xrNUI2WGYzNTdOQ2o2OEppVlNOcmlVOWV6Nm5pOGVNSWZDNA?oc=5",
-      "description": "Platinum Corp plans ₹260 crore investment for four residential projects in Mumbai, having ₹1,350 crore revenue potential | Real Estate News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-10-27T14:55:01.000Z",
-      "city": "Mumbai",
-      "category": "Projects & launches",
-      "tone": "positive",
-      "priority": "normal",
-      "entities": [],
-      "stream": "projects"
-    },
-    {
-      "id": "c27d9d93",
-      "title": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzZidDBCZ19Ndy02UzJ4d0VMazVCeEt0Wm9QMFdMN2ZTZmJwWmY5Y2l3THdveHNic04yZmkxX1Z6bWdjZUhGVldVWDVXUkdGaU41QVFIR3BybUxGX0FIcUxCUUFicjZjaXpnTlZtRVlWT2hULTBobFQtTGlNTUZWZGpmXzRXUVZnNUJPb2dVV0xGMjFpaGJmTFZaNzNWdGVELU5lVm9xOTBLX2Z5WFpiVHlmRlgyV2d2SHJYZ2pQMW1kX29HSjBpdGRpazBlQmtDTHprM2NNa1l2bFlsQl95enZJZ0dJNmNSTlZJeUlR0gHzAUFVX3lxTE52S3A3T1lvcW1fU25VQ2N6eHJCTVMyTEZzeHdld01IMXA3akYxaUNSeFJ2S1RzeFdxSDRwQXpmOUNtLXVvcWxzZ21tcnlmRWFlNnJJc3lBcExnamJ4MnlmX0pyS041ZWE0em1yVzF5dUhVVjBvUWstS3FJN3ZoQW1CcTNDQzAwazNtbENYTVlmY0FuYUVrbHdQYjB3bnduU08tbWcyVktnTjgzTnlnaG9iVG5URXJqWDE2ZldCcHJESzJmWDNsZW1KQWc3cTJGV0V6YU9MSVZSWGhTUnU1SE8zZU9UWFRRS21OVmM0RzkyU1J6VQ?oc=5",
-      "description": "Mumbai 3.0: G Square Housing enters Maharashtra with 125-acre Panvel project amid realty boom &nbsp;&nbsp; Business Today",
-      "source": "Business Today",
-      "publishedAt": "2026-10-27T12:44:57.000Z",
-      "city": "Mumbai",
-      "category": "Land & acquisitions",
-      "tone": "neutral",
-      "priority": "normal",
-      "entities": [],
-      "stream": "land"
     }
   ]
 }
